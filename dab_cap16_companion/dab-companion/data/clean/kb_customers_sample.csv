@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,gender,birth_year,age,province,town,phone,signup_date,signup_channel,loyalty_tier,total_orders,total_spend_zmw,avg_basket_zmw,preferred_payment,satisfaction_rating,nps_score,has_app,last_review_text
+CU03544,Taonga,Chanda,F,1988,37,North-Western,Mwinilunga,+260961265893,2023-02-02,App,None,9,8993.59,999.29,Airtel Money,2,4,True,
+CU02283,Mulenga,Lungu,M,1994,31,Eastern,Petauke,+260979877486,2023-03-21,App,Gold,39,53046.56,1360.17,Airtel Money,3,7,True,"Paying with Airtel Money was smooth. Came earlier than expected, well done."
+CU04594,Mutinta,Bwalya,M,1983,42,Copperbelt,Ndola,+260773713857,2022-12-19,WhatsApp,Silver,16,13489.61,843.1,Airtel Money,5,10,True,Cheaper than Kamwala and no transport costs. Easy checkout on the app.
+CU00126,Mulenga,Hamoonga,M,1993,32,Lusaka,Lusaka,+260961369851,2023-06-01,WhatsApp,Silver,16,15489.76,968.11,MTN MoMo,2,3,True,"Price went up since last month. Original product, very happy."
+CU02420,Mapalo,Mweemba,F,1993,32,Lusaka,Kafue,+260772695344,2025-03-13,App,Silver,10,9240.84,924.08,Airtel Money,5,9,True,Paying with Airtel Money was smooth. Good value for money.
+CU02507,Emmanuel,Shawa,M,1987,38,Southern,Livingstone,+260969534728,2024-10-08,Web,Silver,16,13003.78,812.74,Airtel Money,4,5,True,"Original product, very happy. Customer care on WhatsApp answered quickly."
+CU03818,Allan,Tembo,M,1980,45,Northern,Kasama,+260961470754,2025-10-05,App,Silver,6,6858.22,1143.04,Card,3,2,True,Packaging was damaged and the item scratched. The discount made it worth it.
+CU02631,Brian,Hamoonga,M,2001,24,Eastern,Chipata,+260961527695,2022-05-08,Web,None,4,3707.08,926.77,Card,4,8,True,"Delivered to Katete on time, no stress. Original product, very happy."
+CU02299,Kalaba,Mwansa,M,1996,29,Copperbelt,Kitwe,+260961876471,2021-11-15,App,Gold,22,39007.18,1773.05,Airtel Money,5,10,True,Price went up since last month. Nobody at the pickup point knew about my order.
+CU03262,Kondwani,Tembo,M,1995,30,Central,Kapiri Mposhi,+260779700422,2025-04-17,App,Silver,3,4469.27,1489.76,MTN MoMo,3,3,True,
+CU01922,Chikondi,Mwansa,M,1976,49,Central,Kabwe,+260963790421,2022-10-25,App,Silver,17,13711.7,806.57,Airtel Money,4,8,True,"Cheaper than Kamwala and no transport costs. Delivery was fast, arrived the next day."
+CU03988,Mutinta,Kunda,M,1975,50,Lusaka,Lusaka,+260775257178,2024-01-07,Web,None,1,104.88,104.88,MTN MoMo,4,7,False,
+CU00537,Patrick,Mutale,M,1994,31,Copperbelt,Kitwe,+260975861211,2021-09-14,WhatsApp,Gold,38,38902.41,1023.75,MTN MoMo,4,5,True,"The menswear broke after a few days. The driver called before arriving, very professional."
+CU02669,Davies,Nkhoma,M,1991,34,Lusaka,Lusaka,+260976632062,2024-05-21,Web,Gold,25,25042.68,1001.71,Cash on Delivery,4,8,True,Had to explain my problem three times. Easy checkout on the app.
+CU04233,Lazarus,Mwale,M,1983,42,Copperbelt,Kitwe,+260976023351,2024-03-05,Web,Gold,26,30620.68,1177.72,MTN MoMo,3,3,True,The hair care is strong and well made. Good value for money.
+CU01135,Kasuba,Lubinda,F,1988,37,Eastern,Chipata,+260972337836,2023-01-24,WhatsApp,None,10,13611.22,1361.12,Airtel Money,4,6,True,"Delivery was fast, arrived the next day. They kept me updated throughout."
+CU03572,Taonga,Chisenga,F,1997,28,Lusaka,Kafue,+260777494110,2023-10-31,WhatsApp,Gold,22,20676.24,939.83,Card,4,9,True,
+CU04569,Mwape,Kangwa,M,1984,41,Luapula,Mansa,+260973835486,2024-08-11,Web,Bronze,2,1368.43,684.21,Airtel Money,3,3,False,
+CU04228,Esther,Simwanza,F,1996,29,Lusaka,Kafue,+260764329237,2024-05-17,Web,Bronze,10,8263.79,826.38,Airtel Money,4,6,True,Good value for money. Easy checkout on the app.
+CU03365,Loveness,Haamoonga,F,1985,40,Northern,Mporokoso,+260967796001,2022-08-14,App,None,6,3608.15,601.36,Cash on Delivery,4,7,True,
+CU03469,Chola,Chisenga,M,1981,44,Copperbelt,Kitwe,+260975239007,2024-01-05,Web,Bronze,12,18191.85,1515.99,Airtel Money,3,7,True,Paying with MTN MoMo was smooth. Good value for money. Zikomo!
+CU01036,Kangwa,Haamoonga,M,1998,27,North-Western,Solwezi,+260765649252,2025-05-14,App,Bronze,1,773.36,773.36,MTN MoMo,3,5,True,
+CU04696,Beatrice,Chanda,F,1997,28,Southern,Livingstone,+260772318136,2024-10-29,WhatsApp,Silver,2,3073.61,1536.8,Card,3,6,False,Not the same as the picture. Paying with MTN MoMo was smooth.
+CU04405,Mercy,Zulu,F,1994,31,Lusaka,Lusaka,+260972913598,2021-10-12,App,Bronze,16,12871.86,804.49,Card,4,6,True,"Cheaper than Kamwala and no transport costs. Original product, very happy."
+CU00398,Chikondi,Mutale,M,1999,26,Lusaka,Lusaka,+260769960687,2023-12-14,Web,Silver,27,24987.98,925.48,Airtel Money,4,5,True,Friendly staff at the pickup point. Mobile money payment went through instantly.
+CU04609,Martin,Moonga,M,1996,29,Copperbelt,Chingola,+260973870571,2023-09-11,App,Silver,9,9961.2,1106.8,Cash on Delivery,4,8,True,They kept me updated throughout. Good value for money.
+CU04716,Mutale,Mulenga,F,1989,36,North-Western,Kasempa,+260977910092,2023-07-23,Web,None,7,4476.25,639.46,Airtel Money,3,4,True,Friendly staff at the pickup point. Good value for money.
+CU00084,Brian,Mulenga,M,1992,33,Lusaka,Chongwe,+260971087343,2023-10-11,App,Silver,18,11780.83,654.49,Airtel Money,4,8,True,Good value for money. Mobile money payment went through instantly.
+CU00030,Namakau,Mwansa,F,1995,30,Muchinga,Chinsali,+260966822531,2025-04-10,App,Silver,4,4427.1,1106.78,Cash on Delivery,5,10,True,MTN MoMo payment failed twice before it worked. Good value for money.
+CU04477,Mwape,Mwansa,M,1973,52,North-Western,Kasempa,+260978673852,2023-04-12,App,None,6,3593.77,598.96,Cash on Delivery,2,5,True,
+CU03497,Daniel,Hamoonga,M,1982,43,Copperbelt,Kitwe,+260964499351,2023-05-17,Web,None,11,6101.8,554.71,Airtel Money,5,9,False,"Easy checkout on the app. Delivery was fast, arrived the next day."
+CU04731,Mulenga,Chama,M,1984,41,Copperbelt,Ndola,+260967396347,2024-09-12,Web,Silver,7,8799.86,1257.12,Airtel Money,3,4,True,
+CU03615,Chilufya,Lubinda,F,1996,29,Lusaka,Lusaka,+260976818788,2025-09-28,Web,Silver,3,3171.46,1057.15,Airtel Money,4,4,False,
+CU02419,Allan,Hachinga,M,1991,34,Lusaka,Kafue,+260763856861,2024-09-26,Web,Gold,19,18001.69,947.46,MTN MoMo,4,8,True,Friendly staff at the pickup point. Good value for money.
+CU01343,Mwansa,Bwalya,M,1990,35,Southern,Livingstone,+260964163386,2025-04-26,Web,Gold,8,10393.95,1299.24,MTN MoMo,4,7,True,"Paying with MTN MoMo was smooth. The driver called before arriving, very professional."
+CU00249,Nchimunya,Chama,F,1995,30,North-Western,Solwezi,+260962567197,2023-02-24,Web,Gold,37,53816.56,1454.5,Airtel Money,4,7,True,"Waited almost a week, no updates. Nobody at the pickup point knew about my order."
+CU00865,Felix,Mwila,M,1973,52,Copperbelt,Kitwe,+260777036185,2022-05-01,App,None,4,5133.63,1283.41,Airtel Money,3,4,True,Delivery fee is too high for Copperbelt. Easy checkout on the app.
+CU04972,Gift,Hachinga,M,1981,44,Lusaka,Chongwe,+260769004985,2024-05-09,Web,None,3,3140.17,1046.72,Airtel Money,5,9,True,"Delivered to Chongwe on time, no stress. They kept me updated throughout."
+CU00024,Chanda,Mweemba,F,1991,34,Southern,Livingstone,+260965942496,2022-05-04,Web,Gold,29,29921.28,1031.77,Cash on Delivery,5,8,True,"Paying with Zamtel Kwacha was smooth. Came earlier than expected, well done."
+CU03521,Kondwani,Kasonde,M,1996,29,Copperbelt,Kitwe,+260966991876,2024-12-15,App,Silver,3,3432.94,1144.31,Cash on Delivery,3,4,True,
+CU02957,Luyando,Siwale,F,1993,32,Copperbelt,Ndola,+260974315169,2024-09-03,WhatsApp,Silver,5,3647.15,729.43,Card,4,8,False,"MTN MoMo payment failed twice before it worked. Original product, very happy."
+CU02746,Precious,Shawa,F,1981,44,Western,Mongu,+260959997954,2024-05-01,App,None,2,1302.98,651.49,MTN MoMo,3,4,True,
+CU02906,Natasha,Kalunga,F,1981,44,Copperbelt,Kitwe,+260975676348,2023-05-31,WhatsApp,Bronze,5,3381.37,676.27,Airtel Money,5,9,True,"The discount made it worth it. Good quality, exactly as pictured."
+CU00359,Mwape,Sichone,M,1976,49,Copperbelt,Kitwe,+260969078844,2024-09-13,WhatsApp,None,1,307.38,307.38,Card,5,8,False,"The driver called before arriving, very professional. Paying with Zamtel Kwacha was smooth."
+CU01321,Grace,Lubinda,F,1994,31,Copperbelt,Kitwe,+260976098103,2025-06-16,WhatsApp,Bronze,2,821.79,410.9,Airtel Money,3,3,False,
+CU01553,Inonge,Mweemba,F,1985,40,Lusaka,Chongwe,+260969856538,2022-11-01,Web,Gold,44,41220.3,936.82,MTN MoMo,4,6,True,"Waited almost a week, no updates. Too expensive for what you get."
+CU02854,Mirriam,Kapembwa,F,1989,36,Copperbelt,Ndola,+260969322933,2023-04-18,WhatsApp,Gold,22,18752.02,852.36,Airtel Money,5,10,True,
+CU00734,Maureen,Simwanza,F,1991,34,Lusaka,Lusaka,+260963761797,2024-12-26,App,Gold,6,10470.23,1745.04,Airtel Money,4,8,True,
+CU01242,Tiyamike,Mweemba,F,1982,43,Lusaka,Kafue,+260974672662,2025-08-12,WhatsApp,Bronze,2,2924.05,1462.02,Airtel Money,3,6,False,"Waited almost a week, no updates. Customer care on WhatsApp answered quickly."
+CU00366,Natasha,Kangwa,F,1987,38,Lusaka,Lusaka,+260969305703,2022-11-15,Web,Bronze,17,13065.94,768.58,Airtel Money,3,7,True,"Delivered to Chongwe on time, no stress. Good quality, exactly as pictured."
+CU03590,Faith,Lungu,F,1989,36,Lusaka,Lusaka,+260976413118,2023-10-07,App,None,9,9891.16,1099.02,Card,4,7,True,"Cheaper than Kamwala and no transport costs. Original product, very happy."
+CU00966,Inonge,Sichone,F,1975,50,Copperbelt,Kitwe,+260971663161,2023-10-06,App,Gold,26,33111.79,1273.53,Airtel Money,4,6,True,Customer care on WhatsApp answered quickly. Paying with Airtel Money was smooth.
+CU04553,Thandiwe,Mwansa,F,1986,39,Copperbelt,Kitwe,+260972621840,2022-10-22,App,Silver,7,6837.3,976.76,Airtel Money,3,4,True,"Good value for money. Good quality, exactly as pictured."
+CU00319,Kabwe,Mbewe,M,1994,31,Luapula,Mansa,+260767199603,2025-05-03,WhatsApp,Bronze,4,1833.01,458.25,MTN MoMo,2,2,True,
+CU00704,Brian,Mubita,M,1995,30,Copperbelt,Kitwe,+260952171145,2023-03-10,Web,Gold,21,30056.29,1431.25,Airtel Money,4,6,True,"The driver called before arriving, very professional. The driver called before arriving, very professional."
+CU04622,Nchimunya,Lungu,F,1999,26,North-Western,Kasempa,+260765372686,2025-08-25,App,Bronze,1,2139.78,2139.78,MTN MoMo,3,4,True,
+CU00782,Kangwa,Shawa,M,1990,35,Lusaka,Lusaka,+260955740201,2024-05-25,Web,Gold,22,27768.32,1262.2,MTN MoMo,3,5,True,Quality is better than what I find in town. Mobile money payment went through instantly. Zikomo!
+CU03345,Daniel,Hamoonga,M,1990,35,Western,Mongu,+260977854737,2022-08-11,App,None,32,33848.32,1057.76,Airtel Money,4,7,True,"The driver called before arriving, very professional. Quality is better than what I find in town."
+CU03805,Hamweemba,Mwila,M,1992,33,Southern,Livingstone,+260775459675,2024-11-04,Web,Silver,6,4374.22,729.04,Cash on Delivery,4,7,False,
+CU00654,Mercy,Sichone,F,1998,27,Copperbelt,Kitwe,+260979638044,2023-08-22,Web,None,1,1778.6,1778.6,Cash on Delivery,4,7,False,
+CU01122,Emmanuel,Bwalya,M,1985,40,Northern,Mbala,+260974380849,2023-05-06,Web,None,1,4613.68,4613.68,Cash on Delivery,4,8,False,Cheaper than Kamwala and no transport costs. Customer care on WhatsApp answered quickly. Zikomo!
+CU04337,Mulenga,Zulu,M,1975,50,Copperbelt,Kitwe,+260963566031,2024-06-20,App,Bronze,4,1964.31,491.08,Airtel Money,5,10,True,Friendly staff at the pickup point. The discount made it worth it.
+CU03517,Daniel,Kabwe,M,1987,38,Copperbelt,Kitwe,+260951361566,2025-10-20,App,Bronze,4,2479.96,619.99,Card,3,6,True,"Delivery fee is too high for Copperbelt. Delivered to Kitwe on time, no stress."
+CU02541,Mirriam,Kalunga,F,1998,27,Lusaka,Lusaka,+260767483508,2024-12-06,WhatsApp,Gold,16,16264.64,1016.54,MTN MoMo,5,7,True,Quality is better than what I find in town. Paying with MTN MoMo was smooth.
+CU00148,Chileshe,Siwale,F,1998,27,Lusaka,Kafue,+260961031690,2022-08-05,App,None,14,13917.34,994.1,Card,5,8,True,
+CU01322,Prudence,Chama,F,1997,28,Southern,Livingstone,+260772978519,2024-08-31,WhatsApp,Silver,6,10987.23,1831.2,Airtel Money,5,6,False,Quality is better than what I find in town. The discount made it worth it.
+CU04966,Gift,Mwale,M,2001,24,Copperbelt,Kitwe,+260972819819,2025-09-20,WhatsApp,Gold,7,12026.04,1718.01,Airtel Money,4,6,False,They kept me updated throughout. Quality is better than what I find in town.
+CU01034,Chola,Mubita,M,1993,32,Central,Kabwe,+260778724942,2023-07-13,Web,Bronze,10,10360.82,1036.08,Cash on Delivery,4,4,False,Quality is better than what I find in town. Paying with Airtel Money was smooth.
+CU02160,Beatrice,Lubinda,F,1992,33,Lusaka,Lusaka,+260774409430,2023-09-07,App,Silver,14,13942.01,995.86,Airtel Money,3,4,True,The discount made it worth it. Easy checkout on the app.
+CU04613,Natasha,Simukonda,F,1993,32,Western,Senanga,+260973091188,2025-03-30,App,Gold,7,12835.65,1833.66,Card,4,7,True,Quality is better than what I find in town. Easy checkout on the app.
+CU01524,Moses,Chisenga,M,2000,25,Copperbelt,Chingola,+260776698223,2024-10-01,WhatsApp,Gold,17,19723.16,1160.19,Card,5,10,True,Customer care on WhatsApp answered quickly. Easy checkout on the app.
+CU01049,Mwape,Simwanza,M,1984,41,Eastern,Petauke,+260976509452,2025-09-14,WhatsApp,Gold,10,11150.7,1115.07,MTN MoMo,5,10,True,Paying with Airtel Money was smooth. Customer care on WhatsApp answered quickly.
+CU04537,Kangwa,Mbao,M,1988,37,Central,Kabwe,+260768286507,2022-11-25,Web,Gold,45,35056.28,779.03,Airtel Money,3,7,True,Fair price compared to the shops. They kept me updated throughout.
+CU02146,Mwangala,Shawa,F,2001,24,Copperbelt,Ndola,+260779507935,2025-11-29,App,Silver,4,9704.29,2426.07,Card,4,9,True,
+CU01768,Mercy,Mbao,F,1978,47,Northern,Kasama,+260771812737,2022-06-23,App,Silver,79,87546.82,1108.19,Airtel Money,4,5,True,"Late delivery, I had to call them twice. Nobody at the pickup point knew about my order."
+CU04579,Nchimunya,Shawa,F,1990,35,Lusaka,Lusaka,+260765206809,2023-04-24,Web,None,3,1128.32,376.11,Airtel Money,4,8,False,Easy checkout on the app. The cooking oil is strong and well made.
+CU04352,Mutinta,Lubinda,M,1987,38,Lusaka,Lusaka,+260972357055,2022-12-11,Web,Silver,23,20489.04,890.83,Airtel Money,5,10,True,Price went up since last month. Nobody at the pickup point knew about my order.
+CU04795,Brian,Haamoonga,M,1982,43,Eastern,Chipata,+260776257279,2021-09-22,App,None,7,6463.09,923.3,Airtel Money,4,8,True,
+CU00099,Maureen,Zulu,F,1985,40,North-Western,Mwinilunga,+260973944022,2024-10-19,App,Silver,8,9593.86,1199.23,Card,2,4,True,"Late delivery, I had to call them twice. The discount made it worth it."
+CU02073,Hamweemba,Chileshe,M,1993,32,Southern,Livingstone,+260774151018,2021-12-12,WhatsApp,None,6,4467.05,744.51,Airtel Money,3,7,True,"Delivered to Livingstone on time, no stress. Paying with MTN MoMo was smooth."
+CU00986,Mwansa,Kangwa,M,1987,38,Lusaka,Lusaka,+260963851489,2021-10-01,App,Gold,34,39353.44,1157.45,Airtel Money,4,8,True,Cheaper than Kamwala and no transport costs. They kept me updated throughout.
+CU01777,Prudence,Moonga,F,1999,26,North-Western,Solwezi,+260962955459,2025-06-11,Web,Gold,14,13415.89,958.28,Airtel Money,4,7,False,"Delivery was fast, arrived the next day. Friendly staff at the pickup point."
+CU04780,Grace,Kasonde,F,1994,31,Lusaka,Lusaka,+260775391775,2024-04-08,WhatsApp,Silver,8,9348.78,1168.6,Airtel Money,3,4,True,MTN MoMo payment failed twice before it worked. Fair price compared to the shops.
+CU03707,Mwenya,Kalunga,M,1989,36,Central,Kapiri Mposhi,+260961994877,2025-02-17,Web,Silver,8,3859.62,482.45,Cash on Delivery,4,8,False,
+CU02621,Chanda,Sichone,F,1987,38,Copperbelt,Kitwe,+260968613161,2023-01-20,Web,None,2,1930.49,965.24,Card,2,3,False,
+CU03339,Lombe,Simukonda,M,1969,56,North-Western,Mwinilunga,+260974928556,2023-05-31,WhatsApp,Silver,16,11658.79,728.67,Card,5,8,True,"Came earlier than expected, well done. They kept me updated throughout."
+CU00002,Bwalya,Phiri,F,2003,22,Southern,Livingstone,+260978865765,2023-12-16,WhatsApp,Silver,18,14958.44,831.02,MTN MoMo,4,7,True,"Friendly staff at the pickup point. Delivered to Choma on time, no stress."
+CU00473,Lombe,Lungu,M,1999,26,Central,Kabwe,+260777363425,2024-01-27,App,None,4,2144.97,536.24,MTN MoMo,5,9,True,
+CU02427,Mwangala,Lungu,F,1978,47,Lusaka,Lusaka,+260962083584,2025-07-16,Web,Silver,7,9782.36,1397.48,MTN MoMo,3,3,True,Delivery fee is too high for Lusaka. Easy checkout on the app.
+CU03390,Daniel,Nyirenda,M,1988,37,Lusaka,Lusaka,+260975343810,2024-05-16,App,Bronze,10,6699.85,669.98,Card,3,7,True,"Paying with Airtel Money was smooth. Original product, very happy."
+CU03358,Mapalo,Moonga,F,1983,42,Copperbelt,Kitwe,+260979188271,2025-11-13,WhatsApp,Bronze,1,2791.11,2791.11,Card,4,7,False,
+CU00633,Kalaba,Ng'andu,M,1996,29,North-Western,Kasempa,+260774131580,2025-03-30,WhatsApp,Bronze,4,1834.09,458.52,Airtel Money,3,4,False,"Customer care on WhatsApp answered quickly. Original product, very happy."
+CU03297,Taonga,Mubita,F,1980,45,Lusaka,Lusaka,+260777976014,2025-11-24,Web,Silver,3,7762.93,2587.64,Card,3,6,False,
+CU02425,Natasha,Kunda,F,1996,29,Copperbelt,Kitwe,+260971616673,2023-10-02,App,Bronze,4,2793.05,698.26,Zamtel Kwacha,5,9,True,The discount made it worth it. They kept me updated throughout.
+CU03816,Mwape,Shawa,M,1982,43,Copperbelt,Kitwe,+260961526333,2024-11-11,WhatsApp,None,4,1915.26,478.82,Airtel Money,5,10,False,
+CU03506,Emmanuel,Sakala,M,1983,42,Lusaka,Lusaka,+260778522682,2023-06-25,App,None,6,4098.83,683.14,Airtel Money,4,9,True,"The driver called before arriving, very professional. Paying with MTN MoMo was smooth."
+CU03509,Emmanuel,Mubita,M,1994,31,Eastern,Petauke,+260764203249,2023-12-15,Web,None,13,10819.15,832.24,Cash on Delivery,4,8,True,Too expensive for what you get. Easy checkout on the app.
+CU00991,Tiyamike,Bwalya,F,1990,35,Southern,Livingstone,+260968501444,2023-05-17,WhatsApp,None,4,3664.95,916.24,Airtel Money,3,6,False,
+CU01098,Natasha,Bwalya,F,1987,38,Central,Kabwe,+260976808314,2022-09-03,App,Gold,88,84310.05,958.07,Airtel Money,4,7,True,Fair price compared to the shops. Paying with MTN MoMo was smooth.
+CU01775,Nchimunya,Hachinga,F,1995,30,Eastern,Petauke,+260971326899,2024-10-28,WhatsApp,Silver,3,6293.37,2097.79,MTN MoMo,1,3,False,
+CU03136,Mutale,Mulenga,F,1984,41,Lusaka,Kafue,+260974681547,2025-01-03,Web,Gold,16,28212.96,1763.31,MTN MoMo,5,10,False,Easy checkout on the app. Fair price compared to the shops.
+CU01976,Towela,Phiri,F,1984,41,Southern,Livingstone,+260774209512,2023-07-09,WhatsApp,Silver,21,20159.5,959.98,MTN MoMo,3,5,True,The bedding broke after a few days. Quality is better than what I find in town. Natotela!
+CU03742,Mercy,Mwansa,F,2000,25,Lusaka,Lusaka,+260954713293,2025-08-30,WhatsApp,Bronze,3,1334.39,444.8,Airtel Money,5,10,False,
+CU01369,Bupe,Zulu,M,1986,39,Southern,Choma,+260958021778,2024-12-02,Web,Bronze,4,3112.96,778.24,Airtel Money,3,5,False,
+CU01177,Mwila,Mumba,F,1989,36,Lusaka,Lusaka,+260977119934,2025-05-01,Web,Bronze,3,2604.22,868.07,Airtel Money,4,8,False,
+CU00620,Ruth,Sichone,F,1997,28,Lusaka,Lusaka,+260963479158,2024-12-16,WhatsApp,Gold,8,14623.53,1827.94,Airtel Money,3,5,False,Price went up since last month. MTN MoMo payment failed twice before it worked.
+CU04562,Felix,Siwale,M,1994,31,North-Western,Solwezi,+260963978582,2022-10-08,Web,Bronze,30,27112.12,903.74,Airtel Money,4,7,True,The chitenge fabric is strong and well made. Cheaper than Kamwala and no transport costs. Keep it up KB.
+CU00241,Charity,Mbewe,F,1993,32,Southern,Choma,+260971341074,2023-02-09,App,None,4,2860.52,715.13,MTN MoMo,4,7,True,The discount made it worth it. Paying with Zamtel Kwacha was smooth.
+CU01185,Daniel,Lungu,M,1993,32,Copperbelt,Kitwe,+260973332157,2025-10-19,Web,Silver,4,7636.04,1909.01,MTN MoMo,4,7,False,Easy checkout on the app. Friendly staff at the pickup point.
+CU03880,Kangwa,Kunda,M,1989,36,Eastern,Chipata,+260772079311,2024-07-25,Web,Gold,8,12985.32,1623.16,Airtel Money,3,4,True,
+CU01905,Maureen,Mutale,F,1987,38,Lusaka,Lusaka,+260964234756,2025-04-03,App,Silver,9,7772.23,863.58,Airtel Money,1,0,True,
+CU03605,Mwila,Mubita,F,1996,29,Luapula,Mansa,+260966149963,2024-06-22,Web,Gold,24,35599.96,1483.33,Airtel Money,3,4,True,"Friendly staff at the pickup point. Delivered to Kawambwa on time, no stress."
+CU00821,Faith,Kapembwa,F,1993,32,Central,Kabwe,+260769967603,2025-07-05,Web,Gold,8,12603.01,1575.38,Airtel Money,5,6,True,Easy checkout on the app. Quality is better than what I find in town.
+CU02536,Isaac,Kaunda,M,1994,31,Lusaka,Kafue,+260974518334,2025-09-02,Web,Silver,3,5295.07,1765.02,Card,5,7,False,
+CU04391,Mwape,Mutale,M,1976,49,North-Western,Solwezi,+260976607916,2023-06-17,App,Bronze,9,10311.29,1145.7,Airtel Money,2,2,True,"Price went up since last month. Original product, very happy."
+CU00842,Stephen,Mubita,M,1961,64,Lusaka,Lusaka,+260773150709,2024-05-14,WhatsApp,Gold,35,25624.34,732.12,Airtel Money,4,8,True,Easy checkout on the app. Fair price compared to the shops.
+CU04571,Kelvin,Mulenga,M,1990,35,Western,Kaoma,+260965785041,2024-06-25,WhatsApp,Gold,32,32149.79,1004.68,MTN MoMo,3,4,True,"Waited almost a week, no updates. Fair price compared to the shops."
+CU04781,Gift,Chibwe,M,1987,38,Eastern,Katete,+260971435609,2022-04-27,App,None,5,4303.86,860.77,Airtel Money,5,10,True,The tableware is strong and well made. They kept me updated throughout.
+CU00679,Felix,Simukonda,M,1995,30,Copperbelt,Kitwe,+260961047655,2025-01-24,WhatsApp,Silver,6,5526.43,921.07,Card,5,10,True,Good value for money. They kept me updated throughout.
+CU01852,Mutale,Ng'andu,F,1988,37,Copperbelt,Kitwe,+260776105130,2024-03-19,App,Silver,17,20739.1,1219.95,Airtel Money,3,6,True,"The driver called before arriving, very professional. Mobile money payment went through instantly."
+CU01534,Peter,Lungu,M,1977,48,Copperbelt,Kitwe,+260974109186,2025-10-29,WhatsApp,Silver,2,3492.92,1746.46,Airtel Money,5,9,False,
+CU03010,Mulenga,Sakala,M,1994,31,North-Western,Kasempa,+260768302643,2024-11-16,Web,Silver,6,3614.63,602.44,Card,4,7,False,Delivery to Kasempa took too long. Easy checkout on the app.
+CU03327,Mubanga,Musonda,M,1975,50,Western,Mongu,+260775805469,2025-07-18,App,Silver,4,5181.24,1295.31,MTN MoMo,3,5,True,Delivery to Mongu took too long. Friendly staff at the pickup point.
+CU00878,Prudence,Moonga,F,1976,49,Southern,Livingstone,+260969095532,2022-02-15,App,Gold,20,31573.51,1578.68,MTN MoMo,4,6,True,Paying with MTN MoMo was smooth. Quality is better than what I find in town.
+CU03534,Allan,Mbao,M,1986,39,Western,Mongu,+260769559230,2023-03-25,App,None,9,4467.5,496.39,MTN MoMo,5,9,True,Friendly staff at the pickup point. Cheaper than Kamwala and no transport costs. Natotela!
+CU03786,Kalaba,Mubita,M,1992,33,Copperbelt,Kitwe,+260962909599,2023-10-29,App,Gold,37,35811.17,967.87,MTN MoMo,4,3,True,"Original product, very happy. Easy checkout on the app."
+CU01488,Esther,Hachinga,F,1993,32,Lusaka,Lusaka,+260975559892,2023-10-23,Web,Gold,44,31720.1,720.91,MTN MoMo,4,6,True,Fair price compared to the shops. Customer care on WhatsApp answered quickly.
+CU03987,Patricia,Simukonda,F,1999,26,Copperbelt,Kitwe,+260952716710,2025-06-05,Web,Gold,7,21146.15,3020.88,Airtel Money,2,4,False,
+CU01461,Mutale,Mubita,F,1987,38,North-Western,Solwezi,+260979496425,2023-09-20,Web,Gold,30,34428.07,1147.6,Airtel Money,1,0,True,The courier could not find my house. Paying with Zamtel Kwacha was smooth.
+CU00760,Brian,Haamoonga,M,1990,35,Northern,Mporokoso,+260974963630,2022-12-05,WhatsApp,None,10,13931.49,1393.15,Airtel Money,5,10,True,"The discount made it worth it. The driver called before arriving, very professional."
+CU00402,Sipho,Chanda,M,1997,28,Eastern,Chipata,+260973310900,2022-12-03,Web,Gold,22,29352.98,1334.23,Card,5,9,True,"The discount made it worth it. Good quality, exactly as pictured."
+CU02611,Lweendo,Bwalya,F,1994,31,Lusaka,Chongwe,+260771170937,2024-10-11,App,Silver,16,10657.07,666.07,Airtel Money,4,6,True,"The beverages is strong and well made. Delivered to Lusaka on time, no stress."
+CU03114,Prudence,Siame,F,1993,32,Eastern,Chipata,+260771265169,2024-12-12,App,Silver,7,7098.39,1014.06,MTN MoMo,5,9,True,"Easy checkout on the app. Delivered to Petauke on time, no stress."
+CU03944,Mapalo,Chama,F,1998,27,Central,Kapiri Mposhi,+260975713035,2025-03-13,App,Silver,8,8613.63,1076.7,Airtel Money,3,6,True,"Good value for money. Original product, very happy."
+CU02093,Davies,Lungu,M,1988,37,Central,Kabwe,+260969251184,2023-08-02,App,None,7,2998.94,428.42,Airtel Money,3,4,True,Good value for money. Customer care on WhatsApp answered quickly.
+CU00361,Lazarus,Lungu,M,1979,46,Lusaka,Lusaka,+260978946831,2023-07-06,App,None,5,2377.71,475.54,MTN MoMo,2,6,True,Customer care did not respond. Refund is taking too long.
+CU03094,Inonge,Daka,F,1985,40,Lusaka,Lusaka,+260979603745,2025-05-15,WhatsApp,Gold,12,14473.77,1206.15,Airtel Money,4,9,True,I was charged but the order showed unpaid. The discount made it worth it.
+CU03996,Davies,Phiri,M,1986,39,Lusaka,Lusaka,+260965043922,2025-01-29,Web,Gold,15,12074.03,804.94,Airtel Money,5,9,True,Cheaper than Kamwala and no transport costs. Customer care on WhatsApp answered quickly.
+CU00751,Patricia,Kabwe,F,1978,47,North-Western,Solwezi,+260978424142,2023-02-10,WhatsApp,Gold,44,48738.96,1107.7,Cash on Delivery,3,6,True,"The driver called before arriving, very professional. Customer care on WhatsApp answered quickly."
+CU04408,Bwalya,Lungu,F,1985,40,Eastern,Petauke,+260774807751,2022-09-03,WhatsApp,None,1,307.0,307.0,MTN MoMo,2,3,False,
+CU01819,Nchimunya,Chanda,F,1997,28,Southern,Choma,+260968577065,2024-07-29,Web,None,2,3937.66,1968.83,Card,5,10,False,
+CU01740,Ruth,Mulenga,F,1984,41,Copperbelt,Ndola,+260976903190,2025-10-07,WhatsApp,Gold,11,15172.77,1379.34,MTN MoMo,5,10,False,Customer care on WhatsApp answered quickly. The discount made it worth it.
+CU04999,Nchimunya,Ngoma,F,1998,27,Central,Kabwe,+260961861601,2023-04-08,WhatsApp,None,11,5195.16,472.29,MTN MoMo,4,7,False,Cheaper than Kamwala and no transport costs. They kept me updated throughout.
+CU02103,Stephen,Chanda,M,2000,25,Lusaka,Chongwe,+260767945278,2024-05-26,WhatsApp,Gold,16,14805.22,925.33,Airtel Money,4,9,False,"Late delivery, I had to call them twice. Paying with Zamtel Kwacha was smooth."
+CU02661,Thandiwe,Tembo,F,1983,42,Copperbelt,Ndola,+260977693759,2024-11-28,WhatsApp,Silver,8,3447.58,430.95,Cash on Delivery,2,3,False,
+CU03225,Febby,Mbao,F,2002,23,Eastern,Chipata,+260778695071,2025-07-17,WhatsApp,Gold,7,12501.74,1785.96,Airtel Money,4,8,False,The discount made it worth it. Friendly staff at the pickup point.
+CU00147,Natasha,Kapembwa,F,1995,30,Lusaka,Lusaka,+260773426577,2025-06-08,App,Silver,5,6740.36,1348.07,MTN MoMo,3,5,True,The courier could not find my house. Easy checkout on the app.
+CU00105,Mwansa,Kaunda,M,1997,28,Lusaka,Chongwe,+260779200416,2022-06-08,WhatsApp,None,15,7579.33,505.29,Airtel Money,3,6,False,Fair price compared to the shops. Paying with Zamtel Kwacha was smooth.
+CU03613,Taonga,Mulenga,F,1992,33,Lusaka,Chongwe,+260965169250,2023-10-10,App,Silver,13,9060.47,696.96,Cash on Delivery,4,8,True,Mobile money payment went through instantly. Cheaper than Kamwala and no transport costs.
+CU02491,Moses,Sakala,M,1997,28,Central,Kapiri Mposhi,+260974786553,2025-09-04,Web,Bronze,2,558.81,279.41,MTN MoMo,5,6,False,"Quality is better than what I find in town. The driver called before arriving, very professional. Keep it up KB."
+CU02961,Kangwa,Moonga,M,1999,26,Southern,Livingstone,+260972573406,2023-02-03,App,Silver,25,29573.18,1182.93,MTN MoMo,5,10,True,"Quality is better than what I find in town. Came earlier than expected, well done."
+CU00284,Prudence,Lungu,F,1995,30,Lusaka,Lusaka,+260778168290,2024-04-10,Web,Bronze,12,8384.45,698.7,Airtel Money,5,10,True,"Paying with MTN MoMo was smooth. Delivered to Chongwe on time, no stress."
+CU03187,Faith,Mweemba,F,1992,33,Central,Kabwe,+260766819316,2023-04-05,WhatsApp,Bronze,13,12791.03,983.93,Airtel Money,4,7,False,"Paying with Airtel Money was smooth. Original product, very happy."
+CU02378,Patricia,Mbao,F,1989,36,Northern,Kasama,+260968745500,2022-11-06,Web,None,19,17855.37,939.76,Airtel Money,4,5,True,
+CU02776,Kelvin,Mumba,M,1987,38,Central,Kabwe,+260972822993,2024-04-01,WhatsApp,Gold,46,48192.25,1047.66,Cash on Delivery,4,5,True,Cheaper than Kamwala and no transport costs. Friendly staff at the pickup point.
+CU01649,Agnes,Mweemba,F,1998,27,Northern,Kasama,+260961338426,2022-05-05,App,Silver,35,50620.94,1446.31,Airtel Money,2,1,True,"Had to explain my problem three times. Came earlier than expected, well done."
+CU04281,Agnes,Haamoonga,F,1980,45,Copperbelt,Kitwe,+260779802415,2024-01-22,Web,None,3,1434.43,478.14,Cash on Delivery,2,2,False,The courier could not find my house. Customer care did not respond. Natotela!
+CU04787,Chola,Shawa,M,1992,33,Muchinga,Chinsali,+260964766844,2022-03-19,Web,Silver,17,22851.03,1344.18,Cash on Delivery,3,6,True,The courier could not find my house. The discount made it worth it.
+CU02736,Victor,Bwalya,M,1994,31,Lusaka,Chongwe,+260969575074,2025-06-03,Web,Silver,6,9926.95,1654.49,Airtel Money,2,1,True,
+CU00477,Beatrice,Simukonda,F,1994,31,Southern,Mazabuka,+260975246312,2024-10-05,Web,Gold,14,13798.78,985.63,Airtel Money,2,2,True,"The courier could not find my house. Waited almost a week, no updates."
+CU03071,Charity,Kapembwa,F,1987,38,Lusaka,Chongwe,+260779780679,2023-09-09,App,Silver,24,30025.88,1251.08,MTN MoMo,5,8,True,Mobile money payment went through instantly. Friendly staff at the pickup point.
+CU01367,Joyce,Haamoonga,F,1990,35,Lusaka,Lusaka,+260974491418,2022-11-01,Web,None,4,1398.4,349.6,Card,5,8,False,
+CU03325,Musonda,Phiri,M,2002,23,Central,Kapiri Mposhi,+260778811584,2023-10-19,WhatsApp,None,2,1615.87,807.94,Airtel Money,5,10,False,Good value for money. Friendly staff at the pickup point. Zikomo!
+CU04518,Martin,Sakala,M,1988,37,Southern,Livingstone,+260952567184,2022-07-01,App,Gold,81,70034.22,864.62,Airtel Money,4,6,True,"Delivery was fast, arrived the next day. They kept me updated throughout."
+CU02718,Musonda,Shawa,M,1984,41,North-Western,Solwezi,+260966751696,2023-08-06,App,None,1,4928.9,4928.9,Airtel Money,2,2,True,
+CU04839,Chanda,Mwila,F,1989,36,Lusaka,Lusaka,+260973322542,2025-12-01,Web,Bronze,1,716.01,716.01,MTN MoMo,2,3,False,
+CU03703,Brian,Mweemba,M,1985,40,Eastern,Petauke,+260952504344,2024-03-21,Web,Silver,13,9331.82,717.83,MTN MoMo,3,6,True,"Mobile money payment went through instantly. Delivery was fast, arrived the next day."
+CU01993,Towela,Siame,F,1998,27,Southern,Livingstone,+260969053260,2022-07-16,WhatsApp,Silver,27,25950.23,961.12,Cash on Delivery,4,4,True,Refund is taking too long. The kapenta & fish broke after a few days.
+CU04810,Precious,Chanda,F,1992,33,Copperbelt,Kitwe,+260973160423,2024-06-18,Web,Gold,8,19542.47,2442.81,MTN MoMo,5,8,False,
+CU03271,Charity,Banda,F,1998,27,Lusaka,Lusaka,+260966702559,2025-07-16,Web,Bronze,1,360.77,360.77,Cash on Delivery,4,5,False,"The discount made it worth it. Original product, very happy."
+CU03237,Patricia,Mwila,F,1999,26,Copperbelt,Kitwe,+260977782699,2024-05-26,WhatsApp,Gold,16,25053.8,1565.86,Card,1,2,False,"Poor quality, would not buy again. Not the same as the picture. Natotela!"
+CU03507,Grace,Chileshe,F,1998,27,Copperbelt,Ndola,+260951118523,2024-12-05,WhatsApp,Gold,13,18895.31,1453.49,MTN MoMo,4,8,True,Packaging was damaged and the item scratched. Easy checkout on the app.
+CU02385,Musonda,Kunda,M,1986,39,Lusaka,Lusaka,+260962709062,2025-10-22,Web,Bronze,1,867.78,867.78,Cash on Delivery,5,8,False,
+CU01083,Joyce,Kabwe,F,1983,42,Western,Kaoma,+260761443949,2024-09-25,App,Gold,10,20312.65,2031.26,Cash on Delivery,3,4,True,"Delivery to Mongu took too long. Came earlier than expected, well done."
+CU01956,Charity,Lubinda,F,1979,46,Lusaka,Lusaka,+260773735448,2023-08-24,App,Silver,15,13969.17,931.28,Cash on Delivery,4,7,True,Price went up since last month. They kept me updated throughout.
+CU03099,Gift,Banda,M,2003,22,Central,Kabwe,+260962963123,2024-11-27,WhatsApp,Gold,13,14863.81,1143.37,Card,4,9,True,"Delivered to Kapiri Mposhi on time, no stress. Cheaper than Kamwala and no transport costs."
+CU01892,Chileshe,Chama,F,1966,59,Lusaka,Chongwe,+260974584481,2022-10-22,Web,Silver,24,30653.53,1277.23,Airtel Money,3,7,True,The courier could not find my house. Refund is taking too long.
+CU01495,Gift,Sichone,M,1982,43,Lusaka,Lusaka,+260971381044,2025-07-17,App,Silver,6,5366.65,894.44,Airtel Money,5,9,True,Quality is better than what I find in town. Customer care on WhatsApp answered quickly.
+CU04426,Kalaba,Daka,M,1984,41,Eastern,Chipata,+260973481882,2025-11-28,WhatsApp,Bronze,1,799.26,799.26,Airtel Money,3,5,False,
+CU03226,Charity,Banda,F,1989,36,Western,Mongu,+260978575333,2024-08-31,App,Gold,13,19276.04,1482.77,Airtel Money,4,8,True,Not the same as the picture. Easy checkout on the app.
+CU04717,Mercy,Musonda,F,1987,38,Central,Kabwe,+260971483994,2025-01-04,WhatsApp,Bronze,4,2304.29,576.07,MTN MoMo,4,6,False,
+CU01376,Beatrice,Mumba,F,1987,38,North-Western,Kasempa,+260773436180,2023-03-31,Web,Silver,23,26626.64,1157.68,Airtel Money,4,7,True,The discount made it worth it. Easy checkout on the app.
+CU03888,Brian,Ng'andu,M,1985,40,Lusaka,Lusaka,+260969552779,2023-10-07,WhatsApp,None,1,411.99,411.99,Card,4,7,False,
+CU00350,Elijah,Siame,M,1997,28,Lusaka,Lusaka,+260971444960,2025-04-07,WhatsApp,Gold,6,11248.21,1874.7,Airtel Money,3,6,False,I was charged but the order showed unpaid. The cooking oil is strong and well made.
+CU00695,Stephen,Musonda,M,2002,23,Southern,Livingstone,+260971390776,2023-06-19,Web,None,6,3637.55,606.26,Airtel Money,3,5,False,"Delivery was fast, arrived the next day. The discount made it worth it. Natotela!"
+CU03992,Kelvin,Mwale,M,1991,34,Lusaka,Lusaka,+260957523154,2025-11-22,WhatsApp,Bronze,1,987.25,987.25,Airtel Money,5,8,False,
+CU01359,Sipho,Tembo,M,1979,46,Lusaka,Lusaka,+260976480628,2024-02-28,Web,Gold,25,24842.45,993.7,Airtel Money,4,8,False,"Came earlier than expected, well done. Cheaper than Kamwala and no transport costs."
+CU01802,Mapalo,Musonda,F,1975,50,Copperbelt,Ndola,+260965965569,2022-09-13,App,None,3,1186.62,395.54,MTN MoMo,3,6,True,Easy checkout on the app. Customer care on WhatsApp answered quickly.
+CU02572,Mwangala,Mweemba,F,1985,40,Luapula,Samfya,+260773756534,2023-05-13,Web,None,4,1801.09,450.27,Airtel Money,4,7,False,"The driver called before arriving, very professional. Easy checkout on the app."
+CU04046,John,Simwanza,M,1995,30,Lusaka,Chongwe,+260967286892,2025-05-23,Web,Silver,6,8697.74,1449.62,Cash on Delivery,4,7,True,"Quality is better than what I find in town. Delivered to Kafue on time, no stress."
+CU02279,Namakau,Shawa,F,1991,34,Luapula,Mansa,+260973718817,2025-10-20,App,Bronze,3,2365.93,788.64,Airtel Money,5,8,True,
+CU02321,Chilufya,Nkhoma,F,1990,35,Lusaka,Lusaka,+260962323603,2023-07-17,App,None,2,1620.07,810.04,Airtel Money,5,9,True,"Delivery was fast, arrived the next day. Mobile money payment went through instantly."
+CU01955,Mutale,Mulenga,F,1994,31,Southern,Choma,+260775307230,2022-12-21,App,None,1,3590.86,3590.86,MTN MoMo,4,8,True,"Delivery was fast, arrived the next day. They kept me updated throughout."
+CU00635,Esther,Chileshe,F,1988,37,Lusaka,Lusaka,+260973593120,2024-12-05,WhatsApp,Silver,3,4098.5,1366.17,Airtel Money,2,4,False,
+CU01934,Kondwani,Lungu,M,1996,29,Southern,Choma,+260978754571,2024-01-03,WhatsApp,Silver,15,18372.12,1224.81,MTN MoMo,4,8,True,"Customer care did not respond. Delivered to Livingstone on time, no stress. Natotela!"
+CU00847,Loveness,Ngoma,F,1981,44,Luapula,Mansa,+260966866305,2023-10-16,Web,None,7,7406.75,1058.11,MTN MoMo,5,9,False,Mobile money payment went through instantly. Quality is better than what I find in town.
+CU02691,Mapalo,Ng'andu,F,1964,61,Copperbelt,Kitwe,+260956177959,2023-10-07,App,Bronze,12,11187.19,932.27,Cash on Delivery,5,10,True,"Delivered to Luanshya on time, no stress. Easy checkout on the app."
+CU01130,Mapalo,Kalunga,F,1986,39,Copperbelt,Mufulira,+260776967084,2024-04-14,Web,Gold,17,15691.83,923.05,Airtel Money,5,10,True,Paying with Zamtel Kwacha was smooth. They kept me updated throughout.
+CU01170,Lweendo,Kaunda,F,1999,26,Lusaka,Kafue,+260965435562,2022-01-22,Web,Gold,26,28467.72,1094.91,Airtel Money,3,3,True,Price went up since last month. Customer care on WhatsApp answered quickly.
+CU03115,Mulenga,Lubinda,M,1990,35,Copperbelt,Kitwe,+260771205087,2022-09-16,WhatsApp,Bronze,8,5013.67,626.71,Airtel Money,3,5,False,"Waited almost a week, no updates. Good quality, exactly as pictured."

@@ -1,0 +1,41 @@
+supplier_id,supplier_name,country,lead_time_days
+S001,Kabulonga Ltd,United Arab Emirates,40
+S002,Kariba Imports,South Africa,43
+S003,Zambezi Distributors,Zambia,9
+S004,Sunrise Wholesale,Zambia,6
+S005,Mulungushi Trading,South Africa,17
+S006,Tonga Imports,Zambia,3
+S007,Luangwa Supplies,Zambia,2
+S008,Mulungushi Distributors,Zambia,9
+S009,Baobab Wholesale,China,59
+S010,Bangweulu Wholesale,China,24
+S011,Kabulonga Ltd 2,United Arab Emirates,49
+S012,Chilenje Wholesale,Kenya,41
+S013,Msasa Distributors,Zambia,9
+S014,Tanganyika Trading,Tanzania,51
+S015,Mopane Wholesale,Zambia,2
+S016,Chisamba Imports,Zambia,7
+S017,Mutanda Trading,Zambia,2
+S018,Baobab Wholesale 2,Zambia,5
+S019,Luangwa Imports,Kenya,20
+S020,Nsefu Trading,China,32
+S021,Chisamba Ltd,South Africa,20
+S022,Kasanka Trading,Zambia,2
+S023,Mopane Ltd,China,29
+S024,Tanganyika Ltd,China,17
+S025,Mosi Ltd,Zambia,9
+S026,Sunrise Supplies,Zambia,5
+S027,Copperline Imports,Zambia,6
+S028,Kwacha Imports,Zambia,6
+S029,Mukuba Trading,Zambia,5
+S030,Lozi Wholesale,Tanzania,42
+S031,Baobab Wholesale 3,South Africa,57
+S032,Kabulonga Ltd 3,Zambia,9
+S033,Baobab Supplies,South Africa,15
+S034,Ngoma Imports,South Africa,44
+S035,Ngoma Imports 2,Zambia,3
+S036,Bangweulu Wholesale 2,Tanzania,29
+S037,Chisamba Wholesale,Zambia,4
+S038,Mosi Ltd 2,South Africa,44
+S039,Chisamba Distributors,Zambia,3
+S040,Lunsemfwa Trading,India,19
