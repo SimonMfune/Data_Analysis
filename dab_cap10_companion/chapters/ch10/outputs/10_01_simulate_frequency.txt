@@ -1,0 +1,5 @@
+     10 rolls: share of sixes = 0.1000
+    100 rolls: share of sixes = 0.1400
+  1,000 rolls: share of sixes = 0.1660
+100,000 rolls: share of sixes = 0.1656
+Theory: 0.1667

@@ -1,0 +1,12 @@
+A/A tests with p < 0.05: 63 of 1,000
+     province  contacts      p  bonferroni_p
+   Copperbelt      2219 0.0274        0.2736
+      Western       376 0.1711        1.0000
+       Lusaka      3161 0.1973        1.0000
+     Southern       972 0.2265        1.0000
+      Luapula       433 0.2701        1.0000
+      Eastern       727 0.2919        1.0000
+     Muchinga       288 0.3095        1.0000
+     Northern       485 0.4165        1.0000
+      Central       823 0.5110        1.0000
+North-Western       516 0.6428        1.0000

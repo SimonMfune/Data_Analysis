@@ -1,0 +1,901 @@
+visit_id;visit_date;clinic;patient_age;sex;visit_reason;wait_minutes;consultation_fee_zmw;follow_up
+V00001;11/07/2025;Kabwata;56;F;Dental;42;100;No
+V00002;02/03/2025;Kabwata;78;M;Child immunisation;38;0;No
+V00003;29/03/2025;Chelstone;54;M;General consultation;44;50;No
+V00004;25/07/2025;Matero;25;F;Hypertension review;62;100;Yes
+V00005;09/04/2025;Kabwata;35;F;Hypertension review;13;50;No
+V00006;04/05/2025;Kabwata;89;M;General consultation;91;0;No
+V00007;16/07/2025;Kalingalinga;4;F;Dental;23;100;No
+V00008;05/03/2025;Chelstone;76;F;Dental;70;50;No
+V00009;30/03/2025;Matero;28;M;General consultation;89;100;No
+V00010;09/01/2025;Chelstone;56;M;Hypertension review;19;100;No
+V00011;22/03/2025;Matero;75;M;Hypertension review;57;100;No
+V00012;14/03/2025;Matero;39;F;Hypertension review;89;0;No
+V00013;24/08/2025;Kabwata;33;F;Dental;29;50;No
+V00014;02/05/2025;Chelstone;8;F;Malaria test;47;150;No
+V00015;03/06/2025;Matero;35;F;Antenatal;30;100;No
+V00016;07/05/2025;Chelstone;16;M;Child immunisation;83;100;Yes
+V00017;16/11/2025;Matero;14;F;General consultation;36;0;No
+V00018;03/11/2025;Matero;27;F;Dental;31;100;Yes
+V00019;11/05/2025;Kalingalinga;33;M;Antenatal;59;100;No
+V00020;20/03/2025;Matero;42;M;Hypertension review;71;50;No
+V00021;16/11/2025;Kalingalinga;10;F;General consultation;123;50;No
+V00022;16/09/2025;Kalingalinga;28;F;Child immunisation;64;50;No
+V00023;21/11/2025;Chelstone;5;F;Hypertension review;26;0;No
+V00024;08/01/2025;Chelstone;83;F;Dental;62;100;No
+V00025;20/08/2025;Matero;40;M;Child immunisation;121;100;Yes
+V00026;21/03/2025;Kalingalinga;1;M;General consultation;88;0;No
+V00027;08/03/2025;Matero;72;F;Dental;9;50;No
+V00028;12/07/2025;Chelstone;13;F;Dental;23;0;No
+V00029;26/04/2025;Kabwata;77;M;Malaria test;58;0;No
+V00030;10/02/2025;Kalingalinga;21;F;Hypertension review;87;100;No
+V00031;16/05/2025;Matero;51;M;Dental;35;100;No
+V00032;16/10/2025;Kabwata;11;F;General consultation;44;50;Yes
+V00033;22/06/2025;Kabwata;53;M;Dental;42;100;Yes
+V00034;25/10/2025;Kabwata;75;F;Dental;32;150;No
+V00035;02/01/2025;Kabwata;11;F;Hypertension review;52;50;No
+V00036;20/05/2025;Chelstone;19;F;Dental;57;100;No
+V00037;11/03/2025;Matero;87;F;Malaria test;42;0;Yes
+V00038;22/05/2025;Kalingalinga;27;M;General consultation;28;100;No
+V00039;06/06/2025;Kalingalinga;45;F;Child immunisation;18;100;No
+V00040;04/04/2025;Kalingalinga;89;F;Hypertension review;38;100;Yes
+V00041;02/01/2025;Kabwata;25;F;General consultation;28;0;No
+V00042;16/07/2025;Kalingalinga;41;M;Malaria test;58;0;Yes
+V00043;26/07/2025;Kabwata;47;M;Dental;20;50;No
+V00044;19/01/2025;Kalingalinga;32;F;Dental;69;0;No
+V00045;06/03/2025;Matero;48;M;General consultation;59;50;No
+V00046;26/10/2025;Kabwata;84;F;Dental;47;0;No
+V00047;11/03/2025;Matero;15;M;Antenatal;22;100;No
+V00048;21/05/2025;Chelstone;58;M;Child immunisation;60;150;No
+V00049;14/07/2025;Matero;81;F;Child immunisation;37;0;No
+V00050;16/04/2025;Kalingalinga;24;M;Antenatal;64;0;No
+V00051;12/03/2025;Chelstone;82;M;Dental;93;0;No
+V00052;13/05/2025;Kabwata;55;F;Malaria test;33;100;No
+V00053;15/11/2025;Chelstone;82;F;Child immunisation;29;50;No
+V00054;15/01/2025;Kabwata;47;F;Child immunisation;49;150;No
+V00055;05/10/2025;Chelstone;1;F;General consultation;18;0;No
+V00056;04/09/2025;Matero;81;F;General consultation;22;0;No
+V00057;20/08/2025;Kalingalinga;7;F;Child immunisation;57;0;No
+V00058;11/04/2025;Kalingalinga;58;F;Child immunisation;26;150;No
+V00059;18/03/2025;Chelstone;76;F;Hypertension review;139;0;No
+V00060;28/03/2025;Kalingalinga;20;M;Antenatal;67;150;No
+V00061;21/10/2025;Chelstone;9;F;Child immunisation;40;0;No
+V00062;08/02/2025;Chelstone;62;F;General consultation;32;0;Yes
+V00063;22/07/2025;Chelstone;25;M;General consultation;65;0;No
+V00064;04/06/2025;Kabwata;3;M;Malaria test;61;100;Yes
+V00065;01/11/2025;Matero;43;M;Child immunisation;62;150;Yes
+V00066;21/04/2025;Matero;88;M;Antenatal;75;50;No
+V00067;12/09/2025;Kalingalinga;44;F;Hypertension review;20;0;No
+V00068;17/03/2025;Matero;0;F;Hypertension review;85;0;No
+V00069;06/10/2025;Kabwata;77;F;Child immunisation;32;50;No
+V00070;24/03/2025;Kabwata;23;M;Dental;52;50;No
+V00071;06/04/2025;Kalingalinga;83;F;Child immunisation;104;0;No
+V00072;02/05/2025;Kabwata;11;F;Child immunisation;87;150;No
+V00073;20/05/2025;Kabwata;46;M;General consultation;32;50;Yes
+V00074;11/01/2025;Chelstone;73;F;Antenatal;61;0;No
+V00075;02/09/2025;Chelstone;25;M;Malaria test;25;0;Yes
+V00076;12/11/2025;Kabwata;43;F;Antenatal;26;0;No
+V00077;03/11/2025;Chelstone;37;F;Malaria test;96;100;No
+V00078;06/09/2025;Chelstone;82;M;Antenatal;12;100;No
+V00079;16/04/2025;Kabwata;56;M;Malaria test;55;100;No
+V00080;29/04/2025;Chelstone;39;F;Child immunisation;35;50;No
+V00081;31/10/2025;Kabwata;46;F;Child immunisation;24;50;No
+V00082;10/10/2025;Kabwata;55;M;Child immunisation;57;100;No
+V00083;11/06/2025;Kabwata;38;M;Antenatal;38;50;Yes
+V00084;13/05/2025;Chelstone;48;M;General consultation;93;0;Yes
+V00085;28/09/2025;Kalingalinga;83;M;Child immunisation;64;50;No
+V00086;21/03/2025;Kabwata;28;M;Dental;47;0;No
+V00087;04/08/2025;Chelstone;61;F;Hypertension review;55;50;No
+V00088;09/11/2025;Kalingalinga;43;F;General consultation;42;50;No
+V00089;22/06/2025;Chelstone;79;F;Dental;74;150;No
+V00090;05/02/2025;Kalingalinga;28;M;Dental;69;100;No
+V00091;18/03/2025;Kalingalinga;33;F;Antenatal;54;0;No
+V00092;07/03/2025;Chelstone;13;M;Hypertension review;103;0;No
+V00093;15/07/2025;Kabwata;57;M;Antenatal;42;50;No
+V00094;22/03/2025;Matero;72;M;Dental;49;50;No
+V00095;06/06/2025;Kalingalinga;38;M;General consultation;22;0;No
+V00096;06/11/2025;Chelstone;26;F;Antenatal;28;100;No
+V00097;14/07/2025;Kalingalinga;3;M;Child immunisation;53;100;No
+V00098;28/06/2025;Kalingalinga;82;F;Hypertension review;87;0;No
+V00099;19/08/2025;Chelstone;38;M;Hypertension review;70;50;Yes
+V00100;06/03/2025;Kalingalinga;76;M;Child immunisation;49;0;Yes
+V00101;29/06/2025;Matero;77;F;General consultation;37;100;No
+V00102;17/11/2025;Kalingalinga;53;F;General consultation;106;100;No
+V00103;13/03/2025;Matero;83;F;Child immunisation;103;100;Yes
+V00104;16/10/2025;Matero;16;M;Dental;17;50;Yes
+V00105;03/11/2025;Kalingalinga;81;M;Malaria test;110;100;No
+V00106;24/01/2025;Kabwata;71;M;Dental;74;100;Yes
+V00107;17/10/2025;Matero;0;F;Antenatal;67;150;Yes
+V00108;26/02/2025;Matero;56;M;Dental;115;0;Yes
+V00109;28/08/2025;Chelstone;15;M;Dental;37;150;No
+V00110;08/05/2025;Kalingalinga;17;F;Hypertension review;15;150;No
+V00111;27/06/2025;Kalingalinga;8;F;Malaria test;140;100;Yes
+V00112;27/02/2025;Kabwata;6;M;Malaria test;44;0;Yes
+V00113;01/06/2025;Kabwata;62;F;Antenatal;105;0;No
+V00114;29/10/2025;Matero;66;M;General consultation;45;50;No
+V00115;18/07/2025;Kabwata;42;F;Hypertension review;46;0;No
+V00116;13/04/2025;Chelstone;54;F;Child immunisation;54;100;Yes
+V00117;24/01/2025;Matero;78;F;Hypertension review;86;50;Yes
+V00118;14/03/2025;Kalingalinga;45;F;General consultation;70;100;Yes
+V00119;05/02/2025;Chelstone;76;M;General consultation;92;50;Yes
+V00120;24/07/2025;Kabwata;20;F;Antenatal;57;50;No
+V00121;25/07/2025;Matero;37;F;Dental;26;50;No
+V00122;05/11/2025;Matero;73;F;General consultation;78;150;No
+V00123;13/06/2025;Chelstone;84;F;Child immunisation;87;50;Yes
+V00124;11/09/2025;Matero;25;M;Malaria test;66;50;No
+V00125;27/10/2025;Matero;51;M;General consultation;47;50;No
+V00126;21/01/2025;Matero;67;F;Hypertension review;27;50;No
+V00127;01/08/2025;Chelstone;57;F;Dental;25;0;No
+V00128;04/03/2025;Matero;46;F;Dental;86;100;No
+V00129;09/03/2025;Kalingalinga;36;F;General consultation;53;50;No
+V00130;21/07/2025;Kabwata;8;F;Malaria test;50;50;No
+V00131;03/04/2025;Chelstone;42;F;Malaria test;174;0;No
+V00132;03/08/2025;Chelstone;38;F;Malaria test;90;50;No
+V00133;12/11/2025;Kabwata;56;F;Antenatal;167;0;Yes
+V00134;23/11/2025;Kalingalinga;51;M;Dental;68;0;Yes
+V00135;16/03/2025;Kalingalinga;71;F;Child immunisation;29;0;Yes
+V00136;13/06/2025;Kabwata;35;M;Antenatal;62;0;No
+V00137;02/10/2025;Chelstone;40;F;General consultation;92;50;No
+V00138;28/10/2025;Kalingalinga;22;F;Antenatal;40;50;No
+V00139;27/02/2025;Chelstone;25;F;Dental;89;50;No
+V00140;22/08/2025;Kalingalinga;63;M;Antenatal;3;100;No
+V00141;03/01/2025;Kalingalinga;54;M;Dental;80;0;No
+V00142;18/09/2025;Kabwata;61;F;Antenatal;12;50;Yes
+V00143;11/09/2025;Kalingalinga;45;M;General consultation;67;100;No
+V00144;06/04/2025;Matero;18;F;Antenatal;83;100;No
+V00145;18/10/2025;Matero;23;M;Antenatal;43;0;No
+V00146;15/01/2025;Matero;72;M;Antenatal;55;50;Yes
+V00147;19/11/2025;Matero;81;F;Hypertension review;51;100;Yes
+V00148;09/05/2025;Kalingalinga;60;F;Dental;45;0;No
+V00149;31/07/2025;Matero;10;M;Dental;44;100;No
+V00150;14/08/2025;Kabwata;39;F;Child immunisation;36;50;No
+V00151;30/03/2025;Chelstone;67;M;Hypertension review;51;100;No
+V00152;26/10/2025;Chelstone;24;F;Dental;15;0;No
+V00153;15/09/2025;Kabwata;53;M;General consultation;32;0;No
+V00154;10/05/2025;Kabwata;2;M;Hypertension review;102;50;No
+V00155;03/07/2025;Matero;72;F;Malaria test;26;50;No
+V00156;24/06/2025;Matero;81;F;Child immunisation;65;0;No
+V00157;25/10/2025;Kabwata;48;F;Child immunisation;76;0;No
+V00158;03/06/2025;Chelstone;60;M;Antenatal;63;100;No
+V00159;01/10/2025;Kalingalinga;21;M;General consultation;46;50;No
+V00160;21/01/2025;Kabwata;21;F;Malaria test;10;100;No
+V00161;21/02/2025;Kabwata;20;F;General consultation;53;0;No
+V00162;24/04/2025;Matero;14;F;General consultation;24;100;Yes
+V00163;20/09/2025;Kabwata;84;F;Dental;45;50;No
+V00164;23/01/2025;Kalingalinga;16;F;Child immunisation;46;50;Yes
+V00165;12/07/2025;Kabwata;52;F;Malaria test;63;100;No
+V00166;06/02/2025;Chelstone;16;F;Dental;65;150;No
+V00167;05/03/2025;Kalingalinga;65;M;Hypertension review;75;0;No
+V00168;11/10/2025;Matero;25;F;Hypertension review;45;50;No
+V00169;16/06/2025;Matero;70;F;Malaria test;43;0;Yes
+V00170;21/07/2025;Matero;75;F;Dental;84;50;No
+V00171;07/02/2025;Kalingalinga;68;F;Hypertension review;60;100;Yes
+V00172;19/01/2025;Kalingalinga;84;F;Child immunisation;86;150;No
+V00173;31/05/2025;Matero;19;M;General consultation;19;0;Yes
+V00174;24/08/2025;Kalingalinga;89;M;Child immunisation;52;100;Yes
+V00175;29/07/2025;Kabwata;47;M;Antenatal;24;150;Yes
+V00176;04/04/2025;Kabwata;85;F;Dental;28;100;No
+V00177;10/04/2025;Matero;38;F;Dental;125;50;Yes
+V00178;10/07/2025;Chelstone;38;M;Child immunisation;65;0;Yes
+V00179;16/10/2025;Kabwata;67;F;Child immunisation;22;0;Yes
+V00180;04/09/2025;Kabwata;12;M;Antenatal;15;0;Yes
+V00181;22/04/2025;Kalingalinga;68;M;Antenatal;62;0;No
+V00182;15/01/2025;Chelstone;5;F;Hypertension review;36;50;No
+V00183;11/08/2025;Chelstone;30;F;Antenatal;104;0;No
+V00184;24/04/2025;Kalingalinga;76;M;Hypertension review;58;0;Yes
+V00185;09/10/2025;Kabwata;8;F;Child immunisation;80;50;No
+V00186;09/08/2025;Kabwata;75;F;Malaria test;14;50;Yes
+V00187;29/04/2025;Kabwata;64;M;Child immunisation;54;50;No
+V00188;26/02/2025;Matero;47;F;Child immunisation;51;0;No
+V00189;04/03/2025;Matero;3;F;General consultation;94;150;No
+V00190;31/07/2025;Kalingalinga;78;F;General consultation;81;100;No
+V00191;28/10/2025;Kabwata;71;F;Antenatal;45;0;No
+V00192;13/07/2025;Kabwata;73;F;Dental;54;100;Yes
+V00193;24/06/2025;Kalingalinga;24;F;Dental;53;0;No
+V00194;28/06/2025;Matero;21;F;Antenatal;58;100;Yes
+V00195;03/10/2025;Kabwata;33;F;General consultation;76;50;No
+V00196;23/10/2025;Chelstone;25;F;General consultation;25;150;No
+V00197;06/09/2025;Kabwata;88;F;Malaria test;88;0;No
+V00198;15/04/2025;Matero;4;M;Dental;65;100;No
+V00199;05/10/2025;Chelstone;67;M;General consultation;56;0;Yes
+V00200;18/07/2025;Kabwata;79;M;Malaria test;58;0;No
+V00201;09/04/2025;Kabwata;45;F;Malaria test;14;0;No
+V00202;13/10/2025;Kabwata;37;F;Antenatal;68;50;No
+V00203;23/09/2025;Kalingalinga;80;F;Dental;32;50;No
+V00204;20/11/2025;Matero;78;M;Malaria test;78;0;Yes
+V00205;13/03/2025;Matero;40;F;Child immunisation;47;100;No
+V00206;24/07/2025;Kabwata;12;M;Child immunisation;44;0;No
+V00207;27/04/2025;Matero;43;F;Malaria test;30;150;No
+V00208;20/02/2025;Chelstone;16;F;Child immunisation;70;0;No
+V00209;08/07/2025;Kalingalinga;32;F;Child immunisation;22;0;No
+V00210;27/04/2025;Kalingalinga;22;F;Malaria test;22;50;Yes
+V00211;30/07/2025;Matero;12;F;Malaria test;78;50;No
+V00212;19/11/2025;Matero;70;F;Dental;69;100;Yes
+V00213;07/01/2025;Kalingalinga;20;M;General consultation;44;50;Yes
+V00214;18/08/2025;Matero;18;F;Dental;70;150;No
+V00215;17/07/2025;Kalingalinga;82;F;Dental;143;100;No
+V00216;07/05/2025;Matero;70;F;Dental;57;50;No
+V00217;20/07/2025;Kalingalinga;50;F;Antenatal;120;50;Yes
+V00218;25/03/2025;Matero;51;M;Child immunisation;32;0;No
+V00219;15/02/2025;Kabwata;53;F;Hypertension review;32;0;Yes
+V00220;06/03/2025;Chelstone;48;F;Child immunisation;26;0;No
+V00221;14/05/2025;Kabwata;18;F;Hypertension review;53;50;No
+V00222;17/11/2025;Chelstone;23;F;General consultation;22;100;No
+V00223;16/07/2025;Chelstone;89;M;Antenatal;41;150;Yes
+V00224;26/10/2025;Chelstone;0;M;General consultation;18;0;Yes
+V00225;28/04/2025;Matero;63;M;Hypertension review;19;150;No
+V00226;01/09/2025;Kalingalinga;56;F;General consultation;35;50;No
+V00227;09/02/2025;Kalingalinga;60;M;General consultation;19;100;No
+V00228;18/02/2025;Kalingalinga;86;M;Child immunisation;40;0;Yes
+V00229;10/07/2025;Kabwata;32;F;General consultation;76;0;No
+V00230;23/04/2025;Chelstone;83;F;Dental;48;50;No
+V00231;28/09/2025;Matero;75;F;Antenatal;57;0;No
+V00232;01/03/2025;Kabwata;44;F;Dental;107;0;No
+V00233;23/04/2025;Kabwata;49;F;Child immunisation;61;50;Yes
+V00234;18/08/2025;Chelstone;37;M;Child immunisation;54;150;No
+V00235;12/10/2025;Matero;61;M;General consultation;45;0;No
+V00236;10/02/2025;Kalingalinga;71;F;Child immunisation;50;100;No
+V00237;06/06/2025;Chelstone;8;F;Child immunisation;39;0;No
+V00238;24/05/2025;Kabwata;52;F;Malaria test;26;150;Yes
+V00239;31/01/2025;Kabwata;22;M;Dental;42;100;No
+V00240;16/07/2025;Kalingalinga;51;F;Child immunisation;52;50;Yes
+V00241;19/08/2025;Chelstone;7;F;Malaria test;77;100;Yes
+V00242;04/09/2025;Chelstone;22;M;Malaria test;75;100;Yes
+V00243;13/09/2025;Kabwata;35;F;General consultation;76;100;No
+V00244;30/05/2025;Kalingalinga;27;F;General consultation;54;50;No
+V00245;04/06/2025;Kabwata;17;F;General consultation;32;100;No
+V00246;06/09/2025;Kalingalinga;87;F;Child immunisation;75;150;Yes
+V00247;24/04/2025;Chelstone;18;F;Malaria test;29;100;Yes
+V00248;26/11/2025;Matero;62;F;Child immunisation;26;100;No
+V00249;07/08/2025;Matero;6;F;Malaria test;7;50;Yes
+V00250;15/03/2025;Kabwata;7;F;Malaria test;162;100;No
+V00251;21/09/2025;Matero;25;F;Antenatal;25;150;No
+V00252;15/04/2025;Kalingalinga;17;F;Child immunisation;35;100;Yes
+V00253;23/04/2025;Kabwata;53;F;Dental;74;50;No
+V00254;24/06/2025;Kabwata;4;M;Dental;51;0;No
+V00255;16/11/2025;Chelstone;39;F;Antenatal;61;50;No
+V00256;15/10/2025;Chelstone;15;F;Malaria test;62;100;No
+V00257;05/03/2025;Chelstone;59;F;Dental;96;0;No
+V00258;23/07/2025;Matero;41;F;Malaria test;87;50;No
+V00259;16/03/2025;Matero;55;M;Malaria test;17;100;No
+V00260;19/10/2025;Chelstone;11;F;General consultation;20;100;No
+V00261;10/11/2025;Chelstone;19;F;Hypertension review;24;50;No
+V00262;22/04/2025;Matero;32;M;Antenatal;55;0;Yes
+V00263;26/04/2025;Kabwata;86;M;Child immunisation;80;0;No
+V00264;04/05/2025;Kabwata;2;M;Child immunisation;50;150;No
+V00265;06/05/2025;Chelstone;23;M;Malaria test;61;100;Yes
+V00266;31/05/2025;Kabwata;79;M;Hypertension review;22;0;Yes
+V00267;24/05/2025;Chelstone;1;M;Antenatal;51;0;No
+V00268;24/04/2025;Matero;46;M;General consultation;69;0;No
+V00269;23/06/2025;Kalingalinga;85;F;Child immunisation;53;0;No
+V00270;25/10/2025;Chelstone;11;F;Hypertension review;53;150;Yes
+V00271;21/01/2025;Kabwata;82;M;Hypertension review;26;0;No
+V00272;16/11/2025;Matero;58;F;Dental;25;0;Yes
+V00273;08/01/2025;Matero;73;M;Malaria test;55;0;No
+V00274;13/10/2025;Matero;84;M;Child immunisation;52;50;Yes
+V00275;09/03/2025;Kabwata;59;F;General consultation;38;150;No
+V00276;22/07/2025;Kalingalinga;55;F;Antenatal;32;0;No
+V00277;20/01/2025;Kabwata;22;M;General consultation;53;0;No
+V00278;26/03/2025;Kalingalinga;84;M;Malaria test;21;0;No
+V00279;14/03/2025;Kabwata;26;M;Malaria test;76;0;No
+V00280;26/01/2025;Kabwata;62;M;Dental;13;0;No
+V00281;17/10/2025;Matero;65;F;Hypertension review;37;100;Yes
+V00282;23/10/2025;Kalingalinga;2;F;Dental;89;100;Yes
+V00283;03/01/2025;Chelstone;46;F;Malaria test;81;50;Yes
+V00284;14/05/2025;Chelstone;49;M;General consultation;40;0;No
+V00285;11/01/2025;Matero;65;M;Dental;35;0;No
+V00286;21/06/2025;Kalingalinga;15;M;Dental;35;0;Yes
+V00287;04/07/2025;Chelstone;78;F;General consultation;58;100;No
+V00288;10/03/2025;Chelstone;37;F;Malaria test;44;50;No
+V00289;07/03/2025;Kabwata;19;F;Child immunisation;42;0;Yes
+V00290;02/07/2025;Kalingalinga;10;M;Hypertension review;48;0;No
+V00291;14/09/2025;Matero;54;M;Hypertension review;9;0;No
+V00292;04/09/2025;Matero;14;F;Hypertension review;18;0;No
+V00293;27/02/2025;Matero;10;F;Malaria test;44;50;No
+V00294;24/04/2025;Matero;8;F;General consultation;59;0;No
+V00295;16/07/2025;Kabwata;5;M;General consultation;71;0;No
+V00296;11/02/2025;Matero;49;M;Hypertension review;71;100;Yes
+V00297;29/04/2025;Matero;71;M;Antenatal;50;100;Yes
+V00298;02/09/2025;Matero;79;F;Child immunisation;17;0;No
+V00299;27/04/2025;Chelstone;2;M;Child immunisation;27;100;No
+V00300;28/09/2025;Chelstone;63;F;Malaria test;70;0;No
+V00301;17/08/2025;Kalingalinga;29;F;Child immunisation;52;100;Yes
+V00302;18/11/2025;Kalingalinga;54;F;Antenatal;46;0;No
+V00303;01/01/2025;Kabwata;20;F;Hypertension review;45;50;Yes
+V00304;24/04/2025;Kalingalinga;85;F;General consultation;56;100;No
+V00305;26/01/2025;Kabwata;80;F;Dental;13;100;No
+V00306;11/08/2025;Kabwata;50;F;Dental;103;0;No
+V00307;10/06/2025;Matero;63;F;General consultation;176;0;No
+V00308;03/03/2025;Chelstone;22;F;Malaria test;94;100;No
+V00309;19/11/2025;Kabwata;50;M;Antenatal;96;50;No
+V00310;19/09/2025;Matero;62;M;Hypertension review;19;0;Yes
+V00311;17/02/2025;Matero;3;F;Dental;22;100;No
+V00312;12/04/2025;Matero;8;F;Antenatal;47;150;No
+V00313;09/03/2025;Kalingalinga;28;F;Antenatal;53;50;No
+V00314;22/09/2025;Kalingalinga;20;F;Antenatal;49;50;No
+V00315;16/03/2025;Kabwata;71;M;Child immunisation;35;100;Yes
+V00316;11/01/2025;Kalingalinga;53;F;Malaria test;37;0;No
+V00317;17/09/2025;Matero;6;F;General consultation;34;100;No
+V00318;10/09/2025;Chelstone;29;F;Dental;71;100;No
+V00319;16/11/2025;Kalingalinga;12;F;Antenatal;79;50;Yes
+V00320;14/11/2025;Chelstone;54;M;General consultation;44;0;No
+V00321;03/09/2025;Kabwata;52;F;Malaria test;29;0;No
+V00322;04/06/2025;Kalingalinga;59;F;Malaria test;105;0;No
+V00323;06/11/2025;Chelstone;11;F;General consultation;63;0;No
+V00324;19/03/2025;Chelstone;13;F;Child immunisation;43;0;No
+V00325;02/11/2025;Matero;43;M;Dental;30;50;No
+V00326;24/03/2025;Chelstone;70;M;Dental;32;50;No
+V00327;10/06/2025;Kalingalinga;57;F;Hypertension review;20;0;No
+V00328;16/10/2025;Matero;17;M;Malaria test;42;0;No
+V00329;02/10/2025;Kalingalinga;59;M;General consultation;70;50;No
+V00330;02/11/2025;Kalingalinga;82;F;Antenatal;46;50;No
+V00331;12/04/2025;Kalingalinga;16;M;Child immunisation;47;50;No
+V00332;14/05/2025;Kabwata;73;M;Malaria test;52;50;No
+V00333;05/08/2025;Chelstone;21;M;Child immunisation;32;50;No
+V00334;28/07/2025;Chelstone;71;F;Child immunisation;66;100;No
+V00335;12/06/2025;Kabwata;66;F;Antenatal;102;0;No
+V00336;10/01/2025;Matero;89;F;Dental;78;100;No
+V00337;10/05/2025;Chelstone;38;F;Malaria test;38;150;Yes
+V00338;16/10/2025;Chelstone;15;F;Malaria test;9;100;No
+V00339;07/06/2025;Kabwata;3;M;General consultation;69;150;No
+V00340;30/06/2025;Kalingalinga;61;F;Antenatal;46;50;No
+V00341;26/07/2025;Matero;63;M;Dental;34;100;Yes
+V00342;26/08/2025;Kalingalinga;12;M;Hypertension review;71;0;No
+V00343;30/06/2025;Matero;58;F;Antenatal;11;100;No
+V00344;01/02/2025;Kabwata;68;F;Hypertension review;125;50;No
+V00345;10/05/2025;Matero;84;M;Child immunisation;34;0;Yes
+V00346;30/08/2025;Chelstone;70;F;Hypertension review;68;50;No
+V00347;31/01/2025;Matero;87;F;Dental;93;100;Yes
+V00348;13/05/2025;Kalingalinga;29;M;Malaria test;69;150;Yes
+V00349;21/08/2025;Kalingalinga;12;M;Malaria test;111;100;No
+V00350;03/08/2025;Chelstone;78;M;Hypertension review;29;50;No
+V00351;25/10/2025;Matero;35;F;General consultation;41;0;No
+V00352;29/10/2025;Chelstone;8;M;Hypertension review;73;0;No
+V00353;24/05/2025;Matero;8;F;Child immunisation;29;50;No
+V00354;16/09/2025;Kabwata;85;F;Dental;32;0;No
+V00355;24/02/2025;Kabwata;84;M;Malaria test;102;0;Yes
+V00356;05/09/2025;Kabwata;14;F;Dental;61;0;No
+V00357;07/09/2025;Chelstone;82;M;Child immunisation;23;0;Yes
+V00358;10/07/2025;Kalingalinga;11;M;Malaria test;51;0;Yes
+V00359;29/08/2025;Chelstone;85;M;Hypertension review;177;0;No
+V00360;31/08/2025;Matero;14;M;Malaria test;16;100;No
+V00361;26/01/2025;Matero;75;F;Antenatal;91;0;Yes
+V00362;06/08/2025;Kabwata;40;F;Child immunisation;68;0;No
+V00363;03/02/2025;Kabwata;32;F;Hypertension review;93;0;No
+V00364;10/08/2025;Matero;22;F;Dental;21;100;No
+V00365;25/06/2025;Chelstone;27;F;General consultation;79;50;Yes
+V00366;05/04/2025;Chelstone;76;M;Child immunisation;47;0;No
+V00367;09/07/2025;Chelstone;1;M;Malaria test;35;0;No
+V00368;30/06/2025;Kalingalinga;23;F;Dental;33;150;No
+V00369;16/06/2025;Kalingalinga;36;M;General consultation;26;0;No
+V00370;27/07/2025;Matero;77;M;Child immunisation;25;150;No
+V00371;09/07/2025;Kabwata;59;M;Hypertension review;73;50;No
+V00372;08/10/2025;Kalingalinga;16;F;Antenatal;66;100;No
+V00373;18/07/2025;Chelstone;27;M;Hypertension review;29;0;No
+V00374;27/10/2025;Kabwata;86;M;Child immunisation;22;50;No
+V00375;29/04/2025;Matero;58;F;Malaria test;50;50;No
+V00376;28/03/2025;Chelstone;41;M;Malaria test;129;0;No
+V00377;19/08/2025;Chelstone;10;F;Child immunisation;58;0;No
+V00378;16/08/2025;Kabwata;40;F;Child immunisation;32;100;Yes
+V00379;28/05/2025;Kalingalinga;62;M;Dental;26;0;Yes
+V00380;30/10/2025;Kabwata;5;M;Child immunisation;56;100;No
+V00381;26/01/2025;Chelstone;24;F;Malaria test;50;50;No
+V00382;16/08/2025;Chelstone;84;F;Dental;55;0;No
+V00383;20/04/2025;Chelstone;24;F;Malaria test;56;0;No
+V00384;21/08/2025;Matero;48;M;General consultation;36;100;No
+V00385;24/07/2025;Kabwata;42;F;Antenatal;69;0;Yes
+V00386;25/05/2025;Matero;26;F;Malaria test;64;50;No
+V00387;04/04/2025;Kalingalinga;69;F;Hypertension review;119;100;No
+V00388;25/01/2025;Chelstone;60;M;Child immunisation;51;100;Yes
+V00389;23/03/2025;Matero;62;F;Malaria test;56;150;No
+V00390;22/06/2025;Kalingalinga;56;F;General consultation;53;50;No
+V00391;28/02/2025;Kalingalinga;20;M;Hypertension review;51;0;No
+V00392;04/06/2025;Kabwata;26;M;Hypertension review;73;0;Yes
+V00393;02/05/2025;Matero;46;M;Dental;61;0;Yes
+V00394;13/06/2025;Chelstone;58;F;Hypertension review;45;0;Yes
+V00395;22/11/2025;Kabwata;57;M;General consultation;35;0;No
+V00396;05/11/2025;Matero;60;F;Child immunisation;90;50;Yes
+V00397;11/09/2025;Kalingalinga;66;M;Hypertension review;69;0;Yes
+V00398;16/08/2025;Kalingalinga;57;F;Malaria test;85;0;No
+V00399;21/10/2025;Kabwata;4;M;Antenatal;74;50;No
+V00400;02/06/2025;Chelstone;53;F;Child immunisation;65;50;Yes
+V00401;30/01/2025;Chelstone;51;M;General consultation;43;100;No
+V00402;26/05/2025;Chelstone;59;F;Hypertension review;44;50;No
+V00403;14/02/2025;Kalingalinga;41;M;Child immunisation;61;100;No
+V00404;28/02/2025;Kalingalinga;56;M;Hypertension review;38;50;No
+V00405;10/05/2025;Kabwata;56;F;General consultation;25;0;No
+V00406;16/03/2025;Chelstone;81;F;Hypertension review;34;0;No
+V00407;22/03/2025;Kalingalinga;12;F;Antenatal;9;100;No
+V00408;24/06/2025;Chelstone;30;M;Malaria test;26;0;Yes
+V00409;12/01/2025;Matero;35;M;Dental;17;0;Yes
+V00410;21/06/2025;Kabwata;26;F;General consultation;30;0;No
+V00411;31/10/2025;Kalingalinga;3;M;Child immunisation;28;0;No
+V00412;02/04/2025;Chelstone;56;F;Dental;29;100;No
+V00413;22/11/2025;Kabwata;9;F;Child immunisation;41;0;Yes
+V00414;13/06/2025;Chelstone;69;F;Antenatal;26;100;No
+V00415;20/04/2025;Kabwata;82;M;Antenatal;69;50;Yes
+V00416;07/09/2025;Kalingalinga;61;F;Malaria test;14;100;No
+V00417;29/06/2025;Kalingalinga;59;M;Antenatal;21;0;No
+V00418;23/09/2025;Matero;80;M;General consultation;27;100;No
+V00419;03/09/2025;Chelstone;35;M;Antenatal;61;0;Yes
+V00420;28/05/2025;Chelstone;31;M;Antenatal;112;100;No
+V00421;02/11/2025;Chelstone;66;F;General consultation;101;50;No
+V00422;04/08/2025;Chelstone;2;F;General consultation;27;50;No
+V00423;25/09/2025;Chelstone;35;F;General consultation;70;100;No
+V00424;23/08/2025;Kalingalinga;63;M;Malaria test;44;100;No
+V00425;13/09/2025;Matero;26;F;Dental;46;50;No
+V00426;03/02/2025;Chelstone;37;F;Antenatal;32;0;No
+V00427;06/09/2025;Kabwata;56;F;Hypertension review;33;50;No
+V00428;13/03/2025;Chelstone;40;M;Child immunisation;34;50;No
+V00429;27/01/2025;Chelstone;21;F;Malaria test;30;100;No
+V00430;18/03/2025;Kalingalinga;87;F;Malaria test;52;0;No
+V00431;20/04/2025;Chelstone;54;F;Hypertension review;28;50;No
+V00432;29/01/2025;Matero;20;F;Child immunisation;37;100;Yes
+V00433;30/08/2025;Chelstone;39;F;Hypertension review;91;100;No
+V00434;23/07/2025;Chelstone;50;M;Malaria test;35;150;No
+V00435;18/02/2025;Matero;78;F;Dental;90;0;No
+V00436;30/05/2025;Kalingalinga;47;F;General consultation;61;0;No
+V00437;01/05/2025;Matero;5;F;Malaria test;96;100;Yes
+V00438;08/03/2025;Matero;63;F;Malaria test;59;100;No
+V00439;20/06/2025;Matero;47;M;Hypertension review;54;50;Yes
+V00440;06/02/2025;Kabwata;82;M;Child immunisation;51;0;No
+V00441;18/10/2025;Kabwata;39;F;General consultation;21;0;No
+V00442;19/10/2025;Kalingalinga;54;M;Child immunisation;20;50;No
+V00443;03/05/2025;Chelstone;83;M;Malaria test;59;100;No
+V00444;24/11/2025;Matero;74;F;Dental;110;150;No
+V00445;10/02/2025;Kabwata;66;F;Antenatal;52;0;Yes
+V00446;19/05/2025;Kabwata;76;F;Antenatal;45;50;No
+V00447;20/04/2025;Kalingalinga;65;F;Dental;130;100;No
+V00448;28/04/2025;Chelstone;74;F;Dental;38;0;No
+V00449;17/09/2025;Kalingalinga;45;M;Dental;19;0;Yes
+V00450;12/02/2025;Kabwata;9;F;Dental;25;50;No
+V00451;25/02/2025;Kabwata;66;M;General consultation;24;0;No
+V00452;06/01/2025;Kalingalinga;4;F;General consultation;18;150;No
+V00453;19/11/2025;Kalingalinga;0;F;Hypertension review;71;0;No
+V00454;07/07/2025;Kalingalinga;64;M;Hypertension review;133;150;Yes
+V00455;11/05/2025;Chelstone;21;F;Child immunisation;110;50;No
+V00456;30/09/2025;Kabwata;13;M;Antenatal;38;150;No
+V00457;27/01/2025;Kabwata;24;M;General consultation;44;0;No
+V00458;12/09/2025;Chelstone;74;F;General consultation;43;50;Yes
+V00459;07/08/2025;Matero;68;M;Child immunisation;130;150;No
+V00460;27/06/2025;Chelstone;2;M;Malaria test;86;50;No
+V00461;16/08/2025;Kabwata;50;M;General consultation;7;50;No
+V00462;06/06/2025;Chelstone;26;M;Hypertension review;46;150;Yes
+V00463;15/08/2025;Chelstone;63;F;General consultation;6;50;No
+V00464;10/04/2025;Matero;66;M;General consultation;32;0;No
+V00465;10/05/2025;Chelstone;15;F;Dental;77;50;No
+V00466;12/07/2025;Chelstone;52;M;Hypertension review;76;0;No
+V00467;05/08/2025;Kalingalinga;24;M;Hypertension review;39;50;No
+V00468;12/05/2025;Kabwata;88;F;General consultation;77;0;No
+V00469;22/05/2025;Chelstone;89;F;Child immunisation;59;150;No
+V00470;30/01/2025;Kalingalinga;18;F;Hypertension review;29;0;No
+V00471;02/09/2025;Chelstone;9;F;Child immunisation;52;0;Yes
+V00472;03/07/2025;Chelstone;43;M;Hypertension review;117;0;No
+V00473;23/08/2025;Kabwata;78;F;General consultation;54;150;Yes
+V00474;12/06/2025;Kalingalinga;43;F;Hypertension review;82;100;No
+V00475;19/05/2025;Matero;88;M;Dental;50;50;Yes
+V00476;02/07/2025;Chelstone;43;F;Malaria test;13;0;No
+V00477;01/02/2025;Kalingalinga;11;M;Malaria test;50;0;No
+V00478;29/05/2025;Matero;55;M;Hypertension review;24;50;Yes
+V00479;09/06/2025;Chelstone;71;M;Antenatal;107;100;No
+V00480;23/11/2025;Matero;24;F;Hypertension review;34;0;No
+V00481;03/03/2025;Chelstone;19;F;Dental;19;50;No
+V00482;01/05/2025;Matero;55;F;General consultation;12;50;No
+V00483;12/03/2025;Matero;47;F;Hypertension review;10;0;No
+V00484;04/03/2025;Chelstone;33;F;Hypertension review;65;50;Yes
+V00485;23/10/2025;Chelstone;72;F;Malaria test;45;0;No
+V00486;28/04/2025;Chelstone;24;M;General consultation;73;100;No
+V00487;12/08/2025;Chelstone;75;M;Child immunisation;104;0;No
+V00488;18/01/2025;Kabwata;81;M;Dental;46;0;Yes
+V00489;27/04/2025;Chelstone;82;F;Dental;34;50;Yes
+V00490;11/02/2025;Matero;29;M;Malaria test;52;100;No
+V00491;13/04/2025;Kalingalinga;51;F;Dental;103;0;Yes
+V00492;19/02/2025;Kabwata;36;F;General consultation;89;0;No
+V00493;10/06/2025;Matero;12;F;Child immunisation;55;50;No
+V00494;17/07/2025;Chelstone;51;F;Child immunisation;90;50;Yes
+V00495;22/07/2025;Chelstone;77;M;Antenatal;27;0;No
+V00496;28/04/2025;Kabwata;12;M;Dental;28;150;Yes
+V00497;25/07/2025;Chelstone;23;M;Dental;26;50;No
+V00498;01/08/2025;Matero;33;M;Hypertension review;23;100;No
+V00499;12/05/2025;Chelstone;42;M;Antenatal;79;50;No
+V00500;21/09/2025;Kalingalinga;66;M;Child immunisation;115;0;No
+V00501;11/03/2025;Chelstone;85;F;General consultation;43;0;No
+V00502;17/09/2025;Kabwata;8;F;Hypertension review;31;0;Yes
+V00503;10/01/2025;Matero;61;F;Antenatal;35;50;No
+V00504;05/04/2025;Kalingalinga;0;M;Antenatal;41;100;No
+V00505;30/08/2025;Matero;45;F;Antenatal;35;50;Yes
+V00506;18/10/2025;Kabwata;83;F;Child immunisation;63;0;No
+V00507;25/06/2025;Kabwata;39;M;Child immunisation;52;150;No
+V00508;31/03/2025;Kalingalinga;79;F;Malaria test;45;50;No
+V00509;20/02/2025;Chelstone;55;F;Malaria test;37;0;Yes
+V00510;27/03/2025;Chelstone;85;M;Antenatal;69;50;No
+V00511;16/11/2025;Kabwata;33;F;Dental;89;150;Yes
+V00512;26/05/2025;Kalingalinga;18;F;General consultation;81;0;Yes
+V00513;29/04/2025;Kalingalinga;60;M;Malaria test;41;50;Yes
+V00514;20/05/2025;Chelstone;85;F;Hypertension review;34;50;No
+V00515;10/11/2025;Chelstone;61;F;Antenatal;87;50;Yes
+V00516;17/03/2025;Matero;14;M;Malaria test;4;0;Yes
+V00517;22/05/2025;Kabwata;44;M;Malaria test;87;50;No
+V00518;22/07/2025;Kalingalinga;22;F;Child immunisation;35;0;Yes
+V00519;06/03/2025;Chelstone;56;F;General consultation;112;50;No
+V00520;16/02/2025;Chelstone;16;M;Child immunisation;21;0;No
+V00521;07/02/2025;Kalingalinga;68;F;Child immunisation;98;0;Yes
+V00522;03/10/2025;Kalingalinga;16;M;Child immunisation;45;0;No
+V00523;18/06/2025;Kabwata;59;M;Hypertension review;14;0;No
+V00524;22/01/2025;Matero;73;M;Antenatal;46;50;Yes
+V00525;25/04/2025;Kalingalinga;84;F;Dental;49;100;No
+V00526;18/11/2025;Matero;66;F;General consultation;54;0;No
+V00527;23/11/2025;Kabwata;86;M;Child immunisation;51;100;No
+V00528;24/05/2025;Chelstone;23;M;Hypertension review;33;100;No
+V00529;07/06/2025;Matero;4;F;Hypertension review;33;100;No
+V00530;23/03/2025;Chelstone;50;M;Dental;31;50;No
+V00531;26/01/2025;Kabwata;75;F;Dental;79;100;Yes
+V00532;25/11/2025;Kabwata;4;F;General consultation;43;150;No
+V00533;25/04/2025;Chelstone;74;F;General consultation;50;50;No
+V00534;04/06/2025;Kalingalinga;29;M;Hypertension review;52;0;Yes
+V00535;08/02/2025;Kabwata;7;M;Hypertension review;24;150;No
+V00536;02/08/2025;Chelstone;39;M;General consultation;62;50;No
+V00537;29/05/2025;Chelstone;57;F;General consultation;109;0;Yes
+V00538;28/07/2025;Matero;81;M;Dental;105;50;No
+V00539;08/09/2025;Kalingalinga;29;F;General consultation;69;0;No
+V00540;28/08/2025;Kabwata;49;M;General consultation;77;50;Yes
+V00541;23/05/2025;Kabwata;14;F;Child immunisation;76;100;No
+V00542;10/08/2025;Kabwata;77;M;Child immunisation;17;50;Yes
+V00543;19/05/2025;Chelstone;69;M;Antenatal;27;50;Yes
+V00544;01/11/2025;Kalingalinga;13;M;Dental;80;50;Yes
+V00545;07/02/2025;Kabwata;34;F;General consultation;214;0;No
+V00546;10/03/2025;Matero;53;M;Antenatal;102;0;No
+V00547;17/01/2025;Kalingalinga;9;F;Hypertension review;137;150;No
+V00548;05/04/2025;Chelstone;85;F;Malaria test;73;50;No
+V00549;09/11/2025;Chelstone;55;F;Hypertension review;20;0;No
+V00550;04/04/2025;Kalingalinga;7;M;Dental;23;0;No
+V00551;13/11/2025;Chelstone;66;M;Child immunisation;122;100;Yes
+V00552;21/04/2025;Matero;73;F;Antenatal;62;50;No
+V00553;20/06/2025;Chelstone;8;M;Child immunisation;31;100;Yes
+V00554;10/10/2025;Matero;37;M;Malaria test;85;50;No
+V00555;14/11/2025;Matero;87;M;Child immunisation;87;100;Yes
+V00556;30/09/2025;Chelstone;6;M;Dental;81;0;No
+V00557;08/01/2025;Kalingalinga;49;M;General consultation;53;50;No
+V00558;16/06/2025;Kalingalinga;85;M;Dental;77;50;No
+V00559;24/09/2025;Kabwata;44;M;Hypertension review;64;50;No
+V00560;06/07/2025;Chelstone;21;M;General consultation;51;50;No
+V00561;11/02/2025;Chelstone;51;M;General consultation;69;0;No
+V00562;15/07/2025;Kalingalinga;55;F;Antenatal;59;50;No
+V00563;16/06/2025;Kalingalinga;66;M;Child immunisation;45;100;Yes
+V00564;12/09/2025;Chelstone;19;M;Antenatal;39;0;No
+V00565;28/10/2025;Matero;75;F;Dental;38;50;Yes
+V00566;07/11/2025;Matero;79;M;Dental;45;50;No
+V00567;17/11/2025;Chelstone;78;M;Hypertension review;50;50;Yes
+V00568;23/11/2025;Kalingalinga;89;F;Malaria test;14;150;No
+V00569;11/06/2025;Kabwata;81;M;Dental;36;50;No
+V00570;28/06/2025;Kabwata;3;M;Malaria test;86;0;Yes
+V00571;22/02/2025;Kabwata;4;M;Dental;23;100;Yes
+V00572;18/10/2025;Kalingalinga;30;M;Dental;28;0;No
+V00573;25/07/2025;Kabwata;30;F;Antenatal;31;0;No
+V00574;15/08/2025;Kalingalinga;46;F;General consultation;90;0;Yes
+V00575;09/11/2025;Kabwata;7;F;General consultation;36;50;Yes
+V00576;12/08/2025;Kalingalinga;83;F;Child immunisation;43;0;No
+V00577;14/11/2025;Kabwata;74;F;Antenatal;46;0;No
+V00578;24/06/2025;Matero;47;M;General consultation;23;0;Yes
+V00579;21/05/2025;Matero;16;F;Dental;11;100;No
+V00580;31/07/2025;Chelstone;42;F;Antenatal;44;100;No
+V00581;28/04/2025;Matero;16;F;Malaria test;39;0;No
+V00582;21/01/2025;Kalingalinga;60;M;Child immunisation;60;0;No
+V00583;26/02/2025;Kalingalinga;60;F;General consultation;25;50;Yes
+V00584;12/09/2025;Chelstone;77;F;Hypertension review;19;150;No
+V00585;18/09/2025;Matero;81;F;Hypertension review;25;0;Yes
+V00586;29/08/2025;Chelstone;38;F;Hypertension review;28;100;Yes
+V00587;28/02/2025;Kalingalinga;12;M;Hypertension review;52;50;No
+V00588;27/04/2025;Kabwata;37;F;Antenatal;21;0;No
+V00589;17/04/2025;Kabwata;34;M;Hypertension review;82;0;No
+V00590;21/04/2025;Chelstone;21;F;Hypertension review;42;150;Yes
+V00591;24/02/2025;Kabwata;15;M;Dental;82;0;Yes
+V00592;12/03/2025;Chelstone;46;F;Malaria test;19;0;No
+V00593;26/01/2025;Matero;6;M;General consultation;46;150;Yes
+V00594;16/05/2025;Matero;57;F;Hypertension review;16;50;No
+V00595;21/06/2025;Chelstone;7;F;Malaria test;29;0;No
+V00596;05/04/2025;Kabwata;40;F;Malaria test;67;0;No
+V00597;24/06/2025;Kabwata;47;F;Malaria test;119;100;Yes
+V00598;17/07/2025;Kalingalinga;46;M;Dental;84;50;No
+V00599;10/03/2025;Kalingalinga;9;F;Malaria test;15;50;No
+V00600;24/06/2025;Kalingalinga;84;M;Hypertension review;22;0;No
+V00601;26/03/2025;Kalingalinga;14;F;Antenatal;32;0;No
+V00602;01/08/2025;Chelstone;59;M;General consultation;61;50;No
+V00603;21/11/2025;Kabwata;31;M;Malaria test;101;150;Yes
+V00604;29/10/2025;Kalingalinga;66;F;Malaria test;39;0;Yes
+V00605;13/09/2025;Chelstone;27;F;General consultation;49;0;No
+V00606;14/02/2025;Kabwata;87;M;Antenatal;91;0;Yes
+V00607;24/11/2025;Chelstone;67;M;Malaria test;50;50;No
+V00608;29/06/2025;Matero;68;M;Hypertension review;79;100;No
+V00609;29/01/2025;Kalingalinga;27;M;Dental;41;100;No
+V00610;19/04/2025;Matero;7;M;Hypertension review;26;50;Yes
+V00611;31/01/2025;Chelstone;73;M;Hypertension review;81;0;No
+V00612;21/03/2025;Matero;55;M;Malaria test;10;50;No
+V00613;17/09/2025;Matero;11;F;General consultation;84;50;No
+V00614;29/08/2025;Chelstone;17;M;Child immunisation;45;50;Yes
+V00615;02/02/2025;Matero;21;M;Dental;92;50;No
+V00616;17/05/2025;Chelstone;66;M;Malaria test;50;100;No
+V00617;22/04/2025;Kabwata;54;F;Malaria test;92;0;No
+V00618;08/10/2025;Kalingalinga;4;F;Antenatal;133;0;No
+V00619;05/02/2025;Kalingalinga;15;M;Malaria test;21;0;No
+V00620;02/07/2025;Kalingalinga;73;M;Dental;35;50;No
+V00621;21/04/2025;Chelstone;16;F;Antenatal;84;150;No
+V00622;12/09/2025;Chelstone;45;M;General consultation;81;0;No
+V00623;28/01/2025;Kalingalinga;73;F;Dental;26;100;No
+V00624;12/10/2025;Kalingalinga;7;F;Child immunisation;41;100;No
+V00625;09/10/2025;Matero;43;M;Dental;81;50;No
+V00626;25/02/2025;Matero;12;F;Antenatal;42;100;No
+V00627;03/04/2025;Kalingalinga;86;F;Antenatal;36;50;No
+V00628;26/01/2025;Kabwata;46;M;Child immunisation;35;100;Yes
+V00629;17/02/2025;Kalingalinga;32;F;Dental;30;50;No
+V00630;28/06/2025;Matero;32;F;Child immunisation;31;50;Yes
+V00631;02/10/2025;Kabwata;65;F;Dental;55;50;No
+V00632;14/04/2025;Chelstone;53;F;Child immunisation;67;50;No
+V00633;14/04/2025;Matero;15;F;Antenatal;54;50;No
+V00634;11/04/2025;Kabwata;60;F;Antenatal;76;50;No
+V00635;12/10/2025;Chelstone;14;F;Dental;67;100;Yes
+V00636;13/03/2025;Kabwata;46;F;Child immunisation;51;100;Yes
+V00637;05/05/2025;Matero;86;F;Malaria test;21;0;No
+V00638;17/11/2025;Chelstone;30;M;Dental;86;100;No
+V00639;24/10/2025;Matero;69;F;Child immunisation;40;100;No
+V00640;03/10/2025;Kabwata;15;M;Dental;34;50;Yes
+V00641;26/01/2025;Matero;84;M;Malaria test;72;100;No
+V00642;18/06/2025;Kabwata;80;M;Malaria test;29;100;No
+V00643;08/04/2025;Kalingalinga;17;M;Dental;34;0;Yes
+V00644;15/09/2025;Kabwata;81;F;Antenatal;9;100;Yes
+V00645;04/05/2025;Chelstone;84;F;Dental;20;50;No
+V00646;03/02/2025;Matero;54;M;General consultation;62;50;No
+V00647;21/07/2025;Matero;4;M;Dental;24;50;Yes
+V00648;03/11/2025;Matero;18;M;Child immunisation;72;0;No
+V00649;23/08/2025;Chelstone;11;F;Dental;55;50;Yes
+V00650;23/04/2025;Kalingalinga;44;M;Malaria test;15;100;Yes
+V00651;17/10/2025;Kalingalinga;50;M;Dental;19;100;Yes
+V00652;14/03/2025;Kalingalinga;12;F;General consultation;92;0;No
+V00653;20/11/2025;Matero;21;F;Child immunisation;26;50;No
+V00654;04/01/2025;Matero;6;M;Malaria test;57;0;No
+V00655;07/02/2025;Matero;44;F;Malaria test;78;100;Yes
+V00656;10/10/2025;Chelstone;82;F;General consultation;37;50;No
+V00657;09/06/2025;Chelstone;17;F;Antenatal;41;50;No
+V00658;23/04/2025;Kalingalinga;23;F;General consultation;36;150;No
+V00659;08/01/2025;Chelstone;5;F;Dental;40;100;No
+V00660;29/03/2025;Chelstone;87;M;General consultation;38;50;Yes
+V00661;30/08/2025;Chelstone;3;F;Child immunisation;29;0;No
+V00662;13/05/2025;Kalingalinga;85;F;Antenatal;8;0;Yes
+V00663;13/11/2025;Kalingalinga;6;M;Malaria test;41;50;No
+V00664;05/06/2025;Kalingalinga;45;M;Child immunisation;37;50;No
+V00665;21/05/2025;Kalingalinga;49;F;Child immunisation;146;50;No
+V00666;17/04/2025;Matero;19;M;Malaria test;19;150;No
+V00667;05/11/2025;Kalingalinga;50;M;Malaria test;43;100;No
+V00668;31/03/2025;Kalingalinga;54;F;Child immunisation;55;50;No
+V00669;05/01/2025;Matero;36;F;Hypertension review;48;50;Yes
+V00670;24/09/2025;Chelstone;60;F;General consultation;11;50;No
+V00671;09/03/2025;Kalingalinga;83;F;Antenatal;55;50;Yes
+V00672;05/06/2025;Kabwata;57;M;Malaria test;52;100;No
+V00673;09/04/2025;Matero;62;F;Antenatal;68;100;Yes
+V00674;22/06/2025;Chelstone;75;M;Hypertension review;24;100;No
+V00675;19/06/2025;Kalingalinga;52;M;Hypertension review;149;150;No
+V00676;27/09/2025;Matero;34;F;Child immunisation;57;0;No
+V00677;30/04/2025;Chelstone;24;F;Hypertension review;82;50;No
+V00678;31/10/2025;Matero;14;F;Malaria test;31;50;No
+V00679;07/02/2025;Kalingalinga;28;M;Antenatal;47;50;No
+V00680;02/01/2025;Matero;35;M;Antenatal;58;100;No
+V00681;25/07/2025;Matero;44;M;General consultation;58;0;No
+V00682;11/11/2025;Kabwata;11;F;Child immunisation;34;0;No
+V00683;14/05/2025;Chelstone;48;F;Hypertension review;7;50;No
+V00684;15/04/2025;Kalingalinga;15;F;Child immunisation;87;0;No
+V00685;21/07/2025;Kalingalinga;28;F;Dental;91;50;Yes
+V00686;25/10/2025;Chelstone;31;F;General consultation;45;50;No
+V00687;15/06/2025;Matero;74;M;Child immunisation;32;0;No
+V00688;21/07/2025;Matero;50;M;Antenatal;62;150;No
+V00689;13/11/2025;Kalingalinga;40;F;General consultation;131;100;Yes
+V00690;16/11/2025;Chelstone;66;F;Antenatal;29;0;Yes
+V00691;29/06/2025;Kalingalinga;40;F;Dental;34;150;No
+V00692;17/09/2025;Kabwata;45;F;Dental;26;0;Yes
+V00693;19/05/2025;Kalingalinga;45;F;Child immunisation;24;100;No
+V00694;12/04/2025;Kabwata;61;M;Dental;54;100;No
+V00695;26/02/2025;Kalingalinga;41;M;General consultation;22;0;Yes
+V00696;04/04/2025;Matero;6;F;General consultation;95;100;Yes
+V00697;08/08/2025;Kabwata;83;F;Child immunisation;17;100;No
+V00698;13/11/2025;Kalingalinga;67;F;Dental;141;150;No
+V00699;08/02/2025;Kabwata;4;M;Malaria test;10;100;Yes
+V00700;19/06/2025;Matero;67;F;Malaria test;162;50;Yes
+V00701;01/01/2025;Kabwata;73;M;Hypertension review;22;100;Yes
+V00702;04/10/2025;Chelstone;55;F;Dental;58;150;Yes
+V00703;06/09/2025;Kabwata;54;F;Dental;18;0;No
+V00704;25/09/2025;Kabwata;1;F;Malaria test;39;100;No
+V00705;20/07/2025;Kalingalinga;69;M;Malaria test;20;150;No
+V00706;12/02/2025;Matero;16;F;Dental;24;0;No
+V00707;20/11/2025;Kalingalinga;36;F;Malaria test;27;100;No
+V00708;06/09/2025;Kalingalinga;36;M;General consultation;30;0;Yes
+V00709;18/06/2025;Matero;23;M;Hypertension review;50;150;No
+V00710;22/03/2025;Matero;21;F;Malaria test;48;0;No
+V00711;22/04/2025;Chelstone;67;M;Child immunisation;69;0;Yes
+V00712;15/02/2025;Matero;87;M;Malaria test;21;50;No
+V00713;01/09/2025;Kalingalinga;28;M;General consultation;22;0;Yes
+V00714;06/10/2025;Kabwata;36;M;Malaria test;88;0;Yes
+V00715;29/03/2025;Chelstone;60;M;Malaria test;54;50;No
+V00716;12/05/2025;Kalingalinga;26;F;Child immunisation;17;50;No
+V00717;17/03/2025;Chelstone;45;F;Hypertension review;85;50;Yes
+V00718;16/03/2025;Kabwata;58;F;General consultation;14;0;No
+V00719;27/01/2025;Kalingalinga;20;M;Dental;32;50;Yes
+V00720;05/09/2025;Kabwata;83;M;General consultation;55;150;Yes
+V00721;19/04/2025;Matero;59;F;Dental;35;150;No
+V00722;20/07/2025;Chelstone;31;F;Malaria test;5;50;Yes
+V00723;15/02/2025;Matero;49;F;General consultation;78;0;No
+V00724;01/08/2025;Kabwata;26;F;Malaria test;56;100;No
+V00725;01/04/2025;Matero;66;M;Antenatal;79;100;No
+V00726;02/01/2025;Kabwata;37;F;Hypertension review;42;50;No
+V00727;26/10/2025;Chelstone;29;M;Child immunisation;58;50;No
+V00728;27/08/2025;Kalingalinga;0;F;Child immunisation;39;0;No
+V00729;19/01/2025;Matero;49;M;Antenatal;62;50;No
+V00730;23/11/2025;Chelstone;28;M;General consultation;51;100;No
+V00731;01/02/2025;Kalingalinga;5;F;Antenatal;63;0;No
+V00732;07/11/2025;Kabwata;37;F;Hypertension review;49;100;Yes
+V00733;04/03/2025;Matero;56;F;Antenatal;76;100;No
+V00734;08/10/2025;Kabwata;42;M;Hypertension review;47;50;Yes
+V00735;11/06/2025;Kalingalinga;25;F;General consultation;62;0;No
+V00736;24/07/2025;Kalingalinga;0;F;Child immunisation;47;0;No
+V00737;14/03/2025;Kalingalinga;25;F;Child immunisation;35;0;No
+V00738;13/02/2025;Kabwata;51;F;Antenatal;21;50;Yes
+V00739;20/05/2025;Chelstone;33;F;Malaria test;34;0;No
+V00740;06/09/2025;Chelstone;14;M;General consultation;44;0;Yes
+V00741;15/07/2025;Kabwata;30;F;Child immunisation;27;0;No
+V00742;03/03/2025;Kabwata;30;M;Dental;44;0;No
+V00743;19/08/2025;Kalingalinga;8;M;Dental;37;0;No
+V00744;01/03/2025;Kalingalinga;58;F;Antenatal;16;150;No
+V00745;24/05/2025;Kabwata;64;M;General consultation;39;50;Yes
+V00746;19/07/2025;Kalingalinga;14;M;Antenatal;73;100;No
+V00747;10/11/2025;Kabwata;11;F;General consultation;17;150;Yes
+V00748;18/10/2025;Chelstone;35;F;Antenatal;66;50;No
+V00749;05/06/2025;Kabwata;83;M;Hypertension review;29;100;Yes
+V00750;14/11/2025;Chelstone;26;M;Child immunisation;45;0;No
+V00751;27/03/2025;Chelstone;19;F;Antenatal;141;50;No
+V00752;18/08/2025;Kabwata;13;M;Antenatal;100;100;No
+V00753;10/02/2025;Chelstone;61;F;Dental;53;100;Yes
+V00754;22/07/2025;Kabwata;63;F;Dental;30;100;Yes
+V00755;08/03/2025;Chelstone;31;F;Child immunisation;17;100;Yes
+V00756;22/02/2025;Chelstone;82;M;General consultation;54;0;No
+V00757;23/02/2025;Kalingalinga;51;F;Child immunisation;72;0;No
+V00758;08/03/2025;Kalingalinga;58;F;Child immunisation;73;50;No
+V00759;10/06/2025;Kalingalinga;72;F;Child immunisation;57;0;No
+V00760;01/03/2025;Kalingalinga;40;F;Antenatal;46;50;No
+V00761;03/11/2025;Chelstone;30;F;Antenatal;76;150;No
+V00762;14/06/2025;Kalingalinga;20;F;Dental;62;50;No
+V00763;22/08/2025;Chelstone;19;F;Antenatal;63;0;Yes
+V00764;02/02/2025;Kalingalinga;63;F;General consultation;101;0;No
+V00765;24/04/2025;Kabwata;39;M;Child immunisation;109;50;No
+V00766;25/06/2025;Kalingalinga;60;M;Hypertension review;46;50;No
+V00767;24/10/2025;Matero;63;M;Child immunisation;52;0;No
+V00768;18/05/2025;Matero;9;F;Antenatal;31;50;Yes
+V00769;05/02/2025;Kabwata;73;F;Hypertension review;91;100;No
+V00770;10/02/2025;Chelstone;28;F;Hypertension review;35;0;Yes
+V00771;19/08/2025;Kalingalinga;68;M;Dental;57;50;Yes
+V00772;20/08/2025;Kabwata;10;M;Hypertension review;61;100;No
+V00773;06/04/2025;Kabwata;34;F;Hypertension review;55;0;No
+V00774;16/03/2025;Kabwata;21;F;Antenatal;75;0;No
+V00775;15/04/2025;Matero;22;M;Malaria test;44;150;No
+V00776;12/02/2025;Matero;41;M;Antenatal;30;50;No
+V00777;02/02/2025;Kalingalinga;74;F;Antenatal;37;150;Yes
+V00778;06/04/2025;Kalingalinga;38;M;Child immunisation;55;50;No
+V00779;25/05/2025;Kabwata;31;M;Dental;80;50;No
+V00780;06/06/2025;Chelstone;48;M;Antenatal;34;0;No
+V00781;21/10/2025;Matero;40;M;Dental;27;150;No
+V00782;12/07/2025;Kalingalinga;12;F;Antenatal;56;50;No
+V00783;14/09/2025;Matero;58;M;Child immunisation;25;0;No
+V00784;13/09/2025;Kabwata;15;F;Child immunisation;42;100;No
+V00785;13/02/2025;Kalingalinga;27;M;Child immunisation;34;150;Yes
+V00786;19/11/2025;Chelstone;30;M;Child immunisation;42;50;No
+V00787;04/07/2025;Matero;73;M;Malaria test;95;0;No
+V00788;05/08/2025;Kalingalinga;46;F;Antenatal;34;150;Yes
+V00789;24/11/2025;Kalingalinga;29;F;Hypertension review;32;150;Yes
+V00790;12/03/2025;Matero;77;F;Child immunisation;86;0;No
+V00791;02/05/2025;Chelstone;13;F;Child immunisation;24;100;No
+V00792;26/01/2025;Chelstone;71;F;General consultation;52;50;Yes
+V00793;04/04/2025;Chelstone;30;F;Hypertension review;76;0;No
+V00794;26/05/2025;Chelstone;19;M;Dental;58;150;No
+V00795;20/04/2025;Chelstone;49;F;General consultation;44;150;No
+V00796;14/09/2025;Matero;9;F;Hypertension review;66;0;No
+V00797;04/06/2025;Kabwata;43;M;Hypertension review;61;50;No
+V00798;13/07/2025;Chelstone;2;M;Hypertension review;82;0;Yes
+V00799;06/02/2025;Kalingalinga;1;F;Malaria test;2;150;Yes
+V00800;14/05/2025;Kalingalinga;31;F;Antenatal;18;0;No
+V00801;30/08/2025;Kalingalinga;40;M;Antenatal;24;50;Yes
+V00802;11/03/2025;Kalingalinga;52;F;Antenatal;50;100;No
+V00803;17/10/2025;Kalingalinga;62;M;Hypertension review;45;0;No
+V00804;19/05/2025;Chelstone;68;M;Hypertension review;41;50;No
+V00805;12/03/2025;Matero;43;F;Child immunisation;92;0;No
+V00806;19/05/2025;Kabwata;20;M;Antenatal;46;0;No
+V00807;08/11/2025;Kalingalinga;4;F;Hypertension review;7;100;No
+V00808;23/06/2025;Kabwata;48;F;General consultation;31;0;Yes
+V00809;17/08/2025;Chelstone;35;F;Child immunisation;31;100;Yes
+V00810;03/02/2025;Kabwata;86;M;Hypertension review;17;0;No
+V00811;16/09/2025;Kabwata;31;F;Dental;21;0;No
+V00812;30/06/2025;Chelstone;77;F;Hypertension review;72;50;No
+V00813;08/01/2025;Chelstone;70;M;Antenatal;63;0;No
+V00814;14/02/2025;Kabwata;84;F;Dental;27;50;No
+V00815;27/01/2025;Kalingalinga;75;F;Child immunisation;45;100;Yes
+V00816;11/05/2025;Kabwata;79;M;Dental;41;100;No
+V00817;08/06/2025;Kalingalinga;80;F;Hypertension review;36;50;No
+V00818;13/01/2025;Kalingalinga;20;M;Child immunisation;35;0;Yes
+V00819;09/09/2025;Kalingalinga;47;F;Dental;38;0;No
+V00820;16/11/2025;Chelstone;29;F;Antenatal;60;0;No
+V00821;29/08/2025;Kabwata;51;F;Dental;20;100;No
+V00822;15/06/2025;Matero;66;M;Hypertension review;19;0;Yes
+V00823;18/10/2025;Kabwata;24;F;Antenatal;95;100;Yes
+V00824;12/03/2025;Kalingalinga;11;M;Dental;64;0;Yes
+V00825;01/11/2025;Chelstone;86;M;Child immunisation;162;50;No
+V00826;11/01/2025;Chelstone;47;F;Hypertension review;35;0;No
+V00827;02/02/2025;Kabwata;20;F;Hypertension review;69;0;No
+V00828;31/07/2025;Matero;43;M;Dental;65;100;No
+V00829;09/04/2025;Chelstone;73;F;Dental;55;0;No
+V00830;05/07/2025;Matero;15;M;Antenatal;40;50;No
+V00831;01/09/2025;Kalingalinga;79;F;General consultation;105;50;No
+V00832;14/08/2025;Kabwata;69;F;Child immunisation;64;100;No
+V00833;23/02/2025;Kabwata;20;M;Malaria test;65;50;No
+V00834;04/02/2025;Kalingalinga;8;M;Hypertension review;123;50;No
+V00835;07/09/2025;Matero;60;F;Child immunisation;93;50;Yes
+V00836;03/09/2025;Chelstone;88;F;Child immunisation;102;100;No
+V00837;13/06/2025;Kabwata;76;F;Child immunisation;15;0;Yes
+V00838;12/11/2025;Matero;41;F;Dental;109;50;Yes
+V00839;03/04/2025;Kabwata;22;M;Child immunisation;25;50;No
+V00840;22/08/2025;Kabwata;19;M;Malaria test;30;0;No
+V00841;16/06/2025;Chelstone;19;F;Malaria test;51;50;Yes
+V00842;12/08/2025;Kabwata;4;M;Hypertension review;26;150;No
+V00843;01/06/2025;Chelstone;11;F;Malaria test;62;0;No
+V00844;19/11/2025;Kabwata;25;M;Dental;98;50;No
+V00845;01/07/2025;Kabwata;53;M;Dental;35;50;No
+V00846;19/05/2025;Chelstone;80;M;General consultation;63;0;No
+V00847;22/04/2025;Kabwata;36;M;Hypertension review;13;0;No
+V00848;02/01/2025;Matero;85;M;Hypertension review;104;0;Yes
+V00849;17/07/2025;Matero;80;M;Malaria test;49;0;No
+V00850;08/02/2025;Matero;56;F;Child immunisation;42;100;Yes
+V00851;01/05/2025;Kalingalinga;88;F;Hypertension review;76;50;No
+V00852;17/10/2025;Kalingalinga;75;M;Dental;92;0;No
+V00853;18/03/2025;Kabwata;76;F;General consultation;140;50;Yes
+V00854;08/09/2025;Matero;86;F;Antenatal;51;0;No
+V00855;09/11/2025;Chelstone;64;M;Hypertension review;41;100;No
+V00856;19/02/2025;Kabwata;32;F;Malaria test;21;0;Yes
+V00857;07/06/2025;Matero;35;M;General consultation;32;50;No
+V00858;21/10/2025;Chelstone;38;F;Child immunisation;97;150;No
+V00859;26/10/2025;Chelstone;82;M;General consultation;20;0;No
+V00860;16/03/2025;Matero;17;F;Hypertension review;66;50;Yes
+V00861;23/04/2025;Kalingalinga;55;F;Antenatal;57;150;No
+V00862;28/09/2025;Kalingalinga;36;F;Antenatal;19;0;No
+V00863;05/05/2025;Kalingalinga;48;M;General consultation;53;100;No
+V00864;11/05/2025;Kabwata;58;M;Antenatal;129;50;Yes
+V00865;07/02/2025;Kabwata;3;F;Antenatal;29;0;No
+V00866;21/11/2025;Kabwata;89;F;Hypertension review;78;50;No
+V00867;22/02/2025;Kalingalinga;70;F;Child immunisation;54;100;Yes
+V00868;13/10/2025;Matero;34;F;General consultation;101;50;Yes
+V00869;06/11/2025;Kalingalinga;63;M;Child immunisation;26;100;Yes
+V00870;29/07/2025;Matero;73;M;Hypertension review;30;100;No
+V00871;04/05/2025;Kabwata;10;M;Dental;177;150;Yes
+V00872;24/03/2025;Kabwata;10;F;General consultation;103;100;Yes
+V00873;04/10/2025;Kalingalinga;13;M;Antenatal;41;0;No
+V00874;31/08/2025;Kalingalinga;16;M;Hypertension review;58;150;No
+V00875;20/02/2025;Chelstone;12;F;Child immunisation;19;0;No
+V00876;23/07/2025;Matero;32;F;Child immunisation;24;50;No
+V00877;16/10/2025;Kalingalinga;30;F;General consultation;138;150;No
+V00878;03/07/2025;Kabwata;10;F;Malaria test;68;0;No
+V00879;03/10/2025;Kalingalinga;6;M;Dental;42;150;Yes
+V00880;07/02/2025;Kalingalinga;88;M;Antenatal;37;100;No
+V00881;10/01/2025;Kabwata;59;F;Child immunisation;31;150;No
+V00882;28/03/2025;Kabwata;19;F;General consultation;84;0;No
+V00883;07/09/2025;Chelstone;62;M;Dental;50;0;Yes
+V00884;06/07/2025;Matero;84;F;Child immunisation;63;50;Yes
+V00885;31/03/2025;Chelstone;20;F;Malaria test;65;150;No
+V00886;14/06/2025;Kalingalinga;1;F;Hypertension review;40;50;Yes
+V00887;16/06/2025;Kabwata;86;F;Dental;13;0;Yes
+V00888;21/05/2025;Kalingalinga;56;F;Antenatal;22;50;No
+V00889;07/05/2025;Kabwata;62;M;Dental;10;150;No
+V00890;08/07/2025;Chelstone;56;M;Dental;53;50;No
+V00891;07/01/2025;Matero;3;M;Child immunisation;42;0;Yes
+V00892;02/07/2025;Kabwata;29;M;Hypertension review;67;50;No
+V00893;26/05/2025;Kabwata;81;M;Antenatal;28;0;Yes
+V00894;30/01/2025;Matero;66;F;Hypertension review;45;50;No
+V00895;06/04/2025;Chelstone;62;F;Hypertension review;66;0;Yes
+V00896;13/08/2025;Chelstone;46;F;Malaria test;99;100;Yes
+V00897;25/11/2025;Kabwata;7;F;Dental;24;0;Yes
+V00898;26/08/2025;Kalingalinga;4;F;General consultation;31;50;Yes
+V00899;02/03/2025;Kabwata;17;F;Antenatal;14;0;No
+V00900;12/09/2025;Matero;81;F;General consultation;24;0;No

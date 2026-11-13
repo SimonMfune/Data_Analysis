@@ -1,0 +1,4 @@
+n =   1: SD of sample means = 1225.9   sigma / sqrt(n) = 1223.5   skew = 2.87
+n =   5: SD of sample means =  542.6   sigma / sqrt(n) =  547.2   skew = 1.23
+n =  30: SD of sample means =  224.6   sigma / sqrt(n) =  223.4   skew = 0.53
+n = 100: SD of sample means =  122.8   sigma / sqrt(n) =  122.4   skew = 0.29

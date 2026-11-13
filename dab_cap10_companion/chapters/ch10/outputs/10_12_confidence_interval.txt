@@ -1,0 +1,6 @@
+Sample of 100 orders: mean K939, standard error K101.0, t* = 1.984
+95% CI: K738 to K1,139   (population mean K1,048)
+
+n = 100: 921 of 1,000 intervals contain the population mean (92.1%)
+n = 30: 89.6% of 1,000 intervals contain the population mean
+n = 400: 94.7% of 1,000 intervals contain the population mean

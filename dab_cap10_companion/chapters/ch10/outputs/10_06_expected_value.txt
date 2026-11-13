@@ -1,0 +1,10 @@
+lines
+1    0.424
+2    0.245
+3    0.138
+4    0.081
+5    0.047
+6    0.027
+7    0.038
+E[X] = 2.314 product lines per order;  Var(X) = 2.592;  SD = 1.610
+Check with pandas: mean 2.314, SD 1.610

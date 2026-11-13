@@ -1,0 +1,5 @@
+Uniform(8, 17): P(before noon) = 0.444; simulated 0.445
+
+P(an order has a return) = 2,098 / 59,269 = 0.0354
+Binomial(20, 0.035): P(0) = 0.486, P(1) = 0.357, P(2 or more) = 0.157, mean = 0.71
+Simulated: P(0) = 0.486, P(1) = 0.358, P(2 or more) = 0.156

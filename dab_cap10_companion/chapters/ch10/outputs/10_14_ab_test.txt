@@ -1,0 +1,10 @@
+          contacts  conversions    rate
+group                                  
+SMS           5000          259  0.0518
+WhatsApp      5000          338  0.0676
+
+Difference 0.0158  z = 3.33  two-sided p = 0.0009
+95% CI for the difference: 0.0065 to 0.0251
+Relative lift: 30.5%
+Cohen's h = 0.067
+Check with scipy chi-square test: p = 0.0009

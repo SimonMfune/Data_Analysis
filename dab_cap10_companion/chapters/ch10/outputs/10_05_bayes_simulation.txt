@@ -1,0 +1,6 @@
+Simulated payments flagged: 34,086
+Share of flagged payments that are fraud: 0.130
+base rate  0.1%  ->  P(fraud | flag) = 2.9%
+base rate  0.5%  ->  P(fraud | flag) = 13.1%
+base rate  2.0%  ->  P(fraud | flag) = 38.0%
+base rate 10.0%  ->  P(fraud | flag) = 76.9%

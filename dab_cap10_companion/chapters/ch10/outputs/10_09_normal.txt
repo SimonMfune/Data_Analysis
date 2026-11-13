@@ -1,0 +1,6 @@
+Normal: P(within 1 SD) = 0.6827
+Normal: P(within 2 SD) = 0.9545
+Normal: P(within 3 SD) = 0.9973
+
+A 45-year-old customer: z = (45 - 36.4) / 8.9 = 0.97
+Customer ages within 1, 2, 3 SD: ['0.703', '0.959', '0.992']  skew 0.84

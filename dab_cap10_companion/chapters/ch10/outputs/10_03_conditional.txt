@@ -1,0 +1,7 @@
+P(late) = 0.125
+P(late | Lusaka)  = 0.108
+P(late | Western) = 0.201
+
+Multiplication rule: P(Western and late) = P(Western) x P(late | Western) = 0.0384 x 0.201 = 0.0077
+Counted directly: 0.0077
+If lateness were independent of province: 0.0384 x 0.125 = 0.0048

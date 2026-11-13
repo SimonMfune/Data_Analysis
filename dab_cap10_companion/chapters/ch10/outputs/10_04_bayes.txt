@@ -1,0 +1,6 @@
+P(flag) = 0.0343
+P(fraud | flag) = 0.131
+
+Out of 10,000 digital payments: 50 fraudulent, of which 45 are flagged; 9,950 genuine, of which 298.5 are flagged
+
+Check against the data: 1,637 of 47,460 digital payments were flagged (0.0345); the model predicts 0.0343

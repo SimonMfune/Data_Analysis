@@ -1,0 +1,13 @@
+method
+Airtel Money        0.301
+MTN MoMo            0.262
+Cash on Delivery    0.199
+Card                0.179
+Zamtel Kwacha       0.059
+
+P(mobile money) = 0.622
+P(not mobile money) = 1 - 0.622 = 0.378
+
+P(Lusaka) = 0.370, P(mobile) = 0.622, P(both) = 0.231
+General addition rule: P(Lusaka or mobile) = 0.370 + 0.622 - 0.231 = 0.761
+Counted directly:        0.761

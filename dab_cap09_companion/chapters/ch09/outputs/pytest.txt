@@ -1,0 +1,16 @@
+test_app.py::test_welcome_screen PASSED
+test_app.py::test_every_sample_and_chart[clinic_visits.csv] PASSED
+test_app.py::test_every_sample_and_chart[fintech_loans.csv] PASSED
+test_app.py::test_every_sample_and_chart[marketing_leads.csv] PASSED
+test_app.py::test_cleaning_options_change_result PASSED
+test_app.py::test_switching_file_resets_chart_choices PASSED
+test_modules.py::test_unseen_files_load[fintech_loans.csv-utf-8-sig-,-shape0] PASSED
+test_modules.py::test_unseen_files_load[clinic_visits.csv-utf-8-sig-;-shape1] PASSED
+test_modules.py::test_unseen_files_load[marketing_leads.csv-cp1252-,-shape2] PASSED
+test_modules.py::test_accents_survive PASSED
+test_modules.py::test_day_first_dates_are_not_swapped PASSED
+test_modules.py::test_profile_matches_pandas PASSED
+test_modules.py::test_currency_text_becomes_numbers PASSED
+test_modules.py::test_none_is_not_missing_by_default PASSED
+test_modules.py::test_cleaning_log_counts PASSED
+============================== 15 passed in 9.75s ==============================

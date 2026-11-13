@@ -1,0 +1,4 @@
+Mean order value: WhatsApp K717 (n=338), SMS K731 (n=259)
+Welch t = -0.52, p = 0.601, Cohen's d = -0.043
+
+Revenue per contact: WhatsApp K48.49, SMS K37.87
