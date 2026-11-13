@@ -1,0 +1,6 @@
+               total_spend_zmw  returns_count  age
+orders                    0.95           0.64 0.02
+returns_count             0.62           1.00 0.01
+recency_days             -0.36          -0.20 0.00
+Spend vs orders: Pearson 0.95, Spearman 0.94
+Returns per order vs spend, Spearman: 0.39

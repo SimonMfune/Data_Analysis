@@ -1,0 +1,7 @@
+                orders  revenue_zmw
+order_datetime                     
+2025-09-01        2245 2,422,870.75
+2025-10-01        2580 2,841,933.81
+2025-11-01        2734 3,200,830.08
+2025-12-01        3503 4,641,407.94
+December 2025 revenue is 1.99 times the average of the other 2025 months

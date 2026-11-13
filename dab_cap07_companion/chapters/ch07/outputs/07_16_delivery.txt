@@ -1,0 +1,13 @@
+               count  late_pct
+province                      
+Northern        2573     20.10
+Western         1839     20.10
+Luapula         2061     17.30
+North-Western   3119     17.10
+Muchinga        1117     16.50
+Eastern         3552     13.40
+Southern        4207     11.40
+Central         4725     11.20
+Lusaka         15756     10.80
+Copperbelt      8880      9.30
+Overall: 12.5% late

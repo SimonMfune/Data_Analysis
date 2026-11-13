@@ -1,0 +1,12 @@
+count     4,270.00
+mean     14,548.89
+std      16,107.93
+min          20.34
+25%       3,615.39
+50%       9,319.68
+75%      19,703.54
+max     140,420.50
+Name: total_spend_zmw, dtype: float64
+Mean K14,549  Median K9,320  Skew 2.38
+IQR: K16,088
+Top 10% of customers account for 35.8% of all spending

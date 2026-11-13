@@ -1,0 +1,5 @@
+fig, ax = plt.subplots(figsize=(8, 4))
+ax.plot(monthly.index, monthly["revenue_zmw"])
+ax.set_title("revenue_zmw")
+fig.savefig(FIG + "fig_8_2_line_before.png", dpi=200)
+plt.close(fig)

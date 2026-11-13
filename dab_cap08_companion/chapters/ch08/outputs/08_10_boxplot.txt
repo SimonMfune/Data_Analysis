@@ -1,0 +1,12 @@
+province
+Lusaka          16.90
+Copperbelt      29.90
+Central         30.30
+Southern        43.60
+Eastern         58.90
+North-Western   60.30
+Muchinga        74.60
+Luapula         76.20
+Northern        76.50
+Western         77.10
+Name: delivery_hours, dtype: float64

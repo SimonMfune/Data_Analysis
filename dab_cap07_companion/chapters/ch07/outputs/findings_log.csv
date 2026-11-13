@@ -1,0 +1,6 @@
+id,question,evidence,status,next_step
+F1,Does spending cluster around month-end?,65.0 vs 49.9 orders/day (Listing 7.8),Confirmed,Time promotions for the 25th
+F2,Is December the peak month?,Dec 2025 revenue 1.99x other 2025 months (7.7),Confirmed,Stock up from October
+F3,Are repeat purchases falling?,90-day repeat 79.1% -> 86.5% (7.15),Rejected,Look elsewhere for the revenue worry
+F4,Are distant provinces served worse?,"Late: Western 20.1%, Lusaka 10.8% (7.16)",Confirmed,Review courier contracts
+F5,Do customers who return more spend less?,Spearman +0.39 per order (7.12),Rejected,Check whether bigger baskets drive both

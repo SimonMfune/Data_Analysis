@@ -1,0 +1,9 @@
+customers: 4270
+spend_median_zmw: 9320
+spend_by_age_band_median: {'18-24': 8522.0, '25-34': 9272.0, '35-44': 9332.0,
+    '45-54': 9469.0, '55+': 10309.0}
+late_pct_by_province: {'Central': 11.2, 'Copperbelt': 9.3, 'Eastern': 13.4,
+    'Luapula': 17.3, 'Lusaka': 10.8, 'Muchinga': 16.5, 'North-Western': 17.1,
+    'Northern': 20.1, 'Southern': 11.4, 'Western': 20.1}
+orders_per_day_by_weekday: {'Monday': 52.3, 'Tuesday': 51.3, 'Wednesday': 51.5,
+    'Thursday': 53.7, 'Friday': 60.5, 'Saturday': 60.3, 'Sunday': 49.0}

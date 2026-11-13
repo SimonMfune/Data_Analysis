@@ -1,0 +1,5 @@
+year            2023  2024  2025
+category                        
+Electronics     3.75  6.48 10.14
+Groceries       1.51  2.58  3.86
+Home & Kitchen  1.46  2.52  3.80

@@ -1,0 +1,5 @@
+rfm = customers[["customer_id", "recency_days", "orders", "total_spend_zmw"]].copy()
+rfm["R"] = pd.qcut(rfm["recency_days"].rank(method="first"), 5, labels=[5, 4, 3, 2, 1]).astype(int)
+rfm["F"] = pd.qcut(rfm["orders"].rank(method="first"), 5, labels=[1, 2, 3, 4, 5]).astype(int)
+rfm["M"] = pd.qcut(rfm["total_spend_zmw"].rank(method="first"), 5, labels=[1, 2, 3, 4, 5]).astype(int)
+print(rfm.head())

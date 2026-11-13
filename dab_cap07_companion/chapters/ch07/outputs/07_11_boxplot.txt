@@ -1,0 +1,5 @@
+channel
+App        644.17
+Web        651.06
+WhatsApp   648.82
+Name: amount_zmw, dtype: float64

@@ -1,0 +1,9 @@
+order_datetime
+Monday      0.97
+Tuesday     0.95
+Wednesday   0.95
+Thursday    0.99
+Friday      1.12
+Saturday    1.12
+Sunday      0.91
+Name: count, dtype: float64

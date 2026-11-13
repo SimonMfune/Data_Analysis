@@ -1,0 +1,5 @@
+category  Electronics  Groceries  Home & Kitchen  Other
+year                                                   
+2023            32.80      13.20           12.80  41.30
+2024            33.10      13.20           12.90  40.80
+2025            34.10      13.00           12.80  40.10

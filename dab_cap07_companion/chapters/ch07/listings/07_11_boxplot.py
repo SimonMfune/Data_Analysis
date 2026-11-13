@@ -1,0 +1,11 @@
+ax = orders.boxplot(column="amount_zmw", by="channel", figsize=(8, 3.6), grid=False,
+                    vert=False, flierprops={"markersize": 2, "alpha": 0.3})
+ax.set_title("")
+plt.suptitle("")
+ax.set_xlabel("Order value (K)")
+ax.set_ylabel("")
+ax.xaxis.set_major_formatter("{x:,.0f}")
+plt.tight_layout()
+plt.savefig(FIG + "fig_7_4_boxplot.png", dpi=200)
+plt.close()
+print(orders.groupby("channel")["amount_zmw"].median())

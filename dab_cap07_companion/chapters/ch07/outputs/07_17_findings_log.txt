@@ -1,0 +1,5 @@
+F1  Confirmed  Does spending cluster around month-end?
+F2  Confirmed  Is December the peak month?
+F3  Rejected   Are repeat purchases falling?
+F4  Confirmed  Are distant provinces served worse?
+F5  Rejected   Do customers who return more spend less?

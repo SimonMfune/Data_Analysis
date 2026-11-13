@@ -1,0 +1,13 @@
+signup_channel      App      Web  WhatsApp
+province                                  
+Lusaka           931.00   931.00    952.00
+Copperbelt     1,054.00   996.00  1,026.00
+Northern       1,099.00 1,057.00  1,164.00
+Western        1,012.00 1,036.00    957.00
+top_category  Electronics  Groceries  Fashion  Baby & Kids
+age_band                                                  
+18-24               54.30       9.50    10.00         5.40
+25-34               50.80      11.40    10.70         4.20
+35-44               54.20      10.80    10.60         4.50
+45-54               51.70      11.80    10.90         4.10
+55+                 54.00       7.40    11.90         4.50

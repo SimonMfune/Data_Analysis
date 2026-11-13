@@ -1,0 +1,14 @@
+province
+Lusaka       33.10
+Copperbelt   22.20
+Southern      9.70
+Central       8.40
+Eastern       6.40
+Name: proportion, dtype: float64
+age_band
+18-24     221
+25-34    1828
+35-44    1503
+45-54     542
+55+       176
+Name: count, dtype: int64

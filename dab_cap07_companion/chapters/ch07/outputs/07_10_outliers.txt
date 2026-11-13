@@ -1,0 +1,4 @@
+Q1 K292.44  Q3 K1,289.58  IQR K997.14  upper fence K2,785.29
+IQR outliers: 4,432 orders (7.5%)
+|z| > 3: 1,399 orders
+Outlier orders containing a phone or solar product: 52.3%

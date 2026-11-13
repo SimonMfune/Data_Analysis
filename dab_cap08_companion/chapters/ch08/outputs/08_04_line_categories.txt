@@ -1,0 +1,5 @@
+month
+2023   32.80
+2024   33.10
+2025   34.10
+Name: Electronics share (%), dtype: float64
