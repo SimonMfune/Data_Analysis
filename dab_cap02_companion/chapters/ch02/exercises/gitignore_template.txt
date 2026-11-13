@@ -1,0 +1,11 @@
+# Secrets — never commit these
+.env
+.streamlit/secrets.toml
+
+# Data you have not been given permission to publish
+data/raw/
+
+# Python and notebook clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

@@ -1,0 +1,9 @@
+delivery_fees_wrong
+-------------------
+            3745465
+(1 row)
+
+delivery_fees_right
+-------------------
+            2279722
+(1 row)

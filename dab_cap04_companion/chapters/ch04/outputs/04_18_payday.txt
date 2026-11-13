@@ -1,0 +1,5 @@
+period                       orders  days  orders_per_day
+---------------------------  ------  ----  --------------
+Payday window (25th to 2nd)   19773   304            65.0
+Rest of month                 39496   792            49.9
+(2 rows)

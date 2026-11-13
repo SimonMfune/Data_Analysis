@@ -1,0 +1,12 @@
+channel          App          Web    WhatsApp
+year                                         
+2023      4865687.90   4133892.02  2459833.69
+2024      8318663.06   7133536.74  4117270.05
+2025     11809543.47  11317763.35  6560516.21
+
+Share of 2025 revenue by channel:
+channel
+App         39.8
+Web         38.1
+WhatsApp    22.1
+Name: 2025, dtype: float64

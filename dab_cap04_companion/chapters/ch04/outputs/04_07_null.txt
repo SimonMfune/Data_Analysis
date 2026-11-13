@@ -1,0 +1,9 @@
+all_orders  with_campaign  without_campaign
+----------  -------------  ----------------
+     62059           8187             53872
+(1 row)
+
+undelivered
+-----------
+        224
+(1 row)

@@ -1,0 +1,11 @@
+category
+---------------
+Baby & Kids
+Electronics
+Fashion
+Groceries
+Health & Beauty
+Home & Kitchen
+Household
+Stationery
+(8 rows)

@@ -1,0 +1,8 @@
+order_id  order_datetime       customer            province  status
+--------  -------------------  ------------------  --------  ----------
+KB162059  2025-12-31 23:48:29  Taonga Kasonde      Lusaka    Processing
+KB162058  2025-12-31 23:48:26  Memory Siwale       Lusaka    Processing
+KB162057  2025-12-31 23:43:02  Joseph Mbewe        Muchinga  Processing
+KB162056  2025-12-31 23:25:17  Isaac Mbewe         Northern  Processing
+KB162055  2025-12-31 23:08:48  Nchimunya Hachinga  Southern  Processing
+(5 rows)

@@ -1,0 +1,12 @@
+year  province    revenue_zmw  rank_in_year
+----  ----------  -----------  ------------
+2023  Lusaka       3873065.20             1
+2023  Copperbelt   2587111.50             2
+2023  Southern     1145858.26             3
+2024  Lusaka       6862960.20             1
+2024  Copperbelt   4361152.90             2
+2024  Southern     1928663.21             3
+2025  Lusaka      10786251.41             1
+2025  Copperbelt   6568928.37             2
+2025  Southern     2922381.65             3
+(9 rows)

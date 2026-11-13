@@ -1,0 +1,8 @@
+product_name                         category       price
+-----------------------------------  -----------  -------
+Chilenje Co. Mobile Phones 340g      Electronics  8570.00
+Luangwa Prestige Mobile Phones 370g  Electronics  7619.99
+Kafue Prestige Mobile Phones 310g    Electronics  6707.99
+Mopane Home Mobile Phones 360g       Electronics  6065.99
+Kariba Everyday Solar & Power 9.9kg  Electronics  5957.00
+(5 rows)

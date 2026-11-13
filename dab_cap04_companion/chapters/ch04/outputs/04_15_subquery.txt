@@ -1,0 +1,9 @@
+province       orders  avg_order_zmw
+-------------  ------  -------------
+Northern         2580        1169.43
+Western          1842        1119.45
+Luapula          2065        1112.05
+North-Western    3116        1109.96
+Copperbelt      12276        1103.56
+Muchinga         1121        1097.42
+(6 rows)

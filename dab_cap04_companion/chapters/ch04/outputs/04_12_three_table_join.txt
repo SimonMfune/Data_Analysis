@@ -1,0 +1,11 @@
+category         orders  units  item_revenue_zmw
+---------------  ------  -----  ----------------
+Electronics       11328  12709       20372758.21
+Groceries         28238  72625        7946019.96
+Home & Kitchen    12096  15160        7786231.89
+Fashion           11606  14526        7474822.16
+Stationery        13320  29348        4843336.85
+Baby & Kids        9477  19797        4721061.85
+Health & Beauty   13729  17575        4686826.89
+Household         15617  34716        2885648.68
+(8 rows)

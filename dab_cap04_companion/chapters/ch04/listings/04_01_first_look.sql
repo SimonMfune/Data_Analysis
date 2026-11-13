@@ -1,0 +1,3 @@
+SELECT *
+FROM suppliers
+LIMIT 5;

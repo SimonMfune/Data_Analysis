@@ -1,0 +1,8 @@
+supplier_id  supplier_name         country               lead_time_days
+-----------  --------------------  --------------------  --------------
+S001         Kabulonga Ltd         United Arab Emirates              40
+S002         Kariba Imports        South Africa                      43
+S003         Zambezi Distributors  Zambia                             9
+S004         Sunrise Wholesale     Zambia                             6
+S005         Mulungushi Trading    South Africa                      17
+(5 rows)

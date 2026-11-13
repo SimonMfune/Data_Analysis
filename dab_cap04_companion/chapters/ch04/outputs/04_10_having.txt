@@ -1,0 +1,9 @@
+province       orders  avg_fee_zmw
+-------------  ------  -----------
+Western          1313       137.12
+Northern         1742       131.06
+Muchinga          779       124.97
+Luapula          1414       124.83
+North-Western    2176       113.00
+Eastern          2530       101.00
+(6 rows)

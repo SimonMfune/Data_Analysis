@@ -1,0 +1,4 @@
+payments    total_zmw  average_zmw  smallest_zmw  largest_zmw
+--------  -----------  -----------  ------------  -----------
+   58867  61586410.80      1046.20          8.79     16536.06
+(1 row)

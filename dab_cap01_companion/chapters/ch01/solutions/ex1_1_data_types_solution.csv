@@ -1,0 +1,21 @@
+column,quantitative_or_qualitative,discrete_or_continuous,noir_scale,meaningful_statistic,not_meaningful_statistic,justification
+customer_id,Qualitative,—,Nominal,Count of distinct customers,Mean,A label that identifies a customer; arithmetic on it is meaningless.
+first_name,Qualitative,—,Nominal,Most common name (mode),Median,Names have no order or magnitude.
+last_name,Qualitative,—,Nominal,Count per surname,Mean,As above. Note: personal data — rarely needed for analysis.
+gender,Qualitative,—,Nominal,Proportion F/M,Median,Categories with no order.
+birth_year,Quantitative,Discrete,Interval,Difference between two birth years,Ratio (1990 is not '1.0005 times' 1989),"Equal steps, but year 0 is a convention, not an absence of time."
+age,Quantitative,Discrete (whole years; age itself is continuous),Ratio,Mean age; 'twice as old',—,"Zero means no age has elapsed, so ratios are meaningful."
+province,Qualitative,—,Nominal,Count per province,Mean,Ten unordered categories.
+town,Qualitative,—,Nominal,Mode,Median,Unordered categories.
+phone,Qualitative,—,Nominal,Count of distinct numbers,Mean,"Digits, but a label. Note: pandas reads +260… as an integer unless told otherwise (Chapter 6)."
+signup_date,Quantitative,Discrete (days),Interval,Days between two sign-ups; earliest/latest,Ratio of two dates,Dates have equal intervals but an arbitrary zero (the calendar's starting point).
+signup_channel,Qualitative,—,Nominal,Share by channel,Mean,"Web, App, WhatsApp have no order."
+loyalty_tier,Qualitative,—,Ordinal,Median tier,Mean,"None < Bronze < Silver < Gold, but gaps are unequal. Note: pandas reads the text 'None' as a missing value — a trap you will meet in Chapter 6."
+total_orders,Quantitative,Discrete,Ratio,Mean orders; 'twice as many',—,A count with a true zero.
+total_spend_zmw,Quantitative,Continuous (in practice),Ratio,"Mean, total, percentage difference",—,Money has a true zero; ngwee steps are small enough to treat as continuous.
+avg_basket_zmw,Quantitative,Continuous,Ratio,"Mean, ratio between customers",—,Derived from two ratio variables.
+preferred_payment,Qualitative,—,Nominal,Share by method,Median,Unordered categories.
+satisfaction_rating,Qualitative (often treated as quantitative),Discrete,Ordinal,Median; distribution of 1–5,Claims such as '5% more satisfied',Ordered categories with unknown gaps. Means are common in practice; see the Research Practice box.
+nps_score,Qualitative (often treated as quantitative),Discrete,Ordinal (debated),Median; share scoring 9–10,Ratio ('twice as likely to recommend'),0–10 likelihood rating; gaps are not demonstrably equal.
+has_app,Qualitative,—,Nominal (binary),Proportion True,Median,"Two unordered categories. Stored as True/False, which Python can sum — useful for counting, but still nominal."
+last_review_text,Qualitative (unstructured text),—,Not on a NOIR scale,Count of reviews; themes (Chapter 14),Any arithmetic,Free text has no single value to measure until it is coded into categories or scores.

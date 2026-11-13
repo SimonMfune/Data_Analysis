@@ -1,0 +1,13 @@
+customer_id  customer           province    orders  revenue_zmw
+-----------  -----------------  ----------  ------  -----------
+CU03794      Bupe Bwalya        Lusaka          74     73873.42
+CU04552      Maureen Mwale      Southern        31     68319.27
+CU02203      Faith Sakala       Eastern         40     62540.04
+CU01831      Emmanuel Banda     Lusaka          58     59461.87
+CU00392      Peter Chama        Central         60     58201.87
+CU00307      Patricia Kangwa    Lusaka          48     55449.88
+CU00952      Chola Mwale        Lusaka          78     53836.85
+CU04423      Emmanuel Simwanza  Northern        45     53576.32
+CU01502      Memory Bwalya      Lusaka          43     53401.64
+CU00070      Patrick Musonda    Copperbelt      44     52909.88
+(10 rows)

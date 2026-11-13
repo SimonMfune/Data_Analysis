@@ -1,0 +1,8 @@
+product_name                      category    list_price_zmw
+--------------------------------  ----------  --------------
+Mukuba Plus School Bags 510g      Stationery          202.99
+Baobab Basics School Bags 720g    Stationery          224.50
+Mopane Plus School Bags 1.2kg     Stationery          272.00
+Tanganyika Co. School Bags 490g   Stationery          290.00
+Kariba Everyday School Bags 500g  Stationery          331.99
+(5 rows)

@@ -1,0 +1,8 @@
+method            payments    total_zmw  average_zmw
+----------------  --------  -----------  -----------
+Airtel Money         17694  18531646.57      1047.34
+MTN MoMo             15403  15996370.81      1038.52
+Cash on Delivery     11730  12178738.35      1038.26
+Card                 10544  11103767.07      1053.09
+Zamtel Kwacha         3496   3775888.00      1080.06
+(5 rows)

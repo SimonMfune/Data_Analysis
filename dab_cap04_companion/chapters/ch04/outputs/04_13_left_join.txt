@@ -1,0 +1,4 @@
+customers_with_no_orders
+------------------------
+                     712
+(1 row)
