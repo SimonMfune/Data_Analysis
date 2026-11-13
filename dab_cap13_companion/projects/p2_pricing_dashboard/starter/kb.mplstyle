@@ -1,0 +1,47 @@
+# Kwacha Basket house style for Matplotlib  (Data Analysis for Beginners, Chapter 8)
+# Use with:  plt.style.use("shared/kb.mplstyle")
+
+# Figure and export
+figure.figsize:      8, 4.5
+figure.facecolor:    white
+figure.dpi:          100
+savefig.dpi:         300
+savefig.bbox:        tight
+savefig.pad_inches:  0.1
+
+# Text: Inter if installed, otherwise a common sans-serif. Ink is brand navy.
+font.family:         sans-serif
+font.sans-serif:     Inter, Arial, Helvetica, DejaVu Sans
+font.size:           10
+text.color:          1B2A41
+axes.titlesize:      12
+axes.titleweight:    bold
+axes.titlelocation:  left
+axes.titlepad:       12
+axes.labelsize:      10
+axes.labelcolor:     1B2A41
+
+# Axes: no box, light horizontal grid behind the data
+axes.edgecolor:      9AA5B1
+axes.linewidth:      0.8
+axes.spines.top:     False
+axes.spines.right:   False
+axes.grid:           True
+axes.grid.axis:      y
+axes.axisbelow:      True
+grid.color:          E3E7EB
+grid.linewidth:      0.8
+xtick.color:         4A5561
+ytick.color:         4A5561
+xtick.labelsize:     9
+ytick.labelsize:     9
+
+# Series colours in a fixed order, validated for colour-blind separation and contrast:
+# teal, gold, blue, coral, purple, green
+axes.prop_cycle:     cycler('color', ['0E9AA7', 'A8841A', '2F5D9E', 'C8553D', '6B4E9B', '5E8C31'])
+lines.linewidth:     2
+lines.markersize:    5
+patch.edgecolor:     white
+patch.linewidth:     0.8
+legend.frameon:      False
+legend.fontsize:     9

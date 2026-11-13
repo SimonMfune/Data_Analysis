@@ -1,0 +1,5 @@
+Trained on 480 products, tested on 120
+Test MAPE 15.1%   MAE K59.62   R² 0.915
+80% interval: x0.785 to x1.238 of the model price
+Test prices inside their interval: 75.0%
+Saved price_model.joblib (refitted on all 600 products)

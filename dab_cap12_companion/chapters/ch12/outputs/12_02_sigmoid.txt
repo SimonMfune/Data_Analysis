@@ -1,0 +1,5 @@
+log-odds -4  ->  odds   0.018  ->  probability 0.018
+log-odds -2  ->  odds   0.135  ->  probability 0.119
+log-odds  0  ->  odds   1.000  ->  probability 0.500
+log-odds  2  ->  odds   7.389  ->  probability 0.881
+log-odds  4  ->  odds  54.598  ->  probability 0.982

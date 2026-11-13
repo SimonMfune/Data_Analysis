@@ -1,0 +1,8 @@
+2,525 customers active at 30 September 2025; 516 churned in the next 90 days (20.4%)
+                       customers  churn_rate
+days since last order                       
+0-14                         863       0.088
+15-30                        514       0.109
+31-60                        513       0.183
+61-90                        262       0.260
+91-180                       373       0.595

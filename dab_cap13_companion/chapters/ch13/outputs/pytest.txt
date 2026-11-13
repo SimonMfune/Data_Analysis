@@ -1,0 +1,17 @@
+test_app.py::test_home_suggests_guarded_price PASSED
+test_app.py::test_home_default_matches_chapter_11 PASSED
+test_app.py::test_navigation_shell_runs PASSED
+test_app.py::test_whatif_and_model_card_render PASSED
+test_app.py::test_batch_good_and_bad_files PASSED
+test_rules.py::test_round_to_ending[66.24-66.0] PASSED
+test_rules.py::test_round_to_ending[66.3-66.5] PASSED
+test_rules.py::test_round_to_ending[66.8-66.99] PASSED
+test_rules.py::test_round_to_ending[2729.61-2729.5] PASSED
+test_rules.py::test_round_to_ending[9.97-9.99] PASSED
+test_rules.py::test_never_below_cost_plus_ten_percent PASSED
+test_rules.py::test_artefact_matches_chapter_11 PASSED
+test_rules.py::test_interval_coverage_close_to_80_percent PASSED
+test_rules.py::test_validation_accepts_good_file PASSED
+test_rules.py::test_validation_reports_each_bad_row PASSED
+test_rules.py::test_missing_column_is_fatal PASSED
+============================== 16 passed in 3.64s ==============================

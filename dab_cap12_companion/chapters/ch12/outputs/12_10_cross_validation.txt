@@ -1,0 +1,3 @@
+Five behaviour features          AUC 0.783 ± 0.034   AP 0.540 ± 0.058
+All features                     AUC 0.771 ± 0.033   AP 0.507 ± 0.057
+All features, stronger penalty   AUC 0.775 ± 0.036   AP 0.521 ± 0.058

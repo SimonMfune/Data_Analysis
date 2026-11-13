@@ -1,0 +1,28 @@
+Numbers (per one standard deviation):
+                     coefficient  odds_ratio
+orders_last_180d          -0.352       0.704
+orders_total              -0.170       0.844
+orders_last_90d           -0.074       0.929
+spend_last_180d_zmw       -0.051       0.950
+avg_rating_given          -0.029       0.971
+pct_orders_campaign       -0.005       0.995
+tenure_days                0.003       1.003
+avg_basket_zmw             0.004       1.004
+returns_count              0.006       1.006
+age                        0.021       1.022
+pct_orders_delayed         0.030       1.030
+app_share                  0.091       1.095
+recency_days               0.812       2.253
+
+One SD of recency_days = 42.5 days; of orders_last_180d = 3.7 orders
+
+Provinces (vs Central):
+province_Copperbelt       1.38
+province_Eastern          1.93
+province_Luapula          1.28
+province_Lusaka           1.03
+province_Muchinga         3.08
+province_North-Western    1.43
+province_Northern         1.30
+province_Southern         1.46
+province_Western          1.09

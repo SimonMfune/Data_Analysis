@@ -1,0 +1,7 @@
+Gross margin a churner would bring in the next six months: about K1,253
+Flagging a real churner is worth 0.30 x K1,253 - K150 = K226; flagging a stayer costs K150
+
+Chosen on training data: threshold 0.43 (K10,853 per 1,000 customers)
+Test set, chosen threshold     : net benefit K   4,991 for 632 customers
+Test set, default 0.50         : net benefit K   4,835 for 632 customers
+Test set, voucher for everyone : net benefit K -46,306 for 632 customers

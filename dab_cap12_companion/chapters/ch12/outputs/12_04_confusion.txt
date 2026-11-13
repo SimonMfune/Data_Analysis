@@ -1,0 +1,8 @@
+TN 478   FP 25
+FN 91   TP 38
+
+Accuracy  (TP+TN)/all   = 0.816
+Precision TP/(TP+FP)    = 0.603
+Recall    TP/(TP+FN)    = 0.295
+F1        harmonic mean = 0.396
+scikit-learn agrees: precision 0.603, recall 0.295, F1 0.396
