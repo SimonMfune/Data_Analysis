@@ -1,0 +1,12 @@
+neg = themes[themes["sentiment"].isin(["negative", "mixed"])]
+counts = neg["themes"].value_counts().sort_values()
+fig, ax = plt.subplots(figsize=(8, 3.6))
+bars = ax.barh(counts.index.str.replace("_", " "), counts.values, color="#C8553D", height=0.6)
+ax.bar_label(bars, padding=4, fontsize=9)
+ax.set_xlabel("Negative or mixed reviews mentioning the theme (of 1,000 reviews)")
+ax.set_title("Delivery dominates complaints; payment and quality follow")
+ax.grid(axis="y", visible=False)
+ax.grid(axis="x", visible=True)
+fig.savefig(FIG + "fig_14_3_complaint_themes.png", dpi=200)
+plt.close(fig)
+print(counts.sort_values(ascending=False).to_string())

@@ -1,0 +1,11 @@
+Every returned review_id exists and none is missing: True
+Sentiment agrees with the star rating for 97.8% of reviews
+sentiment  mixed  negative  positive
+rating                              
+1              1        11         0
+2              4        60         0
+3            202        17         0
+4              0         0       412
+5              0         0       293
+
+20 random reviews saved to outputs/human_check_sample.csv for a person to check

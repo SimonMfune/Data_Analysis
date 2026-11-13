@@ -1,0 +1,5 @@
+1,000 reviews: 75,749 characters, about 18,937 tokens
+orders.csv as text: about 1,322,032 tokens
+A per-province summary of orders: about 86 tokens
+
+One pass over all reviews at the example prices: about US$0.049

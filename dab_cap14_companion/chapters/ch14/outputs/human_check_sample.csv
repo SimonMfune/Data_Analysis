@@ -1,0 +1,21 @@
+review_id,rating,sentiment,themes,review_text
+RV02177,5,positive,"['price_value', 'product_quality']","Good quality, exactly as pictured. Cheaper than Kamwala and no transport costs. Twalumba."
+RV01168,2,negative,"['delivery', 'product_quality']","Poor quality, would not buy again. The courier could not find my house."
+RV05272,5,positive,"['delivery', 'product_quality']","Came earlier than expected, well done. The solar & power is strong and well made."
+RV01184,2,negative,"['delivery', 'customer_service']","Customer care did not respond. Late delivery, I had to call them twice."
+RV02132,4,positive,"['delivery', 'product_quality']","Good quality, exactly as pictured. Delivery was fast, arrived the next day."
+RV01238,5,positive,"['delivery', 'price_value']","Good value for money. Delivered to Mkushi on time, no stress."
+RV00771,2,negative,"['delivery', 'price_value']","Price went up since last month. Waited almost a week, no updates."
+RV05101,2,negative,"['delivery', 'customer_service']","Waited almost a week, no updates. Customer care did not respond."
+RV08184,4,positive,['delivery'],"The driver called before arriving, very professional. They kept me updated throughout."
+RV04220,2,mixed,['delivery'],"Late delivery, I had to call them twice. Late delivery, I had to call them twice."
+RV08803,4,positive,"['delivery', 'product_quality']","Good quality, exactly as pictured. The driver called before arriving, very professional."
+RV08740,5,positive,"['price_value', 'product_quality']",Quality is better than what I find in town. Good value for money.
+RV00879,3,mixed,"['price_value', 'product_quality']",Price went up since last month. The hair care is strong and well made.
+RV08236,2,negative,"['delivery', 'payment']",Delivery to Lusaka took too long. Zamtel Kwacha payment failed twice before it worked.
+RV00021,3,mixed,"['delivery', 'price_value']","Late delivery, I had to call them twice. Fair price compared to the shops."
+RV03784,4,positive,"['product_quality', 'payment']","Original product, very happy. Easy checkout on the app. Zikomo!"
+RV04527,4,positive,"['delivery', 'product_quality']","Good quality, exactly as pictured. The driver called before arriving, very professional."
+RV05175,5,positive,"['delivery', 'payment']","The driver called before arriving, very professional. Easy checkout on the app."
+RV07188,4,positive,"['delivery', 'customer_service', 'pickup_point']","Friendly staff at the pickup point. Came earlier than expected, well done."
+RV06503,4,positive,"['delivery', 'payment']",Mobile money payment went through instantly. They kept me updated throughout. Twalumba.

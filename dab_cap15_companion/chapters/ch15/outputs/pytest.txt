@@ -1,0 +1,11 @@
+test_app.py::test_full_flow_with_the_kwacha_basket_database PASSED
+test_app.py::test_second_dataset_fintech_loans PASSED
+test_workspace.py::test_sql_guard_blocks_changes PASSED
+test_workspace.py::test_not_a_database_is_rejected PASSED
+test_workspace.py::test_logistic_matches_chapter_12 PASSED
+test_workspace.py::test_linear_on_pricing PASSED
+test_workspace.py::test_other_dataset_works PASSED
+test_workspace.py::test_insights_validation_accepts_honest_and_catches_careless PASSED
+test_workspace.py::test_invented_feature_is_caught PASSED
+test_workspace.py::test_report_contains_disclosure PASSED
+============================== 10 passed in 5.60s ==============================

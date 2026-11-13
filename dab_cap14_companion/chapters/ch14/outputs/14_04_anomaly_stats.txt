@@ -1,0 +1,28 @@
+{
+  "period": "January 2025",
+  "total_revenue_zmw": 1812201.57,
+  "change_vs_previous_pct": -39.0,
+  "method": "each province vs its own trend over the previous 12 months; flag |z| >= 2",
+  "anomalies": [
+    {
+      "province": "Copperbelt",
+      "revenue_zmw": 377318.01,
+      "change_vs_typical_pct": -51.0,
+      "z_score": -2.93
+    },
+    {
+      "province": "Central",
+      "revenue_zmw": 156270.11,
+      "change_vs_typical_pct": -48.8,
+      "z_score": -2.91
+    },
+    {
+      "province": "Lusaka",
+      "revenue_zmw": 629826.15,
+      "change_vs_typical_pct": -44.3,
+      "z_score": -2.55
+    }
+  ]
+}
+
+About 125 tokens, instead of 38,274 for the raw KPI file

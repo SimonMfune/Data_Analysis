@@ -1,0 +1,4 @@
+Call me on [phone] or [phone], or write to [email]
+
+Sent per review: ['review_id', 'text']; not sent: customer, province, date, rating
+Contact details found in the 1,000 reviews: 0

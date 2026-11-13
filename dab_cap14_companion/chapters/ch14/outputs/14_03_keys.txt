@@ -1,0 +1,7 @@
+LLM_PROVIDER       (not set)
+LLM_MODEL          (not set)
+OPENAI_API_KEY     (not set)
+ANTHROPIC_API_KEY  (not set)
+GOOGLE_API_KEY     (not set)
+
+.env is listed in .gitignore: True

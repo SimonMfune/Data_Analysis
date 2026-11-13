@@ -1,0 +1,7 @@
+themes
+delivery            167
+product_quality     121
+payment             115
+price_value          87
+customer_service     69
+pickup_point         37

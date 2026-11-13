@@ -1,0 +1,4 @@
+Unsupported numbers (honest mock): none
+
+Careless reply: January 2025: total revenue was K1,812,202, -39.0% on the previous month. Copperbelt stood out at K377,318, 26.0% below its typical month (z = -2.9). Central stood out at K156,270, 23.8% below its typ ...
+Unsupported numbers (careless mock): [26.0, 23.8, 19.3]

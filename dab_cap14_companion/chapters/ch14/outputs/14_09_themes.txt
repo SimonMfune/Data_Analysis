@@ -1,0 +1,12 @@
+review_id sentiment                                     themes
+  RV00009  positive [delivery, customer_service, pickup_point]
+  RV00021     mixed                    [delivery, price_value]
+  RV00034  positive                    [delivery, price_value]
+  RV00061  positive                [delivery, product_quality]
+  RV00063     mixed                                 [delivery]
+  RV00078  positive                        [delivery, payment]
+
+A careless reply:
+  attempt 1 rejected: 1 validation error for ReviewLabel
+  attempt 2 rejected: 1 validation error for ReviewLabel
+  No valid labels after retrying

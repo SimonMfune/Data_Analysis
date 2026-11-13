@@ -1,0 +1,3 @@
+Provider: mock   model: mock-1
+Tokens in/out: 22/32   seconds: 0.0
+[mock reply] This is the offline practice provider. Set LLM_PROVIDER and LLM_MODEL in .env to send this prompt to a real model.
