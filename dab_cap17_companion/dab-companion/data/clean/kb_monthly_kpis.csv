@@ -1,0 +1,2874 @@
+month,category,province,orders,units,revenue_zmw,gross_margin_zmw,returns
+2023-01,Baby & Kids,Central,6,11,2890.76,862.79,0
+2023-01,Baby & Kids,Copperbelt,22,50,11848.43,4263.82,0
+2023-01,Baby & Kids,Eastern,9,24,5489.53,1857.01,0
+2023-01,Baby & Kids,Luapula,3,7,2558.9,864.56,0
+2023-01,Baby & Kids,Lusaka,35,76,19549.14,6483.97,2
+2023-01,Baby & Kids,Muchinga,1,1,101.83,37.88,0
+2023-01,Baby & Kids,North-Western,7,13,2541.08,1097.9,0
+2023-01,Baby & Kids,Northern,5,7,1195.65,567.49,0
+2023-01,Baby & Kids,Southern,10,22,3956.29,1285.03,0
+2023-01,Baby & Kids,Western,2,3,524.25,185.62,0
+2023-01,Electronics,Central,9,9,21444.11,7724.6,0
+2023-01,Electronics,Copperbelt,38,43,50166.2,15683.75,0
+2023-01,Electronics,Eastern,10,11,15677.93,6337.37,0
+2023-01,Electronics,Luapula,5,5,8168.58,2273.4,0
+2023-01,Electronics,Lusaka,32,39,62364.44,23484.54,0
+2023-01,Electronics,North-Western,7,8,7539.83,3009.73,0
+2023-01,Electronics,Northern,8,9,18281.56,5077.64,2
+2023-01,Electronics,Southern,9,10,10916.73,3251.51,0
+2023-01,Electronics,Western,4,4,1651.08,688.34,0
+2023-01,Fashion,Central,7,10,3593.62,1396.33,0
+2023-01,Fashion,Copperbelt,28,33,15673.36,6513.28,0
+2023-01,Fashion,Eastern,9,9,2000.07,754.68,0
+2023-01,Fashion,Luapula,2,3,2032.34,891.93,0
+2023-01,Fashion,Lusaka,62,79,34405.96,14956.49,2
+2023-01,Fashion,Muchinga,1,1,329.18,159.7,1
+2023-01,Fashion,North-Western,5,6,1836.38,658.22,0
+2023-01,Fashion,Northern,10,12,6156.22,2756.65,1
+2023-01,Fashion,Southern,15,21,10392.56,4404.7,0
+2023-01,Fashion,Western,6,8,2857.82,1086.57,0
+2023-01,Groceries,Central,33,82,8843.68,3300.75,0
+2023-01,Groceries,Copperbelt,65,173,13886.07,5541.83,1
+2023-01,Groceries,Eastern,22,69,6487.95,2503.06,1
+2023-01,Groceries,Luapula,2,2,58.82,18.36,0
+2023-01,Groceries,Lusaka,99,233,22934.1,8839.08,1
+2023-01,Groceries,Muchinga,1,4,367.54,130.01,0
+2023-01,Groceries,North-Western,14,25,1713.12,566.18,0
+2023-01,Groceries,Northern,17,51,4833.25,2131.81,0
+2023-01,Groceries,Southern,36,87,8729.53,3382.34,2
+2023-01,Groceries,Western,15,38,2300.76,813.2,0
+2023-01,Health & Beauty,Central,8,10,2331.89,800.21,0
+2023-01,Health & Beauty,Copperbelt,31,38,10778.64,3652.2,0
+2023-01,Health & Beauty,Eastern,14,17,3273.01,1292.53,0
+2023-01,Health & Beauty,Lusaka,52,67,13010.82,4376.55,2
+2023-01,Health & Beauty,North-Western,7,10,2776.68,992.11,0
+2023-01,Health & Beauty,Northern,5,6,1449.6,563.19,0
+2023-01,Health & Beauty,Southern,16,21,5328.03,2162.37,0
+2023-01,Health & Beauty,Western,4,6,1230.84,506.89,0
+2023-01,Home & Kitchen,Central,12,17,5818.33,2161.15,0
+2023-01,Home & Kitchen,Copperbelt,25,37,12377.31,4378.03,0
+2023-01,Home & Kitchen,Eastern,5,5,2471.97,1026.14,1
+2023-01,Home & Kitchen,Luapula,3,6,2667.45,1134.2,0
+2023-01,Home & Kitchen,Lusaka,53,59,27933.45,10338.14,0
+2023-01,Home & Kitchen,Muchinga,4,4,1006.15,307.74,0
+2023-01,Home & Kitchen,North-Western,7,9,2581.14,998.57,0
+2023-01,Home & Kitchen,Northern,7,10,4425.8,1491.16,0
+2023-01,Home & Kitchen,Southern,16,20,7591.7,2992.97,0
+2023-01,Home & Kitchen,Western,4,4,1416.98,569.84,0
+2023-01,Household,Central,16,32,2519.86,960.79,0
+2023-01,Household,Copperbelt,34,79,6228.29,2397.82,0
+2023-01,Household,Eastern,8,20,1421.61,449.87,0
+2023-01,Household,Luapula,5,10,744.05,257.61,0
+2023-01,Household,Lusaka,62,147,9845.55,3770.84,2
+2023-01,Household,Muchinga,7,22,1973.99,856.31,0
+2023-01,Household,North-Western,7,15,892.01,309.98,0
+2023-01,Household,Northern,11,26,1710.27,686.91,1
+2023-01,Household,Southern,14,25,1775.53,662.34,1
+2023-01,Household,Western,5,10,739.14,286.4,0
+2023-01,Stationery,Central,12,33,4953.85,1834.12,1
+2023-01,Stationery,Copperbelt,53,140,18490.11,6666.37,1
+2023-01,Stationery,Eastern,19,50,6316.86,2593.62,1
+2023-01,Stationery,Luapula,5,10,1191.1,464.99,0
+2023-01,Stationery,Lusaka,96,243,36337.24,13216.53,1
+2023-01,Stationery,Muchinga,3,7,583.68,245.95,0
+2023-01,Stationery,North-Western,16,36,4387.1,1587.43,0
+2023-01,Stationery,Northern,10,35,6144.59,1923.07,0
+2023-01,Stationery,Southern,19,41,6361.75,2321.89,1
+2023-01,Stationery,Western,8,23,3438.79,1384.95,0
+2023-02,Baby & Kids,Central,8,16,3272.37,1385.75,0
+2023-02,Baby & Kids,Copperbelt,15,26,4638.71,1859.42,0
+2023-02,Baby & Kids,Eastern,7,16,2252.2,760.21,0
+2023-02,Baby & Kids,Luapula,4,6,1489.71,535.05,0
+2023-02,Baby & Kids,Lusaka,33,72,14168.47,4620.2,1
+2023-02,Baby & Kids,North-Western,1,1,149.99,30.15,0
+2023-02,Baby & Kids,Northern,9,22,5570.63,1659.47,0
+2023-02,Baby & Kids,Southern,14,28,5614.72,1811.52,0
+2023-02,Baby & Kids,Western,7,18,3379.56,843.6,0
+2023-02,Electronics,Central,7,9,15784.13,4754.56,0
+2023-02,Electronics,Copperbelt,28,30,36106.4,11415.22,1
+2023-02,Electronics,Eastern,8,8,8489.99,2924.92,0
+2023-02,Electronics,Luapula,1,2,1349.74,417.27,0
+2023-02,Electronics,Lusaka,42,43,54506.04,16331.07,0
+2023-02,Electronics,Muchinga,6,6,6928.68,2439.7,0
+2023-02,Electronics,North-Western,3,3,8471.96,2225.69,0
+2023-02,Electronics,Northern,15,15,25416.51,9129.75,0
+2023-02,Electronics,Southern,15,15,18434.77,6301.58,1
+2023-02,Electronics,Western,5,6,5617.17,2121.23,0
+2023-02,Fashion,Central,11,11,4017.77,1721.46,0
+2023-02,Fashion,Copperbelt,28,35,16246.34,6567.37,2
+2023-02,Fashion,Eastern,9,10,4883.9,2135.08,0
+2023-02,Fashion,Luapula,2,2,806.26,367.11,0
+2023-02,Fashion,Lusaka,44,65,27664.48,11990.22,0
+2023-02,Fashion,Muchinga,7,10,6173.03,2676.22,0
+2023-02,Fashion,North-Western,8,12,4839.96,2037.54,1
+2023-02,Fashion,Northern,5,6,2870.55,1264.1,2
+2023-02,Fashion,Southern,19,22,11715.95,5206.77,3
+2023-02,Fashion,Western,8,11,5823.6,2521.44,0
+2023-02,Groceries,Central,24,69,5793.26,2264.24,2
+2023-02,Groceries,Copperbelt,71,172,16602.34,6866.86,0
+2023-02,Groceries,Eastern,25,70,5202.92,2150.12,1
+2023-02,Groceries,Luapula,12,43,3409.33,1468.21,0
+2023-02,Groceries,Lusaka,111,290,29835.08,11534.35,1
+2023-02,Groceries,Muchinga,5,12,977.63,347.38,0
+2023-02,Groceries,North-Western,15,36,3013.44,1151.91,1
+2023-02,Groceries,Northern,15,35,3437.11,1430.78,0
+2023-02,Groceries,Southern,43,110,11906.22,4871.1,1
+2023-02,Groceries,Western,7,22,1896.05,707.07,0
+2023-02,Health & Beauty,Central,18,19,3508.28,1343.47,3
+2023-02,Health & Beauty,Copperbelt,31,46,10173.65,3729.4,0
+2023-02,Health & Beauty,Eastern,14,20,3347.35,1279.49,0
+2023-02,Health & Beauty,Luapula,3,4,786.73,301.2,0
+2023-02,Health & Beauty,Lusaka,52,61,15679.04,5460.97,1
+2023-02,Health & Beauty,Muchinga,3,3,567.26,234.47,0
+2023-02,Health & Beauty,North-Western,8,14,3073.61,1143.86,0
+2023-02,Health & Beauty,Northern,11,15,3400.96,1355.16,0
+2023-02,Health & Beauty,Southern,24,33,8401.6,2700.56,1
+2023-02,Health & Beauty,Western,5,6,1584.06,512.55,0
+2023-02,Home & Kitchen,Central,6,8,3252.75,1272.83,0
+2023-02,Home & Kitchen,Copperbelt,31,36,16557.19,6455.84,1
+2023-02,Home & Kitchen,Eastern,11,16,8289.37,2896.2,0
+2023-02,Home & Kitchen,Luapula,2,4,1055.67,429.32,0
+2023-02,Home & Kitchen,Lusaka,55,63,31887.15,11782.62,0
+2023-02,Home & Kitchen,Muchinga,6,8,3764.85,1202.29,0
+2023-02,Home & Kitchen,North-Western,3,3,1411.76,419.57,0
+2023-02,Home & Kitchen,Northern,6,6,2761.03,1098.85,0
+2023-02,Home & Kitchen,Southern,15,21,8681.66,3129.05,1
+2023-02,Home & Kitchen,Western,9,12,5220.06,1925.03,0
+2023-02,Household,Central,8,14,860.81,316.25,0
+2023-02,Household,Copperbelt,41,92,6935.88,2450.16,1
+2023-02,Household,Eastern,20,40,2890.81,1043.38,1
+2023-02,Household,Luapula,6,9,388.28,114.33,0
+2023-02,Household,Lusaka,63,147,10704.74,3860.87,1
+2023-02,Household,Muchinga,6,16,1182.52,471.45,0
+2023-02,Household,North-Western,11,23,1853.39,726.87,1
+2023-02,Household,Northern,9,31,2423.72,981.39,0
+2023-02,Household,Southern,28,56,3996.8,1490.11,0
+2023-02,Household,Western,9,20,1316.41,530.63,0
+2023-02,Stationery,Central,5,10,1065.12,414.02,0
+2023-02,Stationery,Copperbelt,21,34,3861.18,1431.75,0
+2023-02,Stationery,Eastern,9,17,3435.54,1204.25,0
+2023-02,Stationery,Luapula,3,4,673.45,228.09,0
+2023-02,Stationery,Lusaka,53,116,14476.41,4934.23,2
+2023-02,Stationery,Muchinga,3,6,1375.34,464.08,0
+2023-02,Stationery,North-Western,4,9,544.21,216.19,0
+2023-02,Stationery,Northern,8,15,1716.04,588.23,0
+2023-02,Stationery,Southern,17,32,6507.67,2142.57,0
+2023-02,Stationery,Western,3,10,799.28,364.34,0
+2023-03,Baby & Kids,Central,10,25,5731.34,2499.86,1
+2023-03,Baby & Kids,Copperbelt,34,72,19169.94,6414.93,2
+2023-03,Baby & Kids,Eastern,8,16,3207.57,1192.71,0
+2023-03,Baby & Kids,Luapula,5,12,1330.51,420.35,0
+2023-03,Baby & Kids,Lusaka,55,133,27557.65,10140.46,1
+2023-03,Baby & Kids,Muchinga,2,3,1505.93,539.04,0
+2023-03,Baby & Kids,North-Western,7,13,3108.16,1012.39,1
+2023-03,Baby & Kids,Northern,7,11,2197.82,800.04,0
+2023-03,Baby & Kids,Southern,14,32,7429.01,2781.78,0
+2023-03,Baby & Kids,Western,6,11,2706.29,880.39,1
+2023-03,Electronics,Central,10,11,22797.19,7631.64,0
+2023-03,Electronics,Copperbelt,46,51,83498.5,26635.81,0
+2023-03,Electronics,Eastern,10,13,13647.73,5232.25,0
+2023-03,Electronics,Luapula,7,7,6041.78,2092.06,0
+2023-03,Electronics,Lusaka,48,52,94837.57,28264.69,0
+2023-03,Electronics,North-Western,10,11,15399.96,5047.46,0
+2023-03,Electronics,Northern,12,14,17026.48,5242.57,0
+2023-03,Electronics,Southern,13,13,20501.17,5951.86,0
+2023-03,Electronics,Western,5,5,2905.49,956.63,0
+2023-03,Fashion,Central,15,16,7926.0,3460.39,0
+2023-03,Fashion,Copperbelt,42,48,21391.78,9158.48,0
+2023-03,Fashion,Eastern,10,12,3510.94,1427.56,0
+2023-03,Fashion,Luapula,8,8,3453.13,1565.51,1
+2023-03,Fashion,Lusaka,45,61,24775.71,10616.71,0
+2023-03,Fashion,Muchinga,5,6,2321.03,1096.78,0
+2023-03,Fashion,North-Western,5,8,4443.82,2020.65,0
+2023-03,Fashion,Northern,11,14,6475.44,2837.9,0
+2023-03,Fashion,Southern,21,25,11163.67,4659.36,0
+2023-03,Fashion,Western,4,4,1419.33,539.98,0
+2023-03,Groceries,Central,24,65,6767.51,2768.59,0
+2023-03,Groceries,Copperbelt,88,224,20052.44,7892.35,0
+2023-03,Groceries,Eastern,31,102,11775.04,4652.97,0
+2023-03,Groceries,Luapula,14,37,2829.13,968.16,0
+2023-03,Groceries,Lusaka,140,350,34697.14,13139.75,2
+2023-03,Groceries,Muchinga,1,5,378.58,129.96,0
+2023-03,Groceries,North-Western,30,81,8115.0,2982.39,1
+2023-03,Groceries,Northern,27,78,7987.47,3194.6,0
+2023-03,Groceries,Southern,48,161,17830.72,7356.63,1
+2023-03,Groceries,Western,7,25,2571.89,1086.66,0
+2023-03,Health & Beauty,Central,16,21,5557.14,2039.62,0
+2023-03,Health & Beauty,Copperbelt,45,62,12332.91,4926.8,1
+2023-03,Health & Beauty,Eastern,18,26,4919.56,1561.42,0
+2023-03,Health & Beauty,Luapula,9,16,4498.95,1806.22,0
+2023-03,Health & Beauty,Lusaka,73,88,16879.81,6220.65,1
+2023-03,Health & Beauty,Muchinga,1,1,381.08,107.61,0
+2023-03,Health & Beauty,North-Western,10,11,2403.42,728.86,0
+2023-03,Health & Beauty,Northern,14,17,3824.15,1373.8,1
+2023-03,Health & Beauty,Southern,20,24,5614.73,2011.45,0
+2023-03,Health & Beauty,Western,3,4,797.85,319.06,0
+2023-03,Home & Kitchen,Central,13,16,6508.26,2271.95,0
+2023-03,Home & Kitchen,Copperbelt,38,46,21262.75,7944.12,0
+2023-03,Home & Kitchen,Eastern,11,16,6286.75,2329.08,1
+2023-03,Home & Kitchen,Luapula,10,14,5720.43,1985.6,0
+2023-03,Home & Kitchen,Lusaka,58,74,38108.15,15468.57,0
+2023-03,Home & Kitchen,Muchinga,3,4,956.01,455.5,0
+2023-03,Home & Kitchen,North-Western,7,8,3327.38,1014.1,0
+2023-03,Home & Kitchen,Northern,10,12,5560.77,2034.52,0
+2023-03,Home & Kitchen,Southern,26,32,15733.64,6308.09,0
+2023-03,Home & Kitchen,Western,5,5,3066.07,1248.68,1
+2023-03,Household,Central,16,39,2474.77,900.96,0
+2023-03,Household,Copperbelt,52,114,8528.58,3259.47,0
+2023-03,Household,Eastern,15,31,1996.71,815.42,0
+2023-03,Household,Luapula,10,23,1686.79,648.09,0
+2023-03,Household,Lusaka,80,194,15484.69,5781.26,1
+2023-03,Household,Muchinga,1,1,56.61,16.31,0
+2023-03,Household,North-Western,12,22,1525.87,579.1,0
+2023-03,Household,Northern,13,33,2497.75,1071.7,1
+2023-03,Household,Southern,27,57,4176.58,1633.36,0
+2023-03,Household,Western,9,16,1197.16,434.55,0
+2023-03,Stationery,Central,9,23,2625.54,959.4,0
+2023-03,Stationery,Copperbelt,34,73,10583.76,3728.14,0
+2023-03,Stationery,Eastern,13,26,4642.67,1750.24,0
+2023-03,Stationery,Luapula,10,19,3524.59,1612.11,0
+2023-03,Stationery,Lusaka,55,120,16222.81,5585.8,1
+2023-03,Stationery,North-Western,6,12,2895.54,1230.6,0
+2023-03,Stationery,Northern,9,14,2146.22,767.33,0
+2023-03,Stationery,Southern,21,39,5867.39,1865.32,1
+2023-03,Stationery,Western,2,3,149.99,51.06,0
+2023-04,Baby & Kids,Central,12,22,4467.74,1176.11,0
+2023-04,Baby & Kids,Copperbelt,32,74,15687.8,5468.56,0
+2023-04,Baby & Kids,Eastern,8,15,4279.12,1163.44,0
+2023-04,Baby & Kids,Luapula,2,4,690.5,282.32,0
+2023-04,Baby & Kids,Lusaka,51,105,19976.15,7117.72,2
+2023-04,Baby & Kids,Muchinga,6,11,2476.97,751.42,0
+2023-04,Baby & Kids,North-Western,7,10,1759.04,535.27,0
+2023-04,Baby & Kids,Northern,12,30,6539.55,2219.59,0
+2023-04,Baby & Kids,Southern,11,23,6127.25,2117.54,0
+2023-04,Baby & Kids,Western,4,9,2148.53,829.64,0
+2023-04,Electronics,Central,14,17,26528.07,7758.7,0
+2023-04,Electronics,Copperbelt,41,47,59060.63,19996.94,0
+2023-04,Electronics,Eastern,10,10,11533.24,4200.82,0
+2023-04,Electronics,Luapula,6,7,21528.02,9795.91,0
+2023-04,Electronics,Lusaka,40,44,63460.6,20233.05,0
+2023-04,Electronics,Muchinga,3,3,2767.49,651.61,0
+2023-04,Electronics,North-Western,5,5,5703.32,1973.92,0
+2023-04,Electronics,Northern,11,12,14524.93,5321.07,0
+2023-04,Electronics,Southern,16,19,24575.04,7856.81,0
+2023-04,Electronics,Western,9,12,15598.68,4901.25,0
+2023-04,Fashion,Central,9,14,7788.89,3402.61,0
+2023-04,Fashion,Copperbelt,32,39,17807.68,7960.56,0
+2023-04,Fashion,Eastern,9,12,5846.08,2435.38,0
+2023-04,Fashion,Luapula,7,11,5814.57,2550.59,0
+2023-04,Fashion,Lusaka,51,57,22961.33,9627.86,0
+2023-04,Fashion,Muchinga,7,10,4052.68,1538.55,0
+2023-04,Fashion,North-Western,12,18,8421.77,3523.39,1
+2023-04,Fashion,Northern,6,9,3159.16,1348.94,1
+2023-04,Fashion,Southern,16,22,8960.46,3432.8,1
+2023-04,Fashion,Western,6,6,2759.78,1187.1,1
+2023-04,Groceries,Central,37,92,8238.15,3298.61,0
+2023-04,Groceries,Copperbelt,86,222,22878.1,9539.43,4
+2023-04,Groceries,Eastern,41,94,8934.98,3353.63,0
+2023-04,Groceries,Luapula,11,27,1985.71,723.01,0
+2023-04,Groceries,Lusaka,162,423,37498.46,14404.07,2
+2023-04,Groceries,Muchinga,7,17,1432.97,532.08,0
+2023-04,Groceries,North-Western,27,65,6471.27,2670.42,0
+2023-04,Groceries,Northern,18,56,5359.04,2059.52,0
+2023-04,Groceries,Southern,40,112,9640.72,3537.43,1
+2023-04,Groceries,Western,12,41,4453.2,1860.03,0
+2023-04,Health & Beauty,Central,17,22,6075.26,1729.5,0
+2023-04,Health & Beauty,Copperbelt,40,52,10925.88,3970.84,1
+2023-04,Health & Beauty,Eastern,13,14,3450.62,1213.06,0
+2023-04,Health & Beauty,Luapula,2,3,715.66,271.12,1
+2023-04,Health & Beauty,Lusaka,74,87,20063.13,7443.02,1
+2023-04,Health & Beauty,Muchinga,5,6,1444.77,457.11,0
+2023-04,Health & Beauty,North-Western,9,11,2265.79,851.81,0
+2023-04,Health & Beauty,Northern,8,8,1841.99,720.45,0
+2023-04,Health & Beauty,Southern,20,26,5372.8,1953.71,0
+2023-04,Health & Beauty,Western,4,6,1247.31,405.18,0
+2023-04,Home & Kitchen,Central,10,14,4993.64,1749.27,0
+2023-04,Home & Kitchen,Copperbelt,35,40,15926.24,5324.58,0
+2023-04,Home & Kitchen,Eastern,18,23,9379.45,3240.27,0
+2023-04,Home & Kitchen,Luapula,3,3,1245.61,458.35,0
+2023-04,Home & Kitchen,Lusaka,63,72,30917.93,11030.29,2
+2023-04,Home & Kitchen,Muchinga,3,5,2285.34,907.22,0
+2023-04,Home & Kitchen,North-Western,9,10,4559.68,1879.16,0
+2023-04,Home & Kitchen,Northern,7,7,3054.34,1137.1,1
+2023-04,Home & Kitchen,Southern,14,15,5958.53,2323.1,0
+2023-04,Home & Kitchen,Western,6,11,5391.11,2312.93,0
+2023-04,Household,Central,15,41,3044.7,1037.98,0
+2023-04,Household,Copperbelt,62,150,11908.67,4358.08,1
+2023-04,Household,Eastern,20,42,2802.82,988.17,1
+2023-04,Household,Luapula,9,20,1499.84,486.33,0
+2023-04,Household,Lusaka,82,172,13358.96,5101.34,1
+2023-04,Household,Muchinga,4,8,474.85,155.65,0
+2023-04,Household,North-Western,13,36,2403.42,812.91,0
+2023-04,Household,Northern,9,19,1527.13,667.09,0
+2023-04,Household,Southern,26,63,4877.88,1776.7,1
+2023-04,Household,Western,8,16,1508.17,494.81,0
+2023-04,Stationery,Central,17,25,4103.14,1459.25,0
+2023-04,Stationery,Copperbelt,41,85,13657.98,4864.32,1
+2023-04,Stationery,Eastern,13,27,3833.25,1360.47,0
+2023-04,Stationery,Luapula,7,11,1359.05,593.26,0
+2023-04,Stationery,Lusaka,44,89,11014.51,3975.08,2
+2023-04,Stationery,Muchinga,2,6,1075.84,385.56,0
+2023-04,Stationery,North-Western,10,22,4673.95,1736.01,0
+2023-04,Stationery,Northern,7,11,920.72,284.88,1
+2023-04,Stationery,Southern,17,35,4297.62,1499.54,0
+2023-04,Stationery,Western,6,14,1544.86,531.32,0
+2023-05,Baby & Kids,Central,15,38,6840.77,2291.1,2
+2023-05,Baby & Kids,Copperbelt,27,60,11850.81,3995.96,0
+2023-05,Baby & Kids,Eastern,16,30,5573.38,1662.39,0
+2023-05,Baby & Kids,Luapula,5,13,1186.96,367.84,1
+2023-05,Baby & Kids,Lusaka,36,75,15920.76,5194.47,3
+2023-05,Baby & Kids,North-Western,4,7,1763.36,557.82,0
+2023-05,Baby & Kids,Northern,4,5,722.57,277.6,0
+2023-05,Baby & Kids,Southern,14,25,5144.04,1759.51,0
+2023-05,Baby & Kids,Western,4,8,1604.19,628.89,0
+2023-05,Electronics,Central,7,7,10763.65,2657.13,0
+2023-05,Electronics,Copperbelt,39,46,60590.41,19528.86,0
+2023-05,Electronics,Eastern,7,8,11597.4,3877.29,0
+2023-05,Electronics,Luapula,9,9,15840.24,3816.45,0
+2023-05,Electronics,Lusaka,41,42,56206.75,17813.0,0
+2023-05,Electronics,Muchinga,5,7,10699.1,4068.84,0
+2023-05,Electronics,North-Western,11,13,18592.27,6293.43,0
+2023-05,Electronics,Northern,8,8,12231.18,3862.93,0
+2023-05,Electronics,Southern,11,11,16803.52,6197.78,1
+2023-05,Electronics,Western,2,2,2904.5,922.83,0
+2023-05,Fashion,Central,14,16,5904.26,2550.27,0
+2023-05,Fashion,Copperbelt,47,55,27589.24,11970.53,3
+2023-05,Fashion,Eastern,14,17,5133.55,1846.15,2
+2023-05,Fashion,Luapula,10,11,4348.7,1783.9,0
+2023-05,Fashion,Lusaka,63,85,40742.57,17657.97,1
+2023-05,Fashion,Muchinga,3,3,1496.84,554.13,0
+2023-05,Fashion,North-Western,11,15,7189.3,3189.68,1
+2023-05,Fashion,Northern,7,8,5360.83,2160.18,0
+2023-05,Fashion,Southern,23,27,11636.04,4937.31,0
+2023-05,Fashion,Western,4,5,2884.38,1197.74,0
+2023-05,Groceries,Central,31,70,6295.07,2484.76,1
+2023-05,Groceries,Copperbelt,92,231,22583.53,8575.52,1
+2023-05,Groceries,Eastern,45,121,10779.49,4103.97,2
+2023-05,Groceries,Luapula,15,33,3419.59,1316.05,0
+2023-05,Groceries,Lusaka,133,325,30029.42,11646.97,4
+2023-05,Groceries,Muchinga,7,14,1237.4,417.98,0
+2023-05,Groceries,North-Western,24,61,6205.39,2619.64,0
+2023-05,Groceries,Northern,19,44,2958.12,942.37,0
+2023-05,Groceries,Southern,45,109,10013.55,3864.37,1
+2023-05,Groceries,Western,17,36,4720.71,2043.87,1
+2023-05,Health & Beauty,Central,7,10,1569.5,572.82,1
+2023-05,Health & Beauty,Copperbelt,39,45,9828.32,3763.94,3
+2023-05,Health & Beauty,Eastern,12,13,3486.66,1218.77,1
+2023-05,Health & Beauty,Luapula,7,7,1733.18,558.5,1
+2023-05,Health & Beauty,Lusaka,58,72,17196.43,6466.04,0
+2023-05,Health & Beauty,Muchinga,5,5,1190.9,500.22,0
+2023-05,Health & Beauty,North-Western,12,18,4861.86,1711.15,1
+2023-05,Health & Beauty,Northern,11,14,2667.93,1094.41,0
+2023-05,Health & Beauty,Southern,21,23,4113.23,1492.08,0
+2023-05,Health & Beauty,Western,7,9,1792.82,697.09,0
+2023-05,Home & Kitchen,Central,11,13,5220.43,1900.59,0
+2023-05,Home & Kitchen,Copperbelt,28,33,16844.93,6422.72,1
+2023-05,Home & Kitchen,Eastern,16,27,14166.27,5352.93,1
+2023-05,Home & Kitchen,Luapula,7,8,4202.27,1509.2,1
+2023-05,Home & Kitchen,Lusaka,54,67,28828.14,11192.55,3
+2023-05,Home & Kitchen,Muchinga,2,3,1596.11,808.34,1
+2023-05,Home & Kitchen,North-Western,12,17,6261.03,2130.87,0
+2023-05,Home & Kitchen,Northern,9,12,5778.86,2347.22,0
+2023-05,Home & Kitchen,Southern,20,29,14446.04,5374.28,0
+2023-05,Home & Kitchen,Western,7,8,3317.27,1281.82,1
+2023-05,Household,Central,15,41,3234.85,1361.49,0
+2023-05,Household,Copperbelt,37,77,4730.31,1712.02,0
+2023-05,Household,Eastern,17,35,2511.75,919.33,1
+2023-05,Household,Luapula,17,46,3425.95,1261.75,1
+2023-05,Household,Lusaka,80,172,11831.76,4367.42,2
+2023-05,Household,Muchinga,4,9,655.78,183.49,0
+2023-05,Household,North-Western,14,33,2308.99,980.12,1
+2023-05,Household,Northern,7,18,1054.92,415.09,0
+2023-05,Household,Southern,30,62,4156.79,1671.96,0
+2023-05,Household,Western,6,21,1714.81,755.15,0
+2023-05,Stationery,Central,23,58,7711.97,3158.84,0
+2023-05,Stationery,Copperbelt,53,128,16984.35,6694.43,5
+2023-05,Stationery,Eastern,36,71,9787.19,3305.17,1
+2023-05,Stationery,Luapula,17,39,6752.17,2541.0,0
+2023-05,Stationery,Lusaka,118,292,39066.79,14848.08,3
+2023-05,Stationery,Muchinga,10,26,4307.19,1621.84,1
+2023-05,Stationery,North-Western,17,28,4046.32,1471.44,1
+2023-05,Stationery,Northern,20,48,7213.24,2590.14,0
+2023-05,Stationery,Southern,40,95,13042.46,4980.49,0
+2023-05,Stationery,Western,7,20,1611.23,596.93,0
+2023-06,Baby & Kids,Central,11,21,3817.98,1204.43,0
+2023-06,Baby & Kids,Copperbelt,32,59,12245.38,4083.78,2
+2023-06,Baby & Kids,Eastern,12,25,2927.24,966.58,0
+2023-06,Baby & Kids,Luapula,3,10,2258.95,945.37,0
+2023-06,Baby & Kids,Lusaka,65,128,28731.4,9724.57,1
+2023-06,Baby & Kids,Muchinga,1,2,210.14,78.16,0
+2023-06,Baby & Kids,North-Western,9,17,4162.53,1362.46,0
+2023-06,Baby & Kids,Northern,10,22,8175.57,2694.98,1
+2023-06,Baby & Kids,Southern,17,38,7442.45,2545.51,0
+2023-06,Baby & Kids,Western,6,13,3465.43,1394.31,0
+2023-06,Electronics,Central,14,14,18525.22,5640.67,1
+2023-06,Electronics,Copperbelt,52,58,85062.77,28831.56,2
+2023-06,Electronics,Eastern,12,15,23722.7,6403.67,0
+2023-06,Electronics,Luapula,7,9,15129.6,5584.29,0
+2023-06,Electronics,Lusaka,53,58,72699.62,25446.46,0
+2023-06,Electronics,Muchinga,4,4,6374.89,2476.57,0
+2023-06,Electronics,North-Western,5,6,8193.76,2821.03,0
+2023-06,Electronics,Northern,5,6,5661.89,1768.89,0
+2023-06,Electronics,Southern,19,21,17264.69,6955.09,0
+2023-06,Electronics,Western,7,8,5172.16,1914.94,0
+2023-06,Fashion,Central,6,6,2131.19,847.24,0
+2023-06,Fashion,Copperbelt,44,61,29211.01,12527.76,1
+2023-06,Fashion,Eastern,10,12,6165.09,2732.5,2
+2023-06,Fashion,Luapula,10,11,5030.3,2250.93,0
+2023-06,Fashion,Lusaka,66,84,40676.58,17459.07,3
+2023-06,Fashion,Muchinga,4,5,1953.95,761.11,0
+2023-06,Fashion,North-Western,7,10,3751.22,1580.59,0
+2023-06,Fashion,Northern,6,6,2489.01,1008.2,1
+2023-06,Fashion,Southern,22,30,17301.8,7202.64,2
+2023-06,Fashion,Western,5,7,2785.42,1102.45,0
+2023-06,Groceries,Central,25,70,7740.4,3237.16,0
+2023-06,Groceries,Copperbelt,110,282,27054.81,10632.1,4
+2023-06,Groceries,Eastern,28,80,7442.93,2821.24,0
+2023-06,Groceries,Luapula,20,48,4048.64,1608.23,0
+2023-06,Groceries,Lusaka,137,352,34049.86,13576.57,1
+2023-06,Groceries,Muchinga,7,12,2234.84,1071.58,0
+2023-06,Groceries,North-Western,21,54,6452.18,2605.45,1
+2023-06,Groceries,Northern,27,87,9326.31,3586.18,1
+2023-06,Groceries,Southern,49,104,11758.58,4650.0,2
+2023-06,Groceries,Western,13,27,2586.08,887.76,0
+2023-06,Health & Beauty,Central,15,21,4831.72,1687.8,0
+2023-06,Health & Beauty,Copperbelt,49,64,16876.72,6357.88,0
+2023-06,Health & Beauty,Eastern,19,24,5503.29,1926.53,0
+2023-06,Health & Beauty,Luapula,10,15,4333.89,1374.58,1
+2023-06,Health & Beauty,Lusaka,68,93,19917.2,7255.38,0
+2023-06,Health & Beauty,Muchinga,6,7,1489.45,623.01,0
+2023-06,Health & Beauty,North-Western,8,9,2688.32,863.37,1
+2023-06,Health & Beauty,Northern,9,11,2600.64,969.45,1
+2023-06,Health & Beauty,Southern,24,30,7231.28,2626.82,0
+2023-06,Health & Beauty,Western,5,7,1771.21,655.65,0
+2023-06,Home & Kitchen,Central,9,11,3555.1,1461.58,0
+2023-06,Home & Kitchen,Copperbelt,47,59,26889.3,10308.59,2
+2023-06,Home & Kitchen,Eastern,15,19,8126.05,2885.9,1
+2023-06,Home & Kitchen,Luapula,7,8,5023.18,1692.81,0
+2023-06,Home & Kitchen,Lusaka,52,63,28559.61,10228.26,1
+2023-06,Home & Kitchen,Muchinga,6,6,2958.51,1247.32,0
+2023-06,Home & Kitchen,North-Western,12,17,8094.86,2901.87,1
+2023-06,Home & Kitchen,Northern,7,7,2916.63,1133.45,0
+2023-06,Home & Kitchen,Southern,23,26,11197.36,3775.87,2
+2023-06,Home & Kitchen,Western,5,5,2316.97,786.28,0
+2023-06,Household,Central,21,49,3441.92,1317.35,0
+2023-06,Household,Copperbelt,49,114,7769.87,2844.55,1
+2023-06,Household,Eastern,12,34,3038.6,1241.5,0
+2023-06,Household,Luapula,13,27,1928.85,809.12,0
+2023-06,Household,Lusaka,98,209,15707.0,6000.41,3
+2023-06,Household,Muchinga,7,14,1101.4,357.01,0
+2023-06,Household,North-Western,9,13,939.9,293.59,0
+2023-06,Household,Northern,15,34,2119.78,822.76,1
+2023-06,Household,Southern,29,57,3985.73,1431.96,2
+2023-06,Household,Western,1,2,152.8,11.25,0
+2023-06,Stationery,Central,9,22,2266.66,591.03,0
+2023-06,Stationery,Copperbelt,41,84,11553.85,4699.36,0
+2023-06,Stationery,Eastern,13,27,4362.44,1627.82,0
+2023-06,Stationery,Luapula,6,10,1145.92,343.18,1
+2023-06,Stationery,Lusaka,58,117,18653.82,6658.15,5
+2023-06,Stationery,Muchinga,3,4,595.19,199.84,0
+2023-06,Stationery,North-Western,13,41,5508.54,1861.62,1
+2023-06,Stationery,Northern,13,33,4197.24,1575.85,1
+2023-06,Stationery,Southern,15,30,3718.4,1406.8,1
+2023-06,Stationery,Western,7,12,1521.2,580.07,0
+2023-07,Baby & Kids,Central,9,21,4554.5,1670.5,1
+2023-07,Baby & Kids,Copperbelt,41,78,21916.75,7738.67,2
+2023-07,Baby & Kids,Eastern,5,9,1706.95,612.68,1
+2023-07,Baby & Kids,Luapula,8,15,2260.99,742.42,0
+2023-07,Baby & Kids,Lusaka,57,104,23293.87,8151.83,2
+2023-07,Baby & Kids,Muchinga,6,13,2680.51,875.29,0
+2023-07,Baby & Kids,North-Western,10,33,7218.48,2144.79,0
+2023-07,Baby & Kids,Northern,10,32,5572.11,2085.51,1
+2023-07,Baby & Kids,Southern,16,33,5545.11,1944.72,1
+2023-07,Baby & Kids,Western,9,26,4563.4,1593.52,0
+2023-07,Electronics,Central,10,12,13266.5,4634.04,0
+2023-07,Electronics,Copperbelt,48,57,82329.99,25695.46,2
+2023-07,Electronics,Eastern,11,13,21415.13,7352.15,0
+2023-07,Electronics,Luapula,8,9,12849.61,3967.29,0
+2023-07,Electronics,Lusaka,50,55,81844.78,25624.47,0
+2023-07,Electronics,Muchinga,7,8,9553.73,3249.77,0
+2023-07,Electronics,North-Western,18,22,25809.12,9070.56,1
+2023-07,Electronics,Northern,10,13,23290.8,7564.75,0
+2023-07,Electronics,Southern,15,18,19684.63,6469.79,1
+2023-07,Electronics,Western,8,8,9869.66,3973.5,0
+2023-07,Fashion,Central,12,14,6212.36,2558.14,1
+2023-07,Fashion,Copperbelt,37,51,25197.22,11397.73,1
+2023-07,Fashion,Eastern,12,14,6571.65,2823.9,0
+2023-07,Fashion,Luapula,10,13,8268.32,3555.79,1
+2023-07,Fashion,Lusaka,56,77,37506.25,15994.42,1
+2023-07,Fashion,Muchinga,1,2,297.9,93.62,0
+2023-07,Fashion,North-Western,12,17,5265.09,2237.74,0
+2023-07,Fashion,Northern,11,12,4925.52,1999.55,0
+2023-07,Fashion,Southern,28,32,16892.67,7405.63,2
+2023-07,Fashion,Western,4,6,2684.05,1075.5,0
+2023-07,Groceries,Central,34,85,7623.58,3062.8,0
+2023-07,Groceries,Copperbelt,98,243,24401.89,9769.58,2
+2023-07,Groceries,Eastern,38,96,10010.51,4099.99,0
+2023-07,Groceries,Luapula,22,49,4847.65,1932.73,0
+2023-07,Groceries,Lusaka,190,519,43811.99,16896.5,5
+2023-07,Groceries,Muchinga,11,31,3315.62,1264.16,0
+2023-07,Groceries,North-Western,37,91,10488.74,4317.62,0
+2023-07,Groceries,Northern,19,56,5034.41,2306.71,1
+2023-07,Groceries,Southern,43,120,13228.56,5420.27,1
+2023-07,Groceries,Western,15,42,3406.95,1319.47,0
+2023-07,Health & Beauty,Central,16,18,3729.02,1272.9,0
+2023-07,Health & Beauty,Copperbelt,43,55,12268.81,4578.19,0
+2023-07,Health & Beauty,Eastern,16,22,5259.28,2074.98,1
+2023-07,Health & Beauty,Luapula,6,7,994.11,429.88,0
+2023-07,Health & Beauty,Lusaka,103,134,31906.18,11626.76,2
+2023-07,Health & Beauty,Muchinga,4,7,1206.4,480.02,0
+2023-07,Health & Beauty,North-Western,14,20,5201.13,1851.24,0
+2023-07,Health & Beauty,Northern,11,11,2583.37,1010.65,0
+2023-07,Health & Beauty,Southern,22,29,6541.35,2447.57,1
+2023-07,Health & Beauty,Western,8,13,2875.31,1066.83,0
+2023-07,Home & Kitchen,Central,11,14,6082.56,2206.63,1
+2023-07,Home & Kitchen,Copperbelt,35,48,21561.25,7992.05,0
+2023-07,Home & Kitchen,Eastern,16,20,8285.25,2894.63,0
+2023-07,Home & Kitchen,Luapula,14,14,6161.79,2467.41,0
+2023-07,Home & Kitchen,Lusaka,83,100,47761.01,17988.32,0
+2023-07,Home & Kitchen,Muchinga,4,6,1742.29,531.87,0
+2023-07,Home & Kitchen,North-Western,17,24,12247.72,4281.24,0
+2023-07,Home & Kitchen,Northern,17,26,11340.65,3868.08,0
+2023-07,Home & Kitchen,Southern,32,40,21592.56,8265.44,0
+2023-07,Home & Kitchen,Western,4,5,1581.35,648.69,0
+2023-07,Household,Central,19,45,3204.82,1212.88,0
+2023-07,Household,Copperbelt,45,129,9397.66,3638.58,2
+2023-07,Household,Eastern,14,28,1920.42,781.39,0
+2023-07,Household,Luapula,5,7,440.1,166.67,0
+2023-07,Household,Lusaka,94,218,15836.1,6134.25,2
+2023-07,Household,Muchinga,7,13,969.57,364.54,0
+2023-07,Household,North-Western,13,33,2613.77,1028.28,0
+2023-07,Household,Northern,20,41,3046.48,1118.32,0
+2023-07,Household,Southern,17,38,2476.27,897.82,0
+2023-07,Household,Western,5,19,1477.08,584.77,0
+2023-07,Stationery,Central,12,23,2861.03,1205.1,0
+2023-07,Stationery,Copperbelt,33,56,9170.89,3408.31,1
+2023-07,Stationery,Eastern,12,24,4303.53,1467.78,0
+2023-07,Stationery,Luapula,5,6,689.79,228.42,0
+2023-07,Stationery,Lusaka,64,130,21396.63,8159.01,0
+2023-07,Stationery,Muchinga,5,8,1314.01,398.96,0
+2023-07,Stationery,North-Western,11,21,3848.27,1855.26,0
+2023-07,Stationery,Northern,11,26,4382.76,1304.0,0
+2023-07,Stationery,Southern,13,26,4135.0,1419.14,1
+2023-07,Stationery,Western,6,18,1252.88,491.44,0
+2023-08,Baby & Kids,Central,10,20,4005.7,1570.49,0
+2023-08,Baby & Kids,Copperbelt,42,98,23256.89,7759.13,1
+2023-08,Baby & Kids,Eastern,11,24,5767.17,2015.62,1
+2023-08,Baby & Kids,Luapula,8,17,3374.43,1224.15,1
+2023-08,Baby & Kids,Lusaka,58,120,24449.29,8266.84,0
+2023-08,Baby & Kids,Muchinga,4,8,2473.96,778.42,0
+2023-08,Baby & Kids,North-Western,13,28,7110.99,2322.49,0
+2023-08,Baby & Kids,Northern,12,32,8880.9,3127.99,0
+2023-08,Baby & Kids,Southern,16,37,9662.52,3277.86,1
+2023-08,Baby & Kids,Western,9,14,3901.68,1037.26,1
+2023-08,Electronics,Central,16,20,22130.63,8009.4,0
+2023-08,Electronics,Copperbelt,37,45,76048.51,26142.47,3
+2023-08,Electronics,Eastern,10,11,11043.9,3753.54,0
+2023-08,Electronics,Luapula,7,9,7497.07,2305.17,0
+2023-08,Electronics,Lusaka,69,74,99378.34,31254.2,1
+2023-08,Electronics,Muchinga,5,6,8262.6,2700.74,0
+2023-08,Electronics,North-Western,11,13,25637.17,8149.99,0
+2023-08,Electronics,Northern,13,14,24952.01,7939.1,0
+2023-08,Electronics,Southern,19,26,25987.49,8424.71,0
+2023-08,Electronics,Western,5,6,8338.35,2345.31,0
+2023-08,Fashion,Central,12,13,8342.07,3626.49,0
+2023-08,Fashion,Copperbelt,43,59,26770.92,11467.01,2
+2023-08,Fashion,Eastern,20,24,15139.25,6769.85,0
+2023-08,Fashion,Luapula,8,10,3758.89,1414.07,0
+2023-08,Fashion,Lusaka,77,99,43848.59,18046.87,0
+2023-08,Fashion,Muchinga,4,5,2983.37,1240.66,0
+2023-08,Fashion,North-Western,11,17,6522.26,2732.15,1
+2023-08,Fashion,Northern,7,8,3462.5,1581.79,0
+2023-08,Fashion,Southern,25,27,13070.97,5489.2,2
+2023-08,Fashion,Western,7,7,3619.75,1660.94,0
+2023-08,Groceries,Central,37,101,10983.76,4017.87,0
+2023-08,Groceries,Copperbelt,92,235,26315.88,10829.26,0
+2023-08,Groceries,Eastern,45,99,9777.0,3593.9,1
+2023-08,Groceries,Luapula,16,44,4577.37,1979.25,0
+2023-08,Groceries,Lusaka,210,513,49119.66,20177.08,4
+2023-08,Groceries,Muchinga,8,19,2588.15,1090.02,0
+2023-08,Groceries,North-Western,24,49,5593.5,2255.18,1
+2023-08,Groceries,Northern,19,44,5500.44,2313.78,0
+2023-08,Groceries,Southern,56,151,14038.13,5403.97,1
+2023-08,Groceries,Western,15,44,4481.31,1582.93,0
+2023-08,Health & Beauty,Central,16,20,4319.74,1477.07,0
+2023-08,Health & Beauty,Copperbelt,57,70,16883.92,5879.12,1
+2023-08,Health & Beauty,Eastern,26,36,7539.11,2433.83,1
+2023-08,Health & Beauty,Luapula,8,11,3975.45,1360.17,1
+2023-08,Health & Beauty,Lusaka,88,112,27656.58,10191.29,3
+2023-08,Health & Beauty,Muchinga,4,4,398.61,112.25,0
+2023-08,Health & Beauty,North-Western,15,20,3693.2,1490.96,0
+2023-08,Health & Beauty,Northern,11,13,3778.26,1352.56,1
+2023-08,Health & Beauty,Southern,25,29,7060.82,2386.11,4
+2023-08,Health & Beauty,Western,10,12,3225.85,1140.94,0
+2023-08,Home & Kitchen,Central,17,21,9495.72,3599.85,1
+2023-08,Home & Kitchen,Copperbelt,47,57,24932.36,9215.05,0
+2023-08,Home & Kitchen,Eastern,25,33,16866.52,6267.44,1
+2023-08,Home & Kitchen,Luapula,7,10,4826.63,1919.63,1
+2023-08,Home & Kitchen,Lusaka,67,87,37242.61,14522.04,1
+2023-08,Home & Kitchen,Muchinga,8,10,4571.53,1775.91,0
+2023-08,Home & Kitchen,North-Western,15,16,5765.47,2044.56,0
+2023-08,Home & Kitchen,Northern,11,13,4150.04,1381.94,2
+2023-08,Home & Kitchen,Southern,25,28,12498.57,4717.09,0
+2023-08,Home & Kitchen,Western,4,5,2024.65,945.0,0
+2023-08,Household,Central,24,52,4391.01,1711.68,2
+2023-08,Household,Copperbelt,51,108,7526.09,2733.18,0
+2023-08,Household,Eastern,29,67,5175.28,2053.09,1
+2023-08,Household,Luapula,8,18,1423.04,558.07,0
+2023-08,Household,Lusaka,117,246,18410.89,7301.35,1
+2023-08,Household,Muchinga,6,13,1105.87,351.98,0
+2023-08,Household,North-Western,18,34,2925.74,1204.62,0
+2023-08,Household,Northern,12,23,1751.79,585.42,0
+2023-08,Household,Southern,29,69,5473.72,2154.0,1
+2023-08,Household,Western,10,26,2299.69,863.64,0
+2023-08,Stationery,Central,10,22,3802.36,1295.99,1
+2023-08,Stationery,Copperbelt,35,70,9031.79,3630.46,0
+2023-08,Stationery,Eastern,12,26,3651.36,1325.36,0
+2023-08,Stationery,Luapula,8,24,3937.42,1158.66,0
+2023-08,Stationery,Lusaka,76,137,18848.49,6609.73,0
+2023-08,Stationery,Muchinga,1,2,387.84,19.17,0
+2023-08,Stationery,North-Western,12,29,4311.67,1449.01,1
+2023-08,Stationery,Northern,14,36,4632.2,1743.49,0
+2023-08,Stationery,Southern,12,21,1663.27,661.31,0
+2023-08,Stationery,Western,10,17,2488.47,1019.94,0
+2023-09,Baby & Kids,Central,14,29,4101.6,1181.53,0
+2023-09,Baby & Kids,Copperbelt,40,73,15303.34,5291.16,0
+2023-09,Baby & Kids,Eastern,9,16,3244.98,1113.97,1
+2023-09,Baby & Kids,Luapula,8,13,2943.53,863.45,1
+2023-09,Baby & Kids,Lusaka,70,144,35691.42,11672.36,1
+2023-09,Baby & Kids,Muchinga,1,1,126.9,22.75,0
+2023-09,Baby & Kids,North-Western,6,11,2688.32,942.81,0
+2023-09,Baby & Kids,Northern,6,10,2428.58,1018.7,0
+2023-09,Baby & Kids,Southern,12,23,4807.97,1431.89,0
+2023-09,Baby & Kids,Western,7,9,1890.56,540.46,0
+2023-09,Electronics,Central,14,14,23188.69,7203.06,0
+2023-09,Electronics,Copperbelt,40,42,60119.03,21610.3,1
+2023-09,Electronics,Eastern,14,16,19442.84,7307.78,1
+2023-09,Electronics,Luapula,10,10,10903.72,4406.32,0
+2023-09,Electronics,Lusaka,60,62,77629.44,25144.83,0
+2023-09,Electronics,Muchinga,6,7,13319.27,3416.17,0
+2023-09,Electronics,North-Western,10,10,13360.37,4178.9,0
+2023-09,Electronics,Northern,4,4,4640.96,1233.74,1
+2023-09,Electronics,Southern,15,16,30044.51,10586.73,1
+2023-09,Electronics,Western,6,6,16131.24,5374.68,0
+2023-09,Fashion,Central,18,22,9574.89,3884.56,3
+2023-09,Fashion,Copperbelt,56,70,29084.0,12221.88,3
+2023-09,Fashion,Eastern,16,20,10026.03,4073.75,0
+2023-09,Fashion,Luapula,10,16,7594.01,3201.91,1
+2023-09,Fashion,Lusaka,74,83,39491.9,17031.75,1
+2023-09,Fashion,Muchinga,7,11,6409.88,2839.86,0
+2023-09,Fashion,North-Western,10,11,4241.25,1698.39,0
+2023-09,Fashion,Northern,9,10,5428.37,2367.86,0
+2023-09,Fashion,Southern,21,28,11538.25,4808.7,0
+2023-09,Fashion,Western,6,7,5000.49,2342.03,0
+2023-09,Groceries,Central,45,110,10118.12,3943.73,0
+2023-09,Groceries,Copperbelt,112,252,21687.76,8376.46,2
+2023-09,Groceries,Eastern,34,88,8363.43,3432.78,0
+2023-09,Groceries,Luapula,18,34,2746.19,1055.1,0
+2023-09,Groceries,Lusaka,180,446,44334.01,17177.36,4
+2023-09,Groceries,Muchinga,9,19,2708.72,1264.05,0
+2023-09,Groceries,North-Western,27,76,8130.42,3479.54,1
+2023-09,Groceries,Northern,20,42,4116.03,1607.33,0
+2023-09,Groceries,Southern,50,124,14440.99,5934.41,1
+2023-09,Groceries,Western,12,25,1961.45,654.48,0
+2023-09,Health & Beauty,Central,15,17,3968.25,1603.09,2
+2023-09,Health & Beauty,Copperbelt,50,64,13986.56,5217.3,2
+2023-09,Health & Beauty,Eastern,20,23,5449.7,2139.12,0
+2023-09,Health & Beauty,Luapula,4,6,1163.2,482.52,0
+2023-09,Health & Beauty,Lusaka,77,96,22480.18,7963.01,1
+2023-09,Health & Beauty,Muchinga,4,5,1039.55,447.12,1
+2023-09,Health & Beauty,North-Western,13,18,3819.84,1441.23,1
+2023-09,Health & Beauty,Northern,8,11,1871.84,729.81,0
+2023-09,Health & Beauty,Southern,24,26,6464.22,2532.05,0
+2023-09,Health & Beauty,Western,10,12,3321.83,1358.55,0
+2023-09,Home & Kitchen,Central,11,15,6995.25,2462.18,0
+2023-09,Home & Kitchen,Copperbelt,44,52,25664.82,9841.69,0
+2023-09,Home & Kitchen,Eastern,16,17,8413.59,3297.78,0
+2023-09,Home & Kitchen,Luapula,10,11,5918.81,2275.42,0
+2023-09,Home & Kitchen,Lusaka,73,94,44307.09,17085.76,5
+2023-09,Home & Kitchen,Muchinga,8,8,4508.5,1608.74,0
+2023-09,Home & Kitchen,North-Western,4,5,2365.95,880.87,0
+2023-09,Home & Kitchen,Northern,8,13,8186.7,3308.92,1
+2023-09,Home & Kitchen,Southern,14,16,6821.11,2344.42,1
+2023-09,Home & Kitchen,Western,5,6,2969.82,1017.17,0
+2023-09,Household,Central,13,29,1943.32,613.71,0
+2023-09,Household,Copperbelt,58,126,8742.19,3081.42,1
+2023-09,Household,Eastern,18,45,3040.56,1157.37,1
+2023-09,Household,Luapula,7,15,1053.81,393.06,0
+2023-09,Household,Lusaka,85,192,13325.65,5176.12,1
+2023-09,Household,Muchinga,4,8,518.09,210.64,0
+2023-09,Household,North-Western,16,25,2148.46,829.61,2
+2023-09,Household,Northern,15,32,3039.69,1226.73,0
+2023-09,Household,Southern,32,87,6064.67,1993.55,0
+2023-09,Household,Western,8,13,1156.94,401.13,0
+2023-09,Stationery,Central,31,74,10520.87,3222.17,1
+2023-09,Stationery,Copperbelt,93,222,31679.31,10937.72,3
+2023-09,Stationery,Eastern,32,75,10728.26,3883.38,0
+2023-09,Stationery,Luapula,18,41,6593.22,2516.5,0
+2023-09,Stationery,Lusaka,162,390,54282.5,20670.25,4
+2023-09,Stationery,Muchinga,9,33,3135.42,1407.94,0
+2023-09,Stationery,North-Western,16,38,6752.86,2610.3,1
+2023-09,Stationery,Northern,20,49,7667.09,2439.54,0
+2023-09,Stationery,Southern,36,100,15883.59,5734.03,1
+2023-09,Stationery,Western,15,32,5575.62,1657.09,0
+2023-10,Baby & Kids,Central,14,29,4140.13,1269.87,0
+2023-10,Baby & Kids,Copperbelt,37,83,18439.11,5924.57,1
+2023-10,Baby & Kids,Eastern,19,38,9595.13,3464.35,3
+2023-10,Baby & Kids,Luapula,7,10,1629.62,438.85,0
+2023-10,Baby & Kids,Lusaka,70,143,34135.95,12475.85,1
+2023-10,Baby & Kids,Muchinga,10,15,3139.98,1051.45,0
+2023-10,Baby & Kids,North-Western,12,26,5315.76,2161.14,0
+2023-10,Baby & Kids,Northern,8,16,3098.46,963.85,0
+2023-10,Baby & Kids,Southern,26,54,10573.39,4158.91,1
+2023-10,Baby & Kids,Western,9,20,3284.22,1056.27,0
+2023-10,Electronics,Central,11,12,19996.55,7759.91,0
+2023-10,Electronics,Copperbelt,48,57,71749.98,23669.53,3
+2023-10,Electronics,Eastern,7,9,20502.4,7291.24,0
+2023-10,Electronics,Luapula,12,12,16970.45,5618.41,0
+2023-10,Electronics,Lusaka,85,97,120888.06,39599.74,2
+2023-10,Electronics,Muchinga,5,5,3726.4,1560.91,0
+2023-10,Electronics,North-Western,10,11,11192.75,3878.81,0
+2023-10,Electronics,Northern,9,10,13015.04,4064.76,0
+2023-10,Electronics,Southern,22,25,30193.23,9908.12,1
+2023-10,Electronics,Western,12,15,11865.69,3864.23,0
+2023-10,Fashion,Central,15,18,8725.99,3816.83,0
+2023-10,Fashion,Copperbelt,38,45,20894.57,9134.2,0
+2023-10,Fashion,Eastern,9,10,4692.07,2125.68,0
+2023-10,Fashion,Luapula,11,16,7014.33,3213.94,0
+2023-10,Fashion,Lusaka,77,94,45841.01,19710.23,2
+2023-10,Fashion,Muchinga,8,9,4466.72,1999.24,0
+2023-10,Fashion,North-Western,14,18,8093.22,3238.88,1
+2023-10,Fashion,Northern,12,16,7408.95,3048.81,0
+2023-10,Fashion,Southern,21,27,13370.34,5973.01,0
+2023-10,Fashion,Western,6,11,6266.14,2509.86,0
+2023-10,Groceries,Central,39,103,11609.67,4621.91,1
+2023-10,Groceries,Copperbelt,120,317,35933.53,14463.27,2
+2023-10,Groceries,Eastern,32,100,9351.46,3557.62,1
+2023-10,Groceries,Luapula,18,39,3486.46,1398.6,0
+2023-10,Groceries,Lusaka,207,515,55964.37,22506.66,4
+2023-10,Groceries,Muchinga,16,45,4803.89,1947.71,0
+2023-10,Groceries,North-Western,31,78,8007.35,3197.72,1
+2023-10,Groceries,Northern,21,59,7075.65,2840.43,0
+2023-10,Groceries,Southern,51,129,11314.1,4132.13,1
+2023-10,Groceries,Western,15,45,4757.09,1615.06,0
+2023-10,Health & Beauty,Central,16,18,3578.09,1305.33,0
+2023-10,Health & Beauty,Copperbelt,65,74,19673.53,7572.48,0
+2023-10,Health & Beauty,Eastern,12,16,2765.32,944.33,0
+2023-10,Health & Beauty,Luapula,6,7,2166.22,799.39,0
+2023-10,Health & Beauty,Lusaka,105,132,30484.18,10603.74,5
+2023-10,Health & Beauty,Muchinga,10,11,2408.1,884.11,0
+2023-10,Health & Beauty,North-Western,15,19,5080.65,2061.24,0
+2023-10,Health & Beauty,Northern,13,16,3794.29,1580.49,0
+2023-10,Health & Beauty,Southern,24,36,9571.02,3421.86,0
+2023-10,Health & Beauty,Western,10,12,3087.45,1225.12,0
+2023-10,Home & Kitchen,Central,28,38,21172.63,8496.86,1
+2023-10,Home & Kitchen,Copperbelt,44,53,25874.58,9497.98,0
+2023-10,Home & Kitchen,Eastern,13,16,8890.63,3339.57,1
+2023-10,Home & Kitchen,Luapula,8,10,5577.38,2064.46,0
+2023-10,Home & Kitchen,Lusaka,88,107,56352.46,22478.3,1
+2023-10,Home & Kitchen,Muchinga,5,5,3923.24,1756.22,0
+2023-10,Home & Kitchen,North-Western,12,15,5366.29,2002.14,1
+2023-10,Home & Kitchen,Northern,9,11,3964.02,1152.58,0
+2023-10,Home & Kitchen,Southern,23,32,11566.36,4192.24,0
+2023-10,Home & Kitchen,Western,7,9,2981.58,1123.37,0
+2023-10,Household,Central,16,45,3373.83,1340.08,0
+2023-10,Household,Copperbelt,76,188,14841.57,5431.65,1
+2023-10,Household,Eastern,22,45,3064.17,1141.37,1
+2023-10,Household,Luapula,9,30,1985.96,658.41,1
+2023-10,Household,Lusaka,111,255,19092.54,7587.89,1
+2023-10,Household,Muchinga,11,20,1680.19,706.31,0
+2023-10,Household,North-Western,19,39,3032.82,1111.59,0
+2023-10,Household,Northern,13,31,2532.31,952.13,1
+2023-10,Household,Southern,35,74,5861.46,2332.36,2
+2023-10,Household,Western,11,32,2151.48,838.78,1
+2023-10,Stationery,Central,21,49,7485.21,2605.86,1
+2023-10,Stationery,Copperbelt,39,84,16163.08,6292.83,1
+2023-10,Stationery,Eastern,11,28,4313.79,1390.23,0
+2023-10,Stationery,Luapula,10,22,2503.94,847.62,0
+2023-10,Stationery,Lusaka,76,164,24630.93,8786.52,1
+2023-10,Stationery,Muchinga,9,21,2947.28,1433.47,0
+2023-10,Stationery,North-Western,14,38,6690.18,2342.29,0
+2023-10,Stationery,Northern,10,19,3215.45,1156.06,0
+2023-10,Stationery,Southern,27,72,9522.62,3240.91,0
+2023-10,Stationery,Western,8,21,2396.39,824.78,0
+2023-11,Baby & Kids,Central,22,53,11211.31,3879.06,0
+2023-11,Baby & Kids,Copperbelt,44,94,18548.6,5810.96,1
+2023-11,Baby & Kids,Eastern,17,39,7259.79,2490.07,0
+2023-11,Baby & Kids,Luapula,10,19,3836.23,1259.73,1
+2023-11,Baby & Kids,Lusaka,90,177,40461.97,13469.23,3
+2023-11,Baby & Kids,Muchinga,5,6,1724.35,632.93,0
+2023-11,Baby & Kids,North-Western,13,39,7887.82,2916.75,0
+2023-11,Baby & Kids,Northern,10,14,3680.62,1338.22,0
+2023-11,Baby & Kids,Southern,22,49,9833.44,3582.62,0
+2023-11,Baby & Kids,Western,5,8,1472.91,596.48,0
+2023-11,Electronics,Central,24,27,26426.66,8562.18,1
+2023-11,Electronics,Copperbelt,72,79,106170.65,37253.97,3
+2023-11,Electronics,Eastern,19,21,37104.86,11533.23,1
+2023-11,Electronics,Luapula,8,10,16673.45,7318.3,0
+2023-11,Electronics,Lusaka,82,89,126437.39,48060.65,2
+2023-11,Electronics,Muchinga,9,11,19889.38,7530.03,0
+2023-11,Electronics,North-Western,12,12,15097.1,4225.31,0
+2023-11,Electronics,Northern,8,9,11796.18,4126.93,0
+2023-11,Electronics,Southern,28,31,45311.91,15465.17,0
+2023-11,Electronics,Western,2,2,4157.0,1172.67,0
+2023-11,Fashion,Central,20,26,15307.71,6539.32,0
+2023-11,Fashion,Copperbelt,52,74,36159.34,15426.16,0
+2023-11,Fashion,Eastern,20,31,16891.81,7406.45,0
+2023-11,Fashion,Luapula,10,10,3862.74,1520.03,1
+2023-11,Fashion,Lusaka,99,122,60240.38,25884.71,2
+2023-11,Fashion,Muchinga,7,9,4262.95,1934.37,0
+2023-11,Fashion,North-Western,13,17,9457.66,3768.59,0
+2023-11,Fashion,Northern,10,15,5653.74,2376.08,1
+2023-11,Fashion,Southern,30,40,22149.26,9195.89,0
+2023-11,Fashion,Western,7,7,3022.77,1323.8,0
+2023-11,Groceries,Central,53,116,13299.3,5499.56,1
+2023-11,Groceries,Copperbelt,140,349,34953.75,13828.59,3
+2023-11,Groceries,Eastern,47,129,14019.96,5354.67,1
+2023-11,Groceries,Luapula,18,50,4689.79,1789.44,0
+2023-11,Groceries,Lusaka,236,626,65619.39,26690.08,6
+2023-11,Groceries,Muchinga,14,34,2401.06,810.88,0
+2023-11,Groceries,North-Western,33,85,10953.23,4586.1,0
+2023-11,Groceries,Northern,32,91,9595.54,3707.41,1
+2023-11,Groceries,Southern,71,192,19079.83,7727.47,0
+2023-11,Groceries,Western,17,53,5603.95,2190.43,0
+2023-11,Health & Beauty,Central,32,38,7427.51,2664.95,1
+2023-11,Health & Beauty,Copperbelt,63,77,17457.51,6102.17,1
+2023-11,Health & Beauty,Eastern,19,25,5680.32,1959.09,0
+2023-11,Health & Beauty,Luapula,10,16,1829.84,741.97,0
+2023-11,Health & Beauty,Lusaka,120,143,35764.84,13281.12,2
+2023-11,Health & Beauty,Muchinga,9,12,1719.29,676.24,1
+2023-11,Health & Beauty,North-Western,18,19,3163.72,1194.15,0
+2023-11,Health & Beauty,Northern,9,13,2196.41,808.61,1
+2023-11,Health & Beauty,Southern,26,34,7889.34,2987.4,0
+2023-11,Health & Beauty,Western,10,14,3275.39,1251.66,0
+2023-11,Home & Kitchen,Central,22,24,9792.38,3171.01,0
+2023-11,Home & Kitchen,Copperbelt,57,73,40178.09,14945.87,0
+2023-11,Home & Kitchen,Eastern,13,14,7487.96,3015.43,0
+2023-11,Home & Kitchen,Luapula,5,6,1442.8,376.34,0
+2023-11,Home & Kitchen,Lusaka,101,129,56036.29,20663.42,2
+2023-11,Home & Kitchen,Muchinga,9,9,3033.92,1152.76,2
+2023-11,Home & Kitchen,North-Western,19,20,8401.97,3061.26,0
+2023-11,Home & Kitchen,Northern,14,19,9674.51,4051.16,0
+2023-11,Home & Kitchen,Southern,27,39,19149.38,6759.51,1
+2023-11,Home & Kitchen,Western,8,8,4850.94,1965.43,0
+2023-11,Household,Central,37,75,5719.11,2329.45,0
+2023-11,Household,Copperbelt,72,157,11553.75,4424.15,2
+2023-11,Household,Eastern,21,43,3167.38,1206.84,0
+2023-11,Household,Luapula,10,20,1789.15,652.58,1
+2023-11,Household,Lusaka,130,301,22895.41,8676.53,1
+2023-11,Household,Muchinga,10,25,1808.82,713.39,0
+2023-11,Household,North-Western,14,28,1961.81,786.27,0
+2023-11,Household,Northern,16,30,2473.04,901.85,0
+2023-11,Household,Southern,30,80,6287.99,2448.73,0
+2023-11,Household,Western,9,23,1983.97,725.47,0
+2023-11,Stationery,Central,25,46,5323.35,1620.81,1
+2023-11,Stationery,Copperbelt,58,120,16715.29,6463.52,1
+2023-11,Stationery,Eastern,16,32,4459.26,1490.36,0
+2023-11,Stationery,Luapula,9,24,4700.57,2136.24,0
+2023-11,Stationery,Lusaka,97,213,34898.46,13202.38,4
+2023-11,Stationery,Muchinga,10,21,2287.26,785.19,0
+2023-11,Stationery,North-Western,14,22,3990.89,1338.17,0
+2023-11,Stationery,Northern,15,29,2979.41,1088.81,0
+2023-11,Stationery,Southern,17,36,6182.49,2157.33,0
+2023-11,Stationery,Western,5,10,1038.14,321.52,0
+2023-12,Baby & Kids,Central,27,67,16799.32,5783.96,1
+2023-12,Baby & Kids,Copperbelt,56,114,26410.32,8432.16,1
+2023-12,Baby & Kids,Eastern,21,53,9521.77,3271.3,1
+2023-12,Baby & Kids,Luapula,10,23,4406.31,1020.83,0
+2023-12,Baby & Kids,Lusaka,96,201,46509.17,17210.95,3
+2023-12,Baby & Kids,Muchinga,5,7,1102.34,206.57,0
+2023-12,Baby & Kids,North-Western,21,47,12703.68,4286.72,1
+2023-12,Baby & Kids,Northern,10,30,7098.15,2705.15,0
+2023-12,Baby & Kids,Southern,24,44,8976.42,3250.59,1
+2023-12,Baby & Kids,Western,7,10,1726.51,572.28,0
+2023-12,Electronics,Central,23,24,24377.75,7218.51,0
+2023-12,Electronics,Copperbelt,136,162,208774.91,70403.67,0
+2023-12,Electronics,Eastern,29,31,42776.25,15180.0,0
+2023-12,Electronics,Luapula,16,18,20243.99,5752.75,0
+2023-12,Electronics,Lusaka,152,172,255915.19,89958.23,4
+2023-12,Electronics,Muchinga,15,17,22651.32,8533.73,0
+2023-12,Electronics,North-Western,30,36,50690.71,17843.85,0
+2023-12,Electronics,Northern,23,30,45187.42,16665.87,0
+2023-12,Electronics,Southern,39,50,68029.05,21195.21,0
+2023-12,Electronics,Western,16,21,35112.49,12098.64,1
+2023-12,Fashion,Central,40,54,23027.02,9789.52,1
+2023-12,Fashion,Copperbelt,94,124,59624.63,24925.99,5
+2023-12,Fashion,Eastern,28,39,20604.11,9023.91,1
+2023-12,Fashion,Luapula,12,17,8607.81,3811.08,1
+2023-12,Fashion,Lusaka,168,222,106559.95,46333.99,8
+2023-12,Fashion,Muchinga,11,14,4420.74,1808.06,0
+2023-12,Fashion,North-Western,24,30,18653.42,8259.83,0
+2023-12,Fashion,Northern,21,30,15341.05,6762.71,1
+2023-12,Fashion,Southern,46,68,32515.14,14032.75,1
+2023-12,Fashion,Western,13,16,8510.22,3612.99,0
+2023-12,Groceries,Central,68,180,20759.65,8452.01,2
+2023-12,Groceries,Copperbelt,161,387,40198.96,15841.66,1
+2023-12,Groceries,Eastern,62,163,16569.27,6374.34,1
+2023-12,Groceries,Luapula,23,49,6351.04,2686.75,1
+2023-12,Groceries,Lusaka,305,795,78959.89,31351.74,8
+2023-12,Groceries,Muchinga,18,43,3829.83,1394.79,0
+2023-12,Groceries,North-Western,42,96,10413.73,4264.24,3
+2023-12,Groceries,Northern,31,75,7575.5,3202.89,0
+2023-12,Groceries,Southern,91,243,26810.24,11158.08,1
+2023-12,Groceries,Western,23,61,5522.49,2029.09,1
+2023-12,Health & Beauty,Central,24,29,7497.33,2710.15,2
+2023-12,Health & Beauty,Copperbelt,80,97,23658.76,8712.13,1
+2023-12,Health & Beauty,Eastern,23,29,7804.74,2991.97,3
+2023-12,Health & Beauty,Luapula,13,17,4020.42,1342.01,0
+2023-12,Health & Beauty,Lusaka,136,175,41614.29,15219.27,2
+2023-12,Health & Beauty,Muchinga,11,13,3403.77,1201.61,0
+2023-12,Health & Beauty,North-Western,27,37,10129.29,3691.75,0
+2023-12,Health & Beauty,Northern,18,26,6271.13,2208.07,1
+2023-12,Health & Beauty,Southern,30,35,7627.61,2729.02,0
+2023-12,Health & Beauty,Western,13,15,4958.46,1603.67,0
+2023-12,Home & Kitchen,Central,28,31,14978.51,6035.94,1
+2023-12,Home & Kitchen,Copperbelt,95,125,59871.86,21633.15,2
+2023-12,Home & Kitchen,Eastern,25,31,14455.83,5193.94,1
+2023-12,Home & Kitchen,Luapula,13,17,7069.66,2672.11,0
+2023-12,Home & Kitchen,Lusaka,147,182,86227.8,32512.83,2
+2023-12,Home & Kitchen,Muchinga,5,6,4354.52,1937.3,0
+2023-12,Home & Kitchen,North-Western,21,30,13478.6,5041.48,0
+2023-12,Home & Kitchen,Northern,12,13,6946.35,2688.86,0
+2023-12,Home & Kitchen,Southern,35,49,25684.22,10098.08,0
+2023-12,Home & Kitchen,Western,11,15,6572.11,2307.77,0
+2023-12,Household,Central,29,66,4452.18,1539.08,0
+2023-12,Household,Copperbelt,98,207,16733.99,6653.4,0
+2023-12,Household,Eastern,25,47,3474.08,1335.27,0
+2023-12,Household,Luapula,21,41,3313.36,1322.42,1
+2023-12,Household,Lusaka,177,387,27614.62,9750.29,2
+2023-12,Household,Muchinga,9,20,1242.74,478.55,0
+2023-12,Household,North-Western,23,46,3258.22,1093.32,0
+2023-12,Household,Northern,20,55,4170.66,1558.37,1
+2023-12,Household,Southern,45,97,7805.08,3188.53,0
+2023-12,Household,Western,13,41,3289.97,1303.35,0
+2023-12,Stationery,Central,25,44,8780.12,3015.78,0
+2023-12,Stationery,Copperbelt,62,121,20343.96,7737.16,1
+2023-12,Stationery,Eastern,21,52,7734.22,2899.49,1
+2023-12,Stationery,Luapula,14,34,6465.41,2280.05,0
+2023-12,Stationery,Lusaka,110,232,34132.79,12334.46,2
+2023-12,Stationery,Muchinga,5,10,3233.49,1222.44,1
+2023-12,Stationery,North-Western,14,27,3013.64,1119.67,1
+2023-12,Stationery,Northern,16,35,5390.81,1977.54,0
+2023-12,Stationery,Southern,34,65,7242.71,2530.44,0
+2023-12,Stationery,Western,8,15,1774.96,723.53,0
+2024-01,Baby & Kids,Central,5,13,3524.48,1086.13,0
+2024-01,Baby & Kids,Copperbelt,35,75,16022.7,5575.7,2
+2024-01,Baby & Kids,Eastern,14,27,8358.54,2988.39,0
+2024-01,Baby & Kids,Luapula,7,17,2927.89,1044.77,0
+2024-01,Baby & Kids,Lusaka,76,173,38612.94,13283.84,0
+2024-01,Baby & Kids,Muchinga,6,12,3244.32,928.68,0
+2024-01,Baby & Kids,North-Western,17,33,6251.77,2194.32,0
+2024-01,Baby & Kids,Northern,5,9,1063.88,369.39,0
+2024-01,Baby & Kids,Southern,17,24,4011.19,1276.08,0
+2024-01,Baby & Kids,Western,4,7,1907.86,732.52,0
+2024-01,Electronics,Central,9,9,13823.13,3810.75,0
+2024-01,Electronics,Copperbelt,44,49,79638.41,26294.96,1
+2024-01,Electronics,Eastern,10,11,21189.76,6691.45,0
+2024-01,Electronics,Luapula,3,3,3772.33,1353.73,0
+2024-01,Electronics,Lusaka,69,76,120121.67,36791.28,0
+2024-01,Electronics,Muchinga,2,2,1871.28,620.3,0
+2024-01,Electronics,North-Western,13,18,30750.96,10051.16,1
+2024-01,Electronics,Northern,6,8,14382.47,4876.32,0
+2024-01,Electronics,Southern,23,23,44193.42,12336.79,0
+2024-01,Electronics,Western,9,9,13431.23,4744.65,0
+2024-01,Fashion,Central,14,16,6608.93,2996.7,1
+2024-01,Fashion,Copperbelt,40,43,21533.24,8940.77,0
+2024-01,Fashion,Eastern,16,19,9420.61,4199.62,0
+2024-01,Fashion,Luapula,3,4,1092.03,447.69,0
+2024-01,Fashion,Lusaka,102,122,52628.72,22676.45,0
+2024-01,Fashion,Muchinga,6,7,2911.1,1168.82,0
+2024-01,Fashion,North-Western,20,26,14475.26,6346.24,1
+2024-01,Fashion,Northern,12,15,8403.63,3569.72,0
+2024-01,Fashion,Southern,23,26,13966.89,5976.69,0
+2024-01,Fashion,Western,1,3,864.59,327.63,0
+2024-01,Groceries,Central,34,84,8785.51,3418.55,1
+2024-01,Groceries,Copperbelt,109,263,27503.85,10323.47,4
+2024-01,Groceries,Eastern,35,77,8101.46,3063.8,1
+2024-01,Groceries,Luapula,20,54,5482.61,2103.32,0
+2024-01,Groceries,Lusaka,188,457,44350.92,17667.17,4
+2024-01,Groceries,Muchinga,10,20,1638.39,638.8,0
+2024-01,Groceries,North-Western,35,74,7778.83,3077.72,0
+2024-01,Groceries,Northern,20,46,4884.79,1795.82,0
+2024-01,Groceries,Southern,71,165,16618.19,6764.58,1
+2024-01,Groceries,Western,9,17,2342.9,959.07,0
+2024-01,Health & Beauty,Central,23,28,5735.56,1990.36,0
+2024-01,Health & Beauty,Copperbelt,40,51,14236.51,5404.31,1
+2024-01,Health & Beauty,Eastern,11,13,4301.02,1527.37,0
+2024-01,Health & Beauty,Luapula,3,4,771.67,232.44,0
+2024-01,Health & Beauty,Lusaka,85,117,28370.43,10466.69,2
+2024-01,Health & Beauty,Muchinga,5,5,1616.28,596.92,0
+2024-01,Health & Beauty,North-Western,14,16,4603.62,1446.34,0
+2024-01,Health & Beauty,Northern,14,18,4443.14,1585.01,0
+2024-01,Health & Beauty,Southern,39,48,13353.26,5087.41,0
+2024-01,Health & Beauty,Western,1,1,370.18,139.45,0
+2024-01,Home & Kitchen,Central,19,24,11642.26,4541.75,0
+2024-01,Home & Kitchen,Copperbelt,45,58,27309.43,9821.37,0
+2024-01,Home & Kitchen,Eastern,17,19,9200.74,3519.72,0
+2024-01,Home & Kitchen,Luapula,6,8,2284.91,716.77,0
+2024-01,Home & Kitchen,Lusaka,69,85,42020.72,15944.32,0
+2024-01,Home & Kitchen,Muchinga,3,4,2932.79,1517.6,0
+2024-01,Home & Kitchen,North-Western,11,15,5730.76,2053.15,0
+2024-01,Home & Kitchen,Northern,9,10,4674.61,1675.99,0
+2024-01,Home & Kitchen,Southern,21,22,11378.87,4249.68,0
+2024-01,Home & Kitchen,Western,3,4,1257.48,434.95,0
+2024-01,Household,Central,27,51,4205.37,1782.41,0
+2024-01,Household,Copperbelt,38,73,4964.79,1793.52,1
+2024-01,Household,Eastern,14,26,2032.35,758.3,0
+2024-01,Household,Luapula,9,24,2190.66,742.98,1
+2024-01,Household,Lusaka,108,242,20712.04,7981.25,2
+2024-01,Household,Muchinga,6,10,941.47,358.45,0
+2024-01,Household,North-Western,23,50,3705.27,1354.11,3
+2024-01,Household,Northern,16,38,2694.58,983.11,0
+2024-01,Household,Southern,29,61,4184.45,1671.64,0
+2024-01,Household,Western,3,5,296.8,119.23,0
+2024-01,Stationery,Central,28,81,8838.2,3262.92,0
+2024-01,Stationery,Copperbelt,77,176,23796.45,9097.07,2
+2024-01,Stationery,Eastern,25,50,6080.51,2111.5,0
+2024-01,Stationery,Luapula,10,23,2546.43,1173.6,0
+2024-01,Stationery,Lusaka,172,398,68139.52,25377.09,3
+2024-01,Stationery,Muchinga,10,23,4660.02,1725.78,0
+2024-01,Stationery,North-Western,34,79,12923.3,5052.84,1
+2024-01,Stationery,Northern,14,32,5065.68,1813.83,0
+2024-01,Stationery,Southern,54,125,19377.41,7210.36,0
+2024-01,Stationery,Western,3,7,1097.21,425.67,0
+2024-02,Baby & Kids,Central,19,42,8274.55,2978.38,0
+2024-02,Baby & Kids,Copperbelt,30,64,14328.96,4689.58,0
+2024-02,Baby & Kids,Eastern,9,18,2821.15,1034.78,0
+2024-02,Baby & Kids,Luapula,6,10,1025.95,283.22,0
+2024-02,Baby & Kids,Lusaka,60,135,29153.19,9657.07,1
+2024-02,Baby & Kids,Muchinga,3,5,751.75,268.32,0
+2024-02,Baby & Kids,North-Western,14,34,6412.25,1991.64,1
+2024-02,Baby & Kids,Northern,11,23,6244.94,2166.14,0
+2024-02,Baby & Kids,Southern,31,70,12981.4,4231.76,0
+2024-02,Baby & Kids,Western,7,13,3148.05,937.02,0
+2024-02,Electronics,Central,20,22,24789.26,8747.01,0
+2024-02,Electronics,Copperbelt,69,82,124915.81,40303.98,3
+2024-02,Electronics,Eastern,9,10,13050.52,4554.05,0
+2024-02,Electronics,Luapula,7,7,8400.13,2920.4,0
+2024-02,Electronics,Lusaka,74,79,135831.03,42321.81,0
+2024-02,Electronics,Muchinga,9,10,7909.02,2231.69,0
+2024-02,Electronics,North-Western,19,27,39858.92,13127.74,0
+2024-02,Electronics,Northern,9,10,22378.49,9224.98,0
+2024-02,Electronics,Southern,24,27,30042.45,10088.99,1
+2024-02,Electronics,Western,8,8,16278.11,6347.12,0
+2024-02,Fashion,Central,14,18,6261.36,2660.1,0
+2024-02,Fashion,Copperbelt,48,64,27982.66,11919.77,0
+2024-02,Fashion,Eastern,14,19,8254.3,3710.54,0
+2024-02,Fashion,Luapula,3,3,706.85,249.47,0
+2024-02,Fashion,Lusaka,68,89,47408.26,20284.47,0
+2024-02,Fashion,Muchinga,5,5,2047.47,773.39,0
+2024-02,Fashion,North-Western,15,17,8439.54,3751.73,1
+2024-02,Fashion,Northern,11,15,8037.09,3611.27,0
+2024-02,Fashion,Southern,23,35,18269.03,8084.05,1
+2024-02,Fashion,Western,5,6,3942.83,1505.14,2
+2024-02,Groceries,Central,61,167,17644.67,6985.68,0
+2024-02,Groceries,Copperbelt,135,322,31556.25,12338.77,2
+2024-02,Groceries,Eastern,32,75,6994.08,2891.37,0
+2024-02,Groceries,Luapula,20,53,5258.24,2367.95,0
+2024-02,Groceries,Lusaka,186,484,51576.06,20171.88,6
+2024-02,Groceries,Muchinga,10,28,2294.84,751.86,0
+2024-02,Groceries,North-Western,26,70,8236.47,3476.37,1
+2024-02,Groceries,Northern,30,93,9186.88,3573.71,0
+2024-02,Groceries,Southern,52,143,13835.53,5495.47,0
+2024-02,Groceries,Western,14,37,4204.99,1796.57,0
+2024-02,Health & Beauty,Central,30,34,8040.41,3159.98,0
+2024-02,Health & Beauty,Copperbelt,46,69,17316.2,5998.21,0
+2024-02,Health & Beauty,Eastern,18,24,6124.76,2264.33,1
+2024-02,Health & Beauty,Luapula,13,19,4746.77,1607.33,0
+2024-02,Health & Beauty,Lusaka,106,139,34797.24,12283.67,2
+2024-02,Health & Beauty,Muchinga,8,9,2054.97,748.86,0
+2024-02,Health & Beauty,North-Western,15,20,5685.07,2233.5,0
+2024-02,Health & Beauty,Northern,16,19,3760.47,1302.56,0
+2024-02,Health & Beauty,Southern,33,38,11298.46,3810.34,0
+2024-02,Health & Beauty,Western,9,11,2300.91,792.74,0
+2024-02,Home & Kitchen,Central,20,25,8561.43,2656.05,0
+2024-02,Home & Kitchen,Copperbelt,50,60,33822.35,12605.64,2
+2024-02,Home & Kitchen,Eastern,21,26,14249.53,5336.17,0
+2024-02,Home & Kitchen,Luapula,7,10,3498.17,1220.26,1
+2024-02,Home & Kitchen,Lusaka,73,89,45690.86,17173.36,1
+2024-02,Home & Kitchen,Muchinga,10,13,7632.89,2739.96,0
+2024-02,Home & Kitchen,North-Western,12,15,6180.85,2402.73,0
+2024-02,Home & Kitchen,Northern,11,16,5515.43,1900.53,1
+2024-02,Home & Kitchen,Southern,18,23,10935.42,4381.58,1
+2024-02,Home & Kitchen,Western,5,6,3018.83,1139.07,0
+2024-02,Household,Central,35,77,5787.95,2335.51,2
+2024-02,Household,Copperbelt,56,134,10543.34,3847.04,0
+2024-02,Household,Eastern,24,39,3370.57,1332.92,0
+2024-02,Household,Luapula,8,14,1233.06,461.87,0
+2024-02,Household,Lusaka,101,220,17032.58,6471.24,3
+2024-02,Household,Muchinga,4,8,608.94,178.86,0
+2024-02,Household,North-Western,19,43,2820.8,822.52,0
+2024-02,Household,Northern,15,24,2031.44,662.95,0
+2024-02,Household,Southern,38,84,6199.83,2274.56,1
+2024-02,Household,Western,13,39,2683.4,939.82,0
+2024-02,Stationery,Central,21,46,6375.35,2323.85,0
+2024-02,Stationery,Copperbelt,44,97,13499.5,4995.47,0
+2024-02,Stationery,Eastern,14,28,4517.7,1831.47,0
+2024-02,Stationery,Luapula,11,30,4196.93,1404.54,0
+2024-02,Stationery,Lusaka,68,147,24158.46,8602.64,1
+2024-02,Stationery,Muchinga,3,5,605.28,225.12,0
+2024-02,Stationery,North-Western,9,24,4112.63,1348.66,0
+2024-02,Stationery,Northern,4,7,1991.58,732.08,0
+2024-02,Stationery,Southern,20,42,4609.44,1692.58,0
+2024-02,Stationery,Western,9,12,2532.63,680.56,1
+2024-03,Baby & Kids,Central,19,40,6610.46,2179.85,0
+2024-03,Baby & Kids,Copperbelt,54,118,21191.15,7703.59,0
+2024-03,Baby & Kids,Eastern,13,26,5175.49,1868.66,0
+2024-03,Baby & Kids,Luapula,13,29,5544.01,1867.63,0
+2024-03,Baby & Kids,Lusaka,79,148,37383.69,13008.69,1
+2024-03,Baby & Kids,Muchinga,4,8,1146.04,527.38,0
+2024-03,Baby & Kids,North-Western,11,23,4036.82,1441.42,0
+2024-03,Baby & Kids,Northern,12,34,7631.55,2743.1,0
+2024-03,Baby & Kids,Southern,26,45,8753.15,2809.69,0
+2024-03,Baby & Kids,Western,12,25,6127.04,2062.33,1
+2024-03,Electronics,Central,16,17,23937.01,8515.31,0
+2024-03,Electronics,Copperbelt,49,59,94137.47,31305.42,0
+2024-03,Electronics,Eastern,17,18,29154.18,11019.78,0
+2024-03,Electronics,Luapula,14,19,24774.78,9391.13,0
+2024-03,Electronics,Lusaka,64,71,117465.01,39062.99,0
+2024-03,Electronics,Muchinga,8,10,8872.01,3144.97,0
+2024-03,Electronics,North-Western,9,10,11111.97,3438.12,0
+2024-03,Electronics,Northern,11,13,11471.8,3812.09,0
+2024-03,Electronics,Southern,23,25,42864.74,14253.85,1
+2024-03,Electronics,Western,13,15,17357.99,5896.64,1
+2024-03,Fashion,Central,24,32,15643.12,6815.95,1
+2024-03,Fashion,Copperbelt,58,77,36317.34,15564.13,2
+2024-03,Fashion,Eastern,20,25,11452.83,4592.85,1
+2024-03,Fashion,Luapula,9,10,3879.59,1767.25,0
+2024-03,Fashion,Lusaka,105,125,60048.14,25853.89,1
+2024-03,Fashion,Muchinga,6,6,3422.86,1473.29,0
+2024-03,Fashion,North-Western,15,18,11379.96,5167.06,0
+2024-03,Fashion,Northern,12,17,9806.71,4476.44,0
+2024-03,Fashion,Southern,25,33,15239.16,6498.92,0
+2024-03,Fashion,Western,9,10,6130.52,2845.24,0
+2024-03,Groceries,Central,62,167,19041.23,7511.38,0
+2024-03,Groceries,Copperbelt,128,332,31909.1,12480.49,4
+2024-03,Groceries,Eastern,59,152,13889.27,5289.31,2
+2024-03,Groceries,Luapula,17,51,4743.12,1693.25,1
+2024-03,Groceries,Lusaka,235,605,58697.08,23458.8,0
+2024-03,Groceries,Muchinga,23,60,7135.52,2651.09,0
+2024-03,Groceries,North-Western,37,91,10819.81,4040.0,0
+2024-03,Groceries,Northern,31,85,8350.0,3387.28,1
+2024-03,Groceries,Southern,69,159,16041.07,6354.83,1
+2024-03,Groceries,Western,27,53,6473.89,2590.65,4
+2024-03,Health & Beauty,Central,28,42,13322.41,4757.88,0
+2024-03,Health & Beauty,Copperbelt,78,99,28933.85,9791.06,1
+2024-03,Health & Beauty,Eastern,22,33,7345.87,2774.66,2
+2024-03,Health & Beauty,Luapula,17,23,4933.43,1773.27,1
+2024-03,Health & Beauty,Lusaka,130,161,37217.19,12818.18,1
+2024-03,Health & Beauty,Muchinga,11,15,3732.54,1439.26,0
+2024-03,Health & Beauty,North-Western,20,28,6815.46,2159.48,1
+2024-03,Health & Beauty,Northern,20,28,7245.85,2895.32,0
+2024-03,Health & Beauty,Southern,30,34,9233.7,3628.85,0
+2024-03,Health & Beauty,Western,8,14,3678.71,1228.38,0
+2024-03,Home & Kitchen,Central,19,23,10230.77,3753.52,0
+2024-03,Home & Kitchen,Copperbelt,55,76,37276.93,13890.25,1
+2024-03,Home & Kitchen,Eastern,22,32,17839.21,6731.75,0
+2024-03,Home & Kitchen,Luapula,6,8,5535.35,2302.96,0
+2024-03,Home & Kitchen,Lusaka,112,133,67175.54,25455.02,1
+2024-03,Home & Kitchen,Muchinga,8,11,5969.41,2297.0,1
+2024-03,Home & Kitchen,North-Western,17,20,11893.73,4825.8,0
+2024-03,Home & Kitchen,Northern,11,14,8794.63,3442.28,0
+2024-03,Home & Kitchen,Southern,26,30,12029.63,4296.7,0
+2024-03,Home & Kitchen,Western,9,11,7077.96,2991.78,0
+2024-03,Household,Central,27,59,4322.77,1512.75,0
+2024-03,Household,Copperbelt,78,186,14171.14,5461.11,2
+2024-03,Household,Eastern,20,40,2528.67,946.36,1
+2024-03,Household,Luapula,13,35,2826.02,1067.38,1
+2024-03,Household,Lusaka,149,326,26148.32,10094.16,4
+2024-03,Household,Muchinga,7,18,1486.95,492.61,0
+2024-03,Household,North-Western,21,48,3788.74,1535.91,0
+2024-03,Household,Northern,20,50,3464.73,1339.36,0
+2024-03,Household,Southern,38,81,6431.43,2269.58,0
+2024-03,Household,Western,19,36,3253.39,1362.78,1
+2024-03,Stationery,Central,17,27,3110.46,1110.58,0
+2024-03,Stationery,Copperbelt,53,114,16714.12,6474.51,1
+2024-03,Stationery,Eastern,21,48,6655.93,2410.3,1
+2024-03,Stationery,Luapula,8,18,1777.05,655.12,0
+2024-03,Stationery,Lusaka,83,193,30006.51,11433.74,1
+2024-03,Stationery,Muchinga,7,14,2220.97,752.42,0
+2024-03,Stationery,North-Western,10,25,4651.4,1639.85,0
+2024-03,Stationery,Northern,14,35,4206.7,1421.51,0
+2024-03,Stationery,Southern,23,37,4722.9,1812.89,1
+2024-03,Stationery,Western,10,26,3847.9,1282.09,0
+2024-04,Baby & Kids,Central,18,35,8599.24,2748.79,0
+2024-04,Baby & Kids,Copperbelt,39,82,18536.44,5791.83,0
+2024-04,Baby & Kids,Eastern,16,28,6823.94,2237.43,0
+2024-04,Baby & Kids,Luapula,12,20,6374.82,2304.55,0
+2024-04,Baby & Kids,Lusaka,91,200,44972.48,14980.31,4
+2024-04,Baby & Kids,Muchinga,6,9,2046.95,659.18,0
+2024-04,Baby & Kids,North-Western,15,35,8502.93,3031.8,1
+2024-04,Baby & Kids,Northern,9,13,3116.4,934.17,0
+2024-04,Baby & Kids,Southern,14,32,8119.1,2797.1,1
+2024-04,Baby & Kids,Western,2,3,357.93,108.47,0
+2024-04,Electronics,Central,17,19,28501.86,8295.79,1
+2024-04,Electronics,Copperbelt,70,83,127049.9,42931.79,1
+2024-04,Electronics,Eastern,7,7,5450.99,1623.01,0
+2024-04,Electronics,Luapula,10,13,24262.09,7081.9,1
+2024-04,Electronics,Lusaka,89,100,138357.73,49560.67,1
+2024-04,Electronics,Muchinga,4,5,4656.41,1942.44,0
+2024-04,Electronics,North-Western,12,14,24423.53,7557.84,0
+2024-04,Electronics,Northern,13,13,17490.25,6152.77,0
+2024-04,Electronics,Southern,15,17,24572.36,6842.93,0
+2024-04,Electronics,Western,8,8,12615.26,4206.09,0
+2024-04,Fashion,Central,21,24,8506.44,3573.4,0
+2024-04,Fashion,Copperbelt,56,69,32969.16,13987.45,2
+2024-04,Fashion,Eastern,19,24,12774.75,5308.69,0
+2024-04,Fashion,Luapula,10,19,7975.7,3211.1,0
+2024-04,Fashion,Lusaka,89,104,54575.0,23169.52,4
+2024-04,Fashion,Muchinga,5,5,3412.28,1484.18,0
+2024-04,Fashion,North-Western,17,24,12546.58,5243.53,1
+2024-04,Fashion,Northern,7,10,3996.73,1855.85,0
+2024-04,Fashion,Southern,19,24,12273.03,5325.88,0
+2024-04,Fashion,Western,4,7,3022.03,1432.89,0
+2024-04,Groceries,Central,45,117,14230.46,5787.38,0
+2024-04,Groceries,Copperbelt,153,423,40967.72,15581.97,0
+2024-04,Groceries,Eastern,51,147,14416.38,5785.23,0
+2024-04,Groceries,Luapula,24,61,6349.54,2447.19,0
+2024-04,Groceries,Lusaka,250,666,69376.47,27670.34,3
+2024-04,Groceries,Muchinga,11,40,5279.56,1837.49,0
+2024-04,Groceries,North-Western,35,112,12307.43,4899.05,1
+2024-04,Groceries,Northern,21,51,7607.83,3159.78,0
+2024-04,Groceries,Southern,54,123,13223.25,5314.8,1
+2024-04,Groceries,Western,15,39,3730.74,1351.69,0
+2024-04,Health & Beauty,Central,23,27,7001.79,2684.64,1
+2024-04,Health & Beauty,Copperbelt,73,92,24149.66,9089.79,0
+2024-04,Health & Beauty,Eastern,14,17,5416.39,2267.8,0
+2024-04,Health & Beauty,Luapula,8,13,2820.9,914.95,0
+2024-04,Health & Beauty,Lusaka,112,139,30638.16,11260.16,2
+2024-04,Health & Beauty,Muchinga,6,10,3383.03,1201.64,0
+2024-04,Health & Beauty,North-Western,14,21,4082.82,1368.14,0
+2024-04,Health & Beauty,Northern,13,16,3358.6,1243.56,0
+2024-04,Health & Beauty,Southern,23,27,7407.41,2733.27,0
+2024-04,Health & Beauty,Western,6,10,4232.12,1304.1,0
+2024-04,Home & Kitchen,Central,26,34,17096.57,6662.16,1
+2024-04,Home & Kitchen,Copperbelt,56,65,33159.34,12545.35,1
+2024-04,Home & Kitchen,Eastern,18,21,10504.51,3860.89,0
+2024-04,Home & Kitchen,Luapula,7,9,4519.4,1636.9,1
+2024-04,Home & Kitchen,Lusaka,98,118,57429.32,20705.72,1
+2024-04,Home & Kitchen,Muchinga,2,2,1195.62,301.24,1
+2024-04,Home & Kitchen,North-Western,10,11,3877.48,1501.42,0
+2024-04,Home & Kitchen,Northern,20,25,12686.17,4720.19,0
+2024-04,Home & Kitchen,Southern,34,41,18583.56,7371.95,0
+2024-04,Home & Kitchen,Western,6,7,4285.59,1771.64,0
+2024-04,Household,Central,24,63,5130.09,1991.82,0
+2024-04,Household,Copperbelt,80,159,12647.07,4785.32,1
+2024-04,Household,Eastern,27,72,5623.58,2102.05,0
+2024-04,Household,Luapula,10,24,1850.33,619.14,0
+2024-04,Household,Lusaka,134,348,28782.67,10920.13,3
+2024-04,Household,Muchinga,6,12,824.1,365.54,0
+2024-04,Household,North-Western,23,45,3288.37,1090.74,0
+2024-04,Household,Northern,20,48,4023.47,1532.02,0
+2024-04,Household,Southern,26,56,4447.98,1704.07,1
+2024-04,Household,Western,10,21,2133.1,886.99,0
+2024-04,Stationery,Central,17,37,7037.27,2747.07,0
+2024-04,Stationery,Copperbelt,71,142,20232.21,7453.26,0
+2024-04,Stationery,Eastern,17,37,6701.85,2357.52,0
+2024-04,Stationery,Luapula,9,16,3940.49,1348.18,1
+2024-04,Stationery,Lusaka,90,183,31757.49,10825.58,0
+2024-04,Stationery,Muchinga,3,8,2377.06,800.51,0
+2024-04,Stationery,North-Western,20,42,5722.31,1948.14,1
+2024-04,Stationery,Northern,9,22,3026.86,1072.57,0
+2024-04,Stationery,Southern,21,51,8542.12,2845.47,0
+2024-04,Stationery,Western,5,10,1981.59,707.96,0
+2024-05,Baby & Kids,Central,18,30,7653.56,2538.11,0
+2024-05,Baby & Kids,Copperbelt,48,90,20239.99,6822.71,1
+2024-05,Baby & Kids,Eastern,9,17,2990.44,1076.76,0
+2024-05,Baby & Kids,Luapula,4,10,1534.83,278.51,0
+2024-05,Baby & Kids,Lusaka,89,183,41409.83,15026.57,3
+2024-05,Baby & Kids,Muchinga,7,16,2188.7,887.3,0
+2024-05,Baby & Kids,North-Western,12,26,6224.75,1854.5,0
+2024-05,Baby & Kids,Northern,7,12,2948.13,1074.78,0
+2024-05,Baby & Kids,Southern,23,50,14956.35,5626.08,0
+2024-05,Baby & Kids,Western,4,6,2635.64,890.38,0
+2024-05,Electronics,Central,21,24,37534.85,12839.66,0
+2024-05,Electronics,Copperbelt,70,76,120819.98,40626.93,0
+2024-05,Electronics,Eastern,16,18,31997.46,11060.92,1
+2024-05,Electronics,Luapula,5,5,7137.18,2837.1,0
+2024-05,Electronics,Lusaka,92,95,153481.01,52026.32,3
+2024-05,Electronics,Muchinga,9,10,17081.31,5750.91,0
+2024-05,Electronics,North-Western,20,23,41727.22,14211.11,0
+2024-05,Electronics,Northern,11,13,17076.65,6510.64,0
+2024-05,Electronics,Southern,21,23,33123.98,11984.53,1
+2024-05,Electronics,Western,6,6,6275.94,2204.14,0
+2024-05,Fashion,Central,22,28,15094.66,6639.54,0
+2024-05,Fashion,Copperbelt,74,90,49876.65,20703.86,0
+2024-05,Fashion,Eastern,22,25,11267.97,4903.44,0
+2024-05,Fashion,Luapula,12,15,7636.0,3203.94,0
+2024-05,Fashion,Lusaka,114,142,64525.07,27740.97,2
+2024-05,Fashion,Muchinga,5,11,5503.49,2495.94,0
+2024-05,Fashion,North-Western,19,24,12826.68,5072.73,2
+2024-05,Fashion,Northern,16,17,7533.4,3028.9,1
+2024-05,Fashion,Southern,36,46,27436.34,11645.44,0
+2024-05,Fashion,Western,12,14,5111.85,2225.34,0
+2024-05,Groceries,Central,57,149,17134.15,7208.91,2
+2024-05,Groceries,Copperbelt,144,379,40951.54,16589.42,1
+2024-05,Groceries,Eastern,49,139,15704.32,6167.09,1
+2024-05,Groceries,Luapula,18,37,4286.0,1906.41,0
+2024-05,Groceries,Lusaka,267,650,73762.17,29542.64,4
+2024-05,Groceries,Muchinga,12,31,4130.97,1551.94,0
+2024-05,Groceries,North-Western,38,75,6415.1,2401.92,1
+2024-05,Groceries,Northern,24,54,4017.21,1370.01,0
+2024-05,Groceries,Southern,70,181,19567.77,8108.79,1
+2024-05,Groceries,Western,18,48,4410.35,1591.99,0
+2024-05,Health & Beauty,Central,25,30,7724.8,3014.1,0
+2024-05,Health & Beauty,Copperbelt,83,111,30318.91,11422.05,3
+2024-05,Health & Beauty,Eastern,21,24,5104.92,1689.46,0
+2024-05,Health & Beauty,Luapula,9,10,3402.58,1347.75,0
+2024-05,Health & Beauty,Lusaka,124,167,46991.32,17044.58,2
+2024-05,Health & Beauty,Muchinga,7,7,1350.32,521.07,0
+2024-05,Health & Beauty,North-Western,24,31,7698.19,3049.54,0
+2024-05,Health & Beauty,Northern,10,10,2457.61,1005.76,0
+2024-05,Health & Beauty,Southern,34,39,10496.37,3662.11,0
+2024-05,Health & Beauty,Western,10,10,1793.37,706.06,1
+2024-05,Home & Kitchen,Central,30,35,14719.85,5337.15,1
+2024-05,Home & Kitchen,Copperbelt,62,72,29962.28,10598.71,2
+2024-05,Home & Kitchen,Eastern,11,12,5995.06,1991.39,0
+2024-05,Home & Kitchen,Luapula,16,17,7521.7,2881.67,0
+2024-05,Home & Kitchen,Lusaka,110,138,67000.14,24975.4,3
+2024-05,Home & Kitchen,Muchinga,7,9,5182.77,2059.62,0
+2024-05,Home & Kitchen,North-Western,19,21,11690.86,4867.82,0
+2024-05,Home & Kitchen,Northern,7,8,2553.76,905.93,0
+2024-05,Home & Kitchen,Southern,45,60,32504.87,13405.04,3
+2024-05,Home & Kitchen,Western,8,8,4127.7,1506.45,0
+2024-05,Household,Central,30,61,4232.73,1589.05,0
+2024-05,Household,Copperbelt,86,187,15947.31,6177.11,3
+2024-05,Household,Eastern,26,60,4844.15,1793.67,0
+2024-05,Household,Luapula,11,22,1691.7,629.71,1
+2024-05,Household,Lusaka,163,330,27523.62,10306.36,2
+2024-05,Household,Muchinga,8,17,1288.36,544.27,0
+2024-05,Household,North-Western,26,51,4272.28,1473.42,0
+2024-05,Household,Northern,18,40,3618.37,1318.4,1
+2024-05,Household,Southern,30,64,4279.71,1517.35,0
+2024-05,Household,Western,10,20,1425.73,573.92,0
+2024-05,Stationery,Central,45,121,15590.92,5174.34,1
+2024-05,Stationery,Copperbelt,132,306,46048.09,15360.2,7
+2024-05,Stationery,Eastern,40,84,12220.16,4651.01,1
+2024-05,Stationery,Luapula,14,38,6318.18,2482.55,0
+2024-05,Stationery,Lusaka,241,551,83600.21,29561.98,2
+2024-05,Stationery,Muchinga,12,24,2403.17,849.81,0
+2024-05,Stationery,North-Western,33,74,11101.37,3914.49,0
+2024-05,Stationery,Northern,29,65,9286.43,3484.45,0
+2024-05,Stationery,Southern,57,148,16690.17,5701.74,2
+2024-05,Stationery,Western,14,32,5360.19,1605.67,1
+2024-06,Baby & Kids,Central,16,41,6710.53,2428.1,0
+2024-06,Baby & Kids,Copperbelt,70,144,34523.52,11861.4,3
+2024-06,Baby & Kids,Eastern,12,23,4728.92,1545.5,0
+2024-06,Baby & Kids,Luapula,9,19,6519.7,2542.97,0
+2024-06,Baby & Kids,Lusaka,98,200,44278.34,14709.7,2
+2024-06,Baby & Kids,Muchinga,8,20,4223.84,1310.58,0
+2024-06,Baby & Kids,North-Western,9,14,3224.87,965.02,0
+2024-06,Baby & Kids,Northern,10,24,4373.36,1512.73,0
+2024-06,Baby & Kids,Southern,34,80,19313.05,6331.73,0
+2024-06,Baby & Kids,Western,4,5,2188.5,845.79,0
+2024-06,Electronics,Central,18,20,29837.08,10384.01,0
+2024-06,Electronics,Copperbelt,72,77,122772.93,40422.48,0
+2024-06,Electronics,Eastern,9,11,13465.13,6083.72,0
+2024-06,Electronics,Luapula,9,12,18403.38,5760.03,0
+2024-06,Electronics,Lusaka,84,94,146169.76,49759.21,1
+2024-06,Electronics,Muchinga,4,4,3962.42,1128.87,0
+2024-06,Electronics,North-Western,27,31,51521.96,18145.58,1
+2024-06,Electronics,Northern,15,15,28172.25,8602.83,0
+2024-06,Electronics,Southern,20,20,26969.06,10312.73,0
+2024-06,Electronics,Western,11,13,19021.85,6555.0,0
+2024-06,Fashion,Central,15,19,9100.4,3711.14,0
+2024-06,Fashion,Copperbelt,60,77,40203.56,17110.95,2
+2024-06,Fashion,Eastern,8,10,6750.52,3120.01,1
+2024-06,Fashion,Luapula,9,11,7012.51,3021.01,0
+2024-06,Fashion,Lusaka,96,115,64651.7,28695.0,1
+2024-06,Fashion,Muchinga,5,5,2807.95,1127.74,0
+2024-06,Fashion,North-Western,15,16,8866.43,3792.38,1
+2024-06,Fashion,Northern,8,9,5823.39,2539.93,0
+2024-06,Fashion,Southern,37,47,20545.27,8546.68,2
+2024-06,Fashion,Western,11,13,6118.55,2637.12,0
+2024-06,Groceries,Central,65,158,17909.59,7232.4,0
+2024-06,Groceries,Copperbelt,143,359,38854.82,14880.78,1
+2024-06,Groceries,Eastern,43,117,13165.1,5196.41,1
+2024-06,Groceries,Luapula,14,25,2322.34,811.46,0
+2024-06,Groceries,Lusaka,303,758,80484.77,32038.29,5
+2024-06,Groceries,Muchinga,10,24,2221.31,868.51,0
+2024-06,Groceries,North-Western,43,102,11127.17,4404.08,2
+2024-06,Groceries,Northern,31,82,10346.5,4167.22,1
+2024-06,Groceries,Southern,80,211,23722.7,9407.1,0
+2024-06,Groceries,Western,23,53,5838.22,2314.35,0
+2024-06,Health & Beauty,Central,37,50,12079.03,4105.93,0
+2024-06,Health & Beauty,Copperbelt,69,88,25858.55,9243.97,3
+2024-06,Health & Beauty,Eastern,20,25,6858.03,2696.81,0
+2024-06,Health & Beauty,Luapula,13,16,3971.78,1506.01,0
+2024-06,Health & Beauty,Lusaka,137,192,47673.93,17946.07,5
+2024-06,Health & Beauty,Muchinga,8,11,2692.34,777.58,0
+2024-06,Health & Beauty,North-Western,21,28,7666.89,2724.07,0
+2024-06,Health & Beauty,Northern,21,32,7494.83,2820.92,1
+2024-06,Health & Beauty,Southern,44,57,13313.93,4809.14,0
+2024-06,Health & Beauty,Western,7,13,3355.94,1135.81,1
+2024-06,Home & Kitchen,Central,33,38,17876.54,6617.16,0
+2024-06,Home & Kitchen,Copperbelt,64,77,41961.7,16592.15,1
+2024-06,Home & Kitchen,Eastern,15,22,12980.43,4943.02,1
+2024-06,Home & Kitchen,Luapula,9,11,6558.32,2352.26,1
+2024-06,Home & Kitchen,Lusaka,114,143,68115.7,25463.26,4
+2024-06,Home & Kitchen,Muchinga,5,5,1663.73,605.48,1
+2024-06,Home & Kitchen,North-Western,28,36,17925.1,6534.92,0
+2024-06,Home & Kitchen,Northern,13,18,11162.84,4317.61,0
+2024-06,Home & Kitchen,Southern,42,56,27390.41,10219.7,2
+2024-06,Home & Kitchen,Western,8,11,6124.89,2372.26,0
+2024-06,Household,Central,38,97,8068.9,3010.47,1
+2024-06,Household,Copperbelt,94,200,16057.48,6129.44,1
+2024-06,Household,Eastern,25,52,3896.17,1444.56,3
+2024-06,Household,Luapula,11,22,1622.94,569.1,0
+2024-06,Household,Lusaka,148,334,25564.68,9377.54,7
+2024-06,Household,Muchinga,5,8,522.77,218.39,0
+2024-06,Household,North-Western,23,63,4506.25,1795.44,1
+2024-06,Household,Northern,15,34,3031.37,1149.91,1
+2024-06,Household,Southern,45,104,8474.87,3185.54,0
+2024-06,Household,Western,8,19,2101.19,914.08,0
+2024-06,Stationery,Central,13,32,4578.07,1556.83,1
+2024-06,Stationery,Copperbelt,71,171,28066.53,9957.87,1
+2024-06,Stationery,Eastern,8,20,4006.68,1346.66,0
+2024-06,Stationery,Luapula,11,27,3319.28,1378.84,0
+2024-06,Stationery,Lusaka,103,217,35387.24,13522.27,1
+2024-06,Stationery,Muchinga,5,8,552.36,249.22,0
+2024-06,Stationery,North-Western,15,30,5130.74,1654.31,0
+2024-06,Stationery,Northern,11,20,3881.08,1494.38,0
+2024-06,Stationery,Southern,29,63,9362.35,3254.74,0
+2024-06,Stationery,Western,12,21,3166.17,1010.13,0
+2024-07,Baby & Kids,Central,17,36,9077.09,2777.39,1
+2024-07,Baby & Kids,Copperbelt,48,103,24036.74,8463.84,0
+2024-07,Baby & Kids,Eastern,20,40,11433.4,3741.25,2
+2024-07,Baby & Kids,Luapula,5,20,4092.92,1823.76,2
+2024-07,Baby & Kids,Lusaka,91,190,49736.89,17532.18,1
+2024-07,Baby & Kids,Muchinga,8,18,3179.68,1056.05,0
+2024-07,Baby & Kids,North-Western,14,37,8087.44,2421.15,1
+2024-07,Baby & Kids,Northern,10,24,6075.43,1608.49,0
+2024-07,Baby & Kids,Southern,29,59,12973.69,4369.61,0
+2024-07,Baby & Kids,Western,9,21,4302.29,1414.08,1
+2024-07,Electronics,Central,22,27,41639.62,12313.85,0
+2024-07,Electronics,Copperbelt,75,84,133363.26,45450.59,1
+2024-07,Electronics,Eastern,16,19,31406.98,9757.52,0
+2024-07,Electronics,Luapula,9,11,16126.88,6151.66,0
+2024-07,Electronics,Lusaka,89,98,154458.01,47499.63,2
+2024-07,Electronics,Muchinga,1,1,731.46,324.37,0
+2024-07,Electronics,North-Western,18,22,29747.49,8804.39,1
+2024-07,Electronics,Northern,17,18,28690.92,10874.95,0
+2024-07,Electronics,Southern,36,41,55145.07,17533.8,1
+2024-07,Electronics,Western,9,11,21839.91,7879.94,0
+2024-07,Fashion,Central,25,29,12531.1,5277.48,1
+2024-07,Fashion,Copperbelt,61,74,36005.79,15247.83,0
+2024-07,Fashion,Eastern,21,28,10942.35,4570.03,0
+2024-07,Fashion,Luapula,8,13,9431.32,3802.63,0
+2024-07,Fashion,Lusaka,118,152,73074.16,30369.31,2
+2024-07,Fashion,Muchinga,3,4,1884.32,797.33,0
+2024-07,Fashion,North-Western,16,20,8985.58,3884.98,0
+2024-07,Fashion,Northern,13,13,4381.36,1851.38,0
+2024-07,Fashion,Southern,24,29,17500.6,7993.23,1
+2024-07,Fashion,Western,5,5,2803.65,951.69,1
+2024-07,Groceries,Central,65,163,14591.14,5591.86,1
+2024-07,Groceries,Copperbelt,168,422,47485.94,18735.11,1
+2024-07,Groceries,Eastern,57,167,17104.58,6730.91,3
+2024-07,Groceries,Luapula,24,48,5538.94,2299.85,0
+2024-07,Groceries,Lusaka,299,750,79062.55,31418.58,1
+2024-07,Groceries,Muchinga,13,35,3418.98,1425.2,0
+2024-07,Groceries,North-Western,44,100,11466.75,4729.71,1
+2024-07,Groceries,Northern,29,92,9238.33,3639.42,0
+2024-07,Groceries,Southern,64,166,18513.9,7222.27,1
+2024-07,Groceries,Western,22,54,6956.99,2902.71,0
+2024-07,Health & Beauty,Central,38,53,13540.52,4450.3,0
+2024-07,Health & Beauty,Copperbelt,86,110,28586.33,10712.28,1
+2024-07,Health & Beauty,Eastern,22,23,6842.09,2623.15,1
+2024-07,Health & Beauty,Luapula,16,19,4728.24,1706.48,0
+2024-07,Health & Beauty,Lusaka,152,196,46915.25,17739.04,2
+2024-07,Health & Beauty,Muchinga,6,6,1744.31,658.69,0
+2024-07,Health & Beauty,North-Western,30,36,9492.93,3227.91,0
+2024-07,Health & Beauty,Northern,14,20,5425.26,1615.6,1
+2024-07,Health & Beauty,Southern,43,50,15773.02,5350.86,1
+2024-07,Health & Beauty,Western,17,21,4415.95,1704.99,0
+2024-07,Home & Kitchen,Central,24,35,16894.06,6346.28,2
+2024-07,Home & Kitchen,Copperbelt,70,89,49424.36,19167.12,1
+2024-07,Home & Kitchen,Eastern,19,22,12295.27,4750.51,1
+2024-07,Home & Kitchen,Luapula,16,19,9928.44,3789.7,0
+2024-07,Home & Kitchen,Lusaka,108,144,69538.25,25032.86,2
+2024-07,Home & Kitchen,Muchinga,5,7,2938.64,1252.1,0
+2024-07,Home & Kitchen,North-Western,22,27,11903.64,4558.02,0
+2024-07,Home & Kitchen,Northern,15,16,6904.52,2579.12,0
+2024-07,Home & Kitchen,Southern,39,50,23168.7,8314.21,1
+2024-07,Home & Kitchen,Western,8,8,3991.89,1513.64,0
+2024-07,Household,Central,39,73,5325.89,2098.19,1
+2024-07,Household,Copperbelt,79,183,14990.51,5664.64,2
+2024-07,Household,Eastern,27,55,4001.18,1477.54,0
+2024-07,Household,Luapula,17,39,2893.64,1136.95,0
+2024-07,Household,Lusaka,153,349,27318.3,10054.45,1
+2024-07,Household,Muchinga,13,40,3365.03,1074.56,0
+2024-07,Household,North-Western,24,58,4647.66,1493.55,0
+2024-07,Household,Northern,17,29,2367.99,976.39,0
+2024-07,Household,Southern,47,101,7443.22,2636.15,0
+2024-07,Household,Western,14,38,3734.31,1494.25,0
+2024-07,Stationery,Central,25,65,13262.29,4591.39,0
+2024-07,Stationery,Copperbelt,50,120,23514.74,8541.63,2
+2024-07,Stationery,Eastern,19,38,6200.17,2329.04,0
+2024-07,Stationery,Luapula,13,30,4674.02,1794.19,1
+2024-07,Stationery,Lusaka,115,237,45373.34,17357.11,4
+2024-07,Stationery,Muchinga,4,7,1548.65,516.9,0
+2024-07,Stationery,North-Western,15,30,3663.44,1093.59,1
+2024-07,Stationery,Northern,17,37,7128.88,2707.42,0
+2024-07,Stationery,Southern,29,64,9991.73,3638.73,0
+2024-07,Stationery,Western,9,24,5616.3,1987.86,1
+2024-08,Baby & Kids,Central,25,52,13289.66,4642.2,0
+2024-08,Baby & Kids,Copperbelt,59,132,31364.09,10231.19,2
+2024-08,Baby & Kids,Eastern,16,38,9311.06,3281.72,1
+2024-08,Baby & Kids,Luapula,9,14,2774.77,954.75,0
+2024-08,Baby & Kids,Lusaka,109,238,59488.87,20851.92,1
+2024-08,Baby & Kids,Muchinga,1,3,528.33,61.7,0
+2024-08,Baby & Kids,North-Western,18,50,11215.93,3824.08,0
+2024-08,Baby & Kids,Northern,12,26,5810.65,1897.66,0
+2024-08,Baby & Kids,Southern,21,42,11366.44,3190.51,1
+2024-08,Baby & Kids,Western,11,18,3212.12,896.16,0
+2024-08,Electronics,Central,25,25,36266.35,13650.0,0
+2024-08,Electronics,Copperbelt,78,89,128528.85,42887.99,1
+2024-08,Electronics,Eastern,23,23,29767.91,10150.89,2
+2024-08,Electronics,Luapula,7,9,15498.63,4288.22,0
+2024-08,Electronics,Lusaka,94,101,168409.14,54112.79,1
+2024-08,Electronics,Muchinga,3,3,3984.12,1490.46,0
+2024-08,Electronics,North-Western,13,16,26883.42,9774.67,0
+2024-08,Electronics,Northern,13,16,28246.84,7295.42,0
+2024-08,Electronics,Southern,32,33,49903.85,17921.92,1
+2024-08,Electronics,Western,5,5,5625.59,2104.46,0
+2024-08,Fashion,Central,23,29,15195.28,6347.16,1
+2024-08,Fashion,Copperbelt,67,78,37246.98,16418.51,1
+2024-08,Fashion,Eastern,17,22,8249.26,3344.84,1
+2024-08,Fashion,Luapula,11,14,9261.5,4252.88,0
+2024-08,Fashion,Lusaka,114,130,69441.2,30079.18,3
+2024-08,Fashion,Muchinga,4,5,1841.53,834.07,0
+2024-08,Fashion,North-Western,16,20,6613.67,2655.16,0
+2024-08,Fashion,Northern,16,18,9786.63,4354.69,0
+2024-08,Fashion,Southern,34,45,19991.26,9020.55,0
+2024-08,Fashion,Western,11,16,9617.67,4416.4,0
+2024-08,Groceries,Central,65,197,20887.49,8727.38,1
+2024-08,Groceries,Copperbelt,158,429,46550.57,18546.74,4
+2024-08,Groceries,Eastern,48,148,18134.4,7209.48,1
+2024-08,Groceries,Luapula,31,76,8711.39,3551.31,0
+2024-08,Groceries,Lusaka,297,796,84961.38,33933.34,5
+2024-08,Groceries,Muchinga,11,21,2191.33,843.98,0
+2024-08,Groceries,North-Western,41,111,13510.89,5522.57,1
+2024-08,Groceries,Northern,35,82,8969.36,3394.14,0
+2024-08,Groceries,Southern,75,234,25035.13,9800.42,1
+2024-08,Groceries,Western,23,73,10070.81,3871.13,0
+2024-08,Health & Beauty,Central,30,36,8412.3,2992.51,1
+2024-08,Health & Beauty,Copperbelt,70,86,22541.33,8033.86,2
+2024-08,Health & Beauty,Eastern,28,37,11036.92,4135.94,0
+2024-08,Health & Beauty,Luapula,10,13,3706.81,1259.69,0
+2024-08,Health & Beauty,Lusaka,177,237,58503.24,21162.01,4
+2024-08,Health & Beauty,Muchinga,6,6,1106.93,373.43,0
+2024-08,Health & Beauty,North-Western,25,33,9101.93,2938.68,1
+2024-08,Health & Beauty,Northern,21,29,9330.78,3323.9,0
+2024-08,Health & Beauty,Southern,45,57,14909.15,5422.32,1
+2024-08,Health & Beauty,Western,11,13,3390.27,1116.63,0
+2024-08,Home & Kitchen,Central,21,24,12247.72,4420.39,1
+2024-08,Home & Kitchen,Copperbelt,64,79,41439.06,15474.92,3
+2024-08,Home & Kitchen,Eastern,17,22,10973.04,4127.14,2
+2024-08,Home & Kitchen,Luapula,16,17,5860.72,2079.93,0
+2024-08,Home & Kitchen,Lusaka,125,158,79887.22,30442.52,0
+2024-08,Home & Kitchen,Muchinga,5,7,3020.01,1088.98,0
+2024-08,Home & Kitchen,North-Western,17,20,11840.11,4497.45,0
+2024-08,Home & Kitchen,Northern,13,16,10850.91,4484.06,0
+2024-08,Home & Kitchen,Southern,32,40,23497.25,9262.85,1
+2024-08,Home & Kitchen,Western,10,12,6021.63,2100.91,0
+2024-08,Household,Central,36,98,7919.79,2688.02,1
+2024-08,Household,Copperbelt,96,217,18115.95,7173.59,0
+2024-08,Household,Eastern,25,50,3959.39,1489.16,0
+2024-08,Household,Luapula,18,41,2861.47,1073.46,1
+2024-08,Household,Lusaka,167,375,30339.17,12082.09,3
+2024-08,Household,Muchinga,9,28,2154.13,772.81,0
+2024-08,Household,North-Western,25,55,4445.56,1483.73,1
+2024-08,Household,Northern,24,43,3588.52,1341.76,0
+2024-08,Household,Southern,39,91,7618.22,2810.21,1
+2024-08,Household,Western,11,28,2806.54,1234.46,0
+2024-08,Stationery,Central,15,38,5536.22,2193.76,0
+2024-08,Stationery,Copperbelt,62,137,27431.68,9736.47,2
+2024-08,Stationery,Eastern,16,31,3895.69,1522.81,0
+2024-08,Stationery,Luapula,15,30,5592.05,2127.38,0
+2024-08,Stationery,Lusaka,120,265,49533.3,17613.57,1
+2024-08,Stationery,Muchinga,8,13,2712.22,1248.98,0
+2024-08,Stationery,North-Western,15,27,6904.1,2527.02,0
+2024-08,Stationery,Northern,14,30,3239.26,1076.82,1
+2024-08,Stationery,Southern,24,63,9908.78,3509.48,1
+2024-08,Stationery,Western,9,14,1717.13,518.25,1
+2024-09,Baby & Kids,Central,22,40,8882.78,2853.64,0
+2024-09,Baby & Kids,Copperbelt,53,111,27391.71,9012.88,0
+2024-09,Baby & Kids,Eastern,20,39,8245.43,3015.5,1
+2024-09,Baby & Kids,Luapula,13,25,6127.63,2098.49,0
+2024-09,Baby & Kids,Lusaka,81,157,39585.18,13934.42,0
+2024-09,Baby & Kids,Muchinga,4,11,2019.74,750.19,0
+2024-09,Baby & Kids,North-Western,21,54,14542.75,5482.89,0
+2024-09,Baby & Kids,Northern,6,19,3745.55,1490.21,0
+2024-09,Baby & Kids,Southern,20,36,10081.12,3443.22,1
+2024-09,Baby & Kids,Western,7,12,3048.99,1060.34,0
+2024-09,Electronics,Central,21,24,38140.07,12561.33,1
+2024-09,Electronics,Copperbelt,62,70,128965.52,43915.36,1
+2024-09,Electronics,Eastern,20,21,26693.43,7303.56,0
+2024-09,Electronics,Luapula,15,16,18680.83,6771.2,0
+2024-09,Electronics,Lusaka,102,110,175851.6,57346.38,4
+2024-09,Electronics,Muchinga,6,8,13512.35,4809.42,1
+2024-09,Electronics,North-Western,21,26,41456.85,14954.26,1
+2024-09,Electronics,Northern,13,14,13458.96,4564.18,0
+2024-09,Electronics,Southern,31,33,53684.07,18394.96,0
+2024-09,Electronics,Western,8,8,8520.6,2945.97,0
+2024-09,Fashion,Central,27,36,16415.78,7164.09,2
+2024-09,Fashion,Copperbelt,68,83,37123.54,15894.47,4
+2024-09,Fashion,Eastern,24,25,11965.37,4905.58,0
+2024-09,Fashion,Luapula,11,15,9471.48,3848.63,1
+2024-09,Fashion,Lusaka,133,162,84306.75,36358.87,8
+2024-09,Fashion,Muchinga,8,8,3381.38,1450.98,0
+2024-09,Fashion,North-Western,24,27,11057.05,4753.91,1
+2024-09,Fashion,Northern,18,23,11805.09,5244.9,0
+2024-09,Fashion,Southern,37,49,24449.27,10087.88,2
+2024-09,Fashion,Western,11,14,8282.63,3540.83,0
+2024-09,Groceries,Central,65,161,15850.69,6191.22,2
+2024-09,Groceries,Copperbelt,144,365,38397.1,14380.17,4
+2024-09,Groceries,Eastern,48,108,11367.94,4323.49,0
+2024-09,Groceries,Luapula,31,81,9361.57,3837.75,0
+2024-09,Groceries,Lusaka,301,735,78225.15,29770.42,3
+2024-09,Groceries,Muchinga,17,40,4802.98,1980.78,0
+2024-09,Groceries,North-Western,25,58,6884.47,2901.36,0
+2024-09,Groceries,Northern,30,79,8303.53,3008.51,1
+2024-09,Groceries,Southern,83,217,21194.69,8428.13,1
+2024-09,Groceries,Western,28,53,5644.78,2242.82,1
+2024-09,Health & Beauty,Central,30,35,10525.4,3589.22,0
+2024-09,Health & Beauty,Copperbelt,73,92,26034.07,9424.51,2
+2024-09,Health & Beauty,Eastern,22,28,7024.23,2359.94,0
+2024-09,Health & Beauty,Luapula,11,17,3947.64,1621.53,0
+2024-09,Health & Beauty,Lusaka,134,171,48018.32,17045.92,1
+2024-09,Health & Beauty,Muchinga,5,5,802.3,285.73,0
+2024-09,Health & Beauty,North-Western,20,24,7654.37,2933.17,0
+2024-09,Health & Beauty,Northern,14,17,6622.67,2331.81,0
+2024-09,Health & Beauty,Southern,32,40,8381.66,3023.31,0
+2024-09,Health & Beauty,Western,9,10,1935.02,698.92,0
+2024-09,Home & Kitchen,Central,27,33,12870.06,4353.4,0
+2024-09,Home & Kitchen,Copperbelt,46,55,27551.4,10025.41,1
+2024-09,Home & Kitchen,Eastern,19,22,11184.28,4130.64,0
+2024-09,Home & Kitchen,Luapula,11,14,3709.4,1131.8,0
+2024-09,Home & Kitchen,Lusaka,120,147,67999.46,24964.64,1
+2024-09,Home & Kitchen,Muchinga,2,2,1361.49,525.88,0
+2024-09,Home & Kitchen,North-Western,17,21,12995.43,5339.3,1
+2024-09,Home & Kitchen,Northern,14,18,8430.11,3230.93,0
+2024-09,Home & Kitchen,Southern,28,33,15985.86,6182.38,2
+2024-09,Home & Kitchen,Western,8,9,3718.22,1255.34,0
+2024-09,Household,Central,35,82,7099.46,2809.05,0
+2024-09,Household,Copperbelt,72,152,12170.93,4765.27,1
+2024-09,Household,Eastern,31,69,5823.36,2447.52,0
+2024-09,Household,Luapula,13,33,2411.25,787.95,0
+2024-09,Household,Lusaka,139,309,26335.96,9672.88,3
+2024-09,Household,Muchinga,6,15,1106.57,398.66,1
+2024-09,Household,North-Western,24,60,4575.77,1640.09,1
+2024-09,Household,Northern,15,35,2698.2,985.76,0
+2024-09,Household,Southern,46,89,7628.35,2668.38,1
+2024-09,Household,Western,15,26,1990.66,661.27,0
+2024-09,Stationery,Central,45,99,14546.78,4952.73,0
+2024-09,Stationery,Copperbelt,125,274,45987.49,16753.81,0
+2024-09,Stationery,Eastern,42,103,19165.54,7681.94,1
+2024-09,Stationery,Luapula,22,48,8897.0,3455.18,0
+2024-09,Stationery,Lusaka,261,609,98555.52,36086.94,4
+2024-09,Stationery,Muchinga,7,11,1156.63,496.92,0
+2024-09,Stationery,North-Western,29,54,10624.85,3899.58,1
+2024-09,Stationery,Northern,30,74,8526.53,2947.3,0
+2024-09,Stationery,Southern,66,161,33763.8,12003.7,2
+2024-09,Stationery,Western,20,47,7495.35,2770.73,0
+2024-10,Baby & Kids,Central,28,53,12516.88,3896.83,1
+2024-10,Baby & Kids,Copperbelt,55,103,20783.26,7491.34,1
+2024-10,Baby & Kids,Eastern,19,44,9296.52,3247.58,0
+2024-10,Baby & Kids,Luapula,15,40,6223.93,1985.38,0
+2024-10,Baby & Kids,Lusaka,103,222,52548.21,17727.42,2
+2024-10,Baby & Kids,Muchinga,4,6,2230.38,633.26,0
+2024-10,Baby & Kids,North-Western,18,37,9983.04,2916.57,0
+2024-10,Baby & Kids,Northern,15,32,8709.3,3236.64,0
+2024-10,Baby & Kids,Southern,25,60,15917.48,5210.67,1
+2024-10,Baby & Kids,Western,11,29,7395.13,2194.89,1
+2024-10,Electronics,Central,24,26,43505.82,15095.91,0
+2024-10,Electronics,Copperbelt,86,93,168425.84,53228.74,0
+2024-10,Electronics,Eastern,19,19,48931.37,14038.72,0
+2024-10,Electronics,Luapula,14,15,25603.29,7457.88,0
+2024-10,Electronics,Lusaka,122,137,207210.14,66589.72,1
+2024-10,Electronics,Muchinga,4,4,7323.72,2807.71,0
+2024-10,Electronics,North-Western,22,24,52212.26,17455.86,2
+2024-10,Electronics,Northern,14,18,23480.14,7884.37,0
+2024-10,Electronics,Southern,42,45,72525.21,24307.93,0
+2024-10,Electronics,Western,18,21,27025.71,8294.41,1
+2024-10,Fashion,Central,32,36,17116.36,6845.04,1
+2024-10,Fashion,Copperbelt,64,76,29138.62,12238.42,0
+2024-10,Fashion,Eastern,23,36,18017.79,7670.07,0
+2024-10,Fashion,Luapula,16,19,11268.88,4713.47,0
+2024-10,Fashion,Lusaka,119,141,76287.5,33274.58,3
+2024-10,Fashion,Muchinga,5,5,2641.13,1177.3,0
+2024-10,Fashion,North-Western,18,24,13008.68,5401.81,2
+2024-10,Fashion,Northern,20,25,13706.46,6005.9,0
+2024-10,Fashion,Southern,30,36,17016.96,7334.71,1
+2024-10,Fashion,Western,12,18,10042.33,3966.92,0
+2024-10,Groceries,Central,73,195,22602.0,8913.09,0
+2024-10,Groceries,Copperbelt,211,517,54104.66,20502.13,2
+2024-10,Groceries,Eastern,67,169,19501.53,7913.87,2
+2024-10,Groceries,Luapula,31,72,6170.08,2149.65,0
+2024-10,Groceries,Lusaka,345,883,87996.43,34867.09,1
+2024-10,Groceries,Muchinga,16,29,2941.17,1179.94,1
+2024-10,Groceries,North-Western,47,109,7975.52,2792.39,1
+2024-10,Groceries,Northern,39,105,11052.53,4474.09,0
+2024-10,Groceries,Southern,105,265,30230.63,12329.8,2
+2024-10,Groceries,Western,41,114,14491.0,5804.51,0
+2024-10,Health & Beauty,Central,35,43,12743.71,4700.34,2
+2024-10,Health & Beauty,Copperbelt,89,113,28125.75,10164.78,2
+2024-10,Health & Beauty,Eastern,39,57,16948.49,5824.33,0
+2024-10,Health & Beauty,Luapula,22,30,8896.86,3175.11,0
+2024-10,Health & Beauty,Lusaka,174,220,60574.87,21899.17,2
+2024-10,Health & Beauty,Muchinga,8,8,2018.98,821.48,0
+2024-10,Health & Beauty,North-Western,22,31,10749.42,4295.98,0
+2024-10,Health & Beauty,Northern,15,18,5898.63,2084.67,0
+2024-10,Health & Beauty,Southern,38,44,8649.67,3286.84,0
+2024-10,Health & Beauty,Western,19,27,7668.73,2636.35,0
+2024-10,Home & Kitchen,Central,40,47,22920.25,8259.1,0
+2024-10,Home & Kitchen,Copperbelt,79,105,55486.3,20941.9,1
+2024-10,Home & Kitchen,Eastern,28,39,21862.5,8694.42,1
+2024-10,Home & Kitchen,Luapula,17,21,9097.73,3378.04,0
+2024-10,Home & Kitchen,Lusaka,147,186,91195.11,34462.47,4
+2024-10,Home & Kitchen,Muchinga,4,4,2416.63,961.62,0
+2024-10,Home & Kitchen,North-Western,29,36,14309.61,5254.12,0
+2024-10,Home & Kitchen,Northern,22,26,11500.47,4097.75,0
+2024-10,Home & Kitchen,Southern,36,43,20829.86,8503.36,0
+2024-10,Home & Kitchen,Western,15,20,10103.36,3303.97,0
+2024-10,Household,Central,42,88,6132.49,2038.79,2
+2024-10,Household,Copperbelt,111,242,19711.73,7773.13,6
+2024-10,Household,Eastern,30,61,5062.31,1876.56,0
+2024-10,Household,Luapula,18,49,4230.98,1529.46,0
+2024-10,Household,Lusaka,174,414,33542.74,12692.14,5
+2024-10,Household,Muchinga,9,26,1888.67,635.95,0
+2024-10,Household,North-Western,29,55,5117.26,2223.46,1
+2024-10,Household,Northern,36,81,7017.26,2773.94,1
+2024-10,Household,Southern,52,131,12097.92,4660.89,1
+2024-10,Household,Western,22,56,4679.21,1834.81,1
+2024-10,Stationery,Central,26,53,8518.75,3202.03,0
+2024-10,Stationery,Copperbelt,78,147,25250.31,9230.37,2
+2024-10,Stationery,Eastern,23,47,9244.2,3140.46,0
+2024-10,Stationery,Luapula,16,35,4758.43,1737.11,0
+2024-10,Stationery,Lusaka,109,239,33461.93,11383.71,1
+2024-10,Stationery,Muchinga,4,7,1102.38,474.37,0
+2024-10,Stationery,North-Western,19,36,5382.07,1916.24,1
+2024-10,Stationery,Northern,16,37,7053.98,2701.95,0
+2024-10,Stationery,Southern,43,94,13622.33,5087.97,2
+2024-10,Stationery,Western,20,37,5850.19,2210.31,0
+2024-11,Baby & Kids,Central,19,32,8070.58,2961.84,0
+2024-11,Baby & Kids,Copperbelt,80,157,36131.19,11516.01,0
+2024-11,Baby & Kids,Eastern,20,43,11852.19,3847.91,0
+2024-11,Baby & Kids,Luapula,10,23,5010.32,1490.44,1
+2024-11,Baby & Kids,Lusaka,124,252,65588.12,21954.34,3
+2024-11,Baby & Kids,Muchinga,13,30,6129.05,1957.36,1
+2024-11,Baby & Kids,North-Western,22,47,12276.96,4376.37,2
+2024-11,Baby & Kids,Northern,13,25,7178.36,2852.1,0
+2024-11,Baby & Kids,Southern,31,73,14903.47,4723.06,0
+2024-11,Baby & Kids,Western,12,29,5487.05,1801.53,0
+2024-11,Electronics,Central,44,46,92566.61,33391.34,0
+2024-11,Electronics,Copperbelt,78,90,160407.95,51907.11,0
+2024-11,Electronics,Eastern,18,21,43496.15,13922.98,0
+2024-11,Electronics,Luapula,20,23,31993.14,11833.78,0
+2024-11,Electronics,Lusaka,105,116,168340.97,55840.76,1
+2024-11,Electronics,Muchinga,7,11,20968.69,6122.61,0
+2024-11,Electronics,North-Western,25,30,44413.04,13117.6,1
+2024-11,Electronics,Northern,14,17,26166.34,7728.36,0
+2024-11,Electronics,Southern,30,31,57733.56,17279.27,0
+2024-11,Electronics,Western,9,9,11018.91,2964.58,0
+2024-11,Fashion,Central,17,24,11099.03,4486.15,1
+2024-11,Fashion,Copperbelt,68,86,43149.64,18125.63,3
+2024-11,Fashion,Eastern,20,27,14263.84,5991.93,0
+2024-11,Fashion,Luapula,15,17,9449.48,4140.12,1
+2024-11,Fashion,Lusaka,131,169,89858.1,38718.88,5
+2024-11,Fashion,Muchinga,12,14,7831.93,3291.17,0
+2024-11,Fashion,North-Western,20,28,15183.2,6600.88,1
+2024-11,Fashion,Northern,14,18,9976.28,4097.99,0
+2024-11,Fashion,Southern,33,36,17686.5,7847.51,0
+2024-11,Fashion,Western,16,19,8572.08,3739.35,0
+2024-11,Groceries,Central,81,203,25188.1,10234.09,0
+2024-11,Groceries,Copperbelt,198,553,64106.45,26114.69,3
+2024-11,Groceries,Eastern,62,154,15965.86,6017.66,0
+2024-11,Groceries,Luapula,34,82,9518.91,4017.38,1
+2024-11,Groceries,Lusaka,389,1042,117629.11,46719.34,3
+2024-11,Groceries,Muchinga,23,61,6260.51,2285.89,0
+2024-11,Groceries,North-Western,53,141,17614.29,7037.96,2
+2024-11,Groceries,Northern,32,85,8829.08,3271.79,1
+2024-11,Groceries,Southern,104,260,27610.26,11171.83,3
+2024-11,Groceries,Western,34,88,10370.87,4082.76,0
+2024-11,Health & Beauty,Central,39,49,14145.54,5687.29,1
+2024-11,Health & Beauty,Copperbelt,94,125,35621.57,12870.78,3
+2024-11,Health & Beauty,Eastern,32,47,12682.51,4322.63,0
+2024-11,Health & Beauty,Luapula,18,23,6520.94,2442.0,0
+2024-11,Health & Beauty,Lusaka,162,205,55851.14,20849.7,4
+2024-11,Health & Beauty,Muchinga,7,10,3781.51,1140.82,1
+2024-11,Health & Beauty,North-Western,28,35,9296.12,3319.25,2
+2024-11,Health & Beauty,Northern,17,30,6831.46,2599.97,0
+2024-11,Health & Beauty,Southern,50,62,14446.97,5325.39,0
+2024-11,Health & Beauty,Western,14,24,6696.05,2384.46,0
+2024-11,Home & Kitchen,Central,36,45,25905.37,9604.69,0
+2024-11,Home & Kitchen,Copperbelt,82,103,54179.21,20236.57,2
+2024-11,Home & Kitchen,Eastern,28,33,17390.6,6900.26,0
+2024-11,Home & Kitchen,Luapula,12,16,6314.72,2208.75,0
+2024-11,Home & Kitchen,Lusaka,128,170,91047.07,34087.55,2
+2024-11,Home & Kitchen,Muchinga,9,10,4039.53,1408.24,1
+2024-11,Home & Kitchen,North-Western,25,34,14999.8,5564.12,1
+2024-11,Home & Kitchen,Northern,12,19,8944.7,3221.49,0
+2024-11,Home & Kitchen,Southern,33,42,22954.87,8239.7,1
+2024-11,Home & Kitchen,Western,13,15,8195.72,3103.51,1
+2024-11,Household,Central,36,87,6982.7,2533.71,1
+2024-11,Household,Copperbelt,110,238,20627.87,8218.37,2
+2024-11,Household,Eastern,35,80,6996.65,2825.35,1
+2024-11,Household,Luapula,18,52,3761.05,1371.99,0
+2024-11,Household,Lusaka,202,448,38674.56,14737.34,4
+2024-11,Household,Muchinga,9,22,1795.08,717.93,0
+2024-11,Household,North-Western,31,64,5736.5,2145.73,0
+2024-11,Household,Northern,22,44,3948.17,1597.79,0
+2024-11,Household,Southern,57,131,10614.74,4089.1,1
+2024-11,Household,Western,18,36,3035.99,927.98,0
+2024-11,Stationery,Central,25,57,10819.38,3687.86,0
+2024-11,Stationery,Copperbelt,74,149,23823.96,8318.76,0
+2024-11,Stationery,Eastern,19,33,5902.43,2275.97,1
+2024-11,Stationery,Luapula,16,41,8961.44,3808.19,0
+2024-11,Stationery,Lusaka,119,242,36219.37,13697.36,2
+2024-11,Stationery,Muchinga,10,21,4141.25,1500.65,0
+2024-11,Stationery,North-Western,17,37,6945.12,2491.22,0
+2024-11,Stationery,Northern,17,36,8349.89,2769.84,2
+2024-11,Stationery,Southern,42,66,11365.49,4075.72,0
+2024-11,Stationery,Western,12,22,3724.1,1373.72,0
+2024-12,Baby & Kids,Central,28,55,12907.16,4358.93,1
+2024-12,Baby & Kids,Copperbelt,82,169,35969.5,11725.6,1
+2024-12,Baby & Kids,Eastern,20,56,14045.41,4939.97,0
+2024-12,Baby & Kids,Luapula,8,18,3682.81,1493.27,0
+2024-12,Baby & Kids,Lusaka,130,256,55502.75,18270.51,1
+2024-12,Baby & Kids,Muchinga,6,11,3054.65,923.21,0
+2024-12,Baby & Kids,North-Western,14,34,7917.76,2327.9,0
+2024-12,Baby & Kids,Northern,16,30,8143.51,2366.8,0
+2024-12,Baby & Kids,Southern,38,69,15438.37,5403.04,3
+2024-12,Baby & Kids,Western,14,24,7613.34,2458.4,0
+2024-12,Electronics,Central,50,58,91459.37,30832.58,1
+2024-12,Electronics,Copperbelt,177,206,326281.72,110172.7,6
+2024-12,Electronics,Eastern,20,21,32769.64,12496.39,0
+2024-12,Electronics,Luapula,20,29,36825.33,12009.05,1
+2024-12,Electronics,Lusaka,222,245,380761.84,129892.15,2
+2024-12,Electronics,Muchinga,17,19,23405.34,8202.94,0
+2024-12,Electronics,North-Western,28,35,45290.64,14766.96,0
+2024-12,Electronics,Northern,35,40,61699.22,22234.4,0
+2024-12,Electronics,Southern,61,70,104057.38,34646.91,0
+2024-12,Electronics,Western,21,26,40510.98,11620.45,0
+2024-12,Fashion,Central,65,87,49917.81,20542.59,3
+2024-12,Fashion,Copperbelt,134,162,87538.94,37732.32,2
+2024-12,Fashion,Eastern,37,47,26232.0,11261.19,2
+2024-12,Fashion,Luapula,22,26,14078.08,6143.13,1
+2024-12,Fashion,Lusaka,244,307,146558.73,62358.9,8
+2024-12,Fashion,Muchinga,10,14,5632.2,2483.71,0
+2024-12,Fashion,North-Western,36,41,25498.88,11649.52,0
+2024-12,Fashion,Northern,26,33,16177.97,6808.81,1
+2024-12,Fashion,Southern,68,83,45718.09,19401.29,1
+2024-12,Fashion,Western,25,30,20511.12,9022.43,1
+2024-12,Groceries,Central,107,243,25200.28,10015.49,0
+2024-12,Groceries,Copperbelt,233,551,60562.09,23817.43,2
+2024-12,Groceries,Eastern,60,137,13902.1,5242.98,2
+2024-12,Groceries,Luapula,45,115,12992.87,4649.34,0
+2024-12,Groceries,Lusaka,478,1204,126612.1,49325.54,6
+2024-12,Groceries,Muchinga,21,55,5917.38,2366.1,0
+2024-12,Groceries,North-Western,58,153,17478.94,6553.89,1
+2024-12,Groceries,Northern,54,130,14720.75,5514.8,3
+2024-12,Groceries,Southern,121,286,36056.84,14885.29,4
+2024-12,Groceries,Western,30,92,10181.81,3968.26,0
+2024-12,Health & Beauty,Central,50,60,17359.41,6183.81,1
+2024-12,Health & Beauty,Copperbelt,118,145,38037.85,13928.9,2
+2024-12,Health & Beauty,Eastern,22,28,8094.49,2747.14,2
+2024-12,Health & Beauty,Luapula,27,37,9715.28,3672.03,0
+2024-12,Health & Beauty,Lusaka,231,285,74291.24,27261.21,5
+2024-12,Health & Beauty,Muchinga,8,8,2207.26,842.6,0
+2024-12,Health & Beauty,North-Western,25,29,7977.07,2713.35,1
+2024-12,Health & Beauty,Northern,21,25,6901.55,2652.02,1
+2024-12,Health & Beauty,Southern,63,84,22858.33,8956.33,0
+2024-12,Health & Beauty,Western,12,18,5049.95,1704.77,0
+2024-12,Home & Kitchen,Central,56,73,43166.54,16585.3,1
+2024-12,Home & Kitchen,Copperbelt,112,146,80178.62,29403.98,0
+2024-12,Home & Kitchen,Eastern,34,47,25987.39,9397.03,0
+2024-12,Home & Kitchen,Luapula,31,40,18645.89,6810.2,1
+2024-12,Home & Kitchen,Lusaka,227,293,147457.39,54507.46,8
+2024-12,Home & Kitchen,Muchinga,11,20,7148.92,2491.39,0
+2024-12,Home & Kitchen,North-Western,29,36,17524.47,6452.24,2
+2024-12,Home & Kitchen,Northern,28,39,23724.29,9427.58,0
+2024-12,Home & Kitchen,Southern,72,94,54841.46,21082.14,2
+2024-12,Home & Kitchen,Western,22,28,14566.67,5390.52,0
+2024-12,Household,Central,66,157,12208.37,4478.49,0
+2024-12,Household,Copperbelt,116,284,23259.55,8437.4,3
+2024-12,Household,Eastern,35,80,5965.56,2405.81,0
+2024-12,Household,Luapula,25,53,4298.89,1452.35,0
+2024-12,Household,Lusaka,264,553,48303.8,18849.2,3
+2024-12,Household,Muchinga,14,30,2482.43,946.71,1
+2024-12,Household,North-Western,28,74,6775.94,2604.82,1
+2024-12,Household,Northern,29,57,4551.37,1751.4,0
+2024-12,Household,Southern,68,139,11816.11,4624.97,0
+2024-12,Household,Western,27,55,5121.62,2088.93,0
+2024-12,Stationery,Central,38,79,13115.23,5007.48,3
+2024-12,Stationery,Copperbelt,92,195,34205.49,11672.14,2
+2024-12,Stationery,Eastern,27,47,7827.55,2599.81,0
+2024-12,Stationery,Luapula,22,46,8827.32,3735.19,2
+2024-12,Stationery,Lusaka,168,332,51273.84,18717.61,4
+2024-12,Stationery,Muchinga,5,12,1189.8,476.5,0
+2024-12,Stationery,North-Western,24,42,8886.99,3752.37,0
+2024-12,Stationery,Northern,18,38,7331.96,2673.58,0
+2024-12,Stationery,Southern,46,96,15874.85,5528.62,0
+2024-12,Stationery,Western,7,15,3075.76,1015.25,0
+2025-01,Baby & Kids,Central,25,40,10412.38,3505.58,0
+2025-01,Baby & Kids,Copperbelt,44,90,20695.73,7219.57,1
+2025-01,Baby & Kids,Eastern,11,32,6744.48,2293.23,0
+2025-01,Baby & Kids,Luapula,9,19,6531.84,2143.15,0
+2025-01,Baby & Kids,Lusaka,109,201,43339.24,14329.71,2
+2025-01,Baby & Kids,Muchinga,4,7,1336.69,557.4,0
+2025-01,Baby & Kids,North-Western,24,45,9931.5,3580.64,0
+2025-01,Baby & Kids,Northern,12,25,4955.55,1645.32,0
+2025-01,Baby & Kids,Southern,33,64,17153.23,5822.83,2
+2025-01,Baby & Kids,Western,9,19,5804.17,2051.46,0
+2025-01,Electronics,Central,22,23,41067.98,14773.49,0
+2025-01,Electronics,Copperbelt,69,81,137382.63,49056.59,1
+2025-01,Electronics,Eastern,15,16,14320.41,4939.34,0
+2025-01,Electronics,Luapula,12,14,24115.14,8863.97,0
+2025-01,Electronics,Lusaka,97,102,150725.55,51996.89,1
+2025-01,Electronics,Muchinga,7,7,15452.47,4466.09,0
+2025-01,Electronics,North-Western,20,24,38800.78,12817.52,1
+2025-01,Electronics,Northern,18,18,21560.7,7617.99,0
+2025-01,Electronics,Southern,31,37,55745.46,20898.49,1
+2025-01,Electronics,Western,6,7,15880.14,6287.55,0
+2025-01,Fashion,Central,35,46,18976.35,8159.24,1
+2025-01,Fashion,Copperbelt,70,96,46202.11,19668.53,0
+2025-01,Fashion,Eastern,15,16,8088.6,3593.09,1
+2025-01,Fashion,Luapula,19,23,11031.12,4804.8,0
+2025-01,Fashion,Lusaka,134,164,92668.09,39058.15,1
+2025-01,Fashion,Muchinga,10,18,8745.03,3736.29,1
+2025-01,Fashion,North-Western,19,24,14836.64,6532.65,0
+2025-01,Fashion,Northern,13,16,8054.89,3903.64,0
+2025-01,Fashion,Southern,47,62,31258.64,13047.33,2
+2025-01,Fashion,Western,11,14,9172.5,3891.09,0
+2025-01,Groceries,Central,71,185,18828.28,7742.1,2
+2025-01,Groceries,Copperbelt,177,456,45292.94,17386.32,2
+2025-01,Groceries,Eastern,42,125,13401.19,5349.57,0
+2025-01,Groceries,Luapula,27,74,7147.49,2738.1,2
+2025-01,Groceries,Lusaka,315,792,85673.23,34515.46,3
+2025-01,Groceries,Muchinga,12,35,3053.65,1033.66,0
+2025-01,Groceries,North-Western,34,73,7841.82,3135.85,0
+2025-01,Groceries,Northern,43,99,9676.94,3567.79,0
+2025-01,Groceries,Southern,96,222,25391.84,10326.31,2
+2025-01,Groceries,Western,16,48,4341.63,1549.61,0
+2025-01,Health & Beauty,Central,35,48,12744.99,4716.35,0
+2025-01,Health & Beauty,Copperbelt,73,89,25062.38,9351.72,2
+2025-01,Health & Beauty,Eastern,17,20,4682.04,1391.76,1
+2025-01,Health & Beauty,Luapula,18,24,6721.33,2481.26,0
+2025-01,Health & Beauty,Lusaka,132,176,47370.86,17712.99,2
+2025-01,Health & Beauty,Muchinga,6,8,2274.41,887.66,0
+2025-01,Health & Beauty,North-Western,26,28,9024.84,3214.02,0
+2025-01,Health & Beauty,Northern,26,40,11697.51,3880.67,2
+2025-01,Health & Beauty,Southern,35,43,11626.89,4475.25,0
+2025-01,Health & Beauty,Western,10,12,4221.42,1652.18,0
+2025-01,Home & Kitchen,Central,27,34,16499.61,5914.77,1
+2025-01,Home & Kitchen,Copperbelt,61,78,38633.04,15143.28,1
+2025-01,Home & Kitchen,Eastern,17,21,11215.26,4214.9,1
+2025-01,Home & Kitchen,Luapula,13,15,6715.43,2285.83,0
+2025-01,Home & Kitchen,Lusaka,118,144,79395.6,31290.73,3
+2025-01,Home & Kitchen,Muchinga,5,5,2493.8,1053.17,0
+2025-01,Home & Kitchen,North-Western,19,20,8281.18,2889.93,1
+2025-01,Home & Kitchen,Northern,20,21,10265.52,4070.52,0
+2025-01,Home & Kitchen,Southern,32,43,20576.86,7487.88,0
+2025-01,Home & Kitchen,Western,7,11,5578.17,1590.82,0
+2025-01,Household,Central,31,62,5116.78,1771.47,2
+2025-01,Household,Copperbelt,100,216,18101.21,6845.29,1
+2025-01,Household,Eastern,19,38,2956.29,1106.9,0
+2025-01,Household,Luapula,24,51,3449.72,1407.18,1
+2025-01,Household,Lusaka,174,407,34913.67,13922.81,3
+2025-01,Household,Muchinga,13,35,2719.77,1057.12,1
+2025-01,Household,North-Western,20,58,3906.92,1355.19,1
+2025-01,Household,Northern,27,57,5621.59,2171.61,0
+2025-01,Household,Southern,44,88,7961.12,3275.94,1
+2025-01,Household,Western,11,21,1929.08,680.35,0
+2025-01,Stationery,Central,60,149,32623.74,11511.94,0
+2025-01,Stationery,Copperbelt,119,279,45947.97,17234.95,0
+2025-01,Stationery,Eastern,36,82,12653.77,4908.0,0
+2025-01,Stationery,Luapula,30,77,13436.22,4516.31,1
+2025-01,Stationery,Lusaka,234,553,95739.91,35263.44,6
+2025-01,Stationery,Muchinga,14,29,5707.93,2361.09,1
+2025-01,Stationery,North-Western,37,89,18340.15,6697.02,0
+2025-01,Stationery,Northern,37,82,13667.04,5140.36,0
+2025-01,Stationery,Southern,71,172,32070.37,11591.55,0
+2025-01,Stationery,Western,17,47,8618.13,3242.34,0
+2025-02,Baby & Kids,Central,23,41,6892.27,2396.86,0
+2025-02,Baby & Kids,Copperbelt,60,119,28077.09,8298.52,2
+2025-02,Baby & Kids,Eastern,26,60,15597.24,5074.21,0
+2025-02,Baby & Kids,Luapula,12,22,5295.15,2142.21,0
+2025-02,Baby & Kids,Lusaka,109,232,55175.75,20116.32,2
+2025-02,Baby & Kids,Muchinga,6,13,4365.54,1431.93,0
+2025-02,Baby & Kids,North-Western,18,37,6749.36,2542.97,1
+2025-02,Baby & Kids,Northern,13,21,5404.14,1932.52,0
+2025-02,Baby & Kids,Southern,27,49,10631.52,3455.14,0
+2025-02,Baby & Kids,Western,5,17,6530.14,2692.67,0
+2025-02,Electronics,Central,19,20,36199.47,10130.21,1
+2025-02,Electronics,Copperbelt,87,93,170603.62,59955.68,0
+2025-02,Electronics,Eastern,10,10,7995.3,2915.22,0
+2025-02,Electronics,Luapula,14,14,15955.67,5689.84,0
+2025-02,Electronics,Lusaka,115,130,213085.57,70287.21,1
+2025-02,Electronics,Muchinga,5,7,10264.9,3708.64,0
+2025-02,Electronics,North-Western,15,19,28880.45,8052.09,0
+2025-02,Electronics,Northern,19,19,40636.39,14600.63,0
+2025-02,Electronics,Southern,27,31,49660.79,16154.74,1
+2025-02,Electronics,Western,11,12,24363.4,7203.8,1
+2025-02,Fashion,Central,16,22,12378.65,5482.59,1
+2025-02,Fashion,Copperbelt,80,97,45270.42,19634.89,2
+2025-02,Fashion,Eastern,20,24,11640.53,5099.29,0
+2025-02,Fashion,Luapula,10,13,7020.46,3041.25,0
+2025-02,Fashion,Lusaka,124,152,86455.47,37909.71,2
+2025-02,Fashion,Muchinga,6,8,2747.13,1057.27,0
+2025-02,Fashion,North-Western,10,11,6986.85,2924.89,0
+2025-02,Fashion,Northern,18,21,13280.63,5928.26,0
+2025-02,Fashion,Southern,21,26,15128.09,6581.39,0
+2025-02,Fashion,Western,10,14,7414.31,2885.07,0
+2025-02,Groceries,Central,69,198,22904.85,8527.17,2
+2025-02,Groceries,Copperbelt,163,407,43537.71,17144.88,4
+2025-02,Groceries,Eastern,44,108,11524.85,4514.36,1
+2025-02,Groceries,Luapula,31,96,10849.47,4000.72,2
+2025-02,Groceries,Lusaka,325,898,87138.73,33415.36,10
+2025-02,Groceries,Muchinga,16,36,4243.45,1652.02,0
+2025-02,Groceries,North-Western,34,99,9793.09,3785.77,0
+2025-02,Groceries,Northern,41,88,10754.88,4373.72,0
+2025-02,Groceries,Southern,83,235,25770.36,9979.67,4
+2025-02,Groceries,Western,31,82,9415.21,3827.47,0
+2025-02,Health & Beauty,Central,40,51,14605.95,5156.62,0
+2025-02,Health & Beauty,Copperbelt,82,103,28462.35,9765.99,4
+2025-02,Health & Beauty,Eastern,22,27,7799.74,3089.73,1
+2025-02,Health & Beauty,Luapula,10,12,4305.96,1573.22,3
+2025-02,Health & Beauty,Lusaka,150,200,50069.76,18364.07,4
+2025-02,Health & Beauty,Muchinga,1,1,135.58,34.67,0
+2025-02,Health & Beauty,North-Western,23,30,6922.46,2482.8,0
+2025-02,Health & Beauty,Northern,14,16,4197.98,1454.03,1
+2025-02,Health & Beauty,Southern,41,51,14387.4,5563.87,4
+2025-02,Health & Beauty,Western,17,25,8266.32,2919.21,2
+2025-02,Home & Kitchen,Central,27,33,14458.51,5381.49,1
+2025-02,Home & Kitchen,Copperbelt,72,94,50434.38,18051.21,1
+2025-02,Home & Kitchen,Eastern,18,24,11151.75,3819.4,0
+2025-02,Home & Kitchen,Luapula,12,13,6504.36,2136.29,0
+2025-02,Home & Kitchen,Lusaka,123,150,75583.2,28882.53,0
+2025-02,Home & Kitchen,Muchinga,11,12,4380.38,1454.57,0
+2025-02,Home & Kitchen,North-Western,19,23,9645.98,3621.72,0
+2025-02,Home & Kitchen,Northern,14,17,9657.99,3850.84,0
+2025-02,Home & Kitchen,Southern,39,48,27650.12,10457.73,0
+2025-02,Home & Kitchen,Western,9,10,3896.68,1622.24,0
+2025-02,Household,Central,37,92,7110.05,2619.02,0
+2025-02,Household,Copperbelt,88,193,16951.97,6457.95,2
+2025-02,Household,Eastern,24,60,4415.02,1655.97,0
+2025-02,Household,Luapula,16,40,3722.74,1584.0,0
+2025-02,Household,Lusaka,163,379,31798.33,11794.47,0
+2025-02,Household,Muchinga,9,16,1387.65,484.59,0
+2025-02,Household,North-Western,15,40,3237.8,1286.71,0
+2025-02,Household,Northern,21,46,3841.02,1355.29,0
+2025-02,Household,Southern,37,83,6621.95,2598.81,0
+2025-02,Household,Western,17,43,3453.49,1225.87,0
+2025-02,Stationery,Central,25,58,7630.42,3137.48,0
+2025-02,Stationery,Copperbelt,71,138,27550.29,10192.3,2
+2025-02,Stationery,Eastern,17,48,10535.88,3753.38,0
+2025-02,Stationery,Luapula,17,33,3517.54,1476.94,1
+2025-02,Stationery,Lusaka,101,189,29694.38,10539.14,1
+2025-02,Stationery,Muchinga,7,13,3719.8,1558.7,0
+2025-02,Stationery,North-Western,18,45,6370.49,2277.18,0
+2025-02,Stationery,Northern,20,47,7931.1,2883.63,1
+2025-02,Stationery,Southern,40,82,12547.25,5019.64,1
+2025-02,Stationery,Western,7,18,2855.77,1009.42,0
+2025-03,Baby & Kids,Central,25,67,14581.7,4860.52,0
+2025-03,Baby & Kids,Copperbelt,54,105,24253.51,8801.94,2
+2025-03,Baby & Kids,Eastern,20,40,9324.75,2945.43,0
+2025-03,Baby & Kids,Luapula,11,26,6281.32,2219.83,0
+2025-03,Baby & Kids,Lusaka,129,250,65920.37,21789.47,0
+2025-03,Baby & Kids,Muchinga,8,11,2766.13,1019.5,0
+2025-03,Baby & Kids,North-Western,16,33,11364.78,3937.27,0
+2025-03,Baby & Kids,Northern,14,27,6993.84,2331.32,0
+2025-03,Baby & Kids,Southern,36,84,22747.76,7965.2,0
+2025-03,Baby & Kids,Western,13,30,9135.62,3291.38,0
+2025-03,Electronics,Central,22,23,35031.59,12374.3,0
+2025-03,Electronics,Copperbelt,93,101,157340.99,56142.27,1
+2025-03,Electronics,Eastern,16,18,25317.29,6831.3,0
+2025-03,Electronics,Luapula,10,10,19551.79,6357.7,0
+2025-03,Electronics,Lusaka,121,132,192220.46,60225.57,2
+2025-03,Electronics,Muchinga,8,9,12359.05,4033.83,0
+2025-03,Electronics,North-Western,19,22,37448.02,13467.21,0
+2025-03,Electronics,Northern,32,36,77346.52,23607.81,1
+2025-03,Electronics,Southern,28,28,59267.61,18585.73,0
+2025-03,Electronics,Western,15,18,27195.79,8285.66,0
+2025-03,Fashion,Central,20,27,11095.05,4475.93,0
+2025-03,Fashion,Copperbelt,71,86,37360.61,15275.21,5
+2025-03,Fashion,Eastern,22,24,13995.83,6080.71,0
+2025-03,Fashion,Luapula,9,10,4621.75,1919.3,0
+2025-03,Fashion,Lusaka,136,166,93980.47,40077.5,3
+2025-03,Fashion,Muchinga,6,9,4595.15,2072.84,0
+2025-03,Fashion,North-Western,24,30,13099.64,5339.61,1
+2025-03,Fashion,Northern,15,20,10394.77,4582.85,2
+2025-03,Fashion,Southern,29,35,19703.51,8580.93,0
+2025-03,Fashion,Western,8,15,4865.37,2072.66,0
+2025-03,Groceries,Central,82,211,23033.25,8885.59,1
+2025-03,Groceries,Copperbelt,174,435,45451.94,17284.41,1
+2025-03,Groceries,Eastern,41,100,10079.52,3927.11,1
+2025-03,Groceries,Luapula,28,70,9163.19,3518.48,0
+2025-03,Groceries,Lusaka,384,1025,114611.94,46040.37,5
+2025-03,Groceries,Muchinga,17,37,4401.08,1755.89,0
+2025-03,Groceries,North-Western,47,133,14366.67,5627.96,0
+2025-03,Groceries,Northern,56,121,16112.97,6612.09,1
+2025-03,Groceries,Southern,84,201,22635.2,8735.67,2
+2025-03,Groceries,Western,26,59,7602.43,2960.91,0
+2025-03,Health & Beauty,Central,36,49,11755.85,4470.11,2
+2025-03,Health & Beauty,Copperbelt,87,111,29139.06,10576.71,2
+2025-03,Health & Beauty,Eastern,20,28,7025.89,2832.32,2
+2025-03,Health & Beauty,Luapula,16,19,4401.61,1714.26,0
+2025-03,Health & Beauty,Lusaka,188,241,64560.98,24058.63,14
+2025-03,Health & Beauty,Muchinga,8,9,1795.74,599.88,0
+2025-03,Health & Beauty,North-Western,22,27,6801.55,2648.46,0
+2025-03,Health & Beauty,Northern,18,22,5913.64,2152.83,0
+2025-03,Health & Beauty,Southern,48,68,17350.67,6191.5,1
+2025-03,Health & Beauty,Western,12,16,5790.89,1957.41,0
+2025-03,Home & Kitchen,Central,32,42,26204.45,10407.14,1
+2025-03,Home & Kitchen,Copperbelt,84,111,54592.16,19301.87,3
+2025-03,Home & Kitchen,Eastern,12,14,6553.01,2286.33,0
+2025-03,Home & Kitchen,Luapula,16,22,12318.58,4723.37,0
+2025-03,Home & Kitchen,Lusaka,152,194,107402.8,41711.07,7
+2025-03,Home & Kitchen,Muchinga,10,10,5654.11,2007.27,0
+2025-03,Home & Kitchen,North-Western,20,25,9918.52,3786.4,0
+2025-03,Home & Kitchen,Northern,15,20,14133.05,5979.28,0
+2025-03,Home & Kitchen,Southern,44,51,23685.84,8693.21,2
+2025-03,Home & Kitchen,Western,16,20,12201.47,4405.81,0
+2025-03,Household,Central,47,109,8510.43,2885.54,0
+2025-03,Household,Copperbelt,110,238,20721.38,7976.31,4
+2025-03,Household,Eastern,22,47,3691.1,1266.69,0
+2025-03,Household,Luapula,16,32,2477.94,843.85,0
+2025-03,Household,Lusaka,207,468,39190.38,14825.54,3
+2025-03,Household,Muchinga,7,12,1044.88,409.39,0
+2025-03,Household,North-Western,33,68,6029.63,2238.47,0
+2025-03,Household,Northern,35,75,5982.57,2317.45,1
+2025-03,Household,Southern,54,118,10623.34,4087.56,1
+2025-03,Household,Western,17,47,4064.81,1765.87,0
+2025-03,Stationery,Central,46,96,13110.81,5039.18,0
+2025-03,Stationery,Copperbelt,81,177,35924.1,14179.35,1
+2025-03,Stationery,Eastern,16,41,6814.6,2702.39,0
+2025-03,Stationery,Luapula,9,17,4023.11,1611.2,1
+2025-03,Stationery,Lusaka,153,313,50171.64,17587.18,0
+2025-03,Stationery,Muchinga,7,12,1825.51,689.39,0
+2025-03,Stationery,North-Western,21,40,7096.2,2755.07,0
+2025-03,Stationery,Northern,18,37,5498.09,1954.59,1
+2025-03,Stationery,Southern,35,71,12103.8,5010.72,1
+2025-03,Stationery,Western,11,22,4779.77,1801.53,0
+2025-04,Baby & Kids,Central,31,65,18195.62,6340.3,0
+2025-04,Baby & Kids,Copperbelt,60,132,35873.21,11538.21,3
+2025-04,Baby & Kids,Eastern,12,28,7316.08,2837.03,1
+2025-04,Baby & Kids,Luapula,13,23,6273.7,2271.31,0
+2025-04,Baby & Kids,Lusaka,99,201,51520.69,16330.1,3
+2025-04,Baby & Kids,Muchinga,7,15,3700.94,1348.83,0
+2025-04,Baby & Kids,North-Western,14,27,7820.16,2751.15,0
+2025-04,Baby & Kids,Northern,14,28,6625.68,2288.16,0
+2025-04,Baby & Kids,Southern,24,47,11412.37,3747.0,1
+2025-04,Baby & Kids,Western,15,33,6729.69,1771.08,1
+2025-04,Electronics,Central,21,22,58662.07,18498.32,0
+2025-04,Electronics,Copperbelt,90,101,166506.68,58092.41,1
+2025-04,Electronics,Eastern,18,19,33507.7,11398.8,1
+2025-04,Electronics,Luapula,15,18,26726.59,9366.03,0
+2025-04,Electronics,Lusaka,92,100,198672.92,61056.39,1
+2025-04,Electronics,Muchinga,6,6,12488.49,5649.33,1
+2025-04,Electronics,North-Western,17,17,24554.87,6535.18,0
+2025-04,Electronics,Northern,19,23,50558.51,16843.76,0
+2025-04,Electronics,Southern,25,25,58752.51,17177.6,0
+2025-04,Electronics,Western,14,15,26340.04,7996.15,1
+2025-04,Fashion,Central,26,34,21279.68,9460.66,0
+2025-04,Fashion,Copperbelt,84,97,50571.68,21429.28,3
+2025-04,Fashion,Eastern,16,18,7050.3,2829.84,0
+2025-04,Fashion,Luapula,15,17,7795.52,3148.21,0
+2025-04,Fashion,Lusaka,136,166,97692.41,42795.75,4
+2025-04,Fashion,Muchinga,10,11,5018.99,1966.85,0
+2025-04,Fashion,North-Western,11,14,7739.33,3526.61,0
+2025-04,Fashion,Northern,16,20,10660.77,4576.86,0
+2025-04,Fashion,Southern,36,42,21531.14,9039.47,3
+2025-04,Fashion,Western,15,17,10874.44,4905.51,1
+2025-04,Groceries,Central,87,240,25068.53,10086.98,0
+2025-04,Groceries,Copperbelt,198,537,68691.18,26620.55,0
+2025-04,Groceries,Eastern,40,101,11418.94,4479.13,1
+2025-04,Groceries,Luapula,26,69,7489.81,2916.45,0
+2025-04,Groceries,Lusaka,336,916,102898.56,40360.52,2
+2025-04,Groceries,Muchinga,19,50,6786.72,2871.1,0
+2025-04,Groceries,North-Western,41,100,11267.25,4337.69,1
+2025-04,Groceries,Northern,38,94,10158.61,4125.94,0
+2025-04,Groceries,Southern,92,240,26954.48,10499.75,1
+2025-04,Groceries,Western,34,87,10470.26,4074.94,0
+2025-04,Health & Beauty,Central,44,52,13446.37,5071.3,1
+2025-04,Health & Beauty,Copperbelt,100,140,36840.27,13491.23,2
+2025-04,Health & Beauty,Eastern,19,20,5462.15,2066.92,0
+2025-04,Health & Beauty,Luapula,19,28,9322.48,3771.69,2
+2025-04,Health & Beauty,Lusaka,155,185,47217.06,17598.21,3
+2025-04,Health & Beauty,Muchinga,8,11,3481.46,1319.76,1
+2025-04,Health & Beauty,North-Western,13,15,3668.72,1240.84,0
+2025-04,Health & Beauty,Northern,27,33,7840.56,2709.11,2
+2025-04,Health & Beauty,Southern,49,64,17813.34,6216.7,0
+2025-04,Health & Beauty,Western,20,28,7728.14,2315.17,1
+2025-04,Home & Kitchen,Central,30,37,18448.55,6545.85,2
+2025-04,Home & Kitchen,Copperbelt,84,111,57555.76,21149.05,1
+2025-04,Home & Kitchen,Eastern,15,17,8432.55,3121.73,0
+2025-04,Home & Kitchen,Luapula,15,16,7391.93,2806.86,0
+2025-04,Home & Kitchen,Lusaka,139,168,88164.22,32242.87,3
+2025-04,Home & Kitchen,Muchinga,9,10,3935.56,1289.09,0
+2025-04,Home & Kitchen,North-Western,20,21,11699.25,4259.11,0
+2025-04,Home & Kitchen,Northern,26,33,21284.84,8728.74,0
+2025-04,Home & Kitchen,Southern,36,49,28966.36,11427.92,0
+2025-04,Home & Kitchen,Western,15,18,9497.24,3911.9,1
+2025-04,Household,Central,41,102,8551.57,3313.19,0
+2025-04,Household,Copperbelt,103,227,20106.48,7589.36,3
+2025-04,Household,Eastern,30,65,5627.18,1989.31,2
+2025-04,Household,Luapula,12,28,2212.82,671.78,0
+2025-04,Household,Lusaka,200,425,36737.37,14147.58,3
+2025-04,Household,Muchinga,13,33,2902.06,1053.53,0
+2025-04,Household,North-Western,21,52,4302.55,1555.2,1
+2025-04,Household,Northern,19,35,3285.95,1276.33,0
+2025-04,Household,Southern,52,117,9495.12,3609.41,2
+2025-04,Household,Western,20,38,3551.73,1421.97,1
+2025-04,Stationery,Central,32,59,9234.45,3374.15,0
+2025-04,Stationery,Copperbelt,72,165,27688.96,10565.92,0
+2025-04,Stationery,Eastern,18,41,7642.66,2652.69,0
+2025-04,Stationery,Luapula,16,27,4234.64,1650.84,0
+2025-04,Stationery,Lusaka,109,236,41043.46,15328.23,2
+2025-04,Stationery,Muchinga,9,18,2044.29,734.91,1
+2025-04,Stationery,North-Western,22,35,5873.94,1962.17,1
+2025-04,Stationery,Northern,18,40,7225.21,2564.32,0
+2025-04,Stationery,Southern,37,79,16549.77,6184.47,1
+2025-04,Stationery,Western,13,28,2642.26,1073.49,1
+2025-05,Baby & Kids,Central,19,38,7777.19,2542.82,1
+2025-05,Baby & Kids,Copperbelt,50,102,23906.77,8620.12,0
+2025-05,Baby & Kids,Eastern,23,52,10485.07,3242.71,0
+2025-05,Baby & Kids,Luapula,8,23,5460.24,1828.07,1
+2025-05,Baby & Kids,Lusaka,122,245,61992.34,19995.68,2
+2025-05,Baby & Kids,Muchinga,2,5,1052.12,88.31,0
+2025-05,Baby & Kids,North-Western,18,45,10015.73,3808.88,0
+2025-05,Baby & Kids,Northern,14,37,10148.41,3205.11,1
+2025-05,Baby & Kids,Southern,29,63,14516.42,4485.16,2
+2025-05,Baby & Kids,Western,10,18,3920.22,1230.17,0
+2025-05,Electronics,Central,21,21,48373.89,14553.68,0
+2025-05,Electronics,Copperbelt,86,101,193504.44,59719.65,1
+2025-05,Electronics,Eastern,18,18,30259.21,11010.87,0
+2025-05,Electronics,Luapula,17,18,28195.23,10435.61,0
+2025-05,Electronics,Lusaka,130,136,225237.97,77862.9,3
+2025-05,Electronics,Muchinga,8,8,13580.69,3167.63,0
+2025-05,Electronics,North-Western,14,16,18521.97,6444.57,0
+2025-05,Electronics,Northern,22,22,28756.83,10338.41,0
+2025-05,Electronics,Southern,29,31,55415.72,20300.35,2
+2025-05,Electronics,Western,10,10,13134.23,4470.84,0
+2025-05,Fashion,Central,34,39,21331.06,9498.22,0
+2025-05,Fashion,Copperbelt,91,113,56888.89,24434.04,1
+2025-05,Fashion,Eastern,20,24,10880.27,4564.32,1
+2025-05,Fashion,Luapula,13,17,6950.22,3027.31,0
+2025-05,Fashion,Lusaka,135,171,87975.55,36644.7,5
+2025-05,Fashion,Muchinga,9,16,7554.23,3323.13,1
+2025-05,Fashion,North-Western,12,15,7272.66,2847.34,0
+2025-05,Fashion,Northern,11,15,8182.35,3291.81,0
+2025-05,Fashion,Southern,43,51,30391.56,13167.35,1
+2025-05,Fashion,Western,12,17,7782.31,3309.09,0
+2025-05,Groceries,Central,77,200,23732.32,9200.1,2
+2025-05,Groceries,Copperbelt,184,499,57804.47,22921.55,4
+2025-05,Groceries,Eastern,61,164,17871.09,6661.45,2
+2025-05,Groceries,Luapula,30,67,8429.32,3494.88,0
+2025-05,Groceries,Lusaka,359,914,113855.51,45104.92,4
+2025-05,Groceries,Muchinga,22,55,6977.09,2878.92,0
+2025-05,Groceries,North-Western,44,106,12956.97,5298.01,1
+2025-05,Groceries,Northern,32,85,8354.97,3062.38,1
+2025-05,Groceries,Southern,95,238,23404.45,8658.23,1
+2025-05,Groceries,Western,27,51,5196.34,1814.9,0
+2025-05,Health & Beauty,Central,38,48,12531.73,4705.43,0
+2025-05,Health & Beauty,Copperbelt,82,109,32193.17,11620.53,2
+2025-05,Health & Beauty,Eastern,27,35,9912.43,3330.74,0
+2025-05,Health & Beauty,Luapula,17,21,6239.22,2050.68,0
+2025-05,Health & Beauty,Lusaka,173,217,60394.45,21514.85,4
+2025-05,Health & Beauty,Muchinga,8,9,1459.84,457.28,0
+2025-05,Health & Beauty,North-Western,17,18,4832.53,1823.92,0
+2025-05,Health & Beauty,Northern,23,25,7517.05,2537.33,1
+2025-05,Health & Beauty,Southern,50,64,16868.07,5825.56,2
+2025-05,Health & Beauty,Western,9,12,3184.15,1193.48,0
+2025-05,Home & Kitchen,Central,26,31,16943.08,6341.23,0
+2025-05,Home & Kitchen,Copperbelt,80,92,52913.32,20298.36,0
+2025-05,Home & Kitchen,Eastern,22,25,13634.83,4922.47,0
+2025-05,Home & Kitchen,Luapula,17,22,11637.01,4061.17,0
+2025-05,Home & Kitchen,Lusaka,153,186,100837.75,38329.13,2
+2025-05,Home & Kitchen,Muchinga,11,15,6969.86,2722.62,0
+2025-05,Home & Kitchen,North-Western,19,19,7980.62,2831.77,0
+2025-05,Home & Kitchen,Northern,20,24,11841.02,4696.36,1
+2025-05,Home & Kitchen,Southern,42,57,36178.83,13558.21,2
+2025-05,Home & Kitchen,Western,14,21,10733.49,3931.38,1
+2025-05,Household,Central,33,66,5519.6,2002.66,2
+2025-05,Household,Copperbelt,99,217,18958.94,7369.59,4
+2025-05,Household,Eastern,31,62,5967.42,2067.64,2
+2025-05,Household,Luapula,28,61,5813.63,2401.57,1
+2025-05,Household,Lusaka,201,448,41615.4,16073.24,6
+2025-05,Household,Muchinga,13,34,2996.53,1089.97,1
+2025-05,Household,North-Western,18,35,3147.28,1262.21,0
+2025-05,Household,Northern,23,52,4208.73,1536.09,0
+2025-05,Household,Southern,55,112,10226.71,3983.7,1
+2025-05,Household,Western,22,43,3427.01,1363.63,1
+2025-05,Stationery,Central,57,127,24345.34,9445.36,2
+2025-05,Stationery,Copperbelt,151,349,54709.47,19755.81,3
+2025-05,Stationery,Eastern,55,119,18996.13,6877.51,2
+2025-05,Stationery,Luapula,36,84,11450.53,3961.08,4
+2025-05,Stationery,Lusaka,298,735,125331.61,45772.39,7
+2025-05,Stationery,Muchinga,13,32,3489.6,1246.09,0
+2025-05,Stationery,North-Western,36,95,16010.7,5314.38,1
+2025-05,Stationery,Northern,33,70,13828.81,4871.62,1
+2025-05,Stationery,Southern,73,169,28358.35,10732.15,2
+2025-05,Stationery,Western,35,75,11292.75,4550.73,0
+2025-06,Baby & Kids,Central,27,58,15619.53,5500.97,0
+2025-06,Baby & Kids,Copperbelt,71,158,36334.11,12259.96,2
+2025-06,Baby & Kids,Eastern,23,41,8886.87,2769.32,1
+2025-06,Baby & Kids,Luapula,14,29,6888.02,2653.72,0
+2025-06,Baby & Kids,Lusaka,134,279,70781.56,24569.02,0
+2025-06,Baby & Kids,Muchinga,10,23,6242.28,2329.98,0
+2025-06,Baby & Kids,North-Western,23,47,10601.53,3969.91,2
+2025-06,Baby & Kids,Northern,21,35,6737.42,2241.24,0
+2025-06,Baby & Kids,Southern,40,89,22169.79,7277.48,0
+2025-06,Baby & Kids,Western,18,30,6129.19,2060.68,0
+2025-06,Electronics,Central,21,23,26057.55,9287.44,1
+2025-06,Electronics,Copperbelt,120,135,231292.83,70936.98,4
+2025-06,Electronics,Eastern,27,32,77382.19,21107.05,1
+2025-06,Electronics,Luapula,13,14,18538.72,6486.81,0
+2025-06,Electronics,Lusaka,134,146,246652.02,82057.85,2
+2025-06,Electronics,Muchinga,11,15,23344.36,6426.41,0
+2025-06,Electronics,North-Western,26,31,56581.05,15955.39,0
+2025-06,Electronics,Northern,14,14,23493.45,7055.23,1
+2025-06,Electronics,Southern,38,42,69411.79,21803.41,0
+2025-06,Electronics,Western,11,13,36045.63,10853.0,0
+2025-06,Fashion,Central,26,29,15883.43,7030.18,0
+2025-06,Fashion,Copperbelt,65,85,50923.71,22314.09,2
+2025-06,Fashion,Eastern,27,35,15188.01,6613.11,2
+2025-06,Fashion,Luapula,15,19,10605.78,4581.21,0
+2025-06,Fashion,Lusaka,130,163,83552.27,35774.14,3
+2025-06,Fashion,Muchinga,5,5,2719.24,1166.22,0
+2025-06,Fashion,North-Western,18,20,7160.56,3039.9,0
+2025-06,Fashion,Northern,22,25,13498.41,5886.76,0
+2025-06,Fashion,Southern,44,57,34284.9,14775.33,1
+2025-06,Fashion,Western,14,14,7241.21,2837.43,0
+2025-06,Groceries,Central,90,242,28560.79,11400.68,0
+2025-06,Groceries,Copperbelt,216,573,65199.87,25928.94,6
+2025-06,Groceries,Eastern,56,159,15840.71,6354.42,0
+2025-06,Groceries,Luapula,26,68,8152.18,3213.87,1
+2025-06,Groceries,Lusaka,398,1072,124705.6,49388.65,8
+2025-06,Groceries,Muchinga,15,36,3099.44,1197.51,0
+2025-06,Groceries,North-Western,47,128,13345.58,5460.4,0
+2025-06,Groceries,Northern,37,88,10718.22,4249.82,0
+2025-06,Groceries,Southern,123,318,39444.97,16034.53,0
+2025-06,Groceries,Western,44,115,16947.52,6776.47,0
+2025-06,Health & Beauty,Central,50,69,18168.31,6374.73,2
+2025-06,Health & Beauty,Copperbelt,109,140,40672.39,15440.18,2
+2025-06,Health & Beauty,Eastern,24,30,7092.81,2703.27,0
+2025-06,Health & Beauty,Luapula,11,14,4126.27,1179.46,1
+2025-06,Health & Beauty,Lusaka,173,216,64863.27,23463.8,3
+2025-06,Health & Beauty,Muchinga,9,11,1959.38,763.45,0
+2025-06,Health & Beauty,North-Western,31,43,14497.0,4480.27,1
+2025-06,Health & Beauty,Northern,17,22,6697.76,2098.3,1
+2025-06,Health & Beauty,Southern,45,65,20169.34,7052.33,0
+2025-06,Health & Beauty,Western,25,32,9166.63,2949.67,0
+2025-06,Home & Kitchen,Central,43,55,31321.56,12212.64,0
+2025-06,Home & Kitchen,Copperbelt,94,112,60021.85,22969.28,2
+2025-06,Home & Kitchen,Eastern,25,30,18250.6,7075.16,1
+2025-06,Home & Kitchen,Luapula,9,12,5749.6,2005.72,0
+2025-06,Home & Kitchen,Lusaka,167,206,122870.58,47513.9,2
+2025-06,Home & Kitchen,Muchinga,12,14,7981.14,3279.38,0
+2025-06,Home & Kitchen,North-Western,23,24,13146.33,5370.79,0
+2025-06,Home & Kitchen,Northern,17,20,8471.38,2837.07,0
+2025-06,Home & Kitchen,Southern,51,62,36085.99,14739.47,1
+2025-06,Home & Kitchen,Western,16,19,11365.14,4761.74,0
+2025-06,Household,Central,40,77,6700.54,2538.16,1
+2025-06,Household,Copperbelt,115,268,24044.05,8952.91,0
+2025-06,Household,Eastern,39,78,5854.86,2033.2,1
+2025-06,Household,Luapula,20,34,3090.55,1122.4,0
+2025-06,Household,Lusaka,217,499,42424.53,16269.11,5
+2025-06,Household,Muchinga,8,25,2096.68,870.13,0
+2025-06,Household,North-Western,36,73,6481.62,2467.2,0
+2025-06,Household,Northern,25,47,4037.34,1587.17,0
+2025-06,Household,Southern,62,129,11163.59,4086.03,0
+2025-06,Household,Western,14,22,2575.58,992.49,1
+2025-06,Stationery,Central,42,82,13977.56,4837.18,1
+2025-06,Stationery,Copperbelt,84,183,30940.06,12203.22,3
+2025-06,Stationery,Eastern,23,46,8968.63,2843.56,0
+2025-06,Stationery,Luapula,13,25,3924.75,1286.18,0
+2025-06,Stationery,Lusaka,126,271,49840.23,17905.88,3
+2025-06,Stationery,Muchinga,4,7,388.49,117.88,0
+2025-06,Stationery,North-Western,21,44,5387.38,1890.44,0
+2025-06,Stationery,Northern,20,40,6145.67,2104.48,0
+2025-06,Stationery,Southern,35,73,13329.27,4803.06,1
+2025-06,Stationery,Western,13,27,4220.96,1652.37,0
+2025-07,Baby & Kids,Central,26,56,14572.5,4488.9,0
+2025-07,Baby & Kids,Copperbelt,59,110,30452.59,10027.17,2
+2025-07,Baby & Kids,Eastern,18,55,15985.38,5695.54,0
+2025-07,Baby & Kids,Luapula,8,18,3578.75,961.96,0
+2025-07,Baby & Kids,Lusaka,141,298,71424.35,25422.6,2
+2025-07,Baby & Kids,Muchinga,11,29,7542.87,2836.98,1
+2025-07,Baby & Kids,North-Western,20,37,8656.19,2805.58,0
+2025-07,Baby & Kids,Northern,22,39,9030.54,3294.29,0
+2025-07,Baby & Kids,Southern,54,111,30974.98,10477.14,1
+2025-07,Baby & Kids,Western,19,52,12767.4,4138.87,0
+2025-07,Electronics,Central,24,27,43050.27,14871.81,0
+2025-07,Electronics,Copperbelt,131,155,220002.06,75154.72,2
+2025-07,Electronics,Eastern,22,25,40881.53,13225.49,0
+2025-07,Electronics,Luapula,14,15,21242.66,6775.46,0
+2025-07,Electronics,Lusaka,133,145,289162.86,91833.41,1
+2025-07,Electronics,Muchinga,13,15,25527.42,9640.13,0
+2025-07,Electronics,North-Western,18,18,22130.18,7029.61,0
+2025-07,Electronics,Northern,17,18,39127.57,14083.28,0
+2025-07,Electronics,Southern,32,36,58952.1,23002.08,0
+2025-07,Electronics,Western,11,11,18832.36,6618.27,0
+2025-07,Fashion,Central,31,39,21406.2,8965.31,1
+2025-07,Fashion,Copperbelt,87,110,62765.36,26870.13,3
+2025-07,Fashion,Eastern,22,25,14013.58,5906.27,1
+2025-07,Fashion,Luapula,12,17,10377.97,4344.22,0
+2025-07,Fashion,Lusaka,158,187,97561.75,41998.68,4
+2025-07,Fashion,Muchinga,13,17,6622.39,2559.54,0
+2025-07,Fashion,North-Western,16,17,10657.52,4737.66,0
+2025-07,Fashion,Northern,18,23,12387.49,5365.78,1
+2025-07,Fashion,Southern,44,51,27191.42,11283.97,2
+2025-07,Fashion,Western,16,20,11644.71,4926.87,1
+2025-07,Groceries,Central,88,243,26333.75,10289.59,1
+2025-07,Groceries,Copperbelt,225,585,63338.86,24951.18,2
+2025-07,Groceries,Eastern,72,200,21916.39,8265.14,0
+2025-07,Groceries,Luapula,32,74,9839.51,3615.98,0
+2025-07,Groceries,Lusaka,420,1106,135348.99,56720.03,5
+2025-07,Groceries,Muchinga,21,62,6934.41,2715.65,0
+2025-07,Groceries,North-Western,45,119,15319.8,5807.37,1
+2025-07,Groceries,Northern,38,106,11808.58,5035.21,0
+2025-07,Groceries,Southern,109,293,33056.95,12713.92,2
+2025-07,Groceries,Western,37,76,8157.44,3064.35,0
+2025-07,Health & Beauty,Central,35,48,14510.05,4614.75,0
+2025-07,Health & Beauty,Copperbelt,113,144,42698.25,15641.18,0
+2025-07,Health & Beauty,Eastern,35,48,13971.22,5538.02,1
+2025-07,Health & Beauty,Luapula,18,24,5546.72,2123.13,0
+2025-07,Health & Beauty,Lusaka,202,256,67750.03,24617.38,8
+2025-07,Health & Beauty,Muchinga,8,13,3349.91,1336.48,0
+2025-07,Health & Beauty,North-Western,28,38,10714.7,3836.26,2
+2025-07,Health & Beauty,Northern,18,21,5872.2,2201.77,0
+2025-07,Health & Beauty,Southern,48,65,20304.07,6911.42,1
+2025-07,Health & Beauty,Western,19,25,5961.16,2343.78,0
+2025-07,Home & Kitchen,Central,45,61,31571.27,11760.25,0
+2025-07,Home & Kitchen,Copperbelt,97,126,67028.02,25223.93,3
+2025-07,Home & Kitchen,Eastern,26,32,16550.72,5877.45,0
+2025-07,Home & Kitchen,Luapula,13,18,11530.45,4481.83,0
+2025-07,Home & Kitchen,Lusaka,172,222,116044.75,43793.5,2
+2025-07,Home & Kitchen,Muchinga,14,17,6273.77,2364.71,0
+2025-07,Home & Kitchen,North-Western,28,36,21818.93,8258.27,1
+2025-07,Home & Kitchen,Northern,19,26,9988.83,3521.68,0
+2025-07,Home & Kitchen,Southern,44,58,34114.15,12968.56,0
+2025-07,Home & Kitchen,Western,23,29,14431.85,5080.99,0
+2025-07,Household,Central,50,114,9895.77,3742.46,2
+2025-07,Household,Copperbelt,122,265,22368.55,8314.02,2
+2025-07,Household,Eastern,29,68,6077.71,2171.48,0
+2025-07,Household,Luapula,17,38,3065.78,1146.63,1
+2025-07,Household,Lusaka,233,515,46707.63,17043.94,5
+2025-07,Household,Muchinga,15,33,2859.78,1088.84,0
+2025-07,Household,North-Western,22,43,3218.09,1079.72,0
+2025-07,Household,Northern,29,66,6466.92,2627.02,0
+2025-07,Household,Southern,69,145,13554.77,5165.38,2
+2025-07,Household,Western,14,30,3208.73,1258.25,0
+2025-07,Stationery,Central,21,48,6157.86,2354.47,2
+2025-07,Stationery,Copperbelt,88,197,33735.84,12646.85,3
+2025-07,Stationery,Eastern,27,58,10108.47,3787.83,0
+2025-07,Stationery,Luapula,16,33,4955.86,1860.13,1
+2025-07,Stationery,Lusaka,158,331,60954.2,22214.31,2
+2025-07,Stationery,Muchinga,4,4,952.6,391.26,0
+2025-07,Stationery,North-Western,20,38,7294.13,2779.18,0
+2025-07,Stationery,Northern,15,46,8839.91,3663.65,0
+2025-07,Stationery,Southern,40,81,13935.77,5057.89,1
+2025-07,Stationery,Western,19,43,9177.41,3720.59,0
+2025-08,Baby & Kids,Central,27,58,14497.82,4940.4,0
+2025-08,Baby & Kids,Copperbelt,81,155,42692.21,15015.47,1
+2025-08,Baby & Kids,Eastern,18,43,11101.09,3814.66,1
+2025-08,Baby & Kids,Luapula,13,30,6710.03,1864.04,0
+2025-08,Baby & Kids,Lusaka,139,290,71087.3,24290.3,3
+2025-08,Baby & Kids,Muchinga,8,13,4746.98,1679.84,0
+2025-08,Baby & Kids,North-Western,23,48,11581.34,3758.58,1
+2025-08,Baby & Kids,Northern,19,38,7476.11,2307.61,1
+2025-08,Baby & Kids,Southern,39,90,28485.07,9803.15,3
+2025-08,Baby & Kids,Western,10,20,3145.25,1035.46,0
+2025-08,Electronics,Central,31,34,43583.82,14567.62,3
+2025-08,Electronics,Copperbelt,103,124,221444.19,74863.25,7
+2025-08,Electronics,Eastern,20,21,44487.65,13602.23,1
+2025-08,Electronics,Luapula,17,21,40583.67,12302.89,0
+2025-08,Electronics,Lusaka,163,172,285838.61,95461.69,2
+2025-08,Electronics,Muchinga,13,15,20899.09,6941.22,0
+2025-08,Electronics,North-Western,23,26,27769.6,10552.99,0
+2025-08,Electronics,Northern,21,21,45504.14,15555.64,0
+2025-08,Electronics,Southern,36,40,79072.47,26641.69,0
+2025-08,Electronics,Western,10,11,16033.87,6016.49,1
+2025-08,Fashion,Central,36,45,27947.26,11751.36,0
+2025-08,Fashion,Copperbelt,78,90,52044.58,21978.07,3
+2025-08,Fashion,Eastern,17,20,13529.72,6198.93,0
+2025-08,Fashion,Luapula,17,19,10573.61,4496.23,0
+2025-08,Fashion,Lusaka,157,190,103137.68,43150.57,3
+2025-08,Fashion,Muchinga,5,5,1670.16,641.05,0
+2025-08,Fashion,North-Western,24,32,18601.12,7542.65,0
+2025-08,Fashion,Northern,17,19,10380.66,4595.87,0
+2025-08,Fashion,Southern,43,60,37129.0,15895.28,0
+2025-08,Fashion,Western,13,18,12141.14,5119.92,0
+2025-08,Groceries,Central,72,198,23636.0,9428.45,2
+2025-08,Groceries,Copperbelt,229,574,69564.32,26791.51,5
+2025-08,Groceries,Eastern,59,140,15953.05,6290.14,0
+2025-08,Groceries,Luapula,39,84,7937.77,3018.74,0
+2025-08,Groceries,Lusaka,436,1138,133350.82,52513.07,7
+2025-08,Groceries,Muchinga,21,45,5768.7,2374.77,0
+2025-08,Groceries,North-Western,59,117,13935.43,5116.12,1
+2025-08,Groceries,Northern,44,102,11332.47,4449.87,0
+2025-08,Groceries,Southern,104,280,30652.49,12205.32,0
+2025-08,Groceries,Western,28,76,8528.29,3345.13,1
+2025-08,Health & Beauty,Central,51,66,18758.79,6509.91,1
+2025-08,Health & Beauty,Copperbelt,117,139,39741.15,14327.43,4
+2025-08,Health & Beauty,Eastern,36,51,11737.6,4095.63,0
+2025-08,Health & Beauty,Luapula,21,26,8370.35,3041.95,0
+2025-08,Health & Beauty,Lusaka,216,278,78978.84,29009.95,3
+2025-08,Health & Beauty,Muchinga,11,12,2782.23,1201.6,0
+2025-08,Health & Beauty,North-Western,33,42,10472.66,3849.97,1
+2025-08,Health & Beauty,Northern,25,38,11232.24,3671.98,0
+2025-08,Health & Beauty,Southern,64,79,20618.49,7792.46,2
+2025-08,Health & Beauty,Western,17,19,7158.25,2415.19,0
+2025-08,Home & Kitchen,Central,25,27,13698.54,5013.01,3
+2025-08,Home & Kitchen,Copperbelt,90,109,60005.16,22053.53,2
+2025-08,Home & Kitchen,Eastern,35,41,23677.93,9256.77,1
+2025-08,Home & Kitchen,Luapula,17,20,11005.12,4270.68,2
+2025-08,Home & Kitchen,Lusaka,181,224,119030.46,43486.47,3
+2025-08,Home & Kitchen,Muchinga,8,8,3382.33,965.52,0
+2025-08,Home & Kitchen,North-Western,29,34,16554.58,5662.52,0
+2025-08,Home & Kitchen,Northern,19,24,13855.93,5473.38,0
+2025-08,Home & Kitchen,Southern,48,63,30108.66,11391.39,3
+2025-08,Home & Kitchen,Western,12,19,10794.01,4062.98,0
+2025-08,Household,Central,50,121,9648.62,3298.15,1
+2025-08,Household,Copperbelt,115,268,24500.75,9036.88,0
+2025-08,Household,Eastern,39,74,7823.99,3113.74,0
+2025-08,Household,Luapula,20,41,4079.82,1597.14,1
+2025-08,Household,Lusaka,237,531,47314.53,18367.71,4
+2025-08,Household,Muchinga,8,16,1286.12,458.85,1
+2025-08,Household,North-Western,26,66,5869.92,2107.3,1
+2025-08,Household,Northern,23,71,6493.11,2502.29,0
+2025-08,Household,Southern,58,129,11263.55,4171.72,0
+2025-08,Household,Western,18,41,4053.57,1560.16,1
+2025-08,Stationery,Central,39,88,13230.67,4442.77,1
+2025-08,Stationery,Copperbelt,84,188,31660.02,11117.33,2
+2025-08,Stationery,Eastern,27,58,11079.55,3272.3,0
+2025-08,Stationery,Luapula,19,40,8749.9,3675.35,0
+2025-08,Stationery,Lusaka,177,371,69548.55,25765.31,4
+2025-08,Stationery,Muchinga,5,11,3047.99,1077.73,0
+2025-08,Stationery,North-Western,22,48,6526.56,2778.62,0
+2025-08,Stationery,Northern,16,37,6899.84,2580.96,0
+2025-08,Stationery,Southern,46,104,22663.6,8007.29,0
+2025-08,Stationery,Western,12,29,7710.66,3074.07,0
+2025-09,Baby & Kids,Central,31,68,18105.84,6388.65,0
+2025-09,Baby & Kids,Copperbelt,63,137,33702.76,11330.28,1
+2025-09,Baby & Kids,Eastern,23,54,15998.2,5921.85,0
+2025-09,Baby & Kids,Luapula,10,18,3822.67,1261.55,0
+2025-09,Baby & Kids,Lusaka,115,249,65423.54,21241.06,3
+2025-09,Baby & Kids,Muchinga,3,8,1225.71,424.43,0
+2025-09,Baby & Kids,North-Western,16,28,6091.28,1850.17,0
+2025-09,Baby & Kids,Northern,12,20,4380.39,1754.16,0
+2025-09,Baby & Kids,Southern,31,64,16550.24,5249.42,0
+2025-09,Baby & Kids,Western,9,20,5113.46,1827.78,0
+2025-09,Electronics,Central,25,26,58034.19,20365.78,0
+2025-09,Electronics,Copperbelt,84,89,145904.35,45367.9,0
+2025-09,Electronics,Eastern,23,26,53855.59,20378.59,1
+2025-09,Electronics,Luapula,19,22,30789.57,11091.12,1
+2025-09,Electronics,Lusaka,134,144,267263.63,82357.74,2
+2025-09,Electronics,Muchinga,7,7,14886.22,5434.33,0
+2025-09,Electronics,North-Western,26,28,47432.89,15533.01,0
+2025-09,Electronics,Northern,17,18,29630.2,11283.16,0
+2025-09,Electronics,Southern,23,30,50528.59,17985.76,0
+2025-09,Electronics,Western,9,9,15455.36,5514.26,0
+2025-09,Fashion,Central,35,40,18627.03,7521.16,0
+2025-09,Fashion,Copperbelt,67,78,41442.86,17364.96,0
+2025-09,Fashion,Eastern,30,38,22143.04,9241.16,0
+2025-09,Fashion,Luapula,18,22,13588.91,5854.03,1
+2025-09,Fashion,Lusaka,175,223,126627.55,54212.4,4
+2025-09,Fashion,Muchinga,3,3,1495.07,621.15,0
+2025-09,Fashion,North-Western,17,22,9880.39,3898.3,0
+2025-09,Fashion,Northern,16,20,10814.06,4804.75,1
+2025-09,Fashion,Southern,44,51,31867.09,13523.41,0
+2025-09,Fashion,Western,16,18,9927.02,4056.6,1
+2025-09,Groceries,Central,84,216,25603.11,9750.59,2
+2025-09,Groceries,Copperbelt,212,503,62471.89,25000.34,2
+2025-09,Groceries,Eastern,56,138,16884.51,6416.8,2
+2025-09,Groceries,Luapula,42,116,14578.12,5421.76,1
+2025-09,Groceries,Lusaka,402,993,112972.59,45036.84,7
+2025-09,Groceries,Muchinga,20,45,4665.69,1728.02,0
+2025-09,Groceries,North-Western,44,101,10551.16,4003.44,0
+2025-09,Groceries,Northern,43,111,10365.1,3821.42,2
+2025-09,Groceries,Southern,99,243,27424.52,10841.02,1
+2025-09,Groceries,Western,31,61,6282.39,2216.29,0
+2025-09,Health & Beauty,Central,46,60,20270.47,6646.65,2
+2025-09,Health & Beauty,Copperbelt,91,110,34003.47,11697.34,2
+2025-09,Health & Beauty,Eastern,30,44,13490.43,4715.55,3
+2025-09,Health & Beauty,Luapula,20,25,8782.89,2776.55,0
+2025-09,Health & Beauty,Lusaka,168,214,60656.49,21772.38,4
+2025-09,Health & Beauty,Muchinga,11,19,5937.19,2292.28,1
+2025-09,Health & Beauty,North-Western,23,29,8313.44,3188.89,1
+2025-09,Health & Beauty,Northern,26,34,10720.26,4053.85,0
+2025-09,Health & Beauty,Southern,44,54,14558.62,5579.52,1
+2025-09,Health & Beauty,Western,12,16,3903.23,1432.66,0
+2025-09,Home & Kitchen,Central,28,38,20700.47,7882.12,1
+2025-09,Home & Kitchen,Copperbelt,72,85,47998.64,17117.19,1
+2025-09,Home & Kitchen,Eastern,19,22,11839.14,4306.44,0
+2025-09,Home & Kitchen,Luapula,23,35,18469.62,7351.69,1
+2025-09,Home & Kitchen,Lusaka,139,176,101037.31,36803.66,0
+2025-09,Home & Kitchen,Muchinga,6,7,2739.43,975.13,0
+2025-09,Home & Kitchen,North-Western,20,25,10828.45,3751.54,0
+2025-09,Home & Kitchen,Northern,18,21,10088.84,3695.42,0
+2025-09,Home & Kitchen,Southern,32,41,24427.25,9973.78,2
+2025-09,Home & Kitchen,Western,13,18,6665.32,1956.9,0
+2025-09,Household,Central,43,90,8499.81,3309.41,0
+2025-09,Household,Copperbelt,102,224,19839.49,7304.61,3
+2025-09,Household,Eastern,27,53,4766.34,1783.65,3
+2025-09,Household,Luapula,30,57,5343.13,1925.66,0
+2025-09,Household,Lusaka,223,474,41682.54,15248.07,2
+2025-09,Household,Muchinga,11,22,2415.94,822.12,0
+2025-09,Household,North-Western,33,79,6642.07,2434.46,1
+2025-09,Household,Northern,22,52,4710.91,1881.05,1
+2025-09,Household,Southern,51,102,9086.34,3474.12,2
+2025-09,Household,Western,16,43,3704.63,1500.99,0
+2025-09,Stationery,Central,68,164,31391.7,12601.28,2
+2025-09,Stationery,Copperbelt,168,397,72099.8,26951.35,2
+2025-09,Stationery,Eastern,50,112,22136.91,7865.14,1
+2025-09,Stationery,Luapula,41,102,19660.01,7198.37,2
+2025-09,Stationery,Lusaka,331,775,145030.84,51111.17,6
+2025-09,Stationery,Muchinga,18,45,6859.7,2378.98,0
+2025-09,Stationery,North-Western,34,87,13459.31,4425.23,2
+2025-09,Stationery,Northern,39,77,15550.59,5774.74,0
+2025-09,Stationery,Southern,83,209,38860.41,13940.38,3
+2025-09,Stationery,Western,21,47,9281.98,3271.89,0
+2025-10,Baby & Kids,Central,42,74,18616.91,5740.91,2
+2025-10,Baby & Kids,Copperbelt,89,190,46805.96,16066.7,0
+2025-10,Baby & Kids,Eastern,21,43,10278.62,4062.71,0
+2025-10,Baby & Kids,Luapula,24,62,13507.41,4074.51,1
+2025-10,Baby & Kids,Lusaka,138,298,77170.7,25654.3,5
+2025-10,Baby & Kids,Muchinga,8,18,5918.59,2189.33,0
+2025-10,Baby & Kids,North-Western,27,60,16487.53,5915.71,2
+2025-10,Baby & Kids,Northern,16,26,6676.55,2174.41,0
+2025-10,Baby & Kids,Southern,43,98,21826.57,6734.74,2
+2025-10,Baby & Kids,Western,13,32,8507.56,2696.99,0
+2025-10,Electronics,Central,42,46,76781.98,27705.55,1
+2025-10,Electronics,Copperbelt,120,131,236021.91,79534.05,1
+2025-10,Electronics,Eastern,22,24,31315.05,11022.98,0
+2025-10,Electronics,Luapula,16,20,34927.46,11882.63,0
+2025-10,Electronics,Lusaka,171,189,331596.93,107589.14,5
+2025-10,Electronics,Muchinga,7,9,9377.18,3916.74,1
+2025-10,Electronics,North-Western,27,29,29083.07,10413.73,0
+2025-10,Electronics,Northern,30,34,63140.84,19880.15,1
+2025-10,Electronics,Southern,37,41,78590.38,26915.43,1
+2025-10,Electronics,Western,13,15,26380.84,8313.66,0
+2025-10,Fashion,Central,36,45,21957.09,9182.3,0
+2025-10,Fashion,Copperbelt,85,113,57853.84,23088.02,1
+2025-10,Fashion,Eastern,30,38,19357.8,8687.79,1
+2025-10,Fashion,Luapula,16,23,13403.75,5490.57,2
+2025-10,Fashion,Lusaka,165,199,110564.23,47526.51,3
+2025-10,Fashion,Muchinga,4,6,2561.81,1162.82,0
+2025-10,Fashion,North-Western,32,39,25384.72,10960.51,1
+2025-10,Fashion,Northern,24,27,14935.08,6084.87,0
+2025-10,Fashion,Southern,43,49,30894.92,13440.58,0
+2025-10,Fashion,Western,19,20,11051.53,4728.97,2
+2025-10,Groceries,Central,112,299,42702.62,17381.57,0
+2025-10,Groceries,Copperbelt,278,726,84445.08,33028.44,5
+2025-10,Groceries,Eastern,73,174,21488.69,8575.14,1
+2025-10,Groceries,Luapula,33,101,13075.46,5304.08,0
+2025-10,Groceries,Lusaka,462,1229,144074.74,57814.17,4
+2025-10,Groceries,Muchinga,21,47,7650.97,3116.37,0
+2025-10,Groceries,North-Western,73,191,23545.77,9335.65,0
+2025-10,Groceries,Northern,58,188,23511.89,9458.37,1
+2025-10,Groceries,Southern,139,373,47586.35,19505.7,1
+2025-10,Groceries,Western,46,112,11471.11,4498.96,1
+2025-10,Health & Beauty,Central,55,74,21763.63,7916.17,1
+2025-10,Health & Beauty,Copperbelt,140,183,52234.21,18575.0,7
+2025-10,Health & Beauty,Eastern,30,43,12430.58,4652.13,1
+2025-10,Health & Beauty,Luapula,16,21,4461.53,1537.35,1
+2025-10,Health & Beauty,Lusaka,250,324,99063.84,36224.27,8
+2025-10,Health & Beauty,Muchinga,10,14,3531.83,1388.0,0
+2025-10,Health & Beauty,North-Western,33,41,11671.22,4313.41,0
+2025-10,Health & Beauty,Northern,29,32,9026.87,3121.94,1
+2025-10,Health & Beauty,Southern,70,86,25150.35,8973.36,3
+2025-10,Health & Beauty,Western,20,23,6809.19,2511.45,0
+2025-10,Home & Kitchen,Central,61,78,42089.88,14250.3,1
+2025-10,Home & Kitchen,Copperbelt,105,129,77388.61,29903.71,2
+2025-10,Home & Kitchen,Eastern,33,38,22644.83,9120.19,0
+2025-10,Home & Kitchen,Luapula,22,27,17222.23,6709.23,1
+2025-10,Home & Kitchen,Lusaka,189,239,130397.98,49297.78,7
+2025-10,Home & Kitchen,Muchinga,7,9,4543.22,1485.56,0
+2025-10,Home & Kitchen,North-Western,31,36,28175.21,11735.68,0
+2025-10,Home & Kitchen,Northern,19,19,9104.5,3262.9,0
+2025-10,Home & Kitchen,Southern,47,62,33597.61,13588.61,1
+2025-10,Home & Kitchen,Western,20,26,11193.32,3345.75,0
+2025-10,Household,Central,66,142,12834.58,5065.2,1
+2025-10,Household,Copperbelt,151,365,32824.02,12115.36,3
+2025-10,Household,Eastern,45,95,8295.2,3118.24,0
+2025-10,Household,Luapula,22,46,4350.8,1584.85,0
+2025-10,Household,Lusaka,265,577,55977.01,21712.41,5
+2025-10,Household,Muchinga,11,21,1455.9,499.55,0
+2025-10,Household,North-Western,30,63,6373.03,2581.66,0
+2025-10,Household,Northern,26,56,5486.07,2080.85,0
+2025-10,Household,Southern,67,142,13191.23,5339.23,3
+2025-10,Household,Western,23,49,4035.53,1570.39,0
+2025-10,Stationery,Central,40,87,14881.8,5586.53,0
+2025-10,Stationery,Copperbelt,97,192,32724.67,11966.13,3
+2025-10,Stationery,Eastern,20,44,7630.83,2916.09,1
+2025-10,Stationery,Luapula,15,38,8294.9,2870.52,0
+2025-10,Stationery,Lusaka,174,374,58958.9,21111.45,1
+2025-10,Stationery,Muchinga,8,16,3408.94,1170.14,0
+2025-10,Stationery,North-Western,16,30,4826.16,1208.17,0
+2025-10,Stationery,Northern,22,48,6538.65,2443.82,1
+2025-10,Stationery,Southern,31,70,12397.96,4990.34,0
+2025-10,Stationery,Western,13,21,4008.79,1592.54,0
+2025-11,Baby & Kids,Central,38,80,19720.23,6986.84,0
+2025-11,Baby & Kids,Copperbelt,106,210,54142.55,19747.46,1
+2025-11,Baby & Kids,Eastern,23,40,10898.84,3732.63,1
+2025-11,Baby & Kids,Luapula,16,35,10071.82,3742.75,0
+2025-11,Baby & Kids,Lusaka,175,348,94507.22,32774.39,4
+2025-11,Baby & Kids,Muchinga,8,15,3984.66,1272.81,0
+2025-11,Baby & Kids,North-Western,24,58,15841.0,5902.79,0
+2025-11,Baby & Kids,Northern,27,63,17176.68,5783.78,0
+2025-11,Baby & Kids,Southern,38,87,22775.53,7990.31,1
+2025-11,Baby & Kids,Western,12,26,7830.0,2595.48,0
+2025-11,Electronics,Central,38,45,101861.83,35812.86,1
+2025-11,Electronics,Copperbelt,131,150,258600.07,87056.04,2
+2025-11,Electronics,Eastern,25,27,47031.58,16192.75,0
+2025-11,Electronics,Luapula,20,22,43886.66,16036.41,1
+2025-11,Electronics,Lusaka,191,210,404915.15,130906.52,3
+2025-11,Electronics,Muchinga,7,7,13216.92,4867.51,0
+2025-11,Electronics,North-Western,26,28,60612.32,20679.44,1
+2025-11,Electronics,Northern,29,32,44890.27,17103.73,0
+2025-11,Electronics,Southern,53,58,91131.55,27733.58,1
+2025-11,Electronics,Western,16,18,29102.25,10572.95,0
+2025-11,Fashion,Central,45,59,31770.87,13406.3,1
+2025-11,Fashion,Copperbelt,107,143,81787.61,35765.51,2
+2025-11,Fashion,Eastern,24,30,17998.79,7856.99,2
+2025-11,Fashion,Luapula,16,18,9396.27,3979.8,0
+2025-11,Fashion,Lusaka,186,243,130125.8,54613.31,6
+2025-11,Fashion,Muchinga,9,10,5676.41,2492.45,1
+2025-11,Fashion,North-Western,20,25,14036.41,5944.02,0
+2025-11,Fashion,Northern,20,26,16514.13,7642.77,1
+2025-11,Fashion,Southern,42,55,34320.1,14303.36,2
+2025-11,Fashion,Western,21,23,14793.55,6514.81,1
+2025-11,Groceries,Central,122,349,40368.13,15323.45,4
+2025-11,Groceries,Copperbelt,301,822,98016.58,38935.14,6
+2025-11,Groceries,Eastern,75,198,19131.07,7287.83,0
+2025-11,Groceries,Luapula,35,95,13369.34,5521.46,0
+2025-11,Groceries,Lusaka,535,1385,170201.02,68200.35,11
+2025-11,Groceries,Muchinga,14,45,3735.77,1418.73,0
+2025-11,Groceries,North-Western,51,138,16875.66,6439.67,1
+2025-11,Groceries,Northern,42,107,12897.53,5314.38,1
+2025-11,Groceries,Southern,123,300,35649.21,14184.0,1
+2025-11,Groceries,Western,34,86,9242.46,3427.21,1
+2025-11,Health & Beauty,Central,60,77,20696.52,7058.99,1
+2025-11,Health & Beauty,Copperbelt,143,184,49768.61,17927.86,5
+2025-11,Health & Beauty,Eastern,47,58,16128.36,5963.44,1
+2025-11,Health & Beauty,Luapula,19,24,8407.79,2641.7,0
+2025-11,Health & Beauty,Lusaka,277,389,116486.38,42383.93,10
+2025-11,Health & Beauty,Muchinga,11,13,5919.41,1864.22,0
+2025-11,Health & Beauty,North-Western,29,33,8528.29,2993.59,0
+2025-11,Health & Beauty,Northern,22,30,7966.56,2990.85,0
+2025-11,Health & Beauty,Southern,56,65,20975.71,7973.04,0
+2025-11,Health & Beauty,Western,22,32,8587.65,3161.96,1
+2025-11,Home & Kitchen,Central,41,51,28639.32,11296.33,0
+2025-11,Home & Kitchen,Copperbelt,134,179,92128.32,34412.3,2
+2025-11,Home & Kitchen,Eastern,38,45,22200.69,7979.61,0
+2025-11,Home & Kitchen,Luapula,16,21,13185.41,5023.28,0
+2025-11,Home & Kitchen,Lusaka,215,276,160360.92,59115.16,3
+2025-11,Home & Kitchen,Muchinga,12,13,7893.46,3371.42,0
+2025-11,Home & Kitchen,North-Western,26,32,17684.01,6707.35,1
+2025-11,Home & Kitchen,Northern,19,26,14087.71,5220.96,0
+2025-11,Home & Kitchen,Southern,59,75,39469.83,14071.78,1
+2025-11,Home & Kitchen,Western,15,21,13478.17,4903.62,0
+2025-11,Household,Central,62,149,14544.84,5696.67,1
+2025-11,Household,Copperbelt,163,365,30785.51,11499.37,3
+2025-11,Household,Eastern,37,95,8183.56,3296.21,1
+2025-11,Household,Luapula,29,60,4899.15,1597.34,0
+2025-11,Household,Lusaka,313,669,59631.99,22698.07,8
+2025-11,Household,Muchinga,9,26,2552.17,971.63,0
+2025-11,Household,North-Western,35,87,7524.48,2718.94,1
+2025-11,Household,Northern,31,62,5881.83,2227.11,0
+2025-11,Household,Southern,70,165,14179.77,5297.13,1
+2025-11,Household,Western,26,58,5263.82,2057.23,0
+2025-11,Stationery,Central,54,101,19214.5,5889.34,2
+2025-11,Stationery,Copperbelt,105,240,47744.26,17426.55,1
+2025-11,Stationery,Eastern,34,65,9477.94,3494.26,1
+2025-11,Stationery,Luapula,17,31,5594.94,1947.2,0
+2025-11,Stationery,Lusaka,193,430,76918.13,29034.21,4
+2025-11,Stationery,Muchinga,7,17,2307.59,901.02,0
+2025-11,Stationery,North-Western,21,43,8355.88,3186.42,0
+2025-11,Stationery,Northern,17,37,4072.71,1550.22,0
+2025-11,Stationery,Southern,50,100,17549.41,6739.51,1
+2025-11,Stationery,Western,12,24,1812.39,397.37,0
+2025-12,Baby & Kids,Central,46,103,25103.42,9514.84,0
+2025-12,Baby & Kids,Copperbelt,103,227,59605.06,20035.81,3
+2025-12,Baby & Kids,Eastern,33,63,14992.02,5587.47,0
+2025-12,Baby & Kids,Luapula,16,37,10796.64,3703.84,1
+2025-12,Baby & Kids,Lusaka,191,396,105570.33,34970.07,0
+2025-12,Baby & Kids,Muchinga,13,19,4430.89,1311.06,0
+2025-12,Baby & Kids,North-Western,27,55,16424.67,5744.18,0
+2025-12,Baby & Kids,Northern,21,40,8667.68,2634.51,0
+2025-12,Baby & Kids,Southern,47,107,30493.89,10070.42,1
+2025-12,Baby & Kids,Western,14,33,9385.27,2936.89,0
+2025-12,Electronics,Central,81,100,177373.59,60350.17,0
+2025-12,Electronics,Copperbelt,230,289,473661.4,159575.4,3
+2025-12,Electronics,Eastern,44,53,100222.72,33439.72,0
+2025-12,Electronics,Luapula,33,39,57128.75,18916.67,1
+2025-12,Electronics,Lusaka,312,364,582328.33,202531.45,4
+2025-12,Electronics,Muchinga,15,18,23636.78,7585.23,0
+2025-12,Electronics,North-Western,50,59,143269.63,46322.94,1
+2025-12,Electronics,Northern,40,47,119232.84,40200.8,0
+2025-12,Electronics,Southern,87,100,186458.77,60106.86,1
+2025-12,Electronics,Western,25,29,65219.97,22644.04,1
+2025-12,Fashion,Central,71,90,55078.21,23395.12,2
+2025-12,Fashion,Copperbelt,176,219,118588.39,50104.81,4
+2025-12,Fashion,Eastern,62,76,40093.89,16949.68,3
+2025-12,Fashion,Luapula,32,43,24644.13,10625.43,1
+2025-12,Fashion,Lusaka,297,383,221246.74,95583.45,5
+2025-12,Fashion,Muchinga,13,20,11894.58,5156.15,1
+2025-12,Fashion,North-Western,58,71,41303.9,18023.45,1
+2025-12,Fashion,Northern,32,42,15609.54,6246.93,0
+2025-12,Fashion,Southern,83,109,60073.3,25596.32,2
+2025-12,Fashion,Western,22,35,18689.68,7806.3,0
+2025-12,Groceries,Central,135,361,39290.2,14387.26,1
+2025-12,Groceries,Copperbelt,334,843,99885.4,40455.17,0
+2025-12,Groceries,Eastern,95,289,33250.19,13287.01,0
+2025-12,Groceries,Luapula,53,126,10632.18,4060.53,1
+2025-12,Groceries,Lusaka,573,1439,176626.98,70340.58,8
+2025-12,Groceries,Muchinga,26,68,7716.31,3038.12,0
+2025-12,Groceries,North-Western,78,161,16703.84,6446.62,0
+2025-12,Groceries,Northern,55,147,16116.46,6037.62,0
+2025-12,Groceries,Southern,148,388,49381.56,19314.54,3
+2025-12,Groceries,Western,52,130,17243.0,7544.36,1
+2025-12,Health & Beauty,Central,72,96,30250.97,11335.83,0
+2025-12,Health & Beauty,Copperbelt,169,200,59948.57,21612.9,4
+2025-12,Health & Beauty,Eastern,35,42,14106.69,5038.22,0
+2025-12,Health & Beauty,Luapula,22,25,7412.12,2694.98,0
+2025-12,Health & Beauty,Lusaka,278,349,106512.16,38578.99,4
+2025-12,Health & Beauty,Muchinga,9,13,3278.27,1218.62,0
+2025-12,Health & Beauty,North-Western,51,60,15560.16,5799.24,0
+2025-12,Health & Beauty,Northern,37,49,15926.83,6372.79,1
+2025-12,Health & Beauty,Southern,77,102,31211.83,11316.37,0
+2025-12,Health & Beauty,Western,30,39,11432.01,4149.4,0
+2025-12,Home & Kitchen,Central,64,87,49854.93,18255.01,0
+2025-12,Home & Kitchen,Copperbelt,162,203,116467.96,43953.22,3
+2025-12,Home & Kitchen,Eastern,52,69,34990.38,12892.32,3
+2025-12,Home & Kitchen,Luapula,23,29,13654.84,4305.84,0
+2025-12,Home & Kitchen,Lusaka,316,414,228188.68,85222.42,5
+2025-12,Home & Kitchen,Muchinga,15,17,8583.96,3257.09,0
+2025-12,Home & Kitchen,North-Western,41,50,32548.24,12049.79,2
+2025-12,Home & Kitchen,Northern,29,39,20430.69,7674.69,0
+2025-12,Home & Kitchen,Southern,102,124,79818.75,30401.4,2
+2025-12,Home & Kitchen,Western,27,34,16920.54,5635.87,0
+2025-12,Household,Central,79,166,15255.2,5785.97,0
+2025-12,Household,Copperbelt,175,395,37659.18,14855.2,1
+2025-12,Household,Eastern,65,125,11513.64,4422.41,2
+2025-12,Household,Luapula,29,66,5938.14,2502.29,0
+2025-12,Household,Lusaka,350,757,72598.5,26839.58,4
+2025-12,Household,Muchinga,21,48,3667.54,1409.59,0
+2025-12,Household,North-Western,49,92,8520.77,3354.4,2
+2025-12,Household,Northern,29,61,5396.82,2066.79,0
+2025-12,Household,Southern,77,171,15491.15,5692.29,1
+2025-12,Household,Western,30,62,4896.8,1842.94,0
+2025-12,Stationery,Central,38,85,16684.99,5951.81,0
+2025-12,Stationery,Copperbelt,115,231,41203.28,14980.44,1
+2025-12,Stationery,Eastern,29,61,12219.42,4648.37,0
+2025-12,Stationery,Luapula,19,39,8736.02,3065.46,0
+2025-12,Stationery,Lusaka,201,440,84529.2,32460.17,2
+2025-12,Stationery,Muchinga,7,11,1579.86,616.38,0
+2025-12,Stationery,North-Western,38,78,13993.84,5662.27,0
+2025-12,Stationery,Northern,20,43,6374.3,2378.54,0
+2025-12,Stationery,Southern,55,105,19590.86,7300.76,0
+2025-12,Stationery,Western,26,63,10497.89,3784.91,0

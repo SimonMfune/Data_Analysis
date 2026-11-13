@@ -1,0 +1,93 @@
+{
+  "seed": 2026,
+  "ch03_kb_raw_transactions": {
+    "province_variants_rows": 276,
+    "category_variants_rows": 162,
+    "name_whitespace_or_case_rows": 239,
+    "price_as_text_rows": 606,
+    "payment_variants_rows": 132,
+    "exact_duplicate_rows": 60,
+    "rows_including_duplicates": 2500
+  },
+  "ch06_kb_orders_messy": {
+    "clean_rows": 8000,
+    "date_formats": {
+      "YYYY-MM-DD HH:MM:SS": 4837,
+      "DD/MM/YYYY": 1968,
+      "DD Mon YYYY": 1195
+    },
+    "province_variant_rows": 833,
+    "total_as_text_rows": 1628,
+    "phone_formats": {
+      "intl": 4312,
+      "local": 2057,
+      "spaced": 982,
+      "nozero": 649
+    },
+    "missing_values_planted": {
+      "channel": 251,
+      "delivery_fee_zmw": 119,
+      "province": 90,
+      "customer_phone": 166
+    },
+    "negative_items_rows": [
+      "KB100600",
+      "KB101832",
+      "KB103561",
+      "KB103804",
+      "KB104714",
+      "KB109159",
+      "KB114633",
+      "KB118274",
+      "KB119846",
+      "KB122710",
+      "KB129771",
+      "KB132149",
+      "KB132727",
+      "KB133157",
+      "KB133954",
+      "KB134494",
+      "KB134856",
+      "KB144903",
+      "KB151211",
+      "KB151586",
+      "KB153662",
+      "KB155674",
+      "KB157147",
+      "KB157686",
+      "KB161810"
+    ],
+    "decimal_shift_subtotal_x100_orders": [
+      "KB113385",
+      "KB131301",
+      "KB134376",
+      "KB134840",
+      "KB142409"
+    ],
+    "exact_duplicates": 150,
+    "near_duplicates_channel_upper_and_trailing_space_in_customer_id": 40,
+    "rows_in_file": 8190
+  },
+  "ch10_campaign_ab": {
+    "conversion_whatsapp": 0.0676,
+    "conversion_sms": 0.0518,
+    "chi2_p_value": 0.0009
+  },
+  "ch10_fraud_flag": {
+    "base_rate": 0.0044,
+    "sensitivity": 0.923,
+    "false_positive_rate": 0.0238,
+    "P_fraud_given_flag": 0.146
+  },
+  "ch12_churn": {
+    "rows": 2525,
+    "churn_rate": 0.204,
+    "snapshot": "2025-09-30",
+    "outcome_window_days": 90
+  },
+  "unseen": {
+    "fintech_loans.csv": "comma, UTF-8, missing income/purpose",
+    "clinic_visits.csv": "semicolon delimiter, DD/MM/YYYY dates",
+    "marketing_leads.csv": "Latin-1 encoding (accented campaign names)"
+  }
+}

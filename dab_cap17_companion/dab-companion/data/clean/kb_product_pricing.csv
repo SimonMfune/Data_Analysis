@@ -1,0 +1,601 @@
+product_id,product_name,category,subcategory,brand,brand_tier,supplier_country,imported_flag,weight_kg,unit_cost_zmw,list_price_zmw
+P0001,Mutanda Basics Sugar 1.8kg,Groceries,Sugar,Mutanda Basics,Value,Tanzania,1,1.76,41.27,72.0
+P0002,Mopane Co. Mealie Meal 22.3kg,Groceries,Mealie Meal,Mopane Co.,Standard,China,1,22.29,122.96,279.5
+P0003,Baobab Everyday Snacks 380g,Groceries,Snacks,Baobab Everyday,Value,South Africa,1,0.38,8.0,9.0
+P0004,Mukuba Everyday Mealie Meal 23.7kg,Groceries,Mealie Meal,Mukuba Everyday,Value,Zambia,0,23.72,90.94,208.0
+P0005,Mulungushi Home Canned Foods 540g,Groceries,Canned Foods,Mulungushi Home,Standard,Zambia,0,0.54,25.96,58.0
+P0006,Chilenje Home Rice 9.6kg,Groceries,Rice,Chilenje Home,Standard,Zambia,0,9.62,69.95,130.99
+P0007,Mopane Everyday Cooking Oil 3.5kg,Groceries,Cooking Oil,Mopane Everyday,Value,Tanzania,1,3.51,101.65,137.0
+P0008,Baobab Plus Beverages 2.8kg,Groceries,Beverages,Baobab Plus,Standard,China,1,2.76,34.14,61.99
+P0009,Kalambo Choice Kapenta & Fish 1.8kg,Groceries,Kapenta & Fish,Kalambo Choice,Value,China,1,1.84,94.19,143.0
+P0010,Nsefu Basics Kapenta & Fish 1.1kg,Groceries,Kapenta & Fish,Nsefu Basics,Value,China,1,1.14,106.16,119.0
+P0011,Mutanda Co. Canned Foods 690g,Groceries,Canned Foods,Mutanda Co.,Standard,Zambia,0,0.69,22.41,34.99
+P0012,Kasanka Basics Sugar 1.2kg,Groceries,Sugar,Kasanka Basics,Value,Zambia,0,1.22,61.27,97.99
+P0013,Chilenje Basics Snacks 470g,Groceries,Snacks,Chilenje Basics,Value,Tanzania,1,0.47,9.12,10.5
+P0014,Copperline Choice Kapenta & Fish 1.8kg,Groceries,Kapenta & Fish,Copperline Choice,Value,Zambia,0,1.81,62.03,77.0
+P0015,Bangweulu Everyday Sugar 2.0kg,Groceries,Sugar,Bangweulu Everyday,Value,China,1,2.04,35.13,66.99
+P0016,Lozi Prestige Rice 4.9kg,Groceries,Rice,Lozi Prestige,Premium,Zambia,0,4.88,66.6,111.0
+P0017,Kariba Everyday Beverages 1.3kg,Groceries,Beverages,Kariba Everyday,Value,Zambia,0,1.3,35.58,57.99
+P0018,Luangwa Choice Cooking Oil 3.1kg,Groceries,Cooking Oil,Luangwa Choice,Value,South Africa,1,3.1,52.7,93.5
+P0019,Msasa Co. Rice 9.0kg,Groceries,Rice,Msasa Co.,Standard,Tanzania,1,9.04,88.28,142.99
+P0020,Copperline Select Canned Foods 940g,Groceries,Canned Foods,Copperline Select,Premium,India,1,0.94,38.16,58.0
+P0021,Nsefu Everyday Canned Foods 840g,Groceries,Canned Foods,Nsefu Everyday,Value,Zambia,0,0.84,15.78,16.5
+P0022,Nsefu Home Cooking Oil 4.1kg,Groceries,Cooking Oil,Nsefu Home,Standard,Zambia,0,4.13,146.52,186.0
+P0023,Baobab Home Canned Foods 980g,Groceries,Canned Foods,Baobab Home,Standard,United Arab Emirates,1,0.98,41.73,57.0
+P0024,Kafue Everyday Cooking Oil 2.0kg,Groceries,Cooking Oil,Kafue Everyday,Value,China,1,1.99,67.72,134.0
+P0025,Kalambo Basics Beverages 2.6kg,Groceries,Beverages,Kalambo Basics,Value,South Africa,1,2.58,75.04,112.5
+P0026,Tanganyika Everyday Beverages 2.4kg,Groceries,Beverages,Tanganyika Everyday,Value,South Africa,1,2.35,12.0,21.99
+P0027,Lunsemfwa Home Mealie Meal 10.1kg,Groceries,Mealie Meal,Lunsemfwa Home,Standard,Zambia,0,10.09,165.16,228.99
+P0028,Nsefu Everyday Beverages 710g,Groceries,Beverages,Nsefu Everyday,Value,Zambia,0,0.71,30.27,49.99
+P0029,Mutanda Home Kapenta & Fish 940g,Groceries,Kapenta & Fish,Mutanda Home,Standard,Tanzania,1,0.94,88.85,201.0
+P0030,Kabulonga Everyday Beverages 820g,Groceries,Beverages,Kabulonga Everyday,Value,Zambia,0,0.82,47.17,73.5
+P0031,Kwacha Co. Canned Foods 810g,Groceries,Canned Foods,Kwacha Co.,Standard,China,1,0.81,33.99,43.0
+P0032,Tonga Select Canned Foods 560g,Groceries,Canned Foods,Tonga Select,Premium,South Africa,1,0.56,34.39,63.0
+P0033,Bangweulu Basics Beverages 2.0kg,Groceries,Beverages,Bangweulu Basics,Value,Zambia,0,1.99,25.85,39.0
+P0034,Mulungushi Select Cooking Oil 2.1kg,Groceries,Cooking Oil,Mulungushi Select,Premium,Zambia,0,2.07,141.38,266.99
+P0035,Chilenje Prestige Rice 2.9kg,Groceries,Rice,Chilenje Prestige,Premium,China,1,2.94,120.64,227.99
+P0036,Mweru Home Snacks 240g,Groceries,Snacks,Mweru Home,Standard,Zambia,0,0.24,37.55,74.99
+P0037,Kwacha Home Mealie Meal 11.7kg,Groceries,Mealie Meal,Kwacha Home,Standard,Zambia,0,11.67,174.48,353.5
+P0038,Bangweulu Home Rice 8.7kg,Groceries,Rice,Bangweulu Home,Standard,Zambia,0,8.73,64.5,127.5
+P0039,Tonga Home Kapenta & Fish 1.8kg,Groceries,Kapenta & Fish,Tonga Home,Standard,Zambia,0,1.84,104.88,160.99
+P0040,Lozi Home Sugar 6.3kg,Groceries,Sugar,Lozi Home,Standard,Tanzania,1,6.29,68.74,127.5
+P0041,Mulungushi Home Cooking Oil 2.6kg,Groceries,Cooking Oil,Mulungushi Home,Standard,China,1,2.63,47.45,80.99
+P0042,Kafue Choice Snacks 410g,Groceries,Snacks,Kafue Choice,Value,China,1,0.41,27.56,38.0
+P0043,Chilenje Select Kapenta & Fish 860g,Groceries,Kapenta & Fish,Chilenje Select,Premium,South Africa,1,0.86,100.05,137.5
+P0044,Chilenje Everyday Beverages 640g,Groceries,Beverages,Chilenje Everyday,Value,China,1,0.64,50.6,80.99
+P0045,Bangweulu Co. Rice 8.9kg,Groceries,Rice,Bangweulu Co.,Standard,Zambia,0,8.9,85.36,143.0
+P0046,Lozi Co. Kapenta & Fish 1.9kg,Groceries,Kapenta & Fish,Lozi Co.,Standard,Zambia,0,1.89,87.15,114.0
+P0047,Lozi Gold Cooking Oil 4.7kg,Groceries,Cooking Oil,Lozi Gold,Premium,Kenya,1,4.67,131.95,260.0
+P0048,Chilenje Gold Kapenta & Fish 920g,Groceries,Kapenta & Fish,Chilenje Gold,Premium,South Africa,1,0.92,106.02,127.0
+P0049,Tanganyika Plus Canned Foods 720g,Groceries,Canned Foods,Tanganyika Plus,Standard,Zambia,0,0.72,24.39,26.99
+P0050,Msasa Select Rice 7.9kg,Groceries,Rice,Msasa Select,Premium,Zambia,0,7.88,81.5,156.0
+P0051,Mweru Choice Rice 6.2kg,Groceries,Rice,Mweru Choice,Value,Tanzania,1,6.2,57.65,108.5
+P0052,Kwacha Home Beverages 740g,Groceries,Beverages,Kwacha Home,Standard,South Africa,1,0.74,61.43,79.99
+P0053,Chisamba Co. Rice 6.8kg,Groceries,Rice,Chisamba Co.,Standard,China,1,6.76,43.28,88.0
+P0054,Lozi Co. Rice 1.8kg,Groceries,Rice,Lozi Co.,Standard,Zambia,0,1.8,107.9,187.0
+P0055,Msasa Everyday Snacks 130g,Groceries,Snacks,Msasa Everyday,Value,South Africa,1,0.13,13.37,20.5
+P0056,Mopane Plus Snacks 200g,Groceries,Snacks,Mopane Plus,Standard,South Africa,1,0.2,13.99,24.0
+P0057,Kariba Co. Canned Foods 860g,Groceries,Canned Foods,Kariba Co.,Standard,Zambia,0,0.86,51.07,79.99
+P0058,Kasanka Basics Snacks 300g,Groceries,Snacks,Kasanka Basics,Value,Zambia,0,0.3,10.89,11.99
+P0059,Tanganyika Co. Canned Foods 820g,Groceries,Canned Foods,Tanganyika Co.,Standard,Zambia,0,0.82,28.04,41.99
+P0060,Chilenje Select Rice 10.0kg,Groceries,Rice,Chilenje Select,Premium,China,1,9.99,107.22,211.0
+P0061,Kasanka Plus Beverages 630g,Groceries,Beverages,Kasanka Plus,Standard,China,1,0.63,48.61,87.0
+P0062,Copperline Basics Cooking Oil 1.2kg,Groceries,Cooking Oil,Copperline Basics,Value,Kenya,1,1.24,99.65,116.0
+P0063,Mopane Plus Cooking Oil 2.6kg,Groceries,Cooking Oil,Mopane Plus,Standard,Zambia,0,2.56,66.55,109.0
+P0064,Mutanda Home Snacks 240g,Groceries,Snacks,Mutanda Home,Standard,Zambia,0,0.24,21.87,22.99
+P0065,Lozi Home Mealie Meal 21.7kg,Groceries,Mealie Meal,Lozi Home,Standard,Zambia,0,21.71,97.73,216.0
+P0066,Tonga Plus Cooking Oil 4.4kg,Groceries,Cooking Oil,Tonga Plus,Standard,Zambia,0,4.45,81.75,175.5
+P0067,Baobab Choice Kapenta & Fish 1.8kg,Groceries,Kapenta & Fish,Baobab Choice,Value,China,1,1.79,96.86,140.99
+P0068,Copperline Basics Kapenta & Fish 1.9kg,Groceries,Kapenta & Fish,Copperline Basics,Value,China,1,1.91,45.74,59.0
+P0069,Tanganyika Gold Cooking Oil 3.4kg,Groceries,Cooking Oil,Tanganyika Gold,Premium,South Africa,1,3.37,160.0,324.0
+P0070,Savanna Plus Snacks 220g,Groceries,Snacks,Savanna Plus,Standard,Tanzania,1,0.22,15.11,32.99
+P0071,Bangweulu Home Rice 9.7kg,Groceries,Rice,Bangweulu Home,Standard,Zambia,0,9.67,102.33,170.0
+P0072,Kwacha Basics Kapenta & Fish 1.3kg,Groceries,Kapenta & Fish,Kwacha Basics,Value,India,1,1.32,43.77,59.0
+P0073,Chilenje Plus Snacks 310g,Groceries,Snacks,Chilenje Plus,Standard,South Africa,1,0.31,20.25,24.5
+P0074,Mopane Basics Kapenta & Fish 950g,Groceries,Kapenta & Fish,Mopane Basics,Value,South Africa,1,0.95,87.5,91.99
+P0075,Mukuba Gold Snacks 360g,Groceries,Snacks,Mukuba Gold,Premium,India,1,0.36,37.57,49.0
+P0076,Baobab Choice Kapenta & Fish 1.6kg,Groceries,Kapenta & Fish,Baobab Choice,Value,Zambia,0,1.55,40.0,70.0
+P0077,Msasa Basics Rice 8.9kg,Groceries,Rice,Msasa Basics,Value,Tanzania,1,8.92,97.28,156.99
+P0078,Lunsemfwa Everyday Sugar 2.9kg,Groceries,Sugar,Lunsemfwa Everyday,Value,Zambia,0,2.87,62.94,99.0
+P0079,Savanna Select Canned Foods 480g,Groceries,Canned Foods,Savanna Select,Premium,Zambia,0,0.48,41.83,68.99
+P0080,Lozi Everyday Snacks 470g,Groceries,Snacks,Lozi Everyday,Value,China,1,0.47,27.68,29.0
+P0081,Msasa Basics Beverages 1.6kg,Groceries,Beverages,Msasa Basics,Value,India,1,1.62,45.47,48.0
+P0082,Mulungushi Everyday Beverages 2.6kg,Groceries,Beverages,Mulungushi Everyday,Value,South Africa,1,2.6,13.1,32.0
+P0083,Mosi Plus Kapenta & Fish 580g,Groceries,Kapenta & Fish,Mosi Plus,Standard,South Africa,1,0.58,105.78,164.99
+P0084,Kafue Basics Sugar 2.6kg,Groceries,Sugar,Kafue Basics,Value,Zambia,0,2.57,48.35,66.0
+P0085,Ngoma Co. Snacks 240g,Groceries,Snacks,Ngoma Co.,Standard,China,1,0.24,23.82,25.5
+P0086,Tanganyika Everyday Rice 4.9kg,Groceries,Rice,Tanganyika Everyday,Value,China,1,4.86,55.29,73.0
+P0087,Sunrise Co. Kapenta & Fish 1.2kg,Groceries,Kapenta & Fish,Sunrise Co.,Standard,Zambia,0,1.24,132.68,159.5
+P0088,Msasa Everyday Kapenta & Fish 900g,Groceries,Kapenta & Fish,Msasa Everyday,Value,Zambia,0,0.9,79.69,83.0
+P0089,Copperline Co. Canned Foods 820g,Groceries,Canned Foods,Copperline Co.,Standard,Zambia,0,0.82,18.45,35.0
+P0090,Mulungushi Choice Cooking Oil 1.7kg,Groceries,Cooking Oil,Mulungushi Choice,Value,China,1,1.68,107.16,113.5
+P0091,Mukuba Home Sugar 2.9kg,Groceries,Sugar,Mukuba Home,Standard,Zambia,0,2.9,73.58,94.5
+P0092,Chisamba Prestige Rice 7.8kg,Groceries,Rice,Chisamba Prestige,Premium,South Africa,1,7.78,84.22,156.0
+P0093,Baobab Choice Sugar 1.9kg,Groceries,Sugar,Baobab Choice,Value,Zambia,0,1.95,44.28,61.0
+P0094,Mweru Co. Beverages 2.9kg,Groceries,Beverages,Mweru Co.,Standard,South Africa,1,2.89,46.11,77.0
+P0095,Mopane Basics Rice 8.5kg,Groceries,Rice,Mopane Basics,Value,China,1,8.48,62.23,116.0
+P0096,Chisamba Choice Beverages 2.4kg,Groceries,Beverages,Chisamba Choice,Value,United Arab Emirates,1,2.44,38.26,88.99
+P0097,Mopane Plus Snacks 470g,Groceries,Snacks,Mopane Plus,Standard,Zambia,0,0.47,41.49,60.99
+P0098,Copperline Select Rice 5.6kg,Groceries,Rice,Copperline Select,Premium,China,1,5.63,113.65,182.0
+P0099,Mukuba Select Rice 4.6kg,Groceries,Rice,Mukuba Select,Premium,Zambia,0,4.64,99.77,169.99
+P0100,Kasanka Basics Rice 6.8kg,Groceries,Rice,Kasanka Basics,Value,Zambia,0,6.77,74.07,136.99
+P0101,Baobab Choice Beverages 1.3kg,Groceries,Beverages,Baobab Choice,Value,Zambia,0,1.34,43.6,53.5
+P0102,Kariba Prestige Rice 9.3kg,Groceries,Rice,Kariba Prestige,Premium,South Africa,1,9.3,89.39,181.0
+P0103,Mopane Co. Snacks 210g,Groceries,Snacks,Mopane Co.,Standard,China,1,0.21,20.79,31.99
+P0104,Savanna Gold Snacks 320g,Groceries,Snacks,Savanna Gold,Premium,Zambia,0,0.32,25.99,35.99
+P0105,Luangwa Co. Cooking Oil 3.0kg,Groceries,Cooking Oil,Luangwa Co.,Standard,South Africa,1,3.03,83.83,137.5
+P0106,Luangwa Everyday Beverages 1.1kg,Groceries,Beverages,Luangwa Everyday,Value,Tanzania,1,1.09,15.71,22.99
+P0107,Sunrise Home Sugar 7.9kg,Groceries,Sugar,Sunrise Home,Standard,Zambia,0,7.91,74.73,106.0
+P0108,Ngoma Select Mealie Meal 21.3kg,Groceries,Mealie Meal,Ngoma Select,Premium,Zambia,0,21.34,187.63,358.0
+P0109,Msasa Co. Sugar 9.2kg,Groceries,Sugar,Msasa Co.,Standard,Tanzania,1,9.21,47.44,105.0
+P0110,Sunrise Choice Mealie Meal 23.3kg,Groceries,Mealie Meal,Sunrise Choice,Value,Zambia,0,23.27,166.15,297.99
+P0111,Lunsemfwa Co. Mealie Meal 10.9kg,Groceries,Mealie Meal,Lunsemfwa Co.,Standard,Zambia,0,10.92,162.49,347.0
+P0112,Zambezi Co. Beverages 1.4kg,Groceries,Beverages,Zambezi Co.,Standard,Zambia,0,1.35,70.45,89.99
+P0113,Luangwa Gold Snacks 460g,Groceries,Snacks,Luangwa Gold,Premium,China,1,0.46,32.82,38.0
+P0114,Zambezi Choice Sugar 9.1kg,Groceries,Sugar,Zambezi Choice,Value,Zambia,0,9.11,68.67,142.0
+P0115,Kafue Choice Sugar 1.5kg,Groceries,Sugar,Kafue Choice,Value,Zambia,0,1.5,58.52,80.99
+P0116,Baobab Everyday Sugar 1.2kg,Groceries,Sugar,Baobab Everyday,Value,South Africa,1,1.24,33.35,59.0
+P0117,Kabulonga Select Sugar 8.5kg,Groceries,Sugar,Kabulonga Select,Premium,Kenya,1,8.47,66.07,139.0
+P0118,Sunrise Plus Kapenta & Fish 1.2kg,Groceries,Kapenta & Fish,Sunrise Plus,Standard,Zambia,0,1.19,158.76,232.0
+P0119,Kafue Home Rice 3.1kg,Groceries,Rice,Kafue Home,Standard,Zambia,0,3.06,51.78,90.5
+P0120,Ngoma Select Beverages 2.7kg,Groceries,Beverages,Ngoma Select,Premium,Zambia,0,2.65,34.75,50.0
+P0121,Mutanda Select Mealie Meal 20.2kg,Groceries,Mealie Meal,Mutanda Select,Premium,India,1,20.2,171.63,311.99
+P0122,Zambezi Co. Snacks 210g,Groceries,Snacks,Zambezi Co.,Standard,Zambia,0,0.21,16.8,26.0
+P0123,Mutanda Home Cooking Oil 4.3kg,Groceries,Cooking Oil,Mutanda Home,Standard,Tanzania,1,4.31,64.55,106.0
+P0124,Zambezi Basics Cooking Oil 4.1kg,Groceries,Cooking Oil,Zambezi Basics,Value,China,1,4.09,78.6,133.0
+P0125,Nsefu Choice Beverages 2.4kg,Groceries,Beverages,Nsefu Choice,Value,Zambia,0,2.38,60.48,94.0
+P0126,Lunsemfwa Plus Snacks 370g,Groceries,Snacks,Lunsemfwa Plus,Standard,China,1,0.37,27.64,40.99
+P0127,Nsefu Everyday Sugar 7.7kg,Groceries,Sugar,Nsefu Everyday,Value,Zambia,0,7.66,89.3,104.0
+P0128,Mopane Choice Snacks 390g,Groceries,Snacks,Mopane Choice,Value,China,1,0.39,24.78,38.0
+P0129,Kasanka Home Canned Foods 560g,Groceries,Canned Foods,Kasanka Home,Standard,Zambia,0,0.56,31.44,41.99
+P0130,Msasa Plus Kapenta & Fish 2.0kg,Groceries,Kapenta & Fish,Msasa Plus,Standard,Zambia,0,2.0,52.92,73.99
+P0131,Kwacha Prestige Cooking Oil 2.7kg,Groceries,Cooking Oil,Kwacha Prestige,Premium,China,1,2.74,107.61,146.0
+P0132,Mosi Gold Rice 7.3kg,Groceries,Rice,Mosi Gold,Premium,Zambia,0,7.25,111.06,172.0
+P0133,Bangweulu Home Snacks 110g,Groceries,Snacks,Bangweulu Home,Standard,South Africa,1,0.11,21.82,30.5
+P0134,Mulungushi Home Sugar 4.6kg,Groceries,Sugar,Mulungushi Home,Standard,Zambia,0,4.58,72.45,102.99
+P0135,Kalambo Co. Cooking Oil 4.2kg,Groceries,Cooking Oil,Kalambo Co.,Standard,South Africa,1,4.24,106.13,190.99
+P0136,Luangwa Plus Kapenta & Fish 550g,Groceries,Kapenta & Fish,Luangwa Plus,Standard,Zambia,0,0.55,97.85,125.0
+P0137,Copperline Plus Rice 8.7kg,Groceries,Rice,Copperline Plus,Standard,Zambia,0,8.67,55.7,81.0
+P0138,Sunrise Home Sugar 7.9kg,Groceries,Sugar,Sunrise Home,Standard,Kenya,1,7.92,37.55,80.5
+P0139,Mukuba Everyday Rice 7.7kg,Groceries,Rice,Mukuba Everyday,Value,Zambia,0,7.66,62.13,137.99
+P0140,Chisamba Choice Sugar 8.2kg,Groceries,Sugar,Chisamba Choice,Value,Zambia,0,8.2,70.29,113.0
+P0141,Kariba Co. Sugar 8.3kg,Groceries,Sugar,Kariba Co.,Standard,Zambia,0,8.26,34.46,97.0
+P0142,Mukuba Choice Mealie Meal 12.8kg,Groceries,Mealie Meal,Mukuba Choice,Value,Zambia,0,12.78,179.49,311.5
+P0143,Kasanka Everyday Snacks 170g,Groceries,Snacks,Kasanka Everyday,Value,Zambia,0,0.17,37.14,47.99
+P0144,Tanganyika Plus Cooking Oil 2.7kg,Groceries,Cooking Oil,Tanganyika Plus,Standard,Tanzania,1,2.67,79.9,148.99
+P0145,Luangwa Prestige Beverages 2.9kg,Groceries,Beverages,Luangwa Prestige,Premium,Zambia,0,2.85,82.42,127.99
+P0146,Nsefu Co. Snacks 230g,Groceries,Snacks,Nsefu Co.,Standard,South Africa,1,0.23,21.19,47.0
+P0147,Ngoma Everyday Canned Foods 620g,Groceries,Canned Foods,Ngoma Everyday,Value,Zambia,0,0.62,26.58,27.0
+P0148,Msasa Home Sugar 4.1kg,Groceries,Sugar,Msasa Home,Standard,Zambia,0,4.14,73.26,102.0
+P0149,Lozi Home Beverages 850g,Groceries,Beverages,Lozi Home,Standard,Zambia,0,0.85,50.1,52.0
+P0150,Mosi Co. Beverages 680g,Groceries,Beverages,Mosi Co.,Standard,Kenya,1,0.68,19.72,21.99
+P0151,Mopane Select Mealie Meal 16.8kg,Groceries,Mealie Meal,Mopane Select,Premium,South Africa,1,16.82,200.26,335.5
+P0152,Ngoma Co. Canned Foods 770g,Groceries,Canned Foods,Ngoma Co.,Standard,Tanzania,1,0.77,22.05,39.0
+P0153,Mweru Choice Canned Foods 690g,Groceries,Canned Foods,Mweru Choice,Value,China,1,0.69,36.42,43.99
+P0154,Mulungushi Home Sugar 1.6kg,Groceries,Sugar,Mulungushi Home,Standard,South Africa,1,1.63,91.71,126.0
+P0155,Tonga Home Rice 8.6kg,Groceries,Rice,Tonga Home,Standard,Zambia,0,8.56,54.67,100.5
+P0156,Msasa Everyday Beverages 2.0kg,Groceries,Beverages,Msasa Everyday,Value,South Africa,1,1.98,31.5,44.5
+P0157,Kabulonga Choice Cooking Oil 4.0kg,Groceries,Cooking Oil,Kabulonga Choice,Value,Kenya,1,4.02,61.28,93.99
+P0158,Kasanka Basics Cooking Oil 1.9kg,Groceries,Cooking Oil,Kasanka Basics,Value,Zambia,0,1.89,121.67,197.0
+P0159,Savanna Co. Mealie Meal 13.8kg,Groceries,Mealie Meal,Savanna Co.,Standard,Zambia,0,13.76,169.73,197.99
+P0160,Mosi Prestige Sugar 7.4kg,Groceries,Sugar,Mosi Prestige,Premium,Zambia,0,7.38,53.39,117.0
+P0161,Kariba Plus Mealie Meal 16.6kg,Groceries,Mealie Meal,Kariba Plus,Standard,Zambia,0,16.57,111.71,196.99
+P0162,Kwacha Select Cooking Oil 4.7kg,Groceries,Cooking Oil,Kwacha Select,Premium,Zambia,0,4.67,140.74,236.0
+P0163,Mosi Everyday Sugar 3.5kg,Groceries,Sugar,Mosi Everyday,Value,Zambia,0,3.48,48.53,65.0
+P0164,Tanganyika Co. Canned Foods 580g,Groceries,Canned Foods,Tanganyika Co.,Standard,Zambia,0,0.58,36.55,58.0
+P0165,Lozi Home Cooking Oil 4.0kg,Groceries,Cooking Oil,Lozi Home,Standard,Zambia,0,4.02,89.64,130.99
+P0166,Mulungushi Co. Cooking Oil 3.7kg,Groceries,Cooking Oil,Mulungushi Co.,Standard,China,1,3.74,116.34,182.99
+P0167,Lunsemfwa Select Cooking Oil 3.6kg,Groceries,Cooking Oil,Lunsemfwa Select,Premium,South Africa,1,3.63,94.59,133.0
+P0168,Chilenje Select Canned Foods 770g,Groceries,Canned Foods,Chilenje Select,Premium,Zambia,0,0.77,30.36,48.0
+P0169,Copperline Co. Kapenta & Fish 1.3kg,Groceries,Kapenta & Fish,Copperline Co.,Standard,Zambia,0,1.29,129.54,175.0
+P0170,Msasa Choice Canned Foods 740g,Groceries,Canned Foods,Msasa Choice,Value,Zambia,0,0.74,18.44,38.5
+P0171,Mutanda Select Sugar 8.0kg,Groceries,Sugar,Mutanda Select,Premium,Zambia,0,8.01,74.36,125.0
+P0172,Kasanka Basics Canned Foods 610g,Groceries,Canned Foods,Kasanka Basics,Value,China,1,0.61,49.62,80.0
+P0173,Mukuba Gold Snacks 350g,Groceries,Snacks,Mukuba Gold,Premium,Zambia,0,0.35,34.91,52.0
+P0174,Mulungushi Home Kapenta & Fish 1.8kg,Groceries,Kapenta & Fish,Mulungushi Home,Standard,Zambia,0,1.75,72.09,75.0
+P0175,Lozi Co. Rice 1.8kg,Groceries,Rice,Lozi Co.,Standard,Zambia,0,1.81,93.86,178.0
+P0176,Tonga Choice Beverages 710g,Groceries,Beverages,Tonga Choice,Value,South Africa,1,0.71,63.13,110.99
+P0177,Savanna Basics Sugar 6.9kg,Groceries,Sugar,Savanna Basics,Value,South Africa,1,6.93,33.48,68.0
+P0178,Msasa Select Mealie Meal 24.5kg,Groceries,Mealie Meal,Msasa Select,Premium,South Africa,1,24.47,260.0,375.99
+P0179,Nsefu Home Kapenta & Fish 600g,Groceries,Kapenta & Fish,Nsefu Home,Standard,South Africa,1,0.6,66.07,105.0
+P0180,Kariba Basics Beverages 820g,Groceries,Beverages,Kariba Basics,Value,South Africa,1,0.82,46.24,80.99
+P0181,Lunsemfwa Select Laundry 4.7kg,Household,Laundry,Lunsemfwa Select,Premium,Zambia,0,4.66,61.38,77.0
+P0182,Kasanka Basics Cleaning 650g,Household,Cleaning,Kasanka Basics,Value,Zambia,0,0.65,53.92,62.5
+P0183,Kalambo Plus Toiletries 690g,Household,Toiletries,Kalambo Plus,Standard,Zambia,0,0.69,29.37,32.0
+P0184,Bangweulu Everyday Toiletries 800g,Household,Toiletries,Bangweulu Everyday,Value,Zambia,0,0.8,10.0,10.99
+P0185,Lunsemfwa Gold Cleaning 1.3kg,Household,Cleaning,Lunsemfwa Gold,Premium,Zambia,0,1.35,70.47,103.99
+P0186,Nsefu Prestige Toiletries 740g,Household,Toiletries,Nsefu Prestige,Premium,China,1,0.74,60.45,119.0
+P0187,Tonga Plus Cleaning 1.8kg,Household,Cleaning,Tonga Plus,Standard,Zambia,0,1.79,42.66,72.0
+P0188,Mweru Everyday Laundry 2.4kg,Household,Laundry,Mweru Everyday,Value,China,1,2.35,40.6,46.5
+P0189,Chisamba Home Cleaning 620g,Household,Cleaning,Chisamba Home,Standard,South Africa,1,0.62,52.25,64.0
+P0190,Zambezi Co. Candles & Lighting 1.7kg,Household,Candles & Lighting,Zambezi Co.,Standard,China,1,1.73,90.41,181.0
+P0191,Tonga Plus Toiletries 970g,Household,Toiletries,Tonga Plus,Standard,United Arab Emirates,1,0.97,36.56,68.0
+P0192,Ngoma Home Candles & Lighting 2.0kg,Household,Candles & Lighting,Ngoma Home,Standard,Zambia,0,1.97,81.29,131.99
+P0193,Kariba Basics Candles & Lighting 320g,Household,Candles & Lighting,Kariba Basics,Value,Zambia,0,0.32,56.18,64.0
+P0194,Kariba Plus Toiletries 760g,Household,Toiletries,Kariba Plus,Standard,South Africa,1,0.76,48.6,51.0
+P0195,Tonga Gold Laundry 3.2kg,Household,Laundry,Tonga Gold,Premium,Zambia,0,3.17,54.23,90.99
+P0196,Mutanda Gold Toiletries 360g,Household,Toiletries,Mutanda Gold,Premium,South Africa,1,0.36,60.89,116.0
+P0197,Lozi Everyday Candles & Lighting 1.8kg,Household,Candles & Lighting,Lozi Everyday,Value,China,1,1.8,51.74,58.0
+P0198,Mosi Basics Candles & Lighting 1.5kg,Household,Candles & Lighting,Mosi Basics,Value,Kenya,1,1.46,18.29,33.5
+P0199,Kwacha Select Laundry 2.2kg,Household,Laundry,Kwacha Select,Premium,South Africa,1,2.24,78.29,108.0
+P0200,Sunrise Home Laundry 1.6kg,Household,Laundry,Sunrise Home,Standard,Kenya,1,1.57,78.17,146.0
+P0201,Mosi Choice Cleaning 1.5kg,Household,Cleaning,Mosi Choice,Value,China,1,1.53,47.2,61.0
+P0202,Kabulonga Plus Toiletries 490g,Household,Toiletries,Kabulonga Plus,Standard,South Africa,1,0.49,50.49,57.0
+P0203,Zambezi Home Laundry 2.4kg,Household,Laundry,Zambezi Home,Standard,Zambia,0,2.35,98.85,163.0
+P0204,Chilenje Home Cleaning 1.8kg,Household,Cleaning,Chilenje Home,Standard,South Africa,1,1.8,38.02,65.0
+P0205,Mweru Plus Toiletries 760g,Household,Toiletries,Mweru Plus,Standard,Zambia,0,0.76,19.46,26.0
+P0206,Tanganyika Prestige Cleaning 1.1kg,Household,Cleaning,Tanganyika Prestige,Premium,Zambia,0,1.13,64.26,84.0
+P0207,Copperline Everyday Laundry 1.1kg,Household,Laundry,Copperline Everyday,Value,India,1,1.06,58.15,61.99
+P0208,Kasanka Home Candles & Lighting 1.5kg,Household,Candles & Lighting,Kasanka Home,Standard,Zambia,0,1.46,86.86,114.5
+P0209,Mweru Home Toiletries 410g,Household,Toiletries,Mweru Home,Standard,China,1,0.41,19.47,30.99
+P0210,Chilenje Home Laundry 1.8kg,Household,Laundry,Chilenje Home,Standard,South Africa,1,1.85,81.39,115.5
+P0211,Mopane Home Laundry 1.6kg,Household,Laundry,Mopane Home,Standard,Zambia,0,1.61,49.12,69.0
+P0212,Tanganyika Gold Laundry 2.3kg,Household,Laundry,Tanganyika Gold,Premium,Zambia,0,2.33,87.19,168.99
+P0213,Mopane Choice Toiletries 380g,Household,Toiletries,Mopane Choice,Value,Tanzania,1,0.38,46.19,49.5
+P0214,Savanna Choice Toiletries 340g,Household,Toiletries,Savanna Choice,Value,South Africa,1,0.34,23.9,34.0
+P0215,Bangweulu Everyday Cleaning 1.1kg,Household,Cleaning,Bangweulu Everyday,Value,China,1,1.14,46.86,57.5
+P0216,Mweru Plus Candles & Lighting 700g,Household,Candles & Lighting,Mweru Plus,Standard,Zambia,0,0.7,59.36,90.5
+P0217,Copperline Home Laundry 2.1kg,Household,Laundry,Copperline Home,Standard,United Arab Emirates,1,2.08,47.52,53.0
+P0218,Kabulonga Home Laundry 3.5kg,Household,Laundry,Kabulonga Home,Standard,Tanzania,1,3.46,74.8,84.5
+P0219,Savanna Gold Laundry 2.1kg,Household,Laundry,Savanna Gold,Premium,Zambia,0,2.06,83.83,159.0
+P0220,Bangweulu Gold Laundry 1.3kg,Household,Laundry,Bangweulu Gold,Premium,United Arab Emirates,1,1.35,71.41,109.99
+P0221,Savanna Choice Cleaning 970g,Household,Cleaning,Savanna Choice,Value,Zambia,0,0.97,48.18,80.0
+P0222,Luangwa Basics Candles & Lighting 1.1kg,Household,Candles & Lighting,Luangwa Basics,Value,South Africa,1,1.13,15.0,23.99
+P0223,Lozi Select Candles & Lighting 2.0kg,Household,Candles & Lighting,Lozi Select,Premium,Zambia,0,1.99,96.72,195.0
+P0224,Chilenje Basics Toiletries 360g,Household,Toiletries,Chilenje Basics,Value,South Africa,1,0.36,27.68,29.0
+P0225,Ngoma Everyday Laundry 3.0kg,Household,Laundry,Ngoma Everyday,Value,Zambia,0,2.98,72.53,123.5
+P0226,Nsefu Gold Cleaning 1.8kg,Household,Cleaning,Nsefu Gold,Premium,Zambia,0,1.84,39.91,53.0
+P0227,Chisamba Prestige Candles & Lighting 1.4kg,Household,Candles & Lighting,Chisamba Prestige,Premium,Kenya,1,1.37,128.98,201.99
+P0228,Kafue Home Laundry 2.3kg,Household,Laundry,Kafue Home,Standard,Zambia,0,2.3,51.52,60.5
+P0229,Savanna Basics Toiletries 970g,Household,Toiletries,Savanna Basics,Value,South Africa,1,0.97,34.21,59.99
+P0230,Lozi Select Cleaning 1.7kg,Household,Cleaning,Lozi Select,Premium,Zambia,0,1.75,90.0,130.0
+P0231,Kariba Gold Laundry 4.5kg,Household,Laundry,Kariba Gold,Premium,China,1,4.51,113.33,228.99
+P0232,Mopane Home Cleaning 1.9kg,Household,Cleaning,Mopane Home,Standard,China,1,1.91,58.17,97.0
+P0233,Mosi Everyday Toiletries 990g,Household,Toiletries,Mosi Everyday,Value,South Africa,1,0.99,44.95,67.0
+P0234,Ngoma Co. Cleaning 940g,Household,Cleaning,Ngoma Co.,Standard,Zambia,0,0.94,61.02,94.5
+P0235,Lunsemfwa Gold Laundry 630g,Household,Laundry,Lunsemfwa Gold,Premium,Zambia,0,0.63,48.5,87.0
+P0236,Chisamba Choice Cleaning 1.1kg,Household,Cleaning,Chisamba Choice,Value,China,1,1.13,43.45,77.0
+P0237,Mweru Everyday Laundry 2.0kg,Household,Laundry,Mweru Everyday,Value,Zambia,0,2.04,25.5,50.0
+P0238,Luangwa Choice Candles & Lighting 1.7kg,Household,Candles & Lighting,Luangwa Choice,Value,Zambia,0,1.67,35.6,44.0
+P0239,Mutanda Choice Toiletries 660g,Household,Toiletries,Mutanda Choice,Value,Zambia,0,0.66,51.2,64.0
+P0240,Chilenje Basics Toiletries 850g,Household,Toiletries,Chilenje Basics,Value,Tanzania,1,0.85,40.75,64.0
+P0241,Mosi Select Laundry 2.1kg,Household,Laundry,Mosi Select,Premium,South Africa,1,2.08,54.19,127.0
+P0242,Mosi Basics Laundry 3.6kg,Household,Laundry,Mosi Basics,Value,South Africa,1,3.6,71.55,89.5
+P0243,Kasanka Everyday Candles & Lighting 370g,Household,Candles & Lighting,Kasanka Everyday,Value,Zambia,0,0.37,59.8,97.0
+P0244,Chisamba Plus Toiletries 750g,Household,Toiletries,Chisamba Plus,Standard,Zambia,0,0.75,15.06,35.5
+P0245,Sunrise Co. Candles & Lighting 740g,Household,Candles & Lighting,Sunrise Co.,Standard,United Arab Emirates,1,0.74,139.72,215.99
+P0246,Savanna Home Cleaning 1.8kg,Household,Cleaning,Savanna Home,Standard,Zambia,0,1.8,38.31,59.99
+P0247,Mosi Basics Laundry 2.1kg,Household,Laundry,Mosi Basics,Value,Zambia,0,2.13,45.79,94.99
+P0248,Kalambo Co. Cleaning 940g,Household,Cleaning,Kalambo Co.,Standard,South Africa,1,0.94,27.77,33.5
+P0249,Mulungushi Choice Candles & Lighting 370g,Household,Candles & Lighting,Mulungushi Choice,Value,Zambia,0,0.37,103.56,156.99
+P0250,Zambezi Everyday Candles & Lighting 510g,Household,Candles & Lighting,Zambezi Everyday,Value,Tanzania,1,0.51,20.44,23.99
+P0251,Tanganyika Choice Laundry 3.7kg,Household,Laundry,Tanganyika Choice,Value,South Africa,1,3.73,87.3,149.0
+P0252,Zambezi Basics Cleaning 1.9kg,Household,Cleaning,Zambezi Basics,Value,Zambia,0,1.92,65.11,79.0
+P0253,Kalambo Basics Cleaning 590g,Household,Cleaning,Kalambo Basics,Value,China,1,0.59,33.23,45.0
+P0254,Kabulonga Plus Candles & Lighting 790g,Household,Candles & Lighting,Kabulonga Plus,Standard,Zambia,0,0.79,84.3,91.0
+P0255,Bangweulu Gold Candles & Lighting 800g,Household,Candles & Lighting,Bangweulu Gold,Premium,United Arab Emirates,1,0.8,80.16,131.5
+P0256,Msasa Select Laundry 2.9kg,Household,Laundry,Msasa Select,Premium,China,1,2.88,57.96,102.5
+P0257,Mweru Home Candles & Lighting 600g,Household,Candles & Lighting,Mweru Home,Standard,South Africa,1,0.6,60.27,86.0
+P0258,Tonga Everyday Cleaning 1.1kg,Household,Cleaning,Tonga Everyday,Value,China,1,1.07,48.44,82.0
+P0259,Kalambo Gold Cleaning 1.9kg,Household,Cleaning,Kalambo Gold,Premium,Zambia,0,1.86,48.61,62.5
+P0260,Kariba Choice Candles & Lighting 890g,Household,Candles & Lighting,Kariba Choice,Value,Zambia,0,0.89,59.61,85.0
+P0261,Mutanda Home Toiletries 500g,Household,Toiletries,Mutanda Home,Standard,United Arab Emirates,1,0.5,51.58,80.0
+P0262,Chilenje Prestige Cleaning 1.7kg,Household,Cleaning,Chilenje Prestige,Premium,Zambia,0,1.69,74.81,127.99
+P0263,Luangwa Co. Laundry 1.5kg,Household,Laundry,Luangwa Co.,Standard,Tanzania,1,1.49,64.02,125.0
+P0264,Kabulonga Choice Cleaning 750g,Household,Cleaning,Kabulonga Choice,Value,China,1,0.75,73.71,113.0
+P0265,Kafue Home Phone Accessories 210g,Electronics,Phone Accessories,Kafue Home,Standard,Kenya,1,0.21,137.33,205.99
+P0266,Chilenje Gold Audio 670g,Electronics,Audio,Chilenje Gold,Premium,Kenya,1,0.67,1300.4,2348.0
+P0267,Tanganyika Plus Mobile Phones 170g,Electronics,Mobile Phones,Tanganyika Plus,Standard,South Africa,1,0.17,4168.17,4376.0
+P0268,Lozi Home Solar & Power 10.3kg,Electronics,Solar & Power,Lozi Home,Standard,South Africa,1,10.33,3280.62,5082.0
+P0269,Baobab Co. Small Appliances 5.3kg,Electronics,Small Appliances,Baobab Co.,Standard,China,1,5.31,1996.61,3494.5
+P0270,Mopane Home Mobile Phones 360g,Electronics,Mobile Phones,Mopane Home,Standard,South Africa,1,0.36,5008.5,6065.99
+P0271,Kafue Plus Audio 3.0kg,Electronics,Audio,Kafue Plus,Standard,United Arab Emirates,1,2.97,1375.92,2042.0
+P0272,Kafue Choice Phone Accessories 290g,Electronics,Phone Accessories,Kafue Choice,Value,China,1,0.29,40.0,76.0
+P0273,Kafue Basics Small Appliances 3.5kg,Electronics,Small Appliances,Kafue Basics,Value,India,1,3.48,596.13,911.0
+P0274,Lozi Plus Audio 980g,Electronics,Audio,Lozi Plus,Standard,Kenya,1,0.98,1648.96,2587.5
+P0275,Msasa Select Solar & Power 3.7kg,Electronics,Solar & Power,Msasa Select,Premium,Zambia,0,3.72,2605.72,3354.0
+P0276,Kafue Co. Solar & Power 1.8kg,Electronics,Solar & Power,Kafue Co.,Standard,Zambia,0,1.78,738.51,1351.0
+P0277,Mulungushi Everyday Phone Accessories 280g,Electronics,Phone Accessories,Mulungushi Everyday,Value,China,1,0.28,208.55,401.0
+P0278,Luangwa Prestige Mobile Phones 370g,Electronics,Mobile Phones,Luangwa Prestige,Premium,Kenya,1,0.37,3912.79,7619.99
+P0279,Mopane Select Solar & Power 8.0kg,Electronics,Solar & Power,Mopane Select,Premium,United Arab Emirates,1,8.05,2499.78,4200.5
+P0280,Luangwa Basics Solar & Power 2.0kg,Electronics,Solar & Power,Luangwa Basics,Value,South Africa,1,2.0,1116.04,2000.99
+P0281,Zambezi Gold Solar & Power 8.3kg,Electronics,Solar & Power,Zambezi Gold,Premium,Tanzania,1,8.26,1738.11,2993.99
+P0282,Kwacha Co. Phone Accessories 230g,Electronics,Phone Accessories,Kwacha Co.,Standard,Zambia,0,0.23,199.57,316.0
+P0283,Kabulonga Select Phone Accessories 240g,Electronics,Phone Accessories,Kabulonga Select,Premium,United Arab Emirates,1,0.24,259.62,478.0
+P0284,Mukuba Basics Solar & Power 8.4kg,Electronics,Solar & Power,Mukuba Basics,Value,Kenya,1,8.35,831.26,1514.0
+P0285,Kariba Everyday Solar & Power 9.9kg,Electronics,Solar & Power,Kariba Everyday,Value,China,1,9.88,3560.55,5957.0
+P0286,Kafue Plus Audio 2.4kg,Electronics,Audio,Kafue Plus,Standard,South Africa,1,2.36,1507.69,2199.5
+P0287,Kariba Choice Phone Accessories 290g,Electronics,Phone Accessories,Kariba Choice,Value,China,1,0.29,164.13,238.5
+P0288,Ngoma Basics Solar & Power 9.0kg,Electronics,Solar & Power,Ngoma Basics,Value,United Arab Emirates,1,8.96,2349.18,2939.0
+P0289,Bangweulu Basics Small Appliances 4.2kg,Electronics,Small Appliances,Bangweulu Basics,Value,United Arab Emirates,1,4.2,1004.63,1447.0
+P0290,Tanganyika Choice Solar & Power 6.7kg,Electronics,Solar & Power,Tanganyika Choice,Value,South Africa,1,6.66,1380.6,1820.99
+P0291,Kariba Co. Small Appliances 4.7kg,Electronics,Small Appliances,Kariba Co.,Standard,South Africa,1,4.73,1488.92,2914.5
+P0292,Zambezi Home Phone Accessories 160g,Electronics,Phone Accessories,Zambezi Home,Standard,South Africa,1,0.16,175.71,246.5
+P0293,Lozi Co. Audio 2.9kg,Electronics,Audio,Lozi Co.,Standard,Zambia,0,2.92,1007.89,1481.0
+P0294,Luangwa Plus Audio 570g,Electronics,Audio,Luangwa Plus,Standard,Zambia,0,0.57,565.42,856.0
+P0295,Copperline Co. Solar & Power 6.4kg,Electronics,Solar & Power,Copperline Co.,Standard,Zambia,0,6.43,1578.51,2250.0
+P0296,Mulungushi Gold Small Appliances 2.0kg,Electronics,Small Appliances,Mulungushi Gold,Premium,Zambia,0,2.01,1549.36,2014.0
+P0297,Bangweulu Home Mobile Phones 270g,Electronics,Mobile Phones,Bangweulu Home,Standard,South Africa,1,0.27,2824.9,4011.99
+P0298,Mweru Home Mobile Phones 170g,Electronics,Mobile Phones,Mweru Home,Standard,Tanzania,1,0.17,3012.95,5251.0
+P0299,Kariba Co. Phone Accessories 120g,Electronics,Phone Accessories,Kariba Co.,Standard,South Africa,1,0.12,164.28,303.0
+P0300,Kabulonga Basics Small Appliances 3.4kg,Electronics,Small Appliances,Kabulonga Basics,Value,South Africa,1,3.37,1001.7,1051.5
+P0301,Chilenje Co. Mobile Phones 340g,Electronics,Mobile Phones,Chilenje Co.,Standard,South Africa,1,0.34,6454.2,8570.0
+P0302,Mosi Home Audio 1.4kg,Electronics,Audio,Mosi Home,Standard,China,1,1.44,1202.04,2225.0
+P0303,Kwacha Choice Phone Accessories 220g,Electronics,Phone Accessories,Kwacha Choice,Value,South Africa,1,0.22,294.41,413.5
+P0304,Mutanda Plus Audio 3.0kg,Electronics,Audio,Mutanda Plus,Standard,South Africa,1,2.95,442.45,794.99
+P0305,Savanna Basics Phone Accessories 290g,Electronics,Phone Accessories,Savanna Basics,Value,South Africa,1,0.29,81.06,136.0
+P0306,Kafue Prestige Mobile Phones 310g,Electronics,Mobile Phones,Kafue Prestige,Premium,South Africa,1,0.31,5714.35,6707.99
+P0307,Kariba Everyday Mobile Phones 220g,Electronics,Mobile Phones,Kariba Everyday,Value,Zambia,0,0.22,3298.53,4579.99
+P0308,Tonga Home Audio 770g,Electronics,Audio,Tonga Home,Standard,South Africa,1,0.77,1023.93,1527.0
+P0309,Zambezi Home Small Appliances 3.5kg,Electronics,Small Appliances,Zambezi Home,Standard,Zambia,0,3.49,1139.69,1406.99
+P0310,Mukuba Basics Audio 2.4kg,Electronics,Audio,Mukuba Basics,Value,United Arab Emirates,1,2.43,897.67,1440.99
+P0311,Kafue Everyday Small Appliances 5.3kg,Electronics,Small Appliances,Kafue Everyday,Value,Kenya,1,5.31,855.91,1339.0
+P0312,Kalambo Home Mobile Phones 230g,Electronics,Mobile Phones,Kalambo Home,Standard,South Africa,1,0.23,3611.05,5717.0
+P0313,Kariba Basics Chitenge Fabric 560g,Fashion,Chitenge Fabric,Kariba Basics,Value,Zambia,0,0.56,122.82,233.0
+P0314,Kasanka Gold Womenswear 960g,Fashion,Womenswear,Kasanka Gold,Premium,Zambia,0,0.96,654.81,986.99
+P0315,Savanna Everyday Menswear 890g,Fashion,Menswear,Savanna Everyday,Value,Zambia,0,0.89,295.91,477.0
+P0316,Lunsemfwa Co. Womenswear 840g,Fashion,Womenswear,Lunsemfwa Co.,Standard,Zambia,0,0.84,516.29,788.99
+P0317,Baobab Home Womenswear 890g,Fashion,Womenswear,Baobab Home,Standard,South Africa,1,0.89,378.79,789.99
+P0318,Tonga Home School Uniforms 720g,Fashion,School Uniforms,Tonga Home,Standard,Zambia,0,0.72,126.56,191.0
+P0319,Chilenje Gold Chitenge Fabric 460g,Fashion,Chitenge Fabric,Chilenje Gold,Premium,Tanzania,1,0.46,202.04,384.0
+P0320,Kafue Home Footwear 690g,Fashion,Footwear,Kafue Home,Standard,Zambia,0,0.69,606.61,950.0
+P0321,Nsefu Select School Uniforms 760g,Fashion,School Uniforms,Nsefu Select,Premium,Zambia,0,0.76,243.91,322.0
+P0322,Mutanda Co. Footwear 1.2kg,Fashion,Footwear,Mutanda Co.,Standard,Tanzania,1,1.22,321.44,542.5
+P0323,Mopane Co. Womenswear 900g,Fashion,Womenswear,Mopane Co.,Standard,Zambia,0,0.9,836.89,1464.5
+P0324,Tonga Basics Menswear 740g,Fashion,Menswear,Tonga Basics,Value,Zambia,0,0.74,441.1,780.0
+P0325,Tonga Home Chitenge Fabric 600g,Fashion,Chitenge Fabric,Tonga Home,Standard,Zambia,0,0.6,125.53,159.0
+P0326,Savanna Basics Footwear 1.2kg,Fashion,Footwear,Savanna Basics,Value,Tanzania,1,1.18,449.96,990.99
+P0327,Kariba Everyday School Uniforms 840g,Fashion,School Uniforms,Kariba Everyday,Value,United Arab Emirates,1,0.84,307.4,581.99
+P0328,Ngoma Choice Footwear 940g,Fashion,Footwear,Ngoma Choice,Value,China,1,0.94,326.12,369.99
+P0329,Sunrise Gold Chitenge Fabric 990g,Fashion,Chitenge Fabric,Sunrise Gold,Premium,United Arab Emirates,1,0.99,209.03,406.0
+P0330,Mukuba Co. Menswear 500g,Fashion,Menswear,Mukuba Co.,Standard,South Africa,1,0.5,421.33,772.99
+P0331,Copperline Co. Menswear 530g,Fashion,Menswear,Copperline Co.,Standard,South Africa,1,0.53,212.52,309.0
+P0332,Baobab Home Womenswear 700g,Fashion,Womenswear,Baobab Home,Standard,China,1,0.7,200.25,357.99
+P0333,Kariba Prestige School Uniforms 380g,Fashion,School Uniforms,Kariba Prestige,Premium,Zambia,0,0.38,315.46,482.99
+P0334,Kariba Co. Womenswear 750g,Fashion,Womenswear,Kariba Co.,Standard,Zambia,0,0.75,250.12,511.0
+P0335,Baobab Gold Footwear 1.2kg,Fashion,Footwear,Baobab Gold,Premium,China,1,1.21,509.51,1040.5
+P0336,Ngoma Home Womenswear 420g,Fashion,Womenswear,Ngoma Home,Standard,South Africa,1,0.42,364.02,623.0
+P0337,Kwacha Basics Footwear 1.5kg,Fashion,Footwear,Kwacha Basics,Value,Zambia,0,1.45,761.81,1317.0
+P0338,Kwacha Prestige Womenswear 540g,Fashion,Womenswear,Kwacha Prestige,Premium,United Arab Emirates,1,0.54,789.82,1280.5
+P0339,Mweru Co. Womenswear 570g,Fashion,Womenswear,Mweru Co.,Standard,Zambia,0,0.57,579.75,1036.0
+P0340,Luangwa Everyday Chitenge Fabric 600g,Fashion,Chitenge Fabric,Luangwa Everyday,Value,Zambia,0,0.6,200.87,311.5
+P0341,Mulungushi Co. Womenswear 950g,Fashion,Womenswear,Mulungushi Co.,Standard,Zambia,0,0.95,681.38,1266.0
+P0342,Bangweulu Basics School Uniforms 550g,Fashion,School Uniforms,Bangweulu Basics,Value,Zambia,0,0.55,162.04,233.0
+P0343,Lozi Everyday Womenswear 790g,Fashion,Womenswear,Lozi Everyday,Value,South Africa,1,0.79,434.48,1016.99
+P0344,Ngoma Prestige Chitenge Fabric 740g,Fashion,Chitenge Fabric,Ngoma Prestige,Premium,Zambia,0,0.74,180.87,309.5
+P0345,Kabulonga Everyday School Uniforms 710g,Fashion,School Uniforms,Kabulonga Everyday,Value,Zambia,0,0.71,203.02,336.99
+P0346,Chilenje Everyday Menswear 520g,Fashion,Menswear,Chilenje Everyday,Value,Zambia,0,0.52,333.47,464.0
+P0347,Mweru Everyday Womenswear 480g,Fashion,Womenswear,Mweru Everyday,Value,China,1,0.48,452.65,803.99
+P0348,Mosi Choice School Uniforms 690g,Fashion,School Uniforms,Mosi Choice,Value,China,1,0.69,200.91,319.99
+P0349,Tanganyika Plus Footwear 1.3kg,Fashion,Footwear,Tanganyika Plus,Standard,Zambia,0,1.32,675.02,1152.99
+P0350,Kabulonga Choice Chitenge Fabric 460g,Fashion,Chitenge Fabric,Kabulonga Choice,Value,Zambia,0,0.46,121.37,176.99
+P0351,Baobab Basics Womenswear 590g,Fashion,Womenswear,Baobab Basics,Value,South Africa,1,0.59,179.52,289.0
+P0352,Bangweulu Home Footwear 1.4kg,Fashion,Footwear,Bangweulu Home,Standard,China,1,1.42,419.3,545.5
+P0353,Nsefu Select Womenswear 630g,Fashion,Womenswear,Nsefu Select,Premium,South Africa,1,0.63,409.9,626.5
+P0354,Mutanda Choice Chitenge Fabric 690g,Fashion,Chitenge Fabric,Mutanda Choice,Value,South Africa,1,0.69,60.0,74.5
+P0355,Kasanka Select Chitenge Fabric 480g,Fashion,Chitenge Fabric,Kasanka Select,Premium,Zambia,0,0.48,110.2,189.0
+P0356,Chisamba Home Chitenge Fabric 430g,Fashion,Chitenge Fabric,Chisamba Home,Standard,Zambia,0,0.43,121.68,204.0
+P0357,Chilenje Everyday Womenswear 620g,Fashion,Womenswear,Chilenje Everyday,Value,China,1,0.62,418.34,814.0
+P0358,Kabulonga Everyday Womenswear 820g,Fashion,Womenswear,Kabulonga Everyday,Value,Zambia,0,0.82,391.58,707.5
+P0359,Baobab Home Chitenge Fabric 530g,Fashion,Chitenge Fabric,Baobab Home,Standard,Zambia,0,0.53,143.31,150.0
+P0360,Bangweulu Home School Uniforms 910g,Fashion,School Uniforms,Bangweulu Home,Standard,South Africa,1,0.91,339.01,603.0
+P0361,Msasa Select School Uniforms 720g,Fashion,School Uniforms,Msasa Select,Premium,South Africa,1,0.72,360.68,706.0
+P0362,Zambezi Basics School Uniforms 670g,Fashion,School Uniforms,Zambezi Basics,Value,Zambia,0,0.67,155.56,264.5
+P0363,Baobab Basics Chitenge Fabric 790g,Fashion,Chitenge Fabric,Baobab Basics,Value,South Africa,1,0.79,183.08,356.99
+P0364,Copperline Everyday Footwear 1.4kg,Fashion,Footwear,Copperline Everyday,Value,Zambia,0,1.45,245.02,512.5
+P0365,Msasa Co. Chitenge Fabric 760g,Fashion,Chitenge Fabric,Msasa Co.,Standard,China,1,0.76,119.1,231.0
+P0366,Mukuba Plus Menswear 650g,Fashion,Menswear,Mukuba Plus,Standard,Zambia,0,0.65,366.87,653.0
+P0367,Kasanka Basics First Aid 330g,Health & Beauty,First Aid,Kasanka Basics,Value,Zambia,0,0.33,125.13,137.99
+P0368,Ngoma Home Hair Care 710g,Health & Beauty,Hair Care,Ngoma Home,Standard,Zambia,0,0.71,91.29,160.0
+P0369,Mutanda Plus Fragrance 340g,Health & Beauty,Fragrance,Mutanda Plus,Standard,Tanzania,1,0.34,167.35,288.99
+P0370,Copperline Select Skin Care 280g,Health & Beauty,Skin Care,Copperline Select,Premium,Zambia,0,0.28,276.45,417.5
+P0371,Savanna Basics Skin Care 140g,Health & Beauty,Skin Care,Savanna Basics,Value,United Arab Emirates,1,0.14,73.19,107.0
+P0372,Mweru Plus Fragrance 350g,Health & Beauty,Fragrance,Mweru Plus,Standard,Zambia,0,0.35,333.33,464.5
+P0373,Kabulonga Select Skin Care 430g,Health & Beauty,Skin Care,Kabulonga Select,Premium,Kenya,1,0.43,222.29,435.0
+P0374,Chilenje Select Skin Care 420g,Health & Beauty,Skin Care,Chilenje Select,Premium,South Africa,1,0.42,244.45,429.0
+P0375,Mutanda Choice Fragrance 240g,Health & Beauty,Fragrance,Mutanda Choice,Value,China,1,0.24,397.8,692.0
+P0376,Mutanda Everyday Hair Care 730g,Health & Beauty,Hair Care,Mutanda Everyday,Value,Kenya,1,0.73,139.27,184.5
+P0377,Luangwa Plus First Aid 230g,Health & Beauty,First Aid,Luangwa Plus,Standard,Zambia,0,0.23,72.59,77.0
+P0378,Tanganyika Choice Fragrance 240g,Health & Beauty,Fragrance,Tanganyika Choice,Value,Zambia,0,0.24,373.75,597.99
+P0379,Sunrise Everyday Fragrance 350g,Health & Beauty,Fragrance,Sunrise Everyday,Value,Zambia,0,0.35,515.75,664.5
+P0380,Zambezi Basics Skin Care 420g,Health & Beauty,Skin Care,Zambezi Basics,Value,Zambia,0,0.42,96.52,177.0
+P0381,Kafue Choice First Aid 120g,Health & Beauty,First Aid,Kafue Choice,Value,Zambia,0,0.12,69.16,97.0
+P0382,Lozi Choice First Aid 160g,Health & Beauty,First Aid,Lozi Choice,Value,India,1,0.16,95.11,155.99
+P0383,Baobab Prestige Hair Care 690g,Health & Beauty,Hair Care,Baobab Prestige,Premium,South Africa,1,0.69,171.26,394.99
+P0384,Ngoma Everyday First Aid 530g,Health & Beauty,First Aid,Ngoma Everyday,Value,South Africa,1,0.53,53.23,87.0
+P0385,Zambezi Everyday First Aid 290g,Health & Beauty,First Aid,Zambezi Everyday,Value,Tanzania,1,0.29,33.23,54.99
+P0386,Copperline Home Skin Care 460g,Health & Beauty,Skin Care,Copperline Home,Standard,China,1,0.46,92.2,159.99
+P0387,Lozi Co. First Aid 660g,Health & Beauty,First Aid,Lozi Co.,Standard,South Africa,1,0.66,43.58,55.0
+P0388,Kafue Basics First Aid 710g,Health & Beauty,First Aid,Kafue Basics,Value,Zambia,0,0.71,45.18,71.99
+P0389,Kalambo Plus Skin Care 210g,Health & Beauty,Skin Care,Kalambo Plus,Standard,Zambia,0,0.21,98.39,133.5
+P0390,Ngoma Basics Fragrance 300g,Health & Beauty,Fragrance,Ngoma Basics,Value,United Arab Emirates,1,0.3,344.46,494.0
+P0391,Msasa Prestige Hair Care 660g,Health & Beauty,Hair Care,Msasa Prestige,Premium,South Africa,1,0.66,90.28,179.0
+P0392,Tonga Everyday Skin Care 410g,Health & Beauty,Skin Care,Tonga Everyday,Value,India,1,0.41,69.46,72.5
+P0393,Mutanda Gold First Aid 150g,Health & Beauty,First Aid,Mutanda Gold,Premium,Zambia,0,0.15,180.0,277.0
+P0394,Mweru Home Fragrance 140g,Health & Beauty,Fragrance,Mweru Home,Standard,South Africa,1,0.14,484.42,830.99
+P0395,Lunsemfwa Gold Skin Care 310g,Health & Beauty,Skin Care,Lunsemfwa Gold,Premium,South Africa,1,0.31,261.78,419.99
+P0396,Copperline Gold First Aid 340g,Health & Beauty,First Aid,Copperline Gold,Premium,Zambia,0,0.34,67.6,106.0
+P0397,Mutanda Choice Hair Care 680g,Health & Beauty,Hair Care,Mutanda Choice,Value,Zambia,0,0.68,109.1,157.5
+P0398,Tanganyika Basics Hair Care 430g,Health & Beauty,Hair Care,Tanganyika Basics,Value,China,1,0.43,61.49,113.99
+P0399,Tonga Choice First Aid 520g,Health & Beauty,First Aid,Tonga Choice,Value,Zambia,0,0.52,25.6,34.5
+P0400,Baobab Home Fragrance 260g,Health & Beauty,Fragrance,Baobab Home,Standard,Zambia,0,0.26,414.82,435.0
+P0401,Ngoma Choice Fragrance 360g,Health & Beauty,Fragrance,Ngoma Choice,Value,Zambia,0,0.36,476.09,667.0
+P0402,Baobab Gold First Aid 260g,Health & Beauty,First Aid,Baobab Gold,Premium,Zambia,0,0.26,128.26,194.99
+P0403,Kwacha Everyday Hair Care 130g,Health & Beauty,Hair Care,Kwacha Everyday,Value,Zambia,0,0.13,32.84,41.99
+P0404,Mulungushi Everyday Fragrance 360g,Health & Beauty,Fragrance,Mulungushi Everyday,Value,Zambia,0,0.36,282.27,390.5
+P0405,Bangweulu Plus Hair Care 570g,Health & Beauty,Hair Care,Bangweulu Plus,Standard,Zambia,0,0.57,128.42,192.0
+P0406,Nsefu Home Skin Care 560g,Health & Beauty,Skin Care,Nsefu Home,Standard,Tanzania,1,0.56,127.43,249.0
+P0407,Mulungushi Select Hair Care 150g,Health & Beauty,Hair Care,Mulungushi Select,Premium,China,1,0.15,161.23,274.5
+P0408,Sunrise Plus Hair Care 700g,Health & Beauty,Hair Care,Sunrise Plus,Standard,Zambia,0,0.7,104.2,140.0
+P0409,Baobab Plus Hair Care 760g,Health & Beauty,Hair Care,Baobab Plus,Standard,Zambia,0,0.76,41.95,66.0
+P0410,Chisamba Co. Fragrance 150g,Health & Beauty,Fragrance,Chisamba Co.,Standard,Zambia,0,0.15,287.81,544.99
+P0411,Mosi Plus Skin Care 570g,Health & Beauty,Skin Care,Mosi Plus,Standard,Kenya,1,0.57,206.72,344.99
+P0412,Kalambo Everyday Fragrance 230g,Health & Beauty,Fragrance,Kalambo Everyday,Value,India,1,0.23,633.88,776.99
+P0413,Tanganyika Plus Fragrance 130g,Health & Beauty,Fragrance,Tanganyika Plus,Standard,Tanzania,1,0.13,375.53,603.0
+P0414,Zambezi Basics Skin Care 210g,Health & Beauty,Skin Care,Zambezi Basics,Value,Zambia,0,0.21,55.47,95.99
+P0415,Kabulonga Co. Fragrance 340g,Health & Beauty,Fragrance,Kabulonga Co.,Standard,Kenya,1,0.34,447.34,735.0
+P0416,Lozi Gold Hair Care 690g,Health & Beauty,Hair Care,Lozi Gold,Premium,South Africa,1,0.69,132.14,244.99
+P0417,Mopane Basics Hair Care 320g,Health & Beauty,Hair Care,Mopane Basics,Value,Zambia,0,0.32,40.71,57.5
+P0418,Bangweulu Home Skin Care 270g,Health & Beauty,Skin Care,Bangweulu Home,Standard,Zambia,0,0.27,110.4,211.0
+P0419,Savanna Basics Hair Care 800g,Health & Beauty,Hair Care,Savanna Basics,Value,Kenya,1,0.8,62.26,102.0
+P0420,Mopane Everyday Skin Care 380g,Health & Beauty,Skin Care,Mopane Everyday,Value,South Africa,1,0.38,50.99,67.99
+P0421,Mopane Plus Skin Care 100g,Health & Beauty,Skin Care,Mopane Plus,Standard,South Africa,1,0.1,49.22,75.99
+P0422,Kasanka Everyday Hair Care 150g,Health & Beauty,Hair Care,Kasanka Everyday,Value,Zambia,0,0.15,43.45,49.99
+P0423,Mulungushi Choice First Aid 580g,Health & Beauty,First Aid,Mulungushi Choice,Value,Zambia,0,0.58,70.77,131.99
+P0424,Tonga Plus First Aid 270g,Health & Beauty,First Aid,Tonga Plus,Standard,Zambia,0,0.27,110.99,171.5
+P0425,Tanganyika Choice Hair Care 580g,Health & Beauty,Hair Care,Tanganyika Choice,Value,Zambia,0,0.58,92.24,118.0
+P0426,Kalambo Plus Fragrance 160g,Health & Beauty,Fragrance,Kalambo Plus,Standard,Zambia,0,0.16,607.72,984.5
+P0427,Kafue Plus Fragrance 200g,Health & Beauty,Fragrance,Kafue Plus,Standard,Zambia,0,0.2,369.42,560.5
+P0428,Baobab Select First Aid 570g,Health & Beauty,First Aid,Baobab Select,Premium,South Africa,1,0.57,120.05,148.0
+P0429,Lozi Gold Skin Care 260g,Health & Beauty,Skin Care,Lozi Gold,Premium,Zambia,0,0.26,213.48,404.0
+P0430,Nsefu Prestige Hair Care 350g,Health & Beauty,Hair Care,Nsefu Prestige,Premium,Zambia,0,0.35,182.53,357.0
+P0431,Sunrise Co. Hair Care 750g,Health & Beauty,Hair Care,Sunrise Co.,Standard,Zambia,0,0.75,79.76,127.5
+P0432,Mweru Everyday First Aid 310g,Health & Beauty,First Aid,Mweru Everyday,Value,China,1,0.31,35.95,78.0
+P0433,Chisamba Plus Hair Care 630g,Health & Beauty,Hair Care,Chisamba Plus,Standard,Zambia,0,0.63,121.94,177.5
+P0434,Tonga Co. First Aid 750g,Health & Beauty,First Aid,Tonga Co.,Standard,South Africa,1,0.75,40.74,87.5
+P0435,Luangwa Gold Hair Care 590g,Health & Beauty,Hair Care,Luangwa Gold,Premium,Zambia,0,0.59,233.23,463.99
+P0436,Luangwa Co. Skin Care 170g,Health & Beauty,Skin Care,Luangwa Co.,Standard,Zambia,0,0.17,231.14,293.0
+P0437,Savanna Plus Fragrance 270g,Health & Beauty,Fragrance,Savanna Plus,Standard,China,1,0.27,501.12,982.0
+P0438,Mosi Select First Aid 460g,Health & Beauty,First Aid,Mosi Select,Premium,Tanzania,1,0.46,151.04,262.99
+P0439,Kabulonga Home Baby Food 480g,Baby & Kids,Baby Food,Kabulonga Home,Standard,Tanzania,1,0.48,59.24,73.5
+P0440,Mopane Co. Toys 1.7kg,Baby & Kids,Toys,Mopane Co.,Standard,Zambia,0,1.7,398.18,600.5
+P0441,Sunrise Basics Baby Food 790g,Baby & Kids,Baby Food,Sunrise Basics,Value,Tanzania,1,0.79,90.88,151.0
+P0442,Kasanka Home Toys 280g,Baby & Kids,Toys,Kasanka Home,Standard,Zambia,0,0.28,274.65,402.99
+P0443,Chilenje Home Nappies 3.2kg,Baby & Kids,Nappies,Chilenje Home,Standard,Zambia,0,3.19,147.0,183.99
+P0444,Zambezi Select Baby Food 570g,Baby & Kids,Baby Food,Zambezi Select,Premium,Zambia,0,0.57,64.05,93.99
+P0445,Baobab Home Toys 1.8kg,Baby & Kids,Toys,Baobab Home,Standard,South Africa,1,1.81,79.08,116.99
+P0446,Mopane Plus Nappies 3.9kg,Baby & Kids,Nappies,Mopane Plus,Standard,South Africa,1,3.92,123.51,257.0
+P0447,Zambezi Prestige Nappies 1.0kg,Baby & Kids,Nappies,Zambezi Prestige,Premium,Tanzania,1,1.02,170.88,274.99
+P0448,Zambezi Basics Baby Food 730g,Baby & Kids,Baby Food,Zambezi Basics,Value,Zambia,0,0.73,33.67,39.99
+P0449,Chisamba Home Baby Food 450g,Baby & Kids,Baby Food,Chisamba Home,Standard,Zambia,0,0.45,81.49,109.0
+P0450,Mukuba Everyday Baby Food 490g,Baby & Kids,Baby Food,Mukuba Everyday,Value,Zambia,0,0.49,55.39,63.99
+P0451,Lozi Co. Nappies 3.9kg,Baby & Kids,Nappies,Lozi Co.,Standard,China,1,3.95,152.03,244.99
+P0452,Mweru Select Baby Food 480g,Baby & Kids,Baby Food,Mweru Select,Premium,Zambia,0,0.48,119.0,188.0
+P0453,Zambezi Co. Toys 330g,Baby & Kids,Toys,Zambezi Co.,Standard,Zambia,0,0.33,169.52,248.5
+P0454,Mosi Basics Baby Food 860g,Baby & Kids,Baby Food,Mosi Basics,Value,Zambia,0,0.86,39.66,63.0
+P0455,Msasa Select Nappies 1.6kg,Baby & Kids,Nappies,Msasa Select,Premium,Zambia,0,1.57,256.82,458.0
+P0456,Baobab Home Toys 770g,Baby & Kids,Toys,Baobab Home,Standard,Zambia,0,0.77,195.44,346.5
+P0457,Copperline Choice Baby Food 960g,Baby & Kids,Baby Food,Copperline Choice,Value,South Africa,1,0.96,62.63,101.5
+P0458,Bangweulu Select Nappies 2.3kg,Baby & Kids,Nappies,Bangweulu Select,Premium,South Africa,1,2.31,160.71,230.99
+P0459,Mutanda Co. Toys 1.9kg,Baby & Kids,Toys,Mutanda Co.,Standard,Tanzania,1,1.94,483.43,807.0
+P0460,Mutanda Select Baby Food 970g,Baby & Kids,Baby Food,Mutanda Select,Premium,India,1,0.97,135.5,294.0
+P0461,Mweru Choice Nappies 2.8kg,Baby & Kids,Nappies,Mweru Choice,Value,Zambia,0,2.8,222.62,238.99
+P0462,Lozi Co. Baby Food 390g,Baby & Kids,Baby Food,Lozi Co.,Standard,Kenya,1,0.39,120.48,201.99
+P0463,Bangweulu Co. Baby Food 770g,Baby & Kids,Baby Food,Bangweulu Co.,Standard,Zambia,0,0.77,80.49,104.0
+P0464,Tanganyika Home Toys 1.5kg,Baby & Kids,Toys,Tanganyika Home,Standard,Kenya,1,1.5,168.2,302.0
+P0465,Mosi Plus Nappies 4.0kg,Baby & Kids,Nappies,Mosi Plus,Standard,Zambia,0,3.95,202.89,386.0
+P0466,Mosi Basics Toys 1.8kg,Baby & Kids,Toys,Mosi Basics,Value,Zambia,0,1.79,262.27,377.5
+P0467,Zambezi Everyday Baby Food 960g,Baby & Kids,Baby Food,Zambezi Everyday,Value,Zambia,0,0.96,55.12,80.0
+P0468,Bangweulu Select Baby Food 940g,Baby & Kids,Baby Food,Bangweulu Select,Premium,Zambia,0,0.94,125.73,234.99
+P0469,Bangweulu Home Toys 1.7kg,Baby & Kids,Toys,Bangweulu Home,Standard,Tanzania,1,1.71,150.33,282.0
+P0470,Ngoma Gold Baby Food 460g,Baby & Kids,Baby Food,Ngoma Gold,Premium,Zambia,0,0.46,78.82,125.5
+P0471,Tonga Home Nappies 1.4kg,Baby & Kids,Nappies,Tonga Home,Standard,United Arab Emirates,1,1.36,108.17,219.99
+P0472,Copperline Home Baby Food 900g,Baby & Kids,Baby Food,Copperline Home,Standard,South Africa,1,0.9,55.91,86.0
+P0473,Zambezi Home Baby Food 680g,Baby & Kids,Baby Food,Zambezi Home,Standard,Zambia,0,0.68,68.52,93.0
+P0474,Kalambo Basics Toys 1.5kg,Baby & Kids,Toys,Kalambo Basics,Value,South Africa,1,1.46,40.0,57.5
+P0475,Kasanka Choice Toys 1.7kg,Baby & Kids,Toys,Kasanka Choice,Value,Zambia,0,1.67,329.19,466.0
+P0476,Copperline Home Toys 1.9kg,Baby & Kids,Toys,Copperline Home,Standard,South Africa,1,1.86,169.38,260.5
+P0477,Mulungushi Basics Toys 1.9kg,Baby & Kids,Toys,Mulungushi Basics,Value,South Africa,1,1.86,283.6,358.0
+P0478,Mopane Basics Toys 530g,Baby & Kids,Toys,Mopane Basics,Value,South Africa,1,0.53,219.36,268.0
+P0479,Tanganyika Everyday Nappies 1.3kg,Baby & Kids,Nappies,Tanganyika Everyday,Value,United Arab Emirates,1,1.34,121.47,148.0
+P0480,Savanna Home Baby Food 530g,Baby & Kids,Baby Food,Savanna Home,Standard,South Africa,1,0.53,97.59,144.0
+P0481,Kwacha Gold Nappies 3.3kg,Baby & Kids,Nappies,Kwacha Gold,Premium,South Africa,1,3.29,235.89,434.0
+P0482,Tanganyika Choice Toys 1.0kg,Baby & Kids,Toys,Tanganyika Choice,Value,China,1,1.03,58.68,61.0
+P0483,Kariba Gold Baby Food 420g,Baby & Kids,Baby Food,Kariba Gold,Premium,Zambia,0,0.42,93.57,169.0
+P0484,Luangwa Everyday Toys 310g,Baby & Kids,Toys,Luangwa Everyday,Value,United Arab Emirates,1,0.31,212.09,222.0
+P0485,Tonga Basics Nappies 3.7kg,Baby & Kids,Nappies,Tonga Basics,Value,Zambia,0,3.67,70.0,96.0
+P0486,Tonga Select Nappies 3.0kg,Baby & Kids,Nappies,Tonga Select,Premium,Tanzania,1,3.01,163.19,245.0
+P0487,Mulungushi Choice Cookware 940g,Home & Kitchen,Cookware,Mulungushi Choice,Value,South Africa,1,0.94,90.0,129.5
+P0488,Kwacha Select Storage 2.3kg,Home & Kitchen,Storage,Kwacha Select,Premium,Zambia,0,2.35,283.32,546.0
+P0489,Savanna Prestige Bedding 1.5kg,Home & Kitchen,Bedding,Savanna Prestige,Premium,South Africa,1,1.55,607.4,829.99
+P0490,Mukuba Co. Tableware 2.0kg,Home & Kitchen,Tableware,Mukuba Co.,Standard,Tanzania,1,2.03,292.89,419.0
+P0491,Savanna Co. Bedding 3.4kg,Home & Kitchen,Bedding,Savanna Co.,Standard,Zambia,0,3.44,500.52,772.0
+P0492,Copperline Home Cookware 860g,Home & Kitchen,Cookware,Copperline Home,Standard,Kenya,1,0.86,353.8,469.0
+P0493,Savanna Home Storage 2.1kg,Home & Kitchen,Storage,Savanna Home,Standard,South Africa,1,2.12,185.76,383.0
+P0494,Chilenje Gold Storage 1.7kg,Home & Kitchen,Storage,Chilenje Gold,Premium,China,1,1.68,263.22,448.0
+P0495,Copperline Basics Cookware 3.4kg,Home & Kitchen,Cookware,Copperline Basics,Value,Zambia,0,3.42,148.85,271.99
+P0496,Tanganyika Home Storage 1.7kg,Home & Kitchen,Storage,Tanganyika Home,Standard,Zambia,0,1.71,192.9,288.5
+P0497,Chilenje Everyday Bedding 2.6kg,Home & Kitchen,Bedding,Chilenje Everyday,Value,South Africa,1,2.61,175.99,217.0
+P0498,Zambezi Co. Tableware 2.2kg,Home & Kitchen,Tableware,Zambezi Co.,Standard,Zambia,0,2.17,416.36,669.5
+P0499,Kalambo Co. Storage 1.9kg,Home & Kitchen,Storage,Kalambo Co.,Standard,Kenya,1,1.85,233.37,384.0
+P0500,Chilenje Basics Cookware 4.5kg,Home & Kitchen,Cookware,Chilenje Basics,Value,Zambia,0,4.54,371.24,661.0
+P0501,Mweru Select Storage 2.6kg,Home & Kitchen,Storage,Mweru Select,Premium,Zambia,0,2.61,204.06,346.5
+P0502,Luangwa Co. Storage 2.7kg,Home & Kitchen,Storage,Luangwa Co.,Standard,Zambia,0,2.72,114.98,183.99
+P0503,Mopane Gold Bedding 1.4kg,Home & Kitchen,Bedding,Mopane Gold,Premium,Zambia,0,1.4,566.69,941.99
+P0504,Tanganyika Basics Bedding 2.7kg,Home & Kitchen,Bedding,Tanganyika Basics,Value,Zambia,0,2.68,194.9,224.0
+P0505,Chisamba Everyday Bedding 1.7kg,Home & Kitchen,Bedding,Chisamba Everyday,Value,China,1,1.7,150.0,199.5
+P0506,Zambezi Home Tableware 1.5kg,Home & Kitchen,Tableware,Zambezi Home,Standard,South Africa,1,1.53,335.4,717.0
+P0507,Mopane Home Bedding 2.8kg,Home & Kitchen,Bedding,Mopane Home,Standard,South Africa,1,2.84,326.79,481.0
+P0508,Kabulonga Gold Cookware 4.2kg,Home & Kitchen,Cookware,Kabulonga Gold,Premium,Zambia,0,4.19,455.69,872.99
+P0509,Kwacha Everyday Cookware 1.6kg,Home & Kitchen,Cookware,Kwacha Everyday,Value,South Africa,1,1.59,395.19,606.99
+P0510,Kwacha Plus Bedding 3.4kg,Home & Kitchen,Bedding,Kwacha Plus,Standard,Zambia,0,3.35,818.45,1315.0
+P0511,Tanganyika Prestige Cookware 4.8kg,Home & Kitchen,Cookware,Tanganyika Prestige,Premium,China,1,4.76,820.5,1297.0
+P0512,Kasanka Home Tableware 1.4kg,Home & Kitchen,Tableware,Kasanka Home,Standard,South Africa,1,1.39,148.7,327.5
+P0513,Mweru Basics Bedding 2.8kg,Home & Kitchen,Bedding,Mweru Basics,Value,Kenya,1,2.83,710.16,1319.99
+P0514,Mutanda Basics Storage 3.0kg,Home & Kitchen,Storage,Mutanda Basics,Value,South Africa,1,2.96,147.47,274.99
+P0515,Zambezi Everyday Storage 420g,Home & Kitchen,Storage,Zambezi Everyday,Value,Zambia,0,0.42,181.38,262.0
+P0516,Bangweulu Basics Cookware 4.6kg,Home & Kitchen,Cookware,Bangweulu Basics,Value,China,1,4.58,461.34,610.0
+P0517,Mulungushi Plus Cookware 2.7kg,Home & Kitchen,Cookware,Mulungushi Plus,Standard,Zambia,0,2.75,596.09,983.99
+P0518,Lunsemfwa Home Bedding 3.5kg,Home & Kitchen,Bedding,Lunsemfwa Home,Standard,Zambia,0,3.48,630.59,1251.0
+P0519,Copperline Home Storage 2.4kg,Home & Kitchen,Storage,Copperline Home,Standard,South Africa,1,2.37,137.55,230.0
+P0520,Mukuba Everyday Tableware 1.0kg,Home & Kitchen,Tableware,Mukuba Everyday,Value,Tanzania,1,1.02,66.15,112.5
+P0521,Lunsemfwa Home Cookware 4.4kg,Home & Kitchen,Cookware,Lunsemfwa Home,Standard,China,1,4.44,384.44,496.0
+P0522,Zambezi Co. Tableware 1.5kg,Home & Kitchen,Tableware,Zambezi Co.,Standard,Zambia,0,1.46,182.69,227.0
+P0523,Msasa Plus Cookware 2.0kg,Home & Kitchen,Cookware,Msasa Plus,Standard,China,1,2.02,517.74,846.0
+P0524,Sunrise Co. Tableware 1.2kg,Home & Kitchen,Tableware,Sunrise Co.,Standard,India,1,1.24,156.01,228.0
+P0525,Tanganyika Prestige Storage 1.5kg,Home & Kitchen,Storage,Tanganyika Prestige,Premium,China,1,1.53,182.18,350.0
+P0526,Mutanda Home Cookware 4.1kg,Home & Kitchen,Cookware,Mutanda Home,Standard,China,1,4.08,705.43,993.0
+P0527,Zambezi Co. Bedding 2.9kg,Home & Kitchen,Bedding,Zambezi Co.,Standard,Zambia,0,2.91,706.26,1223.0
+P0528,Mukuba Select Bedding 1.8kg,Home & Kitchen,Bedding,Mukuba Select,Premium,Zambia,0,1.78,597.29,1340.0
+P0529,Mweru Select Storage 1.0kg,Home & Kitchen,Storage,Mweru Select,Premium,Zambia,0,1.05,175.65,285.0
+P0530,Tonga Basics Storage 1.6kg,Home & Kitchen,Storage,Tonga Basics,Value,South Africa,1,1.65,211.59,301.0
+P0531,Lunsemfwa Everyday Cookware 3.3kg,Home & Kitchen,Cookware,Lunsemfwa Everyday,Value,Zambia,0,3.26,310.82,502.0
+P0532,Tonga Basics Tableware 850g,Home & Kitchen,Tableware,Tonga Basics,Value,China,1,0.85,259.38,370.0
+P0533,Kabulonga Everyday Bedding 2.7kg,Home & Kitchen,Bedding,Kabulonga Everyday,Value,South Africa,1,2.67,482.95,962.0
+P0534,Mweru Basics Cookware 1.5kg,Home & Kitchen,Cookware,Mweru Basics,Value,Zambia,0,1.5,581.05,892.0
+P0535,Kariba Basics Bedding 3.4kg,Home & Kitchen,Bedding,Kariba Basics,Value,United Arab Emirates,1,3.38,601.98,987.99
+P0536,Mweru Prestige Cookware 2.2kg,Home & Kitchen,Cookware,Mweru Prestige,Premium,Zambia,0,2.2,825.11,1307.99
+P0537,Nsefu Everyday Tableware 2.2kg,Home & Kitchen,Tableware,Nsefu Everyday,Value,India,1,2.24,126.08,175.5
+P0538,Tonga Basics Bedding 2.7kg,Home & Kitchen,Bedding,Tonga Basics,Value,Zambia,0,2.73,498.49,849.0
+P0539,Mopane Choice Cookware 1.3kg,Home & Kitchen,Cookware,Mopane Choice,Value,China,1,1.33,433.36,782.5
+P0540,Tonga Choice Tableware 800g,Home & Kitchen,Tableware,Tonga Choice,Value,Zambia,0,0.8,220.13,248.5
+P0541,Tanganyika Everyday Storage 530g,Home & Kitchen,Storage,Tanganyika Everyday,Value,United Arab Emirates,1,0.53,122.54,192.0
+P0542,Msasa Home Cookware 3.1kg,Home & Kitchen,Cookware,Msasa Home,Standard,China,1,3.07,223.67,403.5
+P0543,Kasanka Prestige Bedding 3.4kg,Home & Kitchen,Bedding,Kasanka Prestige,Premium,Zambia,0,3.42,1006.21,1998.5
+P0544,Kabulonga Home Cookware 4.8kg,Home & Kitchen,Cookware,Kabulonga Home,Standard,Zambia,0,4.78,181.54,346.0
+P0545,Nsefu Home Storage 1.4kg,Home & Kitchen,Storage,Nsefu Home,Standard,Zambia,0,1.38,204.65,288.0
+P0546,Chilenje Prestige Tableware 780g,Home & Kitchen,Tableware,Chilenje Prestige,Premium,Zambia,0,0.78,174.94,280.0
+P0547,Nsefu Basics Calculators 380g,Stationery,Calculators,Nsefu Basics,Value,Zambia,0,0.38,65.52,105.0
+P0548,Lozi Everyday Calculators 340g,Stationery,Calculators,Lozi Everyday,Value,South Africa,1,0.34,101.48,131.0
+P0549,Luangwa Prestige Calculators 280g,Stationery,Calculators,Luangwa Prestige,Premium,Zambia,0,0.28,262.35,598.0
+P0550,Mopane Plus Calculators 160g,Stationery,Calculators,Mopane Plus,Standard,Zambia,0,0.16,210.32,282.0
+P0551,Mosi Co. Exercise Books 450g,Stationery,Exercise Books,Mosi Co.,Standard,South Africa,1,0.45,32.06,56.99
+P0552,Kafue Everyday Calculators 310g,Stationery,Calculators,Kafue Everyday,Value,Zambia,0,0.31,108.21,184.5
+P0553,Mulungushi Choice Pens & Pencils 110g,Stationery,Pens & Pencils,Mulungushi Choice,Value,South Africa,1,0.11,23.84,46.0
+P0554,Mukuba Gold Calculators 130g,Stationery,Calculators,Mukuba Gold,Premium,Zambia,0,0.13,296.3,443.99
+P0555,Chilenje Choice Pens & Pencils 230g,Stationery,Pens & Pencils,Chilenje Choice,Value,South Africa,1,0.23,35.19,61.0
+P0556,Zambezi Choice Pens & Pencils 60g,Stationery,Pens & Pencils,Zambezi Choice,Value,China,1,0.06,49.38,79.5
+P0557,Mopane Plus School Bags 1.2kg,Stationery,School Bags,Mopane Plus,Standard,Tanzania,1,1.18,174.79,272.0
+P0558,Ngoma Plus School Bags 580g,Stationery,School Bags,Ngoma Plus,Standard,Zambia,0,0.58,345.25,526.5
+P0559,Mweru Prestige Calculators 380g,Stationery,Calculators,Mweru Prestige,Premium,Zambia,0,0.38,450.93,699.99
+P0560,Mulungushi Everyday Exercise Books 510g,Stationery,Exercise Books,Mulungushi Everyday,Value,Zambia,0,0.51,18.71,23.0
+P0561,Lozi Home Calculators 400g,Stationery,Calculators,Lozi Home,Standard,Zambia,0,0.4,218.19,360.99
+P0562,Luangwa Gold Pens & Pencils 250g,Stationery,Pens & Pencils,Luangwa Gold,Premium,South Africa,1,0.25,43.26,78.0
+P0563,Lozi Gold Exercise Books 740g,Stationery,Exercise Books,Lozi Gold,Premium,Zambia,0,0.74,80.0,155.99
+P0564,Savanna Select Exercise Books 1.1kg,Stationery,Exercise Books,Savanna Select,Premium,South Africa,1,1.14,48.68,100.5
+P0565,Kariba Home School Bags 600g,Stationery,School Bags,Kariba Home,Standard,China,1,0.6,274.9,403.0
+P0566,Chilenje Everyday Pens & Pencils 250g,Stationery,Pens & Pencils,Chilenje Everyday,Value,South Africa,1,0.25,28.03,59.0
+P0567,Mulungushi Co. Pens & Pencils 260g,Stationery,Pens & Pencils,Mulungushi Co.,Standard,South Africa,1,0.26,48.97,95.5
+P0568,Mulungushi Plus Exercise Books 350g,Stationery,Exercise Books,Mulungushi Plus,Standard,Zambia,0,0.35,37.85,59.99
+P0569,Kafue Select Pens & Pencils 160g,Stationery,Pens & Pencils,Kafue Select,Premium,Kenya,1,0.16,44.61,93.0
+P0570,Kafue Select Exercise Books 750g,Stationery,Exercise Books,Kafue Select,Premium,South Africa,1,0.75,43.76,92.99
+P0571,Kariba Co. Pens & Pencils 240g,Stationery,Pens & Pencils,Kariba Co.,Standard,Zambia,0,0.24,21.67,27.0
+P0572,Kasanka Home School Bags 400g,Stationery,School Bags,Kasanka Home,Standard,China,1,0.4,367.69,438.0
+P0573,Kabulonga Co. Exercise Books 710g,Stationery,Exercise Books,Kabulonga Co.,Standard,Zambia,0,0.71,15.32,37.99
+P0574,Mopane Choice School Bags 490g,Stationery,School Bags,Mopane Choice,Value,Zambia,0,0.49,120.01,180.5
+P0575,Tanganyika Co. School Bags 490g,Stationery,School Bags,Tanganyika Co.,Standard,South Africa,1,0.49,166.92,290.0
+P0576,Tanganyika Home Exercise Books 410g,Stationery,Exercise Books,Tanganyika Home,Standard,Zambia,0,0.41,40.56,64.0
+P0577,Lozi Home Exercise Books 1.4kg,Stationery,Exercise Books,Lozi Home,Standard,Zambia,0,1.41,46.4,77.0
+P0578,Mweru Everyday Calculators 150g,Stationery,Calculators,Mweru Everyday,Value,Zambia,0,0.15,135.2,249.99
+P0579,Kafue Prestige Calculators 330g,Stationery,Calculators,Kafue Prestige,Premium,South Africa,1,0.33,345.48,616.0
+P0580,Mulungushi Basics Calculators 260g,Stationery,Calculators,Mulungushi Basics,Value,United Arab Emirates,1,0.26,60.0,83.99
+P0581,Msasa Co. Pens & Pencils 70g,Stationery,Pens & Pencils,Msasa Co.,Standard,Zambia,0,0.07,11.19,15.0
+P0582,Baobab Basics School Bags 720g,Stationery,School Bags,Baobab Basics,Value,China,1,0.72,152.46,224.5
+P0583,Tanganyika Choice Calculators 380g,Stationery,Calculators,Tanganyika Choice,Value,Zambia,0,0.38,206.51,359.0
+P0584,Mukuba Gold Exercise Books 1.0kg,Stationery,Exercise Books,Mukuba Gold,Premium,Zambia,0,1.03,44.98,85.5
+P0585,Luangwa Choice Calculators 150g,Stationery,Calculators,Luangwa Choice,Value,Tanzania,1,0.15,278.1,382.0
+P0586,Kafue Plus Calculators 230g,Stationery,Calculators,Kafue Plus,Standard,Kenya,1,0.23,217.31,355.5
+P0587,Chisamba Plus Pens & Pencils 250g,Stationery,Pens & Pencils,Chisamba Plus,Standard,Tanzania,1,0.25,21.95,23.99
+P0588,Mosi Select Calculators 330g,Stationery,Calculators,Mosi Select,Premium,South Africa,1,0.33,334.47,501.0
+P0589,Chisamba Home Calculators 400g,Stationery,Calculators,Chisamba Home,Standard,Zambia,0,0.4,214.0,276.5
+P0590,Chilenje Basics Calculators 280g,Stationery,Calculators,Chilenje Basics,Value,Zambia,0,0.28,216.72,227.99
+P0591,Mulungushi Choice Calculators 300g,Stationery,Calculators,Mulungushi Choice,Value,South Africa,1,0.3,93.06,179.0
+P0592,Lunsemfwa Home Exercise Books 660g,Stationery,Exercise Books,Lunsemfwa Home,Standard,China,1,0.66,19.93,34.5
+P0593,Zambezi Choice School Bags 910g,Stationery,School Bags,Zambezi Choice,Value,South Africa,1,0.91,330.67,532.0
+P0594,Mukuba Plus School Bags 510g,Stationery,School Bags,Mukuba Plus,Standard,Zambia,0,0.51,134.88,202.99
+P0595,Mweru Everyday Exercise Books 290g,Stationery,Exercise Books,Mweru Everyday,Value,Tanzania,1,0.29,48.15,101.0
+P0596,Kafue Prestige Exercise Books 1.2kg,Stationery,Exercise Books,Kafue Prestige,Premium,Zambia,0,1.16,49.26,100.99
+P0597,Savanna Co. Exercise Books 1.4kg,Stationery,Exercise Books,Savanna Co.,Standard,Zambia,0,1.38,45.08,61.5
+P0598,Nsefu Basics Exercise Books 1.3kg,Stationery,Exercise Books,Nsefu Basics,Value,South Africa,1,1.29,39.5,66.5
+P0599,Kariba Co. Pens & Pencils 280g,Stationery,Pens & Pencils,Kariba Co.,Standard,South Africa,1,0.28,42.94,88.0
+P0600,Kariba Everyday School Bags 500g,Stationery,School Bags,Kariba Everyday,Value,China,1,0.5,233.5,331.99

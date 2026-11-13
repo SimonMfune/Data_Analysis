@@ -1,0 +1,1001 @@
+review_id,review_date,province,category,rating,review_text
+RV00009,2023-01-10,Lusaka,Groceries,5,"Friendly staff at the pickup point. Came earlier than expected, well done."
+RV00021,2023-01-17,Central,Health & Beauty,3,"Late delivery, I had to call them twice. Fair price compared to the shops."
+RV00034,2023-01-22,Central,Groceries,4,"Came earlier than expected, well done. The discount made it worth it."
+RV00061,2023-01-31,Copperbelt,Stationery,5,"Delivery was fast, arrived the next day. Quality is better than what I find in town."
+RV00063,2023-01-31,Central,Electronics,3,The courier could not find my house. They kept me updated throughout.
+RV00078,2023-02-04,Northern,Groceries,5,"Came earlier than expected, well done. Mobile money payment went through instantly."
+RV00079,2023-02-05,Copperbelt,Groceries,5,Friendly staff at the pickup point. Mobile money payment went through instantly.
+RV00083,2023-02-05,Copperbelt,Home & Kitchen,3,"Price went up since last month. Good quality, exactly as pictured."
+RV00085,2023-02-06,Central,Electronics,4,"Fair price compared to the shops. Original product, very happy."
+RV00090,2023-02-07,Lusaka,Household,4,The laundry is strong and well made. Mobile money payment went through instantly.
+RV00093,2023-02-08,Eastern,Household,5,Customer care on WhatsApp answered quickly. Cheaper than Kamwala and no transport costs.
+RV00095,2023-02-09,Lusaka,Electronics,4,"The driver called before arriving, very professional. Quality is better than what I find in town. Keep it up KB."
+RV00097,2023-02-09,Central,Home & Kitchen,4,"Friendly staff at the pickup point. Delivery was fast, arrived the next day. Keep it up KB."
+RV00104,2023-02-11,Eastern,Household,4,"Easy checkout on the app. Came earlier than expected, well done."
+RV00114,2023-02-14,Northern,Health & Beauty,4,"Came earlier than expected, well done. Mobile money payment went through instantly."
+RV00117,2023-02-15,Lusaka,Fashion,5,The footwear is strong and well made. Customer care on WhatsApp answered quickly.
+RV00122,2023-02-17,Eastern,Stationery,5,"Delivered to Katete on time, no stress. Original product, very happy."
+RV00135,2023-02-19,Eastern,Groceries,5,"Good value for money. Delivered to Petauke on time, no stress."
+RV00134,2023-02-19,Western,Health & Beauty,5,Paying with Zamtel Kwacha was smooth. The discount made it worth it.
+RV00140,2023-02-20,Luapula,Stationery,2,"Delivery to Samfya took too long. Waited almost a week, no updates."
+RV00158,2023-02-27,Lusaka,Stationery,3,"The courier could not find my house. Came earlier than expected, well done. Natotela!"
+RV00176,2023-03-03,Muchinga,Electronics,3,The phone accessories broke after a few days. Good value for money. Keep it up KB.
+RV00188,2023-03-06,Lusaka,Groceries,4,The discount made it worth it. Easy checkout on the app.
+RV00187,2023-03-06,Lusaka,Electronics,5,"Came earlier than expected, well done. Original product, very happy."
+RV00209,2023-03-12,Lusaka,Fashion,4,Paying with Airtel Money was smooth. They kept me updated throughout.
+RV00208,2023-03-12,Lusaka,Home & Kitchen,4,Mobile money payment went through instantly. Friendly staff at the pickup point.
+RV00213,2023-03-13,Southern,Household,4,They kept me updated throughout. Good value for money.
+RV00225,2023-03-16,Eastern,Groceries,4,"Original product, very happy. Paying with Zamtel Kwacha was smooth."
+RV00240,2023-03-18,Northern,Fashion,3,Delivery to Mbala took too long. Mobile money payment went through instantly.
+RV00239,2023-03-18,Northern,Baby & Kids,4,Easy checkout on the app. Cheaper than Kamwala and no transport costs.
+RV00235,2023-03-18,Eastern,Electronics,4,Mobile money payment went through instantly. Good value for money.
+RV00259,2023-03-26,Luapula,Fashion,4,"They kept me updated throughout. Came earlier than expected, well done."
+RV00261,2023-03-26,Southern,Groceries,3,"Waited almost a week, no updates. Good quality, exactly as pictured."
+RV00282,2023-03-30,Lusaka,Home & Kitchen,5,Easy checkout on the app. Fair price compared to the shops.
+RV00306,2023-04-05,Lusaka,Baby & Kids,5,Friendly staff at the pickup point. Paying with Zamtel Kwacha was smooth. Keep it up KB.
+RV00308,2023-04-05,Copperbelt,Fashion,4,"Easy checkout on the app. Original product, very happy."
+RV00318,2023-04-08,Northern,Health & Beauty,3,"Nobody at the pickup point knew about my order. The driver called before arriving, very professional."
+RV00327,2023-04-10,Lusaka,Household,4,"Good quality, exactly as pictured. The discount made it worth it. Natotela!"
+RV00324,2023-04-10,Lusaka,Household,4,Quality is better than what I find in town. Good value for money.
+RV00332,2023-04-11,Copperbelt,Household,4,"Customer care on WhatsApp answered quickly. Delivered to Ndola on time, no stress."
+RV00337,2023-04-12,North-Western,Groceries,4,"Paying with Zamtel Kwacha was smooth. Delivery was fast, arrived the next day."
+RV00335,2023-04-12,Lusaka,Groceries,4,"Came earlier than expected, well done. Paying with Zamtel Kwacha was smooth."
+RV00347,2023-04-16,Lusaka,Electronics,5,Easy checkout on the app. Customer care on WhatsApp answered quickly.
+RV00350,2023-04-17,Lusaka,Groceries,3,"Had to explain my problem three times. Delivery was fast, arrived the next day."
+RV00360,2023-04-20,Lusaka,Home & Kitchen,5,"Good value for money. Original product, very happy."
+RV00361,2023-04-20,Southern,Groceries,5,"Easy checkout on the app. Delivered to Mazabuka on time, no stress."
+RV00381,2023-04-25,Western,Groceries,4,Easy checkout on the app. They kept me updated throughout.
+RV00385,2023-04-26,Copperbelt,Household,1,"Not the same as the picture. Waited almost a week, no updates."
+RV00398,2023-04-29,Central,Home & Kitchen,5,The bedding is strong and well made. Customer care on WhatsApp answered quickly.
+RV00405,2023-04-30,Lusaka,Baby & Kids,4,"The baby food is strong and well made. Delivered to Lusaka on time, no stress."
+RV00435,2023-05-07,Lusaka,Household,3,"Poor quality, would not buy again. They kept me updated throughout."
+RV00444,2023-05-10,Copperbelt,Electronics,2,"Late delivery, I had to call them twice. Customer care did not respond."
+RV00464,2023-05-14,Lusaka,Stationery,5,"The school bags is strong and well made. Delivery was fast, arrived the next day."
+RV00465,2023-05-15,North-Western,Groceries,4,The kapenta & fish is strong and well made. The discount made it worth it.
+RV00475,2023-05-17,Lusaka,Groceries,4,Mobile money payment went through instantly. Quality is better than what I find in town. Keep it up KB.
+RV00485,2023-05-19,Copperbelt,Groceries,4,Fair price compared to the shops. Quality is better than what I find in town.
+RV00487,2023-05-19,Lusaka,Groceries,3,The courier could not find my house. Fair price compared to the shops.
+RV00504,2023-05-25,Copperbelt,Stationery,4,"Mobile money payment went through instantly. Delivery was fast, arrived the next day."
+RV00513,2023-05-26,Luapula,Fashion,3,"Delivery to Kawambwa took too long. Original product, very happy."
+RV00512,2023-05-26,Central,Groceries,5,"Good quality, exactly as pictured. Mobile money payment went through instantly."
+RV00531,2023-05-29,Southern,Groceries,4,"The driver called before arriving, very professional. Customer care on WhatsApp answered quickly."
+RV00567,2023-06-06,Lusaka,Electronics,3,"Waited almost a week, no updates. Cheaper than Kamwala and no transport costs."
+RV00582,2023-06-07,Lusaka,Stationery,4,"Came earlier than expected, well done. Original product, very happy."
+RV00581,2023-06-07,Copperbelt,Baby & Kids,3,The nappies broke after a few days. The discount made it worth it. Zikomo!
+RV00588,2023-06-09,Northern,Fashion,5,"The discount made it worth it. Came earlier than expected, well done."
+RV00589,2023-06-10,Eastern,Baby & Kids,4,"Friendly staff at the pickup point. Good quality, exactly as pictured."
+RV00591,2023-06-10,Lusaka,Fashion,1,The school uniforms broke after a few days. The school uniforms broke after a few days.
+RV00602,2023-06-13,Luapula,Groceries,4,Quality is better than what I find in town. Mobile money payment went through instantly.
+RV00605,2023-06-13,Southern,Stationery,4,Mobile money payment went through instantly. Customer care on WhatsApp answered quickly.
+RV00613,2023-06-15,Lusaka,Fashion,5,Customer care on WhatsApp answered quickly. Fair price compared to the shops. Natotela!
+RV00620,2023-06-16,Copperbelt,Groceries,1,Not the same as the picture. Too expensive for what you get.
+RV00614,2023-06-16,Copperbelt,Home & Kitchen,4,Mobile money payment went through instantly. Customer care on WhatsApp answered quickly.
+RV00643,2023-06-21,Muchinga,Home & Kitchen,3,Refund is taking too long. The cookware is strong and well made.
+RV00652,2023-06-23,Copperbelt,Groceries,3,I was charged but the order showed unpaid. Good value for money.
+RV00654,2023-06-24,Northern,Groceries,5,"Original product, very happy. Mobile money payment went through instantly."
+RV00658,2023-06-25,Northern,Baby & Kids,5,"Delivered to Mporokoso on time, no stress. The discount made it worth it."
+RV00680,2023-06-29,Central,Groceries,5,"Good value for money. Original product, very happy."
+RV00692,2023-07-01,Muchinga,Fashion,5,Easy checkout on the app. They kept me updated throughout.
+RV00702,2023-07-02,Copperbelt,Household,4,The cleaning is strong and well made. Good value for money.
+RV00696,2023-07-02,Southern,Stationery,4,"The driver called before arriving, very professional. They kept me updated throughout."
+RV00700,2023-07-02,Lusaka,Stationery,4,"The driver called before arriving, very professional. Paying with MTN MoMo was smooth."
+RV00707,2023-07-04,Lusaka,Electronics,3,Airtel Money payment failed twice before it worked. Friendly staff at the pickup point.
+RV00708,2023-07-04,Muchinga,Home & Kitchen,5,Fair price compared to the shops. Paying with Zamtel Kwacha was smooth.
+RV00716,2023-07-06,Lusaka,Groceries,5,Paying with Zamtel Kwacha was smooth. Cheaper than Kamwala and no transport costs.
+RV00718,2023-07-06,Eastern,Groceries,4,Paying with Airtel Money was smooth. Fair price compared to the shops.
+RV00719,2023-07-06,Copperbelt,Stationery,5,"Quality is better than what I find in town. Came earlier than expected, well done."
+RV00733,2023-07-08,Copperbelt,Household,5,"Delivery was fast, arrived the next day. Customer care on WhatsApp answered quickly. Zikomo!"
+RV00739,2023-07-09,Central,Electronics,5,"Easy checkout on the app. The driver called before arriving, very professional."
+RV00753,2023-07-12,Southern,Home & Kitchen,4,"Came earlier than expected, well done. Easy checkout on the app."
+RV00757,2023-07-13,Copperbelt,Health & Beauty,4,Mobile money payment went through instantly. Cheaper than Kamwala and no transport costs.
+RV00763,2023-07-14,Lusaka,Groceries,4,"They kept me updated throughout. Original product, very happy."
+RV00772,2023-07-15,Copperbelt,Stationery,5,"Customer care on WhatsApp answered quickly. Came earlier than expected, well done."
+RV00771,2023-07-15,Lusaka,Groceries,2,"Price went up since last month. Waited almost a week, no updates."
+RV00776,2023-07-16,Eastern,Stationery,5,"Delivered to Chipata on time, no stress. Paying with MTN MoMo was smooth."
+RV00791,2023-07-18,Lusaka,Health & Beauty,2,Airtel Money payment failed twice before it worked. Delivery to Kafue took too long.
+RV00795,2023-07-19,Copperbelt,Electronics,3,"Delivery to Ndola took too long. Original product, very happy."
+RV00804,2023-07-22,Southern,Electronics,4,The audio is strong and well made. Paying with Zamtel Kwacha was smooth. Keep it up KB.
+RV00812,2023-07-23,Copperbelt,Baby & Kids,5,Cheaper than Kamwala and no transport costs. The baby food is strong and well made.
+RV00819,2023-07-24,Lusaka,Stationery,3,Packaging was damaged and the item scratched. Easy checkout on the app.
+RV00829,2023-07-25,Lusaka,Groceries,4,The discount made it worth it. They kept me updated throughout.
+RV00852,2023-07-29,Lusaka,Groceries,4,"The driver called before arriving, very professional. Customer care on WhatsApp answered quickly."
+RV00861,2023-07-30,Southern,Baby & Kids,4,"Customer care on WhatsApp answered quickly. Original product, very happy. Natotela!"
+RV00881,2023-08-03,Eastern,Electronics,3,"Late delivery, I had to call them twice. They kept me updated throughout."
+RV00879,2023-08-03,Eastern,Health & Beauty,3,Price went up since last month. The hair care is strong and well made.
+RV00915,2023-08-10,Eastern,Fashion,4,"Good value for money. Delivery was fast, arrived the next day."
+RV00916,2023-08-10,Lusaka,Home & Kitchen,2,Customer care did not respond. Refund is taking too long.
+RV00920,2023-08-11,Lusaka,Home & Kitchen,3,Refund is taking too long. Customer care on WhatsApp answered quickly.
+RV00930,2023-08-12,Copperbelt,Groceries,5,"Came earlier than expected, well done. Customer care on WhatsApp answered quickly."
+RV00925,2023-08-12,Lusaka,Groceries,3,Too expensive for what you get. Friendly staff at the pickup point.
+RV00953,2023-08-17,Western,Health & Beauty,5,Friendly staff at the pickup point. The discount made it worth it.
+RV00965,2023-08-18,Central,Groceries,4,"Paying with Zamtel Kwacha was smooth. The driver called before arriving, very professional."
+RV00967,2023-08-19,Western,Groceries,5,Cheaper than Kamwala and no transport costs. Quality is better than what I find in town.
+RV00980,2023-08-21,Lusaka,Fashion,4,"Cheaper than Kamwala and no transport costs. Original product, very happy."
+RV00989,2023-08-23,Lusaka,Groceries,4,Friendly staff at the pickup point. The discount made it worth it.
+RV00986,2023-08-23,Southern,Household,1,"Late delivery, I had to call them twice. Refund is taking too long."
+RV00992,2023-08-23,Lusaka,Electronics,4,The audio is strong and well made. Friendly staff at the pickup point.
+RV01008,2023-08-27,Lusaka,Fashion,5,"Original product, very happy. The driver called before arriving, very professional."
+RV01025,2023-08-30,Southern,Health & Beauty,3,The courier could not find my house. They kept me updated throughout.
+RV01042,2023-09-03,Lusaka,Health & Beauty,5,Fair price compared to the shops. The first aid is strong and well made.
+RV01053,2023-09-05,Copperbelt,Baby & Kids,5,Fair price compared to the shops. Customer care on WhatsApp answered quickly.
+RV01055,2023-09-05,Muchinga,Groceries,4,The cooking oil is strong and well made. Customer care on WhatsApp answered quickly. Twalumba.
+RV01085,2023-09-09,Central,Electronics,4,"Fair price compared to the shops. Original product, very happy."
+RV01108,2023-09-12,Lusaka,Baby & Kids,4,"Cheaper than Kamwala and no transport costs. Original product, very happy."
+RV01114,2023-09-14,Lusaka,Stationery,4,"Came earlier than expected, well done. Original product, very happy."
+RV01117,2023-09-14,Central,Stationery,4,"Customer care on WhatsApp answered quickly. The driver called before arriving, very professional."
+RV01133,2023-09-17,Lusaka,Fashion,3,Customer care did not respond. Cheaper than Kamwala and no transport costs.
+RV01132,2023-09-17,Luapula,Electronics,3,"Delivery fee is too high for Luapula. Delivery was fast, arrived the next day."
+RV01138,2023-09-18,Southern,Health & Beauty,3,"The skin care broke after a few days. Delivered to Choma on time, no stress."
+RV01146,2023-09-19,Copperbelt,Stationery,5,"Delivered to Luanshya on time, no stress. Easy checkout on the app. Keep it up KB."
+RV01147,2023-09-20,Southern,Baby & Kids,2,"Waited almost a week, no updates. Too expensive for what you get."
+RV01150,2023-09-21,Western,Groceries,5,"The driver called before arriving, very professional. Fair price compared to the shops. Zikomo!"
+RV01154,2023-09-21,North-Western,Baby & Kids,3,I was charged but the order showed unpaid. Quality is better than what I find in town.
+RV01168,2023-09-23,Copperbelt,Stationery,2,"Poor quality, would not buy again. The courier could not find my house."
+RV01166,2023-09-23,Copperbelt,Home & Kitchen,4,"Delivered to Luanshya on time, no stress. The bedding is strong and well made."
+RV01184,2023-09-26,Lusaka,Health & Beauty,2,"Customer care did not respond. Late delivery, I had to call them twice."
+RV01192,2023-09-27,Lusaka,Groceries,4,The canned foods is strong and well made. Easy checkout on the app. Natotela!
+RV01197,2023-09-28,Southern,Stationery,4,Customer care on WhatsApp answered quickly. Fair price compared to the shops.
+RV01210,2023-09-29,North-Western,Health & Beauty,3,"Had to explain my problem three times. Came earlier than expected, well done."
+RV01204,2023-09-29,Lusaka,Baby & Kids,4,"Delivered to Kafue on time, no stress. They kept me updated throughout."
+RV01211,2023-09-30,Northern,Household,5,Friendly staff at the pickup point. The candles & lighting is strong and well made.
+RV01221,2023-10-01,Western,Home & Kitchen,5,"The discount made it worth it. Delivery was fast, arrived the next day."
+RV01230,2023-10-02,Copperbelt,Health & Beauty,4,"The driver called before arriving, very professional. Paying with Zamtel Kwacha was smooth."
+RV01234,2023-10-03,Lusaka,Baby & Kids,3,The baby food broke after a few days. Paying with Airtel Money was smooth.
+RV01243,2023-10-04,North-Western,Home & Kitchen,3,Too expensive for what you get. The tableware is strong and well made.
+RV01236,2023-10-04,Copperbelt,Health & Beauty,3,I was charged but the order showed unpaid. The skin care is strong and well made.
+RV01238,2023-10-04,Central,Baby & Kids,5,"Good value for money. Delivered to Mkushi on time, no stress."
+RV01249,2023-10-05,Central,Fashion,4,"The driver called before arriving, very professional. Easy checkout on the app."
+RV01247,2023-10-05,Copperbelt,Stationery,5,They kept me updated throughout. Good value for money.
+RV01252,2023-10-06,Lusaka,Stationery,4,They kept me updated throughout. Paying with MTN MoMo was smooth.
+RV01261,2023-10-08,Lusaka,Fashion,4,"Original product, very happy. Fair price compared to the shops."
+RV01276,2023-10-10,Northern,Health & Beauty,5,They kept me updated throughout. The discount made it worth it.
+RV01288,2023-10-11,Copperbelt,Stationery,5,"Delivered to Chingola on time, no stress. Good quality, exactly as pictured."
+RV01289,2023-10-11,Lusaka,Stationery,5,The school bags is strong and well made. Easy checkout on the app.
+RV01300,2023-10-12,Lusaka,Groceries,2,Price went up since last month. The canned foods broke after a few days.
+RV01290,2023-10-12,Lusaka,Stationery,5,"Came earlier than expected, well done. Mobile money payment went through instantly."
+RV01303,2023-10-13,North-Western,Household,2,Delivery to Kasempa took too long. Customer care did not respond.
+RV01304,2023-10-13,Luapula,Groceries,5,"Delivery was fast, arrived the next day. Cheaper than Kamwala and no transport costs."
+RV01327,2023-10-19,Copperbelt,Groceries,4,"Delivered to Ndola on time, no stress. Good value for money."
+RV01341,2023-10-22,Luapula,Fashion,4,"The driver called before arriving, very professional. Friendly staff at the pickup point."
+RV01346,2023-10-24,Eastern,Health & Beauty,5,Friendly staff at the pickup point. The skin care is strong and well made.
+RV01363,2023-10-26,Copperbelt,Groceries,3,"Poor quality, would not buy again. Came earlier than expected, well done. Zikomo!"
+RV01362,2023-10-26,Central,Home & Kitchen,4,The bedding is strong and well made. Mobile money payment went through instantly.
+RV01370,2023-10-27,Lusaka,Electronics,3,"Waited almost a week, no updates. Mobile money payment went through instantly."
+RV01381,2023-10-29,Copperbelt,Health & Beauty,5,"The driver called before arriving, very professional. Good value for money."
+RV01385,2023-10-30,Lusaka,Stationery,2,Delivery to Lusaka took too long. Refund is taking too long.
+RV01397,2023-10-31,Western,Baby & Kids,5,"Quality is better than what I find in town. Delivery was fast, arrived the next day."
+RV01399,2023-10-31,Copperbelt,Groceries,3,"Customer care did not respond. Delivered to Ndola on time, no stress."
+RV01403,2023-11-01,Western,Electronics,4,The solar & power is strong and well made. Fair price compared to the shops.
+RV01404,2023-11-01,Lusaka,Fashion,3,Nobody at the pickup point knew about my order. Mobile money payment went through instantly.
+RV01458,2023-11-09,Lusaka,Groceries,5,"Delivery was fast, arrived the next day. Easy checkout on the app."
+RV01472,2023-11-11,Lusaka,Groceries,4,Good value for money. Friendly staff at the pickup point.
+RV01483,2023-11-12,Muchinga,Stationery,3,"Customer care did not respond. Delivered to Nakonde on time, no stress."
+RV01485,2023-11-12,Copperbelt,Groceries,4,"Delivered to Ndola on time, no stress. Fair price compared to the shops."
+RV01495,2023-11-13,Central,Groceries,3,"Late delivery, I had to call them twice. Paying with MTN MoMo was smooth."
+RV01501,2023-11-14,Lusaka,Stationery,4,Paying with Zamtel Kwacha was smooth. Customer care on WhatsApp answered quickly.
+RV01509,2023-11-15,Lusaka,Home & Kitchen,4,They kept me updated throughout. Cheaper than Kamwala and no transport costs. Natotela!
+RV01516,2023-11-16,Copperbelt,Baby & Kids,5,"Friendly staff at the pickup point. Came earlier than expected, well done."
+RV01515,2023-11-16,Copperbelt,Fashion,5,Friendly staff at the pickup point. Quality is better than what I find in town.
+RV01530,2023-11-18,Southern,Groceries,5,The snacks is strong and well made. Easy checkout on the app.
+RV01534,2023-11-18,Lusaka,Baby & Kids,4,Fair price compared to the shops. Paying with Airtel Money was smooth.
+RV01536,2023-11-18,Muchinga,Household,4,"Came earlier than expected, well done. Cheaper than Kamwala and no transport costs. Natotela!"
+RV01550,2023-11-20,Lusaka,Electronics,4,"The driver called before arriving, very professional. Good value for money."
+RV01558,2023-11-21,Lusaka,Home & Kitchen,5,"Fair price compared to the shops. Delivered to Lusaka on time, no stress."
+RV01565,2023-11-22,Western,Groceries,3,"Delivery fee is too high for Western. Good quality, exactly as pictured."
+RV01587,2023-11-26,Copperbelt,Household,4,"Cheaper than Kamwala and no transport costs. Delivery was fast, arrived the next day."
+RV01586,2023-11-26,Central,Groceries,4,"Good quality, exactly as pictured. Easy checkout on the app."
+RV01588,2023-11-27,Eastern,Household,4,They kept me updated throughout. Quality is better than what I find in town.
+RV01589,2023-11-27,Lusaka,Groceries,2,The snacks broke after a few days. Price went up since last month.
+RV01600,2023-11-28,Lusaka,Health & Beauty,5,"Delivery was fast, arrived the next day. Paying with MTN MoMo was smooth."
+RV01595,2023-11-28,Lusaka,Groceries,3,Delivery fee is too high for Lusaka. Friendly staff at the pickup point.
+RV01604,2023-11-29,Lusaka,Groceries,5,Easy checkout on the app. The discount made it worth it.
+RV01608,2023-11-30,Central,Home & Kitchen,5,Quality is better than what I find in town. Friendly staff at the pickup point. Zikomo!
+RV01605,2023-11-30,Copperbelt,Health & Beauty,4,"Paying with Zamtel Kwacha was smooth. Original product, very happy."
+RV01658,2023-12-06,Lusaka,Home & Kitchen,4,"Customer care on WhatsApp answered quickly. Came earlier than expected, well done."
+RV01681,2023-12-08,Southern,Electronics,4,Easy checkout on the app. Fair price compared to the shops.
+RV01700,2023-12-11,Copperbelt,Home & Kitchen,3,Delivery to Kitwe took too long. The discount made it worth it.
+RV01712,2023-12-12,Copperbelt,Groceries,4,"Original product, very happy. They kept me updated throughout."
+RV01717,2023-12-13,Lusaka,Fashion,4,Cheaper than Kamwala and no transport costs. Friendly staff at the pickup point. Natotela!
+RV01729,2023-12-15,Copperbelt,Household,3,"Waited almost a week, no updates. Customer care on WhatsApp answered quickly."
+RV01734,2023-12-15,Lusaka,Groceries,2,Nobody at the pickup point knew about my order. Delivery fee is too high for Lusaka.
+RV01735,2023-12-16,Lusaka,Fashion,4,Mobile money payment went through instantly. Fair price compared to the shops.
+RV01749,2023-12-18,Western,Fashion,3,Delivery to Kaoma took too long. Quality is better than what I find in town.
+RV01755,2023-12-19,Copperbelt,Baby & Kids,2,Not the same as the picture. The courier could not find my house.
+RV01763,2023-12-20,Lusaka,Fashion,1,The courier could not find my house. I was charged but the order showed unpaid.
+RV01760,2023-12-20,Luapula,Baby & Kids,4,"Cheaper than Kamwala and no transport costs. Delivered to Kawambwa on time, no stress."
+RV01791,2023-12-23,Southern,Health & Beauty,4,"Original product, very happy. Friendly staff at the pickup point."
+RV01790,2023-12-23,Lusaka,Health & Beauty,4,Fair price compared to the shops. Mobile money payment went through instantly.
+RV01798,2023-12-24,Copperbelt,Stationery,5,"Customer care on WhatsApp answered quickly. Came earlier than expected, well done."
+RV01801,2023-12-24,North-Western,Household,4,"Friendly staff at the pickup point. Delivered to Solwezi on time, no stress."
+RV01808,2023-12-25,Copperbelt,Fashion,4,Mobile money payment went through instantly. Customer care on WhatsApp answered quickly.
+RV01815,2023-12-26,Muchinga,Groceries,3,"Waited almost a week, no updates. Original product, very happy."
+RV01814,2023-12-26,Central,Stationery,4,Fair price compared to the shops. The calculators is strong and well made.
+RV01825,2023-12-27,Eastern,Groceries,4,"Delivered to Petauke on time, no stress. Customer care on WhatsApp answered quickly."
+RV01842,2023-12-29,Southern,Household,5,Customer care on WhatsApp answered quickly. Paying with Zamtel Kwacha was smooth.
+RV01850,2023-12-30,Copperbelt,Home & Kitchen,2,"Price went up since last month. Poor quality, would not buy again."
+RV01858,2023-12-31,Luapula,Household,2,The courier could not find my house. Packaging was damaged and the item scratched.
+RV01864,2024-01-01,Copperbelt,Groceries,2,Nobody at the pickup point knew about my order. Delivery to Luanshya took too long.
+RV01879,2024-01-03,Lusaka,Home & Kitchen,1,"Late delivery, I had to call them twice. I was charged but the order showed unpaid."
+RV01893,2024-01-04,Lusaka,Groceries,4,"Delivered to Kafue on time, no stress. Easy checkout on the app."
+RV01911,2024-01-07,Copperbelt,Household,5,They kept me updated throughout. Easy checkout on the app.
+RV01926,2024-01-09,Lusaka,Home & Kitchen,4,Cheaper than Kamwala and no transport costs. Quality is better than what I find in town.
+RV01934,2024-01-10,Lusaka,Household,4,Easy checkout on the app. Good value for money.
+RV01944,2024-01-11,Lusaka,Groceries,5,Easy checkout on the app. The discount made it worth it.
+RV01959,2024-01-14,Lusaka,Stationery,5,Mobile money payment went through instantly. Quality is better than what I find in town.
+RV01967,2024-01-15,Lusaka,Groceries,5,"Came earlier than expected, well done. Customer care on WhatsApp answered quickly."
+RV01968,2024-01-15,Southern,Baby & Kids,5,Good value for money. Easy checkout on the app.
+RV01997,2024-01-20,Lusaka,Groceries,4,"Mobile money payment went through instantly. Delivery was fast, arrived the next day."
+RV02003,2024-01-21,Eastern,Health & Beauty,4,"Friendly staff at the pickup point. Good quality, exactly as pictured."
+RV02015,2024-01-22,Eastern,Household,4,Quality is better than what I find in town. The discount made it worth it.
+RV02017,2024-01-23,Lusaka,Stationery,5,Friendly staff at the pickup point. Paying with MTN MoMo was smooth.
+RV02020,2024-01-24,Southern,Household,5,"The toiletries is strong and well made. Came earlier than expected, well done. Keep it up KB."
+RV02023,2024-01-25,Southern,Groceries,3,The courier could not find my house. The kapenta & fish is strong and well made.
+RV02035,2024-01-27,Copperbelt,Groceries,4,Customer care on WhatsApp answered quickly. Paying with Zamtel Kwacha was smooth.
+RV02042,2024-01-28,Lusaka,Household,5,"Fair price compared to the shops. Delivered to Kafue on time, no stress."
+RV02050,2024-01-30,Copperbelt,Home & Kitchen,4,Fair price compared to the shops. Customer care on WhatsApp answered quickly.
+RV02052,2024-01-30,Copperbelt,Health & Beauty,4,"The driver called before arriving, very professional. Good value for money."
+RV02108,2024-02-08,Lusaka,Stationery,4,"Delivered to Kafue on time, no stress. Customer care on WhatsApp answered quickly."
+RV02132,2024-02-12,Copperbelt,Stationery,4,"Good quality, exactly as pictured. Delivery was fast, arrived the next day."
+RV02136,2024-02-13,Northern,Groceries,4,"The discount made it worth it. Delivered to Mporokoso on time, no stress."
+RV02145,2024-02-14,Muchinga,Groceries,5,Customer care on WhatsApp answered quickly. Easy checkout on the app.
+RV02142,2024-02-14,Lusaka,Stationery,4,The pens & pencils is strong and well made. They kept me updated throughout.
+RV02155,2024-02-16,Copperbelt,Home & Kitchen,3,Packaging was damaged and the item scratched. Fair price compared to the shops.
+RV02163,2024-02-17,Central,Stationery,5,"Quality is better than what I find in town. Delivered to Kapiri Mposhi on time, no stress."
+RV02159,2024-02-17,Lusaka,Health & Beauty,3,Packaging was damaged and the item scratched. The discount made it worth it.
+RV02166,2024-02-17,Lusaka,Groceries,4,"Easy checkout on the app. The driver called before arriving, very professional."
+RV02161,2024-02-17,Lusaka,Groceries,2,Not the same as the picture. Delivery to Lusaka took too long.
+RV02177,2024-02-18,Southern,Stationery,5,"Good quality, exactly as pictured. Cheaper than Kamwala and no transport costs. Twalumba."
+RV02193,2024-02-21,Lusaka,Household,4,Fair price compared to the shops. They kept me updated throughout.
+RV02192,2024-02-21,Southern,Groceries,4,Quality is better than what I find in town. Customer care on WhatsApp answered quickly.
+RV02207,2024-02-23,Luapula,Fashion,4,Cheaper than Kamwala and no transport costs. The chitenge fabric is strong and well made.
+RV02232,2024-02-28,Lusaka,Groceries,4,Paying with Zamtel Kwacha was smooth. Cheaper than Kamwala and no transport costs.
+RV02231,2024-02-28,Lusaka,Health & Beauty,5,"Fair price compared to the shops. The driver called before arriving, very professional."
+RV02237,2024-02-29,Southern,Electronics,3,Delivery fee is too high for Southern. Mobile money payment went through instantly.
+RV02234,2024-02-29,Southern,Household,5,"Good quality, exactly as pictured. Customer care on WhatsApp answered quickly."
+RV02246,2024-03-02,Lusaka,Stationery,5,"The discount made it worth it. Delivery was fast, arrived the next day."
+RV02250,2024-03-03,Copperbelt,Household,4,Fair price compared to the shops. Easy checkout on the app.
+RV02264,2024-03-04,Lusaka,Fashion,4,"Cheaper than Kamwala and no transport costs. Came earlier than expected, well done."
+RV02275,2024-03-06,Copperbelt,Household,4,"Mobile money payment went through instantly. Good quality, exactly as pictured."
+RV02279,2024-03-06,Central,Health & Beauty,3,"Too expensive for what you get. Good quality, exactly as pictured."
+RV02283,2024-03-07,Copperbelt,Groceries,4,Fair price compared to the shops. Customer care on WhatsApp answered quickly.
+RV02292,2024-03-08,Southern,Groceries,5,"Easy checkout on the app. The driver called before arriving, very professional."
+RV02300,2024-03-09,Copperbelt,Fashion,3,Nobody at the pickup point knew about my order. The womenswear is strong and well made. Natotela!
+RV02299,2024-03-09,Muchinga,Health & Beauty,5,"They kept me updated throughout. Original product, very happy."
+RV02305,2024-03-10,Eastern,Home & Kitchen,3,"Late delivery, I had to call them twice. Paying with Zamtel Kwacha was smooth. Natotela!"
+RV02313,2024-03-11,Central,Groceries,5,Fair price compared to the shops. Paying with Airtel Money was smooth.
+RV02316,2024-03-11,Lusaka,Fashion,5,"Delivery was fast, arrived the next day. They kept me updated throughout."
+RV02310,2024-03-11,Central,Household,5,Friendly staff at the pickup point. Fair price compared to the shops.
+RV02323,2024-03-13,Lusaka,Fashion,4,The discount made it worth it. Paying with Airtel Money was smooth.
+RV02343,2024-03-15,North-Western,Household,4,"They kept me updated throughout. Original product, very happy."
+RV02341,2024-03-15,Copperbelt,Baby & Kids,5,Quality is better than what I find in town. Mobile money payment went through instantly.
+RV02346,2024-03-16,Lusaka,Health & Beauty,4,"Good quality, exactly as pictured. Paying with Airtel Money was smooth."
+RV02358,2024-03-18,Central,Stationery,3,Airtel Money payment failed twice before it worked. Good value for money.
+RV02362,2024-03-19,Western,Home & Kitchen,3,"Late delivery, I had to call them twice. Original product, very happy."
+RV02367,2024-03-20,Lusaka,Groceries,3,MTN MoMo payment failed twice before it worked. Quality is better than what I find in town.
+RV02379,2024-03-21,Copperbelt,Fashion,4,"Delivered to Kitwe on time, no stress. Cheaper than Kamwala and no transport costs."
+RV02383,2024-03-22,Lusaka,Household,5,"Mobile money payment went through instantly. Delivery was fast, arrived the next day."
+RV02385,2024-03-23,Copperbelt,Stationery,5,The exercise books is strong and well made. The discount made it worth it.
+RV02394,2024-03-24,Southern,Fashion,4,"Cheaper than Kamwala and no transport costs. Original product, very happy."
+RV02402,2024-03-26,Lusaka,Fashion,4,"Easy checkout on the app. Delivered to Chongwe on time, no stress."
+RV02408,2024-03-27,Luapula,Health & Beauty,5,Friendly staff at the pickup point. Quality is better than what I find in town.
+RV02416,2024-03-28,Copperbelt,Health & Beauty,4,"Delivery was fast, arrived the next day. Paying with Airtel Money was smooth."
+RV02424,2024-03-29,Copperbelt,Electronics,4,"Came earlier than expected, well done. They kept me updated throughout."
+RV02428,2024-03-29,Lusaka,Home & Kitchen,3,Delivery fee is too high for Lusaka. Easy checkout on the app.
+RV02451,2024-04-02,Lusaka,Health & Beauty,5,Good value for money. Easy checkout on the app.
+RV02456,2024-04-03,Lusaka,Baby & Kids,4,"Friendly staff at the pickup point. The driver called before arriving, very professional."
+RV02463,2024-04-04,Lusaka,Stationery,4,Good value for money. Mobile money payment went through instantly.
+RV02464,2024-04-04,Southern,Fashion,3,"Delivery fee is too high for Southern. Original product, very happy."
+RV02461,2024-04-04,Central,Groceries,5,They kept me updated throughout. Paying with Zamtel Kwacha was smooth.
+RV02468,2024-04-06,Eastern,Groceries,3,Not the same as the picture. The discount made it worth it.
+RV02485,2024-04-08,North-Western,Groceries,4,Easy checkout on the app. Cheaper than Kamwala and no transport costs.
+RV02487,2024-04-09,Copperbelt,Electronics,4,"Original product, very happy. Fair price compared to the shops."
+RV02507,2024-04-11,Central,Stationery,4,The school bags is strong and well made. Cheaper than Kamwala and no transport costs.
+RV02506,2024-04-11,Lusaka,Groceries,4,"Paying with MTN MoMo was smooth. Delivered to Kafue on time, no stress."
+RV02505,2024-04-11,Lusaka,Home & Kitchen,4,"Delivery was fast, arrived the next day. Easy checkout on the app."
+RV02504,2024-04-11,Copperbelt,Household,3,"Poor quality, would not buy again. The discount made it worth it."
+RV02513,2024-04-13,Copperbelt,Home & Kitchen,4,Quality is better than what I find in town. Good value for money.
+RV02524,2024-04-14,Central,Baby & Kids,5,"Good value for money. Delivery was fast, arrived the next day."
+RV02523,2024-04-14,Copperbelt,Home & Kitchen,5,"Customer care on WhatsApp answered quickly. Good quality, exactly as pictured."
+RV02528,2024-04-15,Lusaka,Groceries,1,"Late delivery, I had to call them twice. Price went up since last month."
+RV02543,2024-04-16,Southern,Groceries,3,Delivery fee is too high for Southern. Customer care on WhatsApp answered quickly.
+RV02548,2024-04-17,Lusaka,Health & Beauty,4,"Delivered to Chongwe on time, no stress. Mobile money payment went through instantly. Keep it up KB."
+RV02547,2024-04-17,Copperbelt,Electronics,3,I was charged but the order showed unpaid. Friendly staff at the pickup point.
+RV02566,2024-04-20,Lusaka,Groceries,4,Quality is better than what I find in town. Easy checkout on the app.
+RV02563,2024-04-20,Lusaka,Groceries,4,"Came earlier than expected, well done. Paying with MTN MoMo was smooth. Twalumba."
+RV02582,2024-04-22,Lusaka,Home & Kitchen,5,Good value for money. Friendly staff at the pickup point.
+RV02591,2024-04-23,Lusaka,Home & Kitchen,4,Paying with MTN MoMo was smooth. They kept me updated throughout.
+RV02609,2024-04-26,Copperbelt,Fashion,2,"Waited almost a week, no updates. Nobody at the pickup point knew about my order."
+RV02611,2024-04-27,Southern,Home & Kitchen,4,"The driver called before arriving, very professional. Fair price compared to the shops."
+RV02628,2024-04-29,Copperbelt,Groceries,5,Quality is better than what I find in town. Customer care on WhatsApp answered quickly.
+RV02631,2024-04-30,Southern,Groceries,4,Mobile money payment went through instantly. Friendly staff at the pickup point.
+RV02642,2024-05-01,Lusaka,Home & Kitchen,1,The bedding broke after a few days. Refund is taking too long.
+RV02648,2024-05-02,Southern,Groceries,4,"Easy checkout on the app. Good quality, exactly as pictured."
+RV02647,2024-05-02,Lusaka,Baby & Kids,5,Cheaper than Kamwala and no transport costs. They kept me updated throughout.
+RV02662,2024-05-04,Southern,Household,5,Cheaper than Kamwala and no transport costs. Paying with MTN MoMo was smooth.
+RV02665,2024-05-05,North-Western,Electronics,2,Delivery to Kasempa took too long. Packaging was damaged and the item scratched.
+RV02694,2024-05-09,Western,Stationery,4,"Delivered to Senanga on time, no stress. The school bags is strong and well made."
+RV02702,2024-05-10,Southern,Household,3,Price went up since last month. Customer care on WhatsApp answered quickly. Zikomo!
+RV02726,2024-05-13,North-Western,Stationery,3,Delivery to Kasempa took too long. Friendly staff at the pickup point.
+RV02755,2024-05-17,Lusaka,Household,5,"The driver called before arriving, very professional. Good value for money."
+RV02773,2024-05-19,Southern,Health & Beauty,5,The skin care is strong and well made. Mobile money payment went through instantly.
+RV02776,2024-05-19,Lusaka,Health & Beauty,4,"Delivered to Kafue on time, no stress. The driver called before arriving, very professional."
+RV02792,2024-05-21,Lusaka,Household,5,"Delivery was fast, arrived the next day. Paying with Airtel Money was smooth."
+RV02795,2024-05-21,Lusaka,Groceries,4,"Paying with Zamtel Kwacha was smooth. Original product, very happy."
+RV02802,2024-05-22,Copperbelt,Fashion,4,Cheaper than Kamwala and no transport costs. Easy checkout on the app.
+RV02805,2024-05-22,Central,Groceries,5,"The driver called before arriving, very professional. Easy checkout on the app."
+RV02822,2024-05-24,Lusaka,Home & Kitchen,5,They kept me updated throughout. The discount made it worth it.
+RV02825,2024-05-25,North-Western,Household,3,"Late delivery, I had to call them twice. The cleaning is strong and well made."
+RV02827,2024-05-25,Lusaka,Home & Kitchen,5,"Delivered to Kafue on time, no stress. Easy checkout on the app."
+RV02832,2024-05-26,Eastern,Fashion,2,I was charged but the order showed unpaid. Nobody at the pickup point knew about my order.
+RV02859,2024-05-29,Lusaka,Baby & Kids,3,Nobody at the pickup point knew about my order. Easy checkout on the app.
+RV02860,2024-05-29,Lusaka,Health & Beauty,2,Zamtel Kwacha payment failed twice before it worked. Delivery fee is too high for Lusaka.
+RV02871,2024-05-30,Lusaka,Stationery,3,Not the same as the picture. Easy checkout on the app.
+RV02864,2024-05-30,Eastern,Groceries,4,"Came earlier than expected, well done. Quality is better than what I find in town."
+RV02873,2024-05-31,North-Western,Groceries,4,They kept me updated throughout. Easy checkout on the app.
+RV02876,2024-05-31,Copperbelt,Stationery,5,"Fair price compared to the shops. Delivery was fast, arrived the next day."
+RV02889,2024-06-01,North-Western,Groceries,4,"Delivery was fast, arrived the next day. They kept me updated throughout."
+RV02890,2024-06-01,Lusaka,Groceries,3,I was charged but the order showed unpaid. They kept me updated throughout.
+RV02900,2024-06-02,Lusaka,Household,3,Not the same as the picture. Cheaper than Kamwala and no transport costs.
+RV02899,2024-06-02,Copperbelt,Fashion,5,Customer care on WhatsApp answered quickly. Easy checkout on the app.
+RV02925,2024-06-05,Lusaka,Groceries,2,Price went up since last month. I was charged but the order showed unpaid.
+RV02980,2024-06-11,Copperbelt,Groceries,5,"Easy checkout on the app. Came earlier than expected, well done."
+RV02994,2024-06-12,Lusaka,Baby & Kids,4,They kept me updated throughout. The discount made it worth it.
+RV03005,2024-06-13,Lusaka,Home & Kitchen,3,Not the same as the picture. Customer care on WhatsApp answered quickly.
+RV02996,2024-06-13,Lusaka,Health & Beauty,4,The discount made it worth it. Customer care on WhatsApp answered quickly.
+RV03011,2024-06-14,North-Western,Home & Kitchen,3,Nobody at the pickup point knew about my order. Easy checkout on the app.
+RV03020,2024-06-14,Southern,Health & Beauty,4,"The driver called before arriving, very professional. Paying with Airtel Money was smooth."
+RV03007,2024-06-14,Lusaka,Stationery,4,"Mobile money payment went through instantly. Came earlier than expected, well done."
+RV03070,2024-06-23,Copperbelt,Household,3,"Nobody at the pickup point knew about my order. The driver called before arriving, very professional."
+RV03075,2024-06-23,Southern,Groceries,3,"Waited almost a week, no updates. Good quality, exactly as pictured."
+RV03089,2024-06-25,North-Western,Home & Kitchen,5,"The driver called before arriving, very professional. Original product, very happy."
+RV03087,2024-06-25,Central,Groceries,3,MTN MoMo payment failed twice before it worked. The canned foods is strong and well made.
+RV03102,2024-06-26,Southern,Home & Kitchen,4,Cheaper than Kamwala and no transport costs. Friendly staff at the pickup point. Natotela!
+RV03101,2024-06-26,Lusaka,Household,4,Quality is better than what I find in town. Friendly staff at the pickup point. Twalumba.
+RV03099,2024-06-26,Lusaka,Groceries,4,"Good quality, exactly as pictured. Good value for money."
+RV03117,2024-06-29,Copperbelt,Groceries,3,Had to explain my problem three times. Paying with MTN MoMo was smooth.
+RV03153,2024-07-03,Lusaka,Groceries,5,"Delivered to Lusaka on time, no stress. Original product, very happy."
+RV03147,2024-07-03,Lusaka,Home & Kitchen,3,"I was charged but the order showed unpaid. Came earlier than expected, well done."
+RV03148,2024-07-03,Copperbelt,Health & Beauty,4,"Delivered to Ndola on time, no stress. Good value for money."
+RV03163,2024-07-04,Copperbelt,Groceries,5,"They kept me updated throughout. The driver called before arriving, very professional."
+RV03157,2024-07-04,Lusaka,Health & Beauty,5,"Fair price compared to the shops. Came earlier than expected, well done."
+RV03160,2024-07-04,Lusaka,Fashion,5,Mobile money payment went through instantly. The menswear is strong and well made.
+RV03165,2024-07-05,Lusaka,Groceries,3,I was charged but the order showed unpaid. Friendly staff at the pickup point.
+RV03175,2024-07-06,Lusaka,Groceries,3,"Late delivery, I had to call them twice. Mobile money payment went through instantly."
+RV03178,2024-07-06,Lusaka,Health & Beauty,4,They kept me updated throughout. Good value for money.
+RV03195,2024-07-07,Lusaka,Groceries,3,Packaging was damaged and the item scratched. Easy checkout on the app.
+RV03203,2024-07-08,North-Western,Groceries,4,Mobile money payment went through instantly. Customer care on WhatsApp answered quickly.
+RV03220,2024-07-11,Copperbelt,Electronics,3,"Poor quality, would not buy again. Mobile money payment went through instantly."
+RV03230,2024-07-12,Copperbelt,Baby & Kids,5,Good value for money. Quality is better than what I find in town.
+RV03233,2024-07-12,Southern,Household,5,"Came earlier than expected, well done. Good quality, exactly as pictured."
+RV03240,2024-07-13,Lusaka,Household,4,"Original product, very happy. Delivered to Kafue on time, no stress."
+RV03248,2024-07-14,Northern,Health & Beauty,3,I was charged but the order showed unpaid. Good value for money. Twalumba.
+RV03249,2024-07-14,Copperbelt,Stationery,2,"Waited almost a week, no updates. Customer care did not respond."
+RV03261,2024-07-16,Lusaka,Health & Beauty,5,Mobile money payment went through instantly. They kept me updated throughout.
+RV03276,2024-07-18,Lusaka,Household,4,"Mobile money payment went through instantly. Original product, very happy."
+RV03282,2024-07-18,Copperbelt,Baby & Kids,3,I was charged but the order showed unpaid. Friendly staff at the pickup point.
+RV03290,2024-07-19,Lusaka,Groceries,5,"Delivery was fast, arrived the next day. Friendly staff at the pickup point."
+RV03301,2024-07-20,Lusaka,Health & Beauty,5,Easy checkout on the app. They kept me updated throughout.
+RV03298,2024-07-20,Lusaka,Household,4,Customer care on WhatsApp answered quickly. Mobile money payment went through instantly.
+RV03297,2024-07-20,Western,Household,5,Paying with MTN MoMo was smooth. Quality is better than what I find in town.
+RV03312,2024-07-22,Copperbelt,Groceries,4,Quality is better than what I find in town. Cheaper than Kamwala and no transport costs.
+RV03309,2024-07-22,Eastern,Groceries,5,The discount made it worth it. Customer care on WhatsApp answered quickly.
+RV03334,2024-07-24,Copperbelt,Groceries,5,The sugar is strong and well made. Paying with Airtel Money was smooth.
+RV03329,2024-07-24,Lusaka,Groceries,4,The discount made it worth it. They kept me updated throughout.
+RV03346,2024-07-25,Lusaka,Groceries,3,Customer care did not respond. Easy checkout on the app.
+RV03338,2024-07-25,Lusaka,Groceries,4,Quality is better than what I find in town. Fair price compared to the shops.
+RV03363,2024-07-29,Lusaka,Fashion,5,Friendly staff at the pickup point. Cheaper than Kamwala and no transport costs.
+RV03373,2024-07-30,Southern,Health & Beauty,4,They kept me updated throughout. Good value for money. Natotela!
+RV03372,2024-07-30,Lusaka,Groceries,5,"The driver called before arriving, very professional. Customer care on WhatsApp answered quickly."
+RV03421,2024-08-04,Lusaka,Household,5,"Customer care on WhatsApp answered quickly. The driver called before arriving, very professional."
+RV03434,2024-08-06,Copperbelt,Electronics,3,The mobile phones broke after a few days. Paying with Airtel Money was smooth.
+RV03441,2024-08-07,Copperbelt,Fashion,5,Cheaper than Kamwala and no transport costs. Customer care on WhatsApp answered quickly.
+RV03439,2024-08-07,Copperbelt,Groceries,5,"Good quality, exactly as pictured. Good value for money."
+RV03442,2024-08-08,Copperbelt,Groceries,4,Friendly staff at the pickup point. The snacks is strong and well made. Twalumba.
+RV03455,2024-08-09,Lusaka,Groceries,5,Good value for money. They kept me updated throughout.
+RV03467,2024-08-11,Lusaka,Groceries,4,"Good quality, exactly as pictured. They kept me updated throughout. Natotela!"
+RV03469,2024-08-12,North-Western,Groceries,4,"Easy checkout on the app. Delivered to Kasempa on time, no stress."
+RV03473,2024-08-12,Lusaka,Baby & Kids,2,Refund is taking too long. Not the same as the picture.
+RV03482,2024-08-13,Lusaka,Groceries,3,Airtel Money payment failed twice before it worked. They kept me updated throughout.
+RV03493,2024-08-14,Southern,Groceries,4,Quality is better than what I find in town. The discount made it worth it.
+RV03503,2024-08-15,Eastern,Electronics,3,"Late delivery, I had to call them twice. Came earlier than expected, well done. Natotela!"
+RV03498,2024-08-15,Copperbelt,Groceries,3,Delivery to Ndola took too long. They kept me updated throughout.
+RV03506,2024-08-16,Copperbelt,Fashion,5,"Easy checkout on the app. Original product, very happy."
+RV03511,2024-08-16,Lusaka,Health & Beauty,4,"Cheaper than Kamwala and no transport costs. Original product, very happy."
+RV03519,2024-08-17,Copperbelt,Groceries,5,"Original product, very happy. The discount made it worth it."
+RV03517,2024-08-17,Lusaka,Baby & Kids,5,"Came earlier than expected, well done. The toys is strong and well made."
+RV03527,2024-08-18,Lusaka,Health & Beauty,5,"Delivery was fast, arrived the next day. Mobile money payment went through instantly."
+RV03539,2024-08-20,Southern,Groceries,4,Good value for money. Mobile money payment went through instantly.
+RV03541,2024-08-21,Luapula,Groceries,3,Delivery to Mansa took too long. Good value for money.
+RV03547,2024-08-22,Eastern,Household,4,Customer care on WhatsApp answered quickly. Fair price compared to the shops.
+RV03552,2024-08-22,Lusaka,Household,5,"The driver called before arriving, very professional. Good quality, exactly as pictured."
+RV03556,2024-08-23,Lusaka,Groceries,4,The discount made it worth it. Paying with Airtel Money was smooth. Zikomo!
+RV03564,2024-08-24,Eastern,Electronics,4,"Original product, very happy. Customer care on WhatsApp answered quickly."
+RV03563,2024-08-24,Copperbelt,Groceries,4,The discount made it worth it. Mobile money payment went through instantly.
+RV03597,2024-08-29,Lusaka,Home & Kitchen,5,Easy checkout on the app. Cheaper than Kamwala and no transport costs.
+RV03617,2024-09-01,North-Western,Groceries,4,"Paying with Airtel Money was smooth. The driver called before arriving, very professional."
+RV03630,2024-09-02,Lusaka,Groceries,3,Delivery to Chongwe took too long. The canned foods is strong and well made.
+RV03647,2024-09-04,Lusaka,Baby & Kids,5,"Customer care on WhatsApp answered quickly. Delivered to Chongwe on time, no stress."
+RV03645,2024-09-04,Lusaka,Electronics,4,"Came earlier than expected, well done. Paying with Airtel Money was smooth."
+RV03650,2024-09-05,Copperbelt,Household,4,"Delivery was fast, arrived the next day. Good value for money."
+RV03652,2024-09-05,Southern,Home & Kitchen,3,Nobody at the pickup point knew about my order. Quality is better than what I find in town.
+RV03663,2024-09-06,Copperbelt,Home & Kitchen,2,The courier could not find my house. Price went up since last month.
+RV03658,2024-09-06,Lusaka,Groceries,3,I was charged but the order showed unpaid. Friendly staff at the pickup point.
+RV03676,2024-09-09,Eastern,Groceries,5,"Easy checkout on the app. Delivered to Petauke on time, no stress."
+RV03688,2024-09-10,Western,Groceries,4,Cheaper than Kamwala and no transport costs. Friendly staff at the pickup point.
+RV03702,2024-09-12,Lusaka,Stationery,5,"Delivered to Lusaka on time, no stress. They kept me updated throughout."
+RV03720,2024-09-14,Luapula,Stationery,5,"Delivery was fast, arrived the next day. Fair price compared to the shops."
+RV03736,2024-09-16,Southern,Household,4,Mobile money payment went through instantly. Fair price compared to the shops.
+RV03753,2024-09-17,Northern,Electronics,2,"Poor quality, would not buy again. Had to explain my problem three times."
+RV03751,2024-09-17,Southern,Fashion,4,"Friendly staff at the pickup point. Delivery was fast, arrived the next day."
+RV03763,2024-09-18,Lusaka,Groceries,4,"Customer care on WhatsApp answered quickly. The driver called before arriving, very professional."
+RV03771,2024-09-19,Southern,Stationery,5,"Customer care on WhatsApp answered quickly. Original product, very happy."
+RV03784,2024-09-20,Northern,Stationery,4,"Original product, very happy. Easy checkout on the app. Zikomo!"
+RV03813,2024-09-23,Southern,Stationery,2,Delivery fee is too high for Southern. Zamtel Kwacha payment failed twice before it worked.
+RV03806,2024-09-23,Central,Electronics,5,"Good value for money. Good quality, exactly as pictured."
+RV03803,2024-09-23,Copperbelt,Baby & Kids,5,"Customer care on WhatsApp answered quickly. Delivery was fast, arrived the next day."
+RV03814,2024-09-24,North-Western,Household,2,Price went up since last month. The candles & lighting broke after a few days.
+RV03825,2024-09-24,Eastern,Fashion,3,"Late delivery, I had to call them twice. Cheaper than Kamwala and no transport costs."
+RV03842,2024-09-26,Lusaka,Stationery,5,"Cheaper than Kamwala and no transport costs. The driver called before arriving, very professional."
+RV03839,2024-09-26,Lusaka,Groceries,5,"Delivered to Kafue on time, no stress. Fair price compared to the shops."
+RV03837,2024-09-26,Southern,Household,3,Delivery to Choma took too long. Friendly staff at the pickup point.
+RV03873,2024-09-30,Lusaka,Fashion,4,Friendly staff at the pickup point. Quality is better than what I find in town.
+RV03877,2024-10-01,Lusaka,Fashion,5,"The driver called before arriving, very professional. They kept me updated throughout."
+RV03908,2024-10-04,Lusaka,Home & Kitchen,5,Customer care on WhatsApp answered quickly. Mobile money payment went through instantly. Natotela!
+RV03912,2024-10-05,Lusaka,Stationery,5,Easy checkout on the app. They kept me updated throughout.
+RV03947,2024-10-09,Lusaka,Home & Kitchen,3,"MTN MoMo payment failed twice before it worked. Delivered to Kafue on time, no stress."
+RV03943,2024-10-09,Western,Health & Beauty,3,"The hair care broke after a few days. Delivery was fast, arrived the next day."
+RV03946,2024-10-09,Lusaka,Health & Beauty,4,Quality is better than what I find in town. Fair price compared to the shops.
+RV03965,2024-10-11,Lusaka,Groceries,5,"Original product, very happy. Mobile money payment went through instantly."
+RV03974,2024-10-12,Copperbelt,Groceries,5,"Original product, very happy. Mobile money payment went through instantly."
+RV03996,2024-10-15,Lusaka,Electronics,4,Fair price compared to the shops. Paying with MTN MoMo was smooth.
+RV04010,2024-10-16,Lusaka,Home & Kitchen,5,"Paying with MTN MoMo was smooth. Original product, very happy."
+RV04016,2024-10-16,Lusaka,Household,3,The courier could not find my house. Good value for money.
+RV04025,2024-10-17,Lusaka,Groceries,4,"Cheaper than Kamwala and no transport costs. Delivered to Lusaka on time, no stress."
+RV04043,2024-10-19,Luapula,Stationery,4,The discount made it worth it. Quality is better than what I find in town.
+RV04049,2024-10-19,Copperbelt,Fashion,5,The chitenge fabric is strong and well made. Easy checkout on the app.
+RV04072,2024-10-23,Copperbelt,Groceries,4,"The driver called before arriving, very professional. The driver called before arriving, very professional."
+RV04069,2024-10-23,Copperbelt,Health & Beauty,3,"The courier could not find my house. Came earlier than expected, well done."
+RV04074,2024-10-23,Lusaka,Health & Beauty,4,"Friendly staff at the pickup point. The driver called before arriving, very professional."
+RV04089,2024-10-24,Copperbelt,Fashion,5,Easy checkout on the app. Good value for money.
+RV04115,2024-10-27,Northern,Fashion,4,Quality is better than what I find in town. Mobile money payment went through instantly.
+RV04118,2024-10-28,Lusaka,Household,4,Good value for money. Paying with MTN MoMo was smooth.
+RV04128,2024-10-29,Copperbelt,Household,4,"Friendly staff at the pickup point. The driver called before arriving, very professional."
+RV04131,2024-10-29,Lusaka,Groceries,5,"The sugar is strong and well made. Delivered to Kafue on time, no stress."
+RV04139,2024-10-30,Central,Home & Kitchen,5,"Original product, very happy. They kept me updated throughout."
+RV04147,2024-10-31,Copperbelt,Electronics,4,Easy checkout on the app. Good value for money.
+RV04157,2024-11-02,Southern,Health & Beauty,5,Cheaper than Kamwala and no transport costs. Customer care on WhatsApp answered quickly.
+RV04164,2024-11-02,Lusaka,Baby & Kids,2,"Waited almost a week, no updates. Not the same as the picture."
+RV04162,2024-11-02,Copperbelt,Groceries,5,"Good quality, exactly as pictured. Cheaper than Kamwala and no transport costs."
+RV04173,2024-11-03,Central,Baby & Kids,5,"They kept me updated throughout. Delivery was fast, arrived the next day."
+RV04178,2024-11-03,Lusaka,Electronics,3,Refund is taking too long. They kept me updated throughout.
+RV04206,2024-11-05,Lusaka,Health & Beauty,5,"Customer care on WhatsApp answered quickly. Good quality, exactly as pictured."
+RV04192,2024-11-05,Southern,Health & Beauty,4,Paying with Zamtel Kwacha was smooth. The hair care is strong and well made.
+RV04220,2024-11-06,Central,Household,2,"Late delivery, I had to call them twice. Late delivery, I had to call them twice."
+RV04227,2024-11-07,Lusaka,Fashion,3,"Too expensive for what you get. Delivery was fast, arrived the next day. Natotela!"
+RV04240,2024-11-09,Lusaka,Electronics,4,Fair price compared to the shops. Paying with Airtel Money was smooth.
+RV04255,2024-11-10,Copperbelt,Health & Beauty,4,They kept me updated throughout. Paying with MTN MoMo was smooth.
+RV04269,2024-11-12,Central,Groceries,5,"Paying with Airtel Money was smooth. Came earlier than expected, well done."
+RV04283,2024-11-13,Muchinga,Groceries,4,"The beverages is strong and well made. Came earlier than expected, well done."
+RV04277,2024-11-13,Copperbelt,Groceries,3,"Late delivery, I had to call them twice. The discount made it worth it. Twalumba."
+RV04293,2024-11-15,Lusaka,Groceries,4,The discount made it worth it. Customer care on WhatsApp answered quickly. Natotela!
+RV04291,2024-11-15,Lusaka,Health & Beauty,4,Mobile money payment went through instantly. Fair price compared to the shops.
+RV04309,2024-11-16,Western,Fashion,2,The courier could not find my house. Refund is taking too long.
+RV04300,2024-11-16,Lusaka,Groceries,4,"Came earlier than expected, well done. Good value for money."
+RV04317,2024-11-17,Lusaka,Electronics,4,"Delivery was fast, arrived the next day. They kept me updated throughout. Twalumba."
+RV04312,2024-11-17,Southern,Groceries,3,"Late delivery, I had to call them twice. Cheaper than Kamwala and no transport costs."
+RV04350,2024-11-20,Lusaka,Baby & Kids,5,"The discount made it worth it. Good quality, exactly as pictured."
+RV04342,2024-11-20,Southern,Electronics,4,They kept me updated throughout. The audio is strong and well made.
+RV04345,2024-11-20,Northern,Health & Beauty,2,Delivery to Mbala took too long. Had to explain my problem three times.
+RV04354,2024-11-21,Lusaka,Household,2,Delivery to Chongwe took too long. Airtel Money payment failed twice before it worked. Keep it up KB.
+RV04363,2024-11-22,Copperbelt,Electronics,4,"Good quality, exactly as pictured. Paying with Airtel Money was smooth."
+RV04391,2024-11-25,Lusaka,Groceries,5,The beverages is strong and well made. Easy checkout on the app.
+RV04427,2024-11-28,Southern,Groceries,5,"Cheaper than Kamwala and no transport costs. Delivered to Choma on time, no stress."
+RV04420,2024-11-28,Lusaka,Baby & Kids,4,"Original product, very happy. They kept me updated throughout."
+RV04424,2024-11-28,Southern,Groceries,3,"Waited almost a week, no updates. Mobile money payment went through instantly."
+RV04435,2024-11-29,Luapula,Electronics,5,"The driver called before arriving, very professional. Good quality, exactly as pictured."
+RV04438,2024-11-29,Lusaka,Groceries,4,Friendly staff at the pickup point. The sugar is strong and well made. Zikomo!
+RV04457,2024-12-01,Western,Household,4,Paying with Zamtel Kwacha was smooth. They kept me updated throughout.
+RV04459,2024-12-01,Southern,Electronics,4,"Came earlier than expected, well done. They kept me updated throughout."
+RV04462,2024-12-01,Central,Health & Beauty,3,"Refund is taking too long. Original product, very happy."
+RV04468,2024-12-02,Luapula,Electronics,5,"Delivered to Kawambwa on time, no stress. The solar & power is strong and well made."
+RV04472,2024-12-02,Western,Fashion,3,"I was charged but the order showed unpaid. The driver called before arriving, very professional."
+RV04477,2024-12-03,Eastern,Home & Kitchen,5,Customer care on WhatsApp answered quickly. Fair price compared to the shops.
+RV04486,2024-12-04,Southern,Health & Beauty,4,"Delivery was fast, arrived the next day. Fair price compared to the shops."
+RV04496,2024-12-04,Southern,Home & Kitchen,4,Easy checkout on the app. Friendly staff at the pickup point.
+RV04497,2024-12-04,Copperbelt,Groceries,4,Paying with MTN MoMo was smooth. Good value for money. Zikomo!
+RV04500,2024-12-05,Copperbelt,Home & Kitchen,5,"Quality is better than what I find in town. Delivered to Mufulira on time, no stress."
+RV04509,2024-12-05,Northern,Home & Kitchen,4,"Easy checkout on the app. Delivery was fast, arrived the next day."
+RV04499,2024-12-05,Central,Health & Beauty,4,The discount made it worth it. Friendly staff at the pickup point.
+RV04512,2024-12-06,Eastern,Groceries,4,"Good quality, exactly as pictured. Easy checkout on the app."
+RV04518,2024-12-06,Lusaka,Household,4,"Delivered to Lusaka on time, no stress. Customer care on WhatsApp answered quickly."
+RV04527,2024-12-07,Southern,Home & Kitchen,4,"Good quality, exactly as pictured. The driver called before arriving, very professional."
+RV04523,2024-12-07,Lusaka,Groceries,5,Paying with Airtel Money was smooth. Quality is better than what I find in town.
+RV04543,2024-12-08,Lusaka,Health & Beauty,4,"Customer care on WhatsApp answered quickly. Came earlier than expected, well done. Zikomo!"
+RV04557,2024-12-09,Copperbelt,Health & Beauty,4,"Came earlier than expected, well done. Friendly staff at the pickup point."
+RV04567,2024-12-10,Copperbelt,Groceries,5,"The driver called before arriving, very professional. They kept me updated throughout."
+RV04571,2024-12-10,North-Western,Household,4,"The toiletries is strong and well made. Delivery was fast, arrived the next day."
+RV04569,2024-12-10,Southern,Groceries,5,Easy checkout on the app. Good value for money.
+RV04592,2024-12-12,Copperbelt,Groceries,4,Customer care on WhatsApp answered quickly. The beverages is strong and well made.
+RV04598,2024-12-13,Copperbelt,Health & Beauty,5,The discount made it worth it. Paying with Airtel Money was smooth. Keep it up KB.
+RV04604,2024-12-13,Copperbelt,Health & Beauty,4,"They kept me updated throughout. Original product, very happy."
+RV04609,2024-12-14,Eastern,Home & Kitchen,4,"Good quality, exactly as pictured. The driver called before arriving, very professional."
+RV04610,2024-12-14,Eastern,Groceries,4,Fair price compared to the shops. Customer care on WhatsApp answered quickly.
+RV04620,2024-12-15,Lusaka,Household,5,"Paying with MTN MoMo was smooth. Delivered to Lusaka on time, no stress."
+RV04647,2024-12-17,Copperbelt,Household,4,"Came earlier than expected, well done. Quality is better than what I find in town. Twalumba."
+RV04645,2024-12-17,Lusaka,Stationery,5,"Friendly staff at the pickup point. Good quality, exactly as pictured."
+RV04655,2024-12-17,Central,Electronics,2,"Waited almost a week, no updates. I was charged but the order showed unpaid."
+RV04658,2024-12-18,Copperbelt,Fashion,5,Quality is better than what I find in town. Cheaper than Kamwala and no transport costs.
+RV04706,2024-12-21,Copperbelt,Electronics,1,The courier could not find my house. I was charged but the order showed unpaid.
+RV04693,2024-12-21,Copperbelt,Fashion,4,"Easy checkout on the app. The driver called before arriving, very professional."
+RV04701,2024-12-21,Lusaka,Home & Kitchen,3,"Packaging was damaged and the item scratched. Delivered to Chongwe on time, no stress."
+RV04697,2024-12-21,Lusaka,Groceries,3,I was charged but the order showed unpaid. The discount made it worth it.
+RV04690,2024-12-21,Lusaka,Groceries,3,Delivery fee is too high for Lusaka. Quality is better than what I find in town.
+RV04712,2024-12-22,Lusaka,Groceries,4,Quality is better than what I find in town. Good value for money.
+RV04718,2024-12-22,Western,Health & Beauty,3,"Had to explain my problem three times. Came earlier than expected, well done."
+RV04730,2024-12-24,Lusaka,Household,3,Delivery to Chongwe took too long. They kept me updated throughout.
+RV04732,2024-12-24,Lusaka,Health & Beauty,3,Too expensive for what you get. Easy checkout on the app.
+RV04741,2024-12-24,Lusaka,Household,1,Delivery to Lusaka took too long. Price went up since last month.
+RV04744,2024-12-25,Lusaka,Baby & Kids,3,Had to explain my problem three times. Cheaper than Kamwala and no transport costs.
+RV04750,2024-12-25,Central,Household,4,Easy checkout on the app. Customer care on WhatsApp answered quickly.
+RV04746,2024-12-25,Lusaka,Groceries,5,Mobile money payment went through instantly. Customer care on WhatsApp answered quickly.
+RV04758,2024-12-25,Copperbelt,Stationery,4,"They kept me updated throughout. Came earlier than expected, well done."
+RV04773,2024-12-26,Copperbelt,Electronics,4,The discount made it worth it. Customer care on WhatsApp answered quickly.
+RV04787,2024-12-27,Southern,Health & Beauty,3,"Refund is taking too long. The driver called before arriving, very professional."
+RV04776,2024-12-27,Copperbelt,Groceries,3,"Waited almost a week, no updates. Paying with Zamtel Kwacha was smooth."
+RV04795,2024-12-28,Lusaka,Electronics,4,"Quality is better than what I find in town. Delivered to Kafue on time, no stress."
+RV04799,2024-12-28,Central,Health & Beauty,4,The discount made it worth it. Mobile money payment went through instantly.
+RV04808,2024-12-29,Luapula,Groceries,4,"Fair price compared to the shops. Delivered to Mansa on time, no stress."
+RV04822,2024-12-29,Northern,Groceries,5,"Original product, very happy. Paying with Airtel Money was smooth."
+RV04820,2024-12-29,Copperbelt,Home & Kitchen,3,Not the same as the picture. Cheaper than Kamwala and no transport costs. Twalumba.
+RV04831,2024-12-30,Lusaka,Home & Kitchen,2,"Late delivery, I had to call them twice. Delivery fee is too high for Lusaka."
+RV04835,2024-12-31,Lusaka,Household,5,Friendly staff at the pickup point. Good value for money.
+RV04844,2024-12-31,Copperbelt,Fashion,2,"Waited almost a week, no updates. I was charged but the order showed unpaid."
+RV04847,2025-01-01,Lusaka,Baby & Kids,3,Delivery to Lusaka took too long. They kept me updated throughout.
+RV04848,2025-01-01,Lusaka,Fashion,3,"The courier could not find my house. Delivered to Chongwe on time, no stress."
+RV04851,2025-01-01,North-Western,Health & Beauty,3,"Waited almost a week, no updates. Good quality, exactly as pictured."
+RV04863,2025-01-02,Lusaka,Health & Beauty,2,"Delivery to Kafue took too long. Late delivery, I had to call them twice."
+RV04893,2025-01-04,Lusaka,Fashion,3,Nobody at the pickup point knew about my order. Good value for money.
+RV04939,2025-01-09,Muchinga,Groceries,4,Mobile money payment went through instantly. Customer care on WhatsApp answered quickly.
+RV04967,2025-01-11,Lusaka,Groceries,4,"Original product, very happy. Delivery was fast, arrived the next day."
+RV04983,2025-01-12,Lusaka,Baby & Kids,4,Customer care on WhatsApp answered quickly. The discount made it worth it.
+RV04972,2025-01-12,Lusaka,Electronics,1,The audio broke after a few days. Nobody at the pickup point knew about my order.
+RV04979,2025-01-12,Copperbelt,Household,5,Cheaper than Kamwala and no transport costs. Mobile money payment went through instantly.
+RV04989,2025-01-13,Lusaka,Fashion,4,Paying with Zamtel Kwacha was smooth. The discount made it worth it.
+RV04986,2025-01-13,Lusaka,Household,4,"Paying with Airtel Money was smooth. Good quality, exactly as pictured."
+RV04993,2025-01-14,Lusaka,Groceries,4,"The discount made it worth it. Delivered to Kafue on time, no stress."
+RV05003,2025-01-15,Copperbelt,Groceries,3,Delivery to Luanshya took too long. Friendly staff at the pickup point.
+RV05012,2025-01-16,Copperbelt,Stationery,4,"Customer care on WhatsApp answered quickly. Came earlier than expected, well done."
+RV05035,2025-01-17,Lusaka,Health & Beauty,2,"Late delivery, I had to call them twice. Had to explain my problem three times."
+RV05052,2025-01-19,Lusaka,Stationery,4,"Delivered to Lusaka on time, no stress. Easy checkout on the app."
+RV05059,2025-01-20,Lusaka,Health & Beauty,4,"Cheaper than Kamwala and no transport costs. Good quality, exactly as pictured."
+RV05080,2025-01-22,Lusaka,Stationery,4,They kept me updated throughout. The discount made it worth it.
+RV05089,2025-01-24,Lusaka,Groceries,5,They kept me updated throughout. Paying with Zamtel Kwacha was smooth.
+RV05092,2025-01-24,Lusaka,Fashion,5,"The driver called before arriving, very professional. Good quality, exactly as pictured. Natotela!"
+RV05095,2025-01-24,Eastern,Home & Kitchen,4,Fair price compared to the shops. Friendly staff at the pickup point.
+RV05103,2025-01-25,Copperbelt,Groceries,3,Customer care did not respond. Quality is better than what I find in town.
+RV05097,2025-01-25,North-Western,Health & Beauty,5,The hair care is strong and well made. Easy checkout on the app.
+RV05098,2025-01-25,Copperbelt,Groceries,4,"Customer care on WhatsApp answered quickly. Good quality, exactly as pictured."
+RV05101,2025-01-25,Lusaka,Home & Kitchen,2,"Waited almost a week, no updates. Customer care did not respond."
+RV05106,2025-01-26,Copperbelt,Home & Kitchen,4,"Customer care on WhatsApp answered quickly. The driver called before arriving, very professional."
+RV05112,2025-01-26,Lusaka,Groceries,3,The courier could not find my house. Paying with Airtel Money was smooth. Keep it up KB.
+RV05113,2025-01-26,Lusaka,Groceries,3,The beverages broke after a few days. Customer care on WhatsApp answered quickly.
+RV05110,2025-01-26,North-Western,Health & Beauty,4,"Paying with Airtel Money was smooth. The driver called before arriving, very professional."
+RV05119,2025-01-27,Copperbelt,Groceries,4,"Good quality, exactly as pictured. The discount made it worth it."
+RV05120,2025-01-27,Northern,Home & Kitchen,4,They kept me updated throughout. The discount made it worth it.
+RV05124,2025-01-28,Copperbelt,Groceries,4,"Original product, very happy. The driver called before arriving, very professional."
+RV05140,2025-01-30,Copperbelt,Baby & Kids,3,Had to explain my problem three times. The baby food is strong and well made.
+RV05146,2025-01-30,Lusaka,Baby & Kids,3,Price went up since last month. Quality is better than what I find in town. Twalumba.
+RV05147,2025-01-31,Luapula,Home & Kitchen,3,"Waited almost a week, no updates. Friendly staff at the pickup point."
+RV05149,2025-01-31,Central,Stationery,4,Paying with MTN MoMo was smooth. Friendly staff at the pickup point.
+RV05157,2025-01-31,Lusaka,Groceries,4,"Fair price compared to the shops. Original product, very happy."
+RV05175,2025-02-02,Lusaka,Health & Beauty,5,"The driver called before arriving, very professional. Easy checkout on the app."
+RV05221,2025-02-06,Lusaka,Fashion,4,"Original product, very happy. They kept me updated throughout."
+RV05217,2025-02-06,Western,Fashion,5,"Came earlier than expected, well done. Customer care on WhatsApp answered quickly."
+RV05254,2025-02-09,Lusaka,Baby & Kids,5,Paying with MTN MoMo was smooth. Quality is better than what I find in town.
+RV05251,2025-02-09,Lusaka,Household,4,The laundry is strong and well made. Customer care on WhatsApp answered quickly.
+RV05265,2025-02-10,Lusaka,Health & Beauty,3,"Poor quality, would not buy again. Paying with MTN MoMo was smooth."
+RV05271,2025-02-11,Southern,Stationery,4,Mobile money payment went through instantly. Good value for money.
+RV05272,2025-02-11,Lusaka,Electronics,5,"Came earlier than expected, well done. The solar & power is strong and well made."
+RV05280,2025-02-12,Lusaka,Groceries,4,"Original product, very happy. Friendly staff at the pickup point."
+RV05278,2025-02-12,Lusaka,Electronics,5,Easy checkout on the app. Quality is better than what I find in town.
+RV05276,2025-02-12,Luapula,Health & Beauty,4,"The hair care is strong and well made. The driver called before arriving, very professional."
+RV05285,2025-02-13,Southern,Health & Beauty,3,Delivery to Mazabuka took too long. They kept me updated throughout.
+RV05315,2025-02-15,Western,Fashion,3,The chitenge fabric broke after a few days. Customer care on WhatsApp answered quickly.
+RV05317,2025-02-15,Lusaka,Health & Beauty,4,Paying with Airtel Money was smooth. They kept me updated throughout. Twalumba.
+RV05309,2025-02-15,Lusaka,Groceries,5,The discount made it worth it. Paying with Zamtel Kwacha was smooth.
+RV05313,2025-02-15,Muchinga,Stationery,2,"Poor quality, would not buy again. Delivery to Nakonde took too long. Twalumba."
+RV05328,2025-02-16,Luapula,Health & Beauty,3,Packaging was damaged and the item scratched. Paying with Airtel Money was smooth.
+RV05321,2025-02-16,Luapula,Groceries,4,Easy checkout on the app. The discount made it worth it.
+RV05324,2025-02-16,Lusaka,Fashion,5,"Delivered to Lusaka on time, no stress. Mobile money payment went through instantly."
+RV05335,2025-02-17,Southern,Home & Kitchen,2,"Late delivery, I had to call them twice. Refund is taking too long."
+RV05340,2025-02-18,Copperbelt,Groceries,5,Good value for money. The kapenta & fish is strong and well made.
+RV05347,2025-02-19,Lusaka,Household,4,"They kept me updated throughout. Came earlier than expected, well done."
+RV05351,2025-02-19,Southern,Groceries,5,"Delivery was fast, arrived the next day. Fair price compared to the shops."
+RV05367,2025-02-21,Eastern,Groceries,3,Airtel Money payment failed twice before it worked. Customer care on WhatsApp answered quickly.
+RV05381,2025-02-22,North-Western,Health & Beauty,4,Customer care on WhatsApp answered quickly. Easy checkout on the app.
+RV05374,2025-02-22,Central,Household,4,"Good quality, exactly as pictured. Delivered to Kabwe on time, no stress."
+RV05378,2025-02-22,North-Western,Baby & Kids,3,"Waited almost a week, no updates. Delivered to Kasempa on time, no stress."
+RV05384,2025-02-23,Lusaka,Groceries,3,Delivery to Lusaka took too long. Customer care on WhatsApp answered quickly.
+RV05389,2025-02-23,Western,Groceries,3,Delivery fee is too high for Western. The canned foods is strong and well made.
+RV05393,2025-02-24,Lusaka,Fashion,4,Friendly staff at the pickup point. Quality is better than what I find in town.
+RV05414,2025-02-25,Copperbelt,Groceries,4,"The driver called before arriving, very professional. Good value for money."
+RV05421,2025-02-26,Lusaka,Electronics,5,Fair price compared to the shops. Customer care on WhatsApp answered quickly.
+RV05427,2025-02-27,Lusaka,Baby & Kids,2,Customer care did not respond. Refund is taking too long.
+RV05429,2025-02-27,Central,Groceries,2,Packaging was damaged and the item scratched. Too expensive for what you get.
+RV05438,2025-02-28,Copperbelt,Home & Kitchen,4,Fair price compared to the shops. Friendly staff at the pickup point.
+RV05442,2025-03-01,Luapula,Groceries,4,"The discount made it worth it. The driver called before arriving, very professional."
+RV05446,2025-03-01,Copperbelt,Fashion,4,"Good quality, exactly as pictured. Came earlier than expected, well done."
+RV05460,2025-03-03,Lusaka,Groceries,4,"The canned foods is strong and well made. Delivered to Lusaka on time, no stress."
+RV05472,2025-03-04,Lusaka,Groceries,5,Customer care on WhatsApp answered quickly. Easy checkout on the app.
+RV05474,2025-03-04,Lusaka,Household,3,MTN MoMo payment failed twice before it worked. Cheaper than Kamwala and no transport costs.
+RV05471,2025-03-04,Muchinga,Groceries,3,Packaging was damaged and the item scratched. They kept me updated throughout.
+RV05484,2025-03-06,Muchinga,Home & Kitchen,5,Friendly staff at the pickup point. Quality is better than what I find in town. Zikomo!
+RV05498,2025-03-08,Northern,Groceries,3,Zamtel Kwacha payment failed twice before it worked. Friendly staff at the pickup point.
+RV05504,2025-03-08,Lusaka,Stationery,5,"Delivered to Chongwe on time, no stress. Good value for money."
+RV05503,2025-03-08,Lusaka,Fashion,3,The womenswear broke after a few days. Mobile money payment went through instantly. Natotela!
+RV05496,2025-03-08,Lusaka,Groceries,5,Paying with Zamtel Kwacha was smooth. The discount made it worth it.
+RV05508,2025-03-09,Copperbelt,Household,2,Not the same as the picture. Had to explain my problem three times.
+RV05525,2025-03-10,Central,Health & Beauty,4,The hair care is strong and well made. Mobile money payment went through instantly.
+RV05535,2025-03-11,Lusaka,Health & Beauty,5,Good value for money. Friendly staff at the pickup point.
+RV05548,2025-03-13,Lusaka,Stationery,5,Paying with MTN MoMo was smooth. They kept me updated throughout.
+RV05564,2025-03-15,Muchinga,Home & Kitchen,4,"The driver called before arriving, very professional. Mobile money payment went through instantly."
+RV05571,2025-03-16,Lusaka,Home & Kitchen,3,Had to explain my problem three times. Mobile money payment went through instantly.
+RV05582,2025-03-17,Central,Groceries,4,"Delivery was fast, arrived the next day. Good quality, exactly as pictured."
+RV05593,2025-03-19,Lusaka,Household,4,"Delivery was fast, arrived the next day. Original product, very happy. Keep it up KB."
+RV05602,2025-03-20,Lusaka,Groceries,4,"Paying with MTN MoMo was smooth. Good quality, exactly as pictured."
+RV05605,2025-03-20,Lusaka,Groceries,5,"Delivery was fast, arrived the next day. Paying with Zamtel Kwacha was smooth."
+RV05606,2025-03-21,Lusaka,Groceries,5,"Quality is better than what I find in town. The driver called before arriving, very professional."
+RV05611,2025-03-21,Copperbelt,Groceries,3,"Too expensive for what you get. Came earlier than expected, well done."
+RV05610,2025-03-21,Copperbelt,Groceries,4,Mobile money payment went through instantly. Customer care on WhatsApp answered quickly.
+RV05612,2025-03-21,Lusaka,Health & Beauty,3,Too expensive for what you get. Friendly staff at the pickup point.
+RV05626,2025-03-23,Central,Groceries,3,Customer care did not respond. Cheaper than Kamwala and no transport costs.
+RV05635,2025-03-24,Lusaka,Groceries,4,"Mobile money payment went through instantly. The driver called before arriving, very professional."
+RV05649,2025-03-25,Lusaka,Household,5,Easy checkout on the app. Friendly staff at the pickup point.
+RV05660,2025-03-27,Copperbelt,Household,3,"Poor quality, would not buy again. Quality is better than what I find in town."
+RV05659,2025-03-27,Lusaka,Electronics,5,"Easy checkout on the app. Came earlier than expected, well done."
+RV05680,2025-03-28,Lusaka,Home & Kitchen,2,Not the same as the picture. Refund is taking too long.
+RV05700,2025-03-30,North-Western,Health & Beauty,4,"Came earlier than expected, well done. Good value for money."
+RV05709,2025-03-31,Lusaka,Groceries,4,"Delivery was fast, arrived the next day. Friendly staff at the pickup point."
+RV05721,2025-04-02,Copperbelt,Groceries,4,"Delivered to Luanshya on time, no stress. Customer care on WhatsApp answered quickly."
+RV05737,2025-04-04,Lusaka,Groceries,3,I was charged but the order showed unpaid. Fair price compared to the shops.
+RV05736,2025-04-04,Copperbelt,Household,4,"They kept me updated throughout. Delivery was fast, arrived the next day."
+RV05744,2025-04-04,Lusaka,Stationery,3,"Packaging was damaged and the item scratched. Came earlier than expected, well done. Twalumba."
+RV05748,2025-04-05,Lusaka,Electronics,3,Delivery to Kafue took too long. Customer care on WhatsApp answered quickly.
+RV05755,2025-04-06,Lusaka,Baby & Kids,3,"Packaging was damaged and the item scratched. Delivered to Lusaka on time, no stress."
+RV05759,2025-04-07,Lusaka,Stationery,5,Fair price compared to the shops. Customer care on WhatsApp answered quickly.
+RV05765,2025-04-07,Eastern,Fashion,4,"Delivery was fast, arrived the next day. The driver called before arriving, very professional."
+RV05771,2025-04-08,Lusaka,Groceries,5,"The driver called before arriving, very professional. The discount made it worth it."
+RV05798,2025-04-10,Northern,Groceries,3,"Late delivery, I had to call them twice. They kept me updated throughout."
+RV05805,2025-04-11,Copperbelt,Baby & Kids,4,"Delivered to Mufulira on time, no stress. They kept me updated throughout."
+RV05809,2025-04-11,Copperbelt,Electronics,4,"Delivery was fast, arrived the next day. Customer care on WhatsApp answered quickly."
+RV05803,2025-04-11,Central,Groceries,5,"Good quality, exactly as pictured. The driver called before arriving, very professional."
+RV05816,2025-04-12,Central,Stationery,5,"The driver called before arriving, very professional. Good quality, exactly as pictured."
+RV05824,2025-04-13,Copperbelt,Home & Kitchen,4,The storage is strong and well made. Paying with MTN MoMo was smooth.
+RV05822,2025-04-13,Lusaka,Groceries,4,"Came earlier than expected, well done. Cheaper than Kamwala and no transport costs."
+RV05827,2025-04-14,Copperbelt,Stationery,4,"The discount made it worth it. Delivered to Chingola on time, no stress."
+RV05836,2025-04-15,North-Western,Stationery,3,"Waited almost a week, no updates. The discount made it worth it."
+RV05859,2025-04-18,Luapula,Groceries,3,"Not the same as the picture. Delivery was fast, arrived the next day."
+RV05866,2025-04-19,Lusaka,Groceries,3,"Not the same as the picture. Came earlier than expected, well done."
+RV05893,2025-04-21,Southern,Groceries,4,Cheaper than Kamwala and no transport costs. Paying with Zamtel Kwacha was smooth.
+RV05903,2025-04-22,Lusaka,Stationery,5,"Came earlier than expected, well done. Fair price compared to the shops."
+RV05932,2025-04-25,Lusaka,Fashion,3,Not the same as the picture. Good value for money. Natotela!
+RV05953,2025-04-27,Lusaka,Electronics,4,"Delivered to Chongwe on time, no stress. Mobile money payment went through instantly."
+RV05959,2025-04-28,Western,Baby & Kids,3,"Not the same as the picture. Came earlier than expected, well done."
+RV05988,2025-05-01,Southern,Baby & Kids,3,"Refund is taking too long. Delivery was fast, arrived the next day."
+RV05986,2025-05-01,Lusaka,Groceries,4,"Friendly staff at the pickup point. Delivered to Lusaka on time, no stress."
+RV05991,2025-05-02,Western,Stationery,4,Mobile money payment went through instantly. Cheaper than Kamwala and no transport costs.
+RV06021,2025-05-04,Copperbelt,Groceries,5,Customer care on WhatsApp answered quickly. Cheaper than Kamwala and no transport costs.
+RV06012,2025-05-04,Copperbelt,Household,4,"Came earlier than expected, well done. The discount made it worth it."
+RV06039,2025-05-06,Lusaka,Household,5,"Easy checkout on the app. Delivered to Lusaka on time, no stress."
+RV06038,2025-05-06,Northern,Electronics,3,Packaging was damaged and the item scratched. Friendly staff at the pickup point.
+RV06049,2025-05-07,Lusaka,Household,4,They kept me updated throughout. Fair price compared to the shops.
+RV06047,2025-05-07,Lusaka,Health & Beauty,4,The discount made it worth it. Friendly staff at the pickup point.
+RV06053,2025-05-08,Central,Baby & Kids,4,"Paying with Airtel Money was smooth. Delivered to Kapiri Mposhi on time, no stress."
+RV06063,2025-05-09,Copperbelt,Household,2,Not the same as the picture. Refund is taking too long.
+RV06059,2025-05-09,Southern,Groceries,5,Quality is better than what I find in town. Cheaper than Kamwala and no transport costs.
+RV06061,2025-05-09,Lusaka,Fashion,5,"Good quality, exactly as pictured. Good value for money."
+RV06088,2025-05-12,Copperbelt,Electronics,4,The solar & power is strong and well made. Mobile money payment went through instantly.
+RV06091,2025-05-13,Central,Baby & Kids,2,"Waited almost a week, no updates. Packaging was damaged and the item scratched."
+RV06101,2025-05-14,Central,Home & Kitchen,3,"Waited almost a week, no updates. Good value for money."
+RV06110,2025-05-15,Southern,Household,3,"Refund is taking too long. Delivery was fast, arrived the next day."
+RV06123,2025-05-16,North-Western,Electronics,5,"Good quality, exactly as pictured. The discount made it worth it."
+RV06127,2025-05-17,Lusaka,Household,4,"Paying with MTN MoMo was smooth. Came earlier than expected, well done."
+RV06148,2025-05-19,Copperbelt,Stationery,3,Customer care did not respond. Fair price compared to the shops.
+RV06154,2025-05-20,Eastern,Groceries,5,"Friendly staff at the pickup point. Original product, very happy. Zikomo!"
+RV06152,2025-05-20,Western,Home & Kitchen,3,"Refund is taking too long. Good quality, exactly as pictured."
+RV06178,2025-05-22,Western,Health & Beauty,4,Quality is better than what I find in town. Easy checkout on the app.
+RV06179,2025-05-23,Lusaka,Electronics,4,"Customer care on WhatsApp answered quickly. Original product, very happy."
+RV06191,2025-05-24,Muchinga,Household,5,Fair price compared to the shops. Mobile money payment went through instantly.
+RV06209,2025-05-25,Lusaka,Stationery,3,"The courier could not find my house. Original product, very happy."
+RV06215,2025-05-26,Lusaka,Groceries,4,"Delivery was fast, arrived the next day. Friendly staff at the pickup point."
+RV06237,2025-05-28,Copperbelt,Household,3,"Too expensive for what you get. The driver called before arriving, very professional."
+RV06231,2025-05-28,Copperbelt,Stationery,5,Paying with Airtel Money was smooth. Friendly staff at the pickup point.
+RV06241,2025-05-28,Copperbelt,Groceries,3,Refund is taking too long. The sugar is strong and well made.
+RV06233,2025-05-28,Southern,Home & Kitchen,5,They kept me updated throughout. Cheaper than Kamwala and no transport costs.
+RV06235,2025-05-28,Lusaka,Baby & Kids,4,"The driver called before arriving, very professional. They kept me updated throughout."
+RV06240,2025-05-28,Lusaka,Groceries,3,The courier could not find my house. Cheaper than Kamwala and no transport costs.
+RV06257,2025-05-29,Lusaka,Stationery,5,"Paying with MTN MoMo was smooth. Original product, very happy."
+RV06274,2025-05-31,Copperbelt,Stationery,4,"The driver called before arriving, very professional. Original product, very happy."
+RV06273,2025-05-31,Copperbelt,Groceries,5,"Good quality, exactly as pictured. Friendly staff at the pickup point."
+RV06284,2025-06-01,Copperbelt,Stationery,5,The school bags is strong and well made. The discount made it worth it.
+RV06280,2025-06-01,Eastern,Groceries,4,"Came earlier than expected, well done. Good value for money."
+RV06296,2025-06-02,North-Western,Groceries,4,Cheaper than Kamwala and no transport costs. Mobile money payment went through instantly.
+RV06299,2025-06-02,Eastern,Groceries,5,"Paying with Airtel Money was smooth. Original product, very happy."
+RV06293,2025-06-02,Copperbelt,Household,5,"Paying with MTN MoMo was smooth. Delivery was fast, arrived the next day. Twalumba."
+RV06313,2025-06-03,Copperbelt,Household,5,Easy checkout on the app. Customer care on WhatsApp answered quickly.
+RV06308,2025-06-03,Southern,Home & Kitchen,1,"Poor quality, would not buy again. Not the same as the picture."
+RV06324,2025-06-04,Lusaka,Stationery,5,Quality is better than what I find in town. Good value for money.
+RV06320,2025-06-04,Northern,Stationery,3,"Delivery to Mbala took too long. Good quality, exactly as pictured."
+RV06336,2025-06-05,Lusaka,Health & Beauty,4,The skin care is strong and well made. Good value for money.
+RV06349,2025-06-06,Muchinga,Household,3,Packaging was damaged and the item scratched. Customer care on WhatsApp answered quickly.
+RV06397,2025-06-10,Southern,Health & Beauty,4,Good value for money. The hair care is strong and well made.
+RV06398,2025-06-10,Copperbelt,Fashion,4,"Customer care on WhatsApp answered quickly. Original product, very happy."
+RV06406,2025-06-11,Muchinga,Household,4,The discount made it worth it. The toiletries is strong and well made.
+RV06416,2025-06-12,Lusaka,Groceries,5,Paying with MTN MoMo was smooth. Quality is better than what I find in town.
+RV06418,2025-06-12,Copperbelt,Fashion,5,Friendly staff at the pickup point. The menswear is strong and well made.
+RV06424,2025-06-12,Lusaka,Stationery,4,The discount made it worth it. They kept me updated throughout.
+RV06421,2025-06-12,Lusaka,Baby & Kids,4,Fair price compared to the shops. Paying with Airtel Money was smooth.
+RV06414,2025-06-12,Lusaka,Electronics,2,Price went up since last month. MTN MoMo payment failed twice before it worked.
+RV06426,2025-06-13,Lusaka,Electronics,4,"They kept me updated throughout. The driver called before arriving, very professional."
+RV06438,2025-06-14,Copperbelt,Groceries,5,"The discount made it worth it. Delivered to Kitwe on time, no stress."
+RV06446,2025-06-15,Eastern,Groceries,4,The discount made it worth it. Friendly staff at the pickup point.
+RV06456,2025-06-16,Lusaka,Groceries,4,Paying with MTN MoMo was smooth. They kept me updated throughout.
+RV06452,2025-06-16,Copperbelt,Home & Kitchen,5,"The driver called before arriving, very professional. Friendly staff at the pickup point."
+RV06473,2025-06-18,Northern,Groceries,3,"Waited almost a week, no updates. Quality is better than what I find in town."
+RV06477,2025-06-19,Lusaka,Health & Beauty,4,Quality is better than what I find in town. They kept me updated throughout.
+RV06486,2025-06-20,Lusaka,Groceries,4,"Fair price compared to the shops. Delivery was fast, arrived the next day."
+RV06503,2025-06-22,Southern,Electronics,4,Mobile money payment went through instantly. They kept me updated throughout. Twalumba.
+RV06514,2025-06-23,Southern,Fashion,4,The discount made it worth it. Paying with Zamtel Kwacha was smooth.
+RV06519,2025-06-24,Eastern,Electronics,3,Not the same as the picture. Good value for money.
+RV06520,2025-06-24,Central,Household,4,The laundry is strong and well made. Fair price compared to the shops.
+RV06525,2025-06-24,Lusaka,Stationery,3,"Packaging was damaged and the item scratched. Came earlier than expected, well done."
+RV06545,2025-06-26,Luapula,Household,5,"The driver called before arriving, very professional. The discount made it worth it."
+RV06543,2025-06-26,Luapula,Household,4,"Original product, very happy. Fair price compared to the shops."
+RV06542,2025-06-26,Lusaka,Groceries,3,The sugar broke after a few days. The sugar is strong and well made.
+RV06565,2025-06-28,Lusaka,Groceries,5,"Good value for money. Delivery was fast, arrived the next day."
+RV06600,2025-07-02,Southern,Groceries,2,Had to explain my problem three times. Delivery fee is too high for Southern.
+RV06626,2025-07-04,Lusaka,Household,3,"The courier could not find my house. Delivered to Kafue on time, no stress."
+RV06628,2025-07-04,Eastern,Fashion,5,"They kept me updated throughout. Delivered to Petauke on time, no stress."
+RV06636,2025-07-05,Southern,Groceries,4,"Delivery was fast, arrived the next day. Customer care on WhatsApp answered quickly."
+RV06650,2025-07-06,Lusaka,Groceries,4,Cheaper than Kamwala and no transport costs. Paying with Airtel Money was smooth.
+RV06664,2025-07-08,Copperbelt,Groceries,5,They kept me updated throughout. Good value for money.
+RV06681,2025-07-09,Lusaka,Health & Beauty,5,Mobile money payment went through instantly. The discount made it worth it.
+RV06671,2025-07-09,Lusaka,Baby & Kids,4,Easy checkout on the app. The baby food is strong and well made.
+RV06675,2025-07-09,Copperbelt,Electronics,5,Friendly staff at the pickup point. Fair price compared to the shops. Keep it up KB.
+RV06686,2025-07-10,Lusaka,Household,3,"Poor quality, would not buy again. Easy checkout on the app."
+RV06691,2025-07-11,Lusaka,Health & Beauty,3,Delivery fee is too high for Lusaka. Friendly staff at the pickup point.
+RV06726,2025-07-14,Lusaka,Groceries,2,The courier could not find my house. Delivery to Chongwe took too long.
+RV06731,2025-07-15,Lusaka,Stationery,4,Friendly staff at the pickup point. The school bags is strong and well made.
+RV06736,2025-07-15,Southern,Groceries,5,"The discount made it worth it. The driver called before arriving, very professional."
+RV06730,2025-07-15,Lusaka,Groceries,5,"Good quality, exactly as pictured. Delivered to Kafue on time, no stress."
+RV06732,2025-07-15,Central,Groceries,3,I was charged but the order showed unpaid. Customer care on WhatsApp answered quickly.
+RV06743,2025-07-16,North-Western,Health & Beauty,4,"Mobile money payment went through instantly. Delivery was fast, arrived the next day."
+RV06768,2025-07-18,Copperbelt,Stationery,5,"Delivery was fast, arrived the next day. Quality is better than what I find in town."
+RV06759,2025-07-18,Copperbelt,Fashion,3,"Nobody at the pickup point knew about my order. Came earlier than expected, well done."
+RV06792,2025-07-20,Lusaka,Fashion,4,The chitenge fabric is strong and well made. Paying with Zamtel Kwacha was smooth.
+RV06790,2025-07-20,Lusaka,Electronics,3,MTN MoMo payment failed twice before it worked. Customer care on WhatsApp answered quickly.
+RV06798,2025-07-21,Copperbelt,Household,3,Too expensive for what you get. Quality is better than what I find in town.
+RV06820,2025-07-23,Lusaka,Groceries,4,"Came earlier than expected, well done. Customer care on WhatsApp answered quickly."
+RV06845,2025-07-25,Lusaka,Health & Beauty,4,Quality is better than what I find in town. Paying with MTN MoMo was smooth.
+RV06846,2025-07-26,Southern,Home & Kitchen,4,"The driver called before arriving, very professional. Mobile money payment went through instantly."
+RV06867,2025-07-27,Lusaka,Stationery,3,"Zamtel Kwacha payment failed twice before it worked. Original product, very happy."
+RV06870,2025-07-27,Lusaka,Home & Kitchen,4,Friendly staff at the pickup point. Fair price compared to the shops. Natotela!
+RV06861,2025-07-27,Luapula,Stationery,5,Easy checkout on the app. Fair price compared to the shops.
+RV06869,2025-07-27,Western,Stationery,4,"Came earlier than expected, well done. The school bags is strong and well made."
+RV06862,2025-07-27,Lusaka,Health & Beauty,5,"Good quality, exactly as pictured. Mobile money payment went through instantly."
+RV06877,2025-07-28,Copperbelt,Groceries,4,Customer care on WhatsApp answered quickly. Easy checkout on the app.
+RV06878,2025-07-28,Eastern,Electronics,4,Paying with MTN MoMo was smooth. Quality is better than what I find in town.
+RV06896,2025-07-29,Copperbelt,Baby & Kids,5,"Came earlier than expected, well done. Easy checkout on the app."
+RV06901,2025-07-29,Lusaka,Health & Beauty,5,Good value for money. Mobile money payment went through instantly.
+RV06916,2025-07-31,North-Western,Health & Beauty,3,"Late delivery, I had to call them twice. Mobile money payment went through instantly."
+RV06922,2025-07-31,Copperbelt,Baby & Kids,4,Cheaper than Kamwala and no transport costs. They kept me updated throughout.
+RV06917,2025-07-31,Lusaka,Health & Beauty,5,Mobile money payment went through instantly. Customer care on WhatsApp answered quickly.
+RV06926,2025-08-01,Southern,Electronics,3,Packaging was damaged and the item scratched. Paying with Airtel Money was smooth.
+RV06923,2025-08-01,Lusaka,Groceries,4,Friendly staff at the pickup point. Easy checkout on the app.
+RV06942,2025-08-03,Copperbelt,Stationery,3,Had to explain my problem three times. The discount made it worth it.
+RV06953,2025-08-03,Muchinga,Groceries,3,"MTN MoMo payment failed twice before it worked. Original product, very happy. Zikomo!"
+RV06979,2025-08-05,Copperbelt,Groceries,4,"Came earlier than expected, well done. Cheaper than Kamwala and no transport costs."
+RV06987,2025-08-05,Lusaka,Groceries,4,"Paying with MTN MoMo was smooth. Delivered to Kafue on time, no stress."
+RV06996,2025-08-06,Lusaka,Groceries,5,Good value for money. Customer care on WhatsApp answered quickly.
+RV06995,2025-08-06,Copperbelt,Health & Beauty,5,"Original product, very happy. Easy checkout on the app."
+RV06992,2025-08-06,Lusaka,Household,5,"Mobile money payment went through instantly. Delivery was fast, arrived the next day."
+RV06991,2025-08-06,Copperbelt,Groceries,4,They kept me updated throughout. Paying with Zamtel Kwacha was smooth.
+RV07054,2025-08-12,Central,Groceries,4,Customer care on WhatsApp answered quickly. Easy checkout on the app.
+RV07053,2025-08-12,Northern,Household,4,Cheaper than Kamwala and no transport costs. Mobile money payment went through instantly.
+RV07067,2025-08-13,Eastern,Stationery,4,"The driver called before arriving, very professional. Mobile money payment went through instantly."
+RV07064,2025-08-13,Lusaka,Fashion,5,"Friendly staff at the pickup point. Delivery was fast, arrived the next day."
+RV07094,2025-08-15,Copperbelt,Groceries,4,"Fair price compared to the shops. Delivered to Kitwe on time, no stress."
+RV07096,2025-08-15,Luapula,Fashion,4,"Came earlier than expected, well done. Fair price compared to the shops."
+RV07108,2025-08-16,Central,Home & Kitchen,4,Fair price compared to the shops. They kept me updated throughout.
+RV07105,2025-08-16,Lusaka,Health & Beauty,5,"Delivery was fast, arrived the next day. Good quality, exactly as pictured."
+RV07111,2025-08-16,Copperbelt,Electronics,2,Nobody at the pickup point knew about my order. Price went up since last month.
+RV07116,2025-08-17,Copperbelt,Household,4,"Paying with Zamtel Kwacha was smooth. Delivered to Kitwe on time, no stress."
+RV07126,2025-08-18,Western,Groceries,3,"I was charged but the order showed unpaid. Original product, very happy. Zikomo!"
+RV07139,2025-08-19,North-Western,Groceries,3,"Too expensive for what you get. Delivery was fast, arrived the next day."
+RV07146,2025-08-20,Western,Electronics,4,Friendly staff at the pickup point. The small appliances is strong and well made.
+RV07144,2025-08-20,Copperbelt,Stationery,5,"Cheaper than Kamwala and no transport costs. Delivered to Mufulira on time, no stress."
+RV07163,2025-08-21,Lusaka,Groceries,4,Friendly staff at the pickup point. Quality is better than what I find in town.
+RV07173,2025-08-22,Southern,Household,5,Easy checkout on the app. They kept me updated throughout.
+RV07170,2025-08-22,Copperbelt,Health & Beauty,4,Good value for money. Mobile money payment went through instantly.
+RV07183,2025-08-24,Copperbelt,Groceries,4,Cheaper than Kamwala and no transport costs. Customer care on WhatsApp answered quickly.
+RV07188,2025-08-24,Copperbelt,Health & Beauty,4,"Friendly staff at the pickup point. Came earlier than expected, well done."
+RV07181,2025-08-24,Southern,Groceries,3,"Customer care did not respond. Delivered to Livingstone on time, no stress."
+RV07193,2025-08-24,Eastern,Electronics,5,Customer care on WhatsApp answered quickly. Mobile money payment went through instantly. Zikomo!
+RV07196,2025-08-25,Lusaka,Health & Beauty,4,Quality is better than what I find in town. Friendly staff at the pickup point.
+RV07201,2025-08-25,Lusaka,Groceries,4,"Cheaper than Kamwala and no transport costs. Came earlier than expected, well done."
+RV07195,2025-08-25,Lusaka,Home & Kitchen,4,Quality is better than what I find in town. They kept me updated throughout.
+RV07203,2025-08-25,Lusaka,Stationery,4,"Delivered to Chongwe on time, no stress. Friendly staff at the pickup point. Natotela!"
+RV07228,2025-08-28,Northern,Groceries,4,Fair price compared to the shops. Easy checkout on the app.
+RV07235,2025-08-28,Central,Household,5,"Delivery was fast, arrived the next day. Mobile money payment went through instantly."
+RV07248,2025-08-29,Lusaka,Home & Kitchen,5,Customer care on WhatsApp answered quickly. Fair price compared to the shops.
+RV07250,2025-08-29,Central,Electronics,5,"The driver called before arriving, very professional. Fair price compared to the shops."
+RV07255,2025-08-30,Lusaka,Groceries,4,"Fair price compared to the shops. Good quality, exactly as pictured."
+RV07274,2025-08-31,Northern,Baby & Kids,4,"Original product, very happy. Paying with Zamtel Kwacha was smooth."
+RV07268,2025-08-31,Lusaka,Household,4,They kept me updated throughout. Paying with Airtel Money was smooth.
+RV07276,2025-08-31,Copperbelt,Groceries,4,"Delivered to Chingola on time, no stress. Cheaper than Kamwala and no transport costs."
+RV07281,2025-09-01,Lusaka,Health & Beauty,4,"Customer care on WhatsApp answered quickly. Delivered to Lusaka on time, no stress. Twalumba."
+RV07303,2025-09-02,Luapula,Groceries,5,"Original product, very happy. They kept me updated throughout."
+RV07297,2025-09-02,Lusaka,Stationery,5,They kept me updated throughout. Good value for money.
+RV07302,2025-09-02,Copperbelt,Health & Beauty,5,"Delivered to Ndola on time, no stress. The discount made it worth it."
+RV07323,2025-09-04,Lusaka,Electronics,4,"Delivered to Chongwe on time, no stress. The phone accessories is strong and well made."
+RV07325,2025-09-05,Southern,Household,4,Customer care on WhatsApp answered quickly. Good value for money.
+RV07334,2025-09-05,Lusaka,Groceries,5,The discount made it worth it. Customer care on WhatsApp answered quickly.
+RV07351,2025-09-06,Lusaka,Baby & Kids,2,Had to explain my problem three times. The baby food broke after a few days.
+RV07361,2025-09-08,Lusaka,Health & Beauty,4,The fragrance is strong and well made. Customer care on WhatsApp answered quickly. Keep it up KB.
+RV07373,2025-09-09,Copperbelt,Stationery,5,"Original product, very happy. Customer care on WhatsApp answered quickly."
+RV07389,2025-09-11,Lusaka,Groceries,3,Nobody at the pickup point knew about my order. Cheaper than Kamwala and no transport costs.
+RV07419,2025-09-14,Lusaka,Home & Kitchen,5,"Came earlier than expected, well done. Easy checkout on the app."
+RV07421,2025-09-14,Copperbelt,Electronics,3,Customer care did not respond. Fair price compared to the shops.
+RV07415,2025-09-14,Copperbelt,Groceries,4,"Mobile money payment went through instantly. Original product, very happy."
+RV07427,2025-09-15,Southern,Baby & Kids,3,The nappies broke after a few days. Easy checkout on the app.
+RV07429,2025-09-15,Lusaka,Baby & Kids,4,Customer care on WhatsApp answered quickly. Fair price compared to the shops.
+RV07431,2025-09-16,Lusaka,Stationery,4,"The driver called before arriving, very professional. Original product, very happy."
+RV07435,2025-09-16,Southern,Groceries,5,"Came earlier than expected, well done. Mobile money payment went through instantly."
+RV07460,2025-09-18,Lusaka,Stationery,5,The calculators is strong and well made. Mobile money payment went through instantly.
+RV07464,2025-09-18,Copperbelt,Groceries,5,"Cheaper than Kamwala and no transport costs. Delivery was fast, arrived the next day."
+RV07494,2025-09-21,Copperbelt,Groceries,4,Mobile money payment went through instantly. Good value for money.
+RV07501,2025-09-22,Central,Household,5,"Delivery was fast, arrived the next day. Fair price compared to the shops."
+RV07508,2025-09-22,Lusaka,Electronics,4,Friendly staff at the pickup point. Paying with Zamtel Kwacha was smooth.
+RV07513,2025-09-23,Lusaka,Fashion,5,"Paying with Airtel Money was smooth. Delivery was fast, arrived the next day."
+RV07510,2025-09-23,Southern,Electronics,4,"Came earlier than expected, well done. Friendly staff at the pickup point."
+RV07532,2025-09-24,Copperbelt,Stationery,3,Packaging was damaged and the item scratched. Easy checkout on the app.
+RV07529,2025-09-24,North-Western,Home & Kitchen,5,"Customer care on WhatsApp answered quickly. Delivered to Mwinilunga on time, no stress."
+RV07538,2025-09-25,Eastern,Groceries,3,"Packaging was damaged and the item scratched. Came earlier than expected, well done."
+RV07560,2025-09-26,Lusaka,Stationery,4,"Delivered to Chongwe on time, no stress. Paying with Airtel Money was smooth."
+RV07609,2025-09-30,Lusaka,Stationery,5,Friendly staff at the pickup point. Paying with Zamtel Kwacha was smooth.
+RV07654,2025-10-04,Copperbelt,Groceries,4,"Good quality, exactly as pictured. Delivery was fast, arrived the next day."
+RV07666,2025-10-05,Copperbelt,Stationery,4,The school bags is strong and well made. They kept me updated throughout.
+RV07667,2025-10-05,Western,Groceries,3,Delivery to Mongu took too long. Friendly staff at the pickup point.
+RV07663,2025-10-05,Eastern,Fashion,4,"Customer care on WhatsApp answered quickly. Good quality, exactly as pictured."
+RV07672,2025-10-06,Copperbelt,Electronics,4,Customer care on WhatsApp answered quickly. Fair price compared to the shops.
+RV07669,2025-10-06,Muchinga,Groceries,5,Good value for money. Mobile money payment went through instantly.
+RV07671,2025-10-06,Southern,Baby & Kids,2,Price went up since last month. Not the same as the picture.
+RV07685,2025-10-07,Copperbelt,Stationery,5,"Delivered to Mufulira on time, no stress. Good value for money."
+RV07681,2025-10-07,Copperbelt,Stationery,4,"Original product, very happy. Delivered to Chingola on time, no stress."
+RV07699,2025-10-08,Copperbelt,Groceries,5,"Came earlier than expected, well done. Customer care on WhatsApp answered quickly."
+RV07717,2025-10-09,Lusaka,Groceries,3,Refund is taking too long. They kept me updated throughout.
+RV07712,2025-10-09,Lusaka,Health & Beauty,5,The skin care is strong and well made. Mobile money payment went through instantly.
+RV07731,2025-10-10,Copperbelt,Health & Beauty,3,Too expensive for what you get. Paying with MTN MoMo was smooth.
+RV07724,2025-10-10,Copperbelt,Groceries,5,Friendly staff at the pickup point. Paying with Zamtel Kwacha was smooth.
+RV07735,2025-10-11,Southern,Electronics,3,Packaging was damaged and the item scratched. Cheaper than Kamwala and no transport costs.
+RV07761,2025-10-13,Lusaka,Groceries,4,"Original product, very happy. Customer care on WhatsApp answered quickly."
+RV07776,2025-10-15,Copperbelt,Health & Beauty,5,"The driver called before arriving, very professional. Paying with MTN MoMo was smooth."
+RV07806,2025-10-17,Eastern,Stationery,4,Fair price compared to the shops. They kept me updated throughout.
+RV07807,2025-10-17,Copperbelt,Groceries,4,"Friendly staff at the pickup point. Came earlier than expected, well done."
+RV07817,2025-10-17,Southern,Household,3,Refund is taking too long. The laundry is strong and well made.
+RV07848,2025-10-19,Copperbelt,Health & Beauty,3,Zamtel Kwacha payment failed twice before it worked. They kept me updated throughout.
+RV07849,2025-10-19,Copperbelt,Fashion,4,"Fair price compared to the shops. Delivery was fast, arrived the next day."
+RV07847,2025-10-19,Lusaka,Fashion,5,"Came earlier than expected, well done. Friendly staff at the pickup point."
+RV07855,2025-10-20,Lusaka,Home & Kitchen,4,"Good quality, exactly as pictured. Delivered to Kafue on time, no stress."
+RV07867,2025-10-21,Copperbelt,Baby & Kids,5,They kept me updated throughout. The discount made it worth it.
+RV07876,2025-10-22,Lusaka,Baby & Kids,4,"The discount made it worth it. The driver called before arriving, very professional."
+RV07888,2025-10-22,Copperbelt,Household,3,The courier could not find my house. Customer care on WhatsApp answered quickly.
+RV07894,2025-10-23,Central,Home & Kitchen,4,"Good value for money. Original product, very happy."
+RV07908,2025-10-23,Lusaka,Health & Beauty,4,"Cheaper than Kamwala and no transport costs. Delivered to Chongwe on time, no stress."
+RV07909,2025-10-24,Copperbelt,Groceries,3,"Late delivery, I had to call them twice. Delivered to Luanshya on time, no stress."
+RV07925,2025-10-25,Copperbelt,Groceries,2,Refund is taking too long. Nobody at the pickup point knew about my order.
+RV07924,2025-10-25,Lusaka,Baby & Kids,3,Packaging was damaged and the item scratched. Easy checkout on the app.
+RV07943,2025-10-26,Northern,Groceries,3,"Waited almost a week, no updates. Fair price compared to the shops."
+RV07942,2025-10-26,Luapula,Household,5,"Original product, very happy. Delivery was fast, arrived the next day."
+RV07939,2025-10-26,Lusaka,Health & Beauty,3,Delivery to Chongwe took too long. Mobile money payment went through instantly.
+RV07964,2025-10-28,North-Western,Groceries,4,"Quality is better than what I find in town. Came earlier than expected, well done."
+RV07961,2025-10-28,Lusaka,Stationery,5,They kept me updated throughout. Easy checkout on the app.
+RV07977,2025-10-29,Copperbelt,Health & Beauty,5,Friendly staff at the pickup point. The hair care is strong and well made. Twalumba.
+RV07972,2025-10-29,Lusaka,Household,4,"Delivery was fast, arrived the next day. Quality is better than what I find in town."
+RV08008,2025-10-31,Lusaka,Home & Kitchen,4,"Easy checkout on the app. Good quality, exactly as pictured."
+RV08003,2025-10-31,Eastern,Health & Beauty,3,Zamtel Kwacha payment failed twice before it worked. Customer care on WhatsApp answered quickly.
+RV08013,2025-11-01,Copperbelt,Fashion,5,"Paying with MTN MoMo was smooth. The driver called before arriving, very professional."
+RV08010,2025-11-01,Copperbelt,Groceries,4,"Paying with MTN MoMo was smooth. Delivered to Kitwe on time, no stress."
+RV08014,2025-11-01,Western,Electronics,2,Delivery to Kaoma took too long. Refund is taking too long.
+RV08015,2025-11-01,Lusaka,Baby & Kids,5,Friendly staff at the pickup point. Cheaper than Kamwala and no transport costs.
+RV08012,2025-11-01,Lusaka,Groceries,4,Friendly staff at the pickup point. Mobile money payment went through instantly.
+RV08036,2025-11-03,Lusaka,Household,4,"The driver called before arriving, very professional. Cheaper than Kamwala and no transport costs."
+RV08048,2025-11-04,Lusaka,Groceries,3,Nobody at the pickup point knew about my order. Easy checkout on the app.
+RV08046,2025-11-04,Copperbelt,Home & Kitchen,5,Mobile money payment went through instantly. They kept me updated throughout.
+RV08063,2025-11-05,Lusaka,Fashion,3,Customer care did not respond. Paying with Zamtel Kwacha was smooth.
+RV08073,2025-11-06,Lusaka,Health & Beauty,5,Easy checkout on the app. The discount made it worth it.
+RV08104,2025-11-09,Western,Groceries,3,"Airtel Money payment failed twice before it worked. Delivery was fast, arrived the next day."
+RV08121,2025-11-10,Copperbelt,Health & Beauty,4,"Came earlier than expected, well done. They kept me updated throughout."
+RV08126,2025-11-11,Western,Household,4,"Mobile money payment went through instantly. Good quality, exactly as pictured."
+RV08142,2025-11-12,Copperbelt,Electronics,5,"Delivery was fast, arrived the next day. Fair price compared to the shops."
+RV08143,2025-11-12,Lusaka,Groceries,4,"Good value for money. Delivery was fast, arrived the next day."
+RV08144,2025-11-12,Lusaka,Groceries,5,"Delivered to Lusaka on time, no stress. Friendly staff at the pickup point."
+RV08187,2025-11-15,Southern,Home & Kitchen,4,"Original product, very happy. Mobile money payment went through instantly. Zikomo!"
+RV08183,2025-11-15,Southern,Household,3,Not the same as the picture. Paying with MTN MoMo was smooth.
+RV08184,2025-11-15,Copperbelt,Household,4,"The driver called before arriving, very professional. They kept me updated throughout."
+RV08200,2025-11-16,Lusaka,Household,4,Quality is better than what I find in town. Customer care on WhatsApp answered quickly. Twalumba.
+RV08206,2025-11-17,Lusaka,Baby & Kids,3,"Late delivery, I had to call them twice. Friendly staff at the pickup point."
+RV08212,2025-11-17,Eastern,Household,4,"Delivered to Chipata on time, no stress. Quality is better than what I find in town."
+RV08210,2025-11-17,Lusaka,Groceries,4,"Friendly staff at the pickup point. Good quality, exactly as pictured. Twalumba."
+RV08221,2025-11-18,Copperbelt,Household,4,Customer care on WhatsApp answered quickly. Mobile money payment went through instantly.
+RV08230,2025-11-18,Northern,Electronics,4,"The discount made it worth it. Delivered to Mbala on time, no stress. Natotela!"
+RV08225,2025-11-18,Copperbelt,Groceries,5,Cheaper than Kamwala and no transport costs. Mobile money payment went through instantly.
+RV08219,2025-11-18,Copperbelt,Fashion,2,Not the same as the picture. Not the same as the picture.
+RV08238,2025-11-19,Lusaka,Baby & Kids,5,"Good quality, exactly as pictured. Paying with Airtel Money was smooth."
+RV08236,2025-11-19,Lusaka,Baby & Kids,2,Delivery to Lusaka took too long. Zamtel Kwacha payment failed twice before it worked.
+RV08252,2025-11-20,Lusaka,Health & Beauty,5,Good value for money. Customer care on WhatsApp answered quickly.
+RV08287,2025-11-22,Copperbelt,Groceries,3,"Waited almost a week, no updates. Easy checkout on the app."
+RV08276,2025-11-22,Lusaka,Groceries,3,Delivery fee is too high for Lusaka. Easy checkout on the app. Zikomo!
+RV08296,2025-11-23,Lusaka,Groceries,3,"Delivery to Lusaka took too long. Delivered to Lusaka on time, no stress."
+RV08299,2025-11-23,Copperbelt,Fashion,3,The courier could not find my house. Quality is better than what I find in town.
+RV08288,2025-11-23,Copperbelt,Health & Beauty,5,"Fair price compared to the shops. Good quality, exactly as pictured."
+RV08305,2025-11-24,Western,Electronics,4,"Delivery was fast, arrived the next day. Good value for money. Zikomo!"
+RV08313,2025-11-25,Central,Home & Kitchen,4,Quality is better than what I find in town. Good value for money.
+RV08337,2025-11-27,Copperbelt,Household,4,They kept me updated throughout. Paying with Airtel Money was smooth.
+RV08387,2025-12-01,Copperbelt,Groceries,3,Price went up since last month. Friendly staff at the pickup point. Twalumba.
+RV08409,2025-12-02,Copperbelt,Baby & Kids,3,"Refund is taking too long. Came earlier than expected, well done."
+RV08425,2025-12-03,North-Western,Stationery,5,Friendly staff at the pickup point. Fair price compared to the shops.
+RV08440,2025-12-04,Copperbelt,Electronics,4,The discount made it worth it. Friendly staff at the pickup point. Natotela!
+RV08452,2025-12-05,Luapula,Groceries,3,The canned foods broke after a few days. Customer care on WhatsApp answered quickly.
+RV08451,2025-12-05,Muchinga,Groceries,5,"Delivered to Mpika on time, no stress. Original product, very happy."
+RV08445,2025-12-05,Western,Stationery,4,Customer care on WhatsApp answered quickly. Mobile money payment went through instantly.
+RV08476,2025-12-06,Lusaka,Groceries,5,"Original product, very happy. Easy checkout on the app."
+RV08466,2025-12-06,Eastern,Stationery,2,Packaging was damaged and the item scratched. I was charged but the order showed unpaid.
+RV08487,2025-12-07,Lusaka,Groceries,3,"Waited almost a week, no updates. Mobile money payment went through instantly. Zikomo!"
+RV08483,2025-12-07,Copperbelt,Home & Kitchen,5,"The discount made it worth it. Delivery was fast, arrived the next day."
+RV08507,2025-12-08,Eastern,Electronics,4,"Mobile money payment went through instantly. Good quality, exactly as pictured. Zikomo!"
+RV08511,2025-12-09,Northern,Stationery,4,"Came earlier than expected, well done. Fair price compared to the shops."
+RV08531,2025-12-10,Copperbelt,Groceries,4,"Original product, very happy. Came earlier than expected, well done."
+RV08543,2025-12-11,Lusaka,Household,4,"Original product, very happy. Friendly staff at the pickup point."
+RV08534,2025-12-11,Northern,Groceries,4,"Original product, very happy. Fair price compared to the shops."
+RV08537,2025-12-11,Copperbelt,Electronics,4,Fair price compared to the shops. Paying with Zamtel Kwacha was smooth.
+RV08554,2025-12-12,Copperbelt,Household,5,Paying with MTN MoMo was smooth. Good value for money.
+RV08559,2025-12-12,Lusaka,Stationery,2,Not the same as the picture. I was charged but the order showed unpaid.
+RV08586,2025-12-13,Eastern,Groceries,5,The canned foods is strong and well made. Fair price compared to the shops.
+RV08575,2025-12-13,Copperbelt,Electronics,4,Quality is better than what I find in town. Cheaper than Kamwala and no transport costs.
+RV08572,2025-12-13,Lusaka,Household,4,"Fair price compared to the shops. Came earlier than expected, well done."
+RV08580,2025-12-13,Southern,Electronics,4,Mobile money payment went through instantly. Good value for money.
+RV08578,2025-12-13,North-Western,Groceries,3,The courier could not find my house. Paying with Zamtel Kwacha was smooth.
+RV08614,2025-12-15,Lusaka,Stationery,5,Paying with Airtel Money was smooth. Good value for money.
+RV08602,2025-12-15,Lusaka,Fashion,4,Friendly staff at the pickup point. Mobile money payment went through instantly.
+RV08608,2025-12-15,Northern,Electronics,4,Customer care on WhatsApp answered quickly. The discount made it worth it.
+RV08615,2025-12-16,Lusaka,Baby & Kids,3,Refund is taking too long. Friendly staff at the pickup point.
+RV08638,2025-12-17,North-Western,Health & Beauty,4,"Came earlier than expected, well done. Mobile money payment went through instantly."
+RV08636,2025-12-17,Northern,Fashion,5,"The discount made it worth it. Good quality, exactly as pictured."
+RV08642,2025-12-17,Southern,Home & Kitchen,5,"Original product, very happy. Mobile money payment went through instantly."
+RV08659,2025-12-18,Central,Stationery,4,"The driver called before arriving, very professional. Good value for money."
+RV08674,2025-12-19,Lusaka,Stationery,2,Too expensive for what you get. Zamtel Kwacha payment failed twice before it worked.
+RV08686,2025-12-20,Luapula,Electronics,3,The courier could not find my house. Mobile money payment went through instantly.
+RV08712,2025-12-21,Lusaka,Electronics,5,Fair price compared to the shops. Customer care on WhatsApp answered quickly.
+RV08705,2025-12-21,Central,Electronics,3,"Customer care did not respond. The driver called before arriving, very professional."
+RV08699,2025-12-21,North-Western,Fashion,3,Too expensive for what you get. They kept me updated throughout.
+RV08706,2025-12-21,Northern,Electronics,2,"Late delivery, I had to call them twice. Refund is taking too long."
+RV08709,2025-12-21,Lusaka,Groceries,2,"Poor quality, would not buy again. Not the same as the picture."
+RV08718,2025-12-22,Muchinga,Household,4,Mobile money payment went through instantly. Fair price compared to the shops.
+RV08724,2025-12-22,Southern,Home & Kitchen,5,"Delivery was fast, arrived the next day. Good quality, exactly as pictured."
+RV08734,2025-12-22,Luapula,Home & Kitchen,3,The cookware broke after a few days. The cookware is strong and well made.
+RV08732,2025-12-22,Eastern,Household,5,Customer care on WhatsApp answered quickly. Paying with Airtel Money was smooth.
+RV08728,2025-12-22,Copperbelt,Electronics,5,"Delivered to Chingola on time, no stress. Fair price compared to the shops."
+RV08720,2025-12-22,Lusaka,Home & Kitchen,5,They kept me updated throughout. Quality is better than what I find in town.
+RV08744,2025-12-23,Lusaka,Groceries,3,The beverages broke after a few days. Customer care on WhatsApp answered quickly.
+RV08740,2025-12-23,Copperbelt,Baby & Kids,5,Quality is better than what I find in town. Good value for money.
+RV08774,2025-12-25,Eastern,Home & Kitchen,4,"They kept me updated throughout. Came earlier than expected, well done."
+RV08764,2025-12-25,Lusaka,Health & Beauty,4,The discount made it worth it. Friendly staff at the pickup point.
+RV08787,2025-12-26,Lusaka,Home & Kitchen,3,"Customer care did not respond. Delivery was fast, arrived the next day."
+RV08794,2025-12-27,Lusaka,Groceries,2,"Airtel Money payment failed twice before it worked. Poor quality, would not buy again."
+RV08793,2025-12-27,Copperbelt,Fashion,4,"Original product, very happy. Easy checkout on the app."
+RV08804,2025-12-27,North-Western,Household,4,"Delivered to Mwinilunga on time, no stress. Customer care on WhatsApp answered quickly."
+RV08803,2025-12-27,Copperbelt,Home & Kitchen,4,"Good quality, exactly as pictured. The driver called before arriving, very professional."
+RV08843,2025-12-29,North-Western,Groceries,5,"The driver called before arriving, very professional. Original product, very happy."
+RV08862,2025-12-30,Southern,Household,5,Customer care on WhatsApp answered quickly. Good value for money.
